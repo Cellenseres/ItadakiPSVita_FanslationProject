@@ -65,134 +65,135 @@
 ！！！！！！！
 
 23_1: 
-ダイス
+Dice
 
 24_1: 
-株
+Share
 
 25_1: 
-お店
+Shop
 
 26_1: 
-マップ
+Map
 
 27_1: 
-その他
+Other
 
 28_1: 
-競売に出す
+Auction
 
 29_1: 
-お店を売る
+Sell Shop
 
 30_1: 
-お店を買う
+Buy Shop
 
 31_1: 
-お店を交換
+Trade Shop
 
 32_1: 
-空き地改築
+Remodel
 
 33_1: 
-目標の確認
+Check Goal
 
 34_1: 
-自分の状況
+Self Status
 
 35_1: 
-全体の状況
+All Status
 
 36_1: 
-環境設定
+Game Settings
 
 37_1: 
-セーブ＆中断
+Save & Quit
 
 38_1: 
-リリーフ
+Relief
 
 39_1: 
-ダイスをふります。
+Roll the dice.
 
 40_1: 
-株を　ぎんこう城に　売ります。
+Sell shares to the bank.
 
 41_1: 
-他人とお店の　売り買いをします。
+Buy and sell another player's shop.
 
 42_1: 
-マップを見ます。
+Look at the map.
 
 43_1: 
-その他のコマンドです。
+Other commands.
 
 44_1: 
-自分のお店を　競売に出します。
+Auction your own shop.
 
 45_1: 
-自分のお店を　他人に売ります。
+Sell your own shop.
 
 46_1: 
-他人のお店を　買います。
+Buy another player's shop.
 
 47_1: 
-他人とお店を　交換します。
+Trade for another player's shop.
 
 48_1: 
-空き地に建てたお店を　改築します。
+Remodel a shop built on an open space.
 
 49_1: 
-目標金額と破産人数を確認します。
+Confirm the game end money and
+bankruptcy conditions.
 
 50_1: 
-自分の状況を確認します。
+Check your own status.
 
 51_1: 
-全体の状況を確認します。
+Check status of all players
 
 52_1: 
-ゲーム環境を設定します。
+Configure the game environment settings.
 
 53_1: 
-ゲームをセーブして中断します。
+Save your game and quit.
 
 54_1: 
-コンピュータに操作を代わってもらいます。
+Give control to the AI.
 
 55_1: 
-通信対戦ではセーブできません。
+You cannot save during an online match.
 
 56_1: 
-コンピュータに操作を
-代わってもらいます。
+Gives control of your character
+to the AI.
 
 57_1: 
-競売に出せるお店を持っていません。
+There are no shops to auction.
 
 58_1: 
-売りに出せるお店を持っていません。
+There are no shops to sell.
 
 59_1: 
-買えるお店がありません。
+There are no shops to buy.
 
 60_1: 
-交換できるお店がありません。
+There are no shops you can trade.
 
 61_1: 
-空き地に建てたお店を持っていません。
+There are no shops to remodel.
 
 62_1: 
-よろしいですか？
+Are you sure?
 
 
 63_1: 
-ここに止まりますか？
+Will you rest here?
 
 
 64_1: 
-自分のお店に止まったので
-増資ができます。増資しますか？
+You can invest when you rest
+at your own shop. Invest?
 
 65_1: 
 ここを買うと　お店を売ることに
@@ -252,7 +253,7 @@
 ぎんこう城に　売りますか？
 
 78_1: 
-所持金不足です。
+Not enough money.
 
 
 79_1: 
@@ -268,15 +269,15 @@
 移動しますか？
 
 82_1: 
-お店を買いますか？
+Buy the shop?
 
 
 83_1: 
-ここにワープさせますか？
+Warp them here?
 
 
 84_1: 
-ここにワープしますか？
+Warp here?
 
 
 85_1: 
@@ -292,15 +293,15 @@
 
 
 88_1: 
-ジェットコースターに
-乗りますか？
+Ride the jet coaster?
+
 
 89_1: 
 ようがんまじんに
 乗りますか？
 
 90_1: 
-１００Ｇ払ってワープしますか？
+Pay 100G to warp?
 
 
 91_1: 
@@ -328,22 +329,22 @@
 お店を売る
 
 99_1: 
-　　買う　　
+　　Buy　
 
 100_1: 
-　買わない　
+　Don't Buy
 
 101_1: 
-絶対買わない
+Never Buy
 
 102_1: 
-　　売る　　
+　　Sell　
 
 103_1: 
-　売らない　
+　Don't Sell
 
 104_1: 
-絶対売らない
+Never Sell
 
 105_1: 
 挑発弾(50Ｇ)　

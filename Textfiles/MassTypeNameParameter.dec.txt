@@ -1,87 +1,87 @@
 1_1: 
-店系
+Shop
 
 2_1: 
-空き地
+Open
 
 3_1: 
-ぎんこう城
+Bank
 
 4_1: 
-スペード
+Spade
 
 5_1: 
-ハート
+Heart
 
 6_1: 
-ダイヤ
+Diamond
 
 7_1: 
-クローバー
+Club
 
 8_1: 
-変わるマーク
+Suit Swap
 
 9_1: 
-チャンス
+Chance
 
 10_1: 
-カジノ
+Casino
 
 11_1: 
-ダイスマス
+Dice Square
 
 12_1: 
-株屋
+Stockbroker
 
 13_1: 
-ラッキー
+Lucky
 
 14_1: 
-超ラッキー
+Super Lucky
 
 15_1: 
-休日
+Holiday
 
 16_1: 
-旅の扉
+Traveler's Gate
 
 17_1: 
-大砲
+Cannon
 
 18_1: 
-氷スイッチ
+Ice Switch
 
 19_1: 
-火山噴火スイッチ
+Volcano Eruption Switch
 
 20_1: 
-回転スイッチ
+Spin Switch
 
 21_1: 
-移動スイッチ
+Direction Switch
 
 22_1: 
-連結スイッチ
+Consolidate Switch
 
 23_1: 
-ようがんまじん
+Lava Golem
 
 24_1: 
-透明マス
+Empty Square
 
 25_1: 
-ジェットコースター（入口）
+Jet Coaster (IN)
 
 26_1: 
-ジェットコースター（出口）
+Jet Coaster (OUT)
 
 27_1: 
-移動スイッチ
+Direction Switch
 
 28_1: 
-スライドスイッチ
+Slide Switch
 
 29_1: 
-超大砲
+Super Cannon
 

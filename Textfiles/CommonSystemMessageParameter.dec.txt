@@ -5,19 +5,19 @@
 G
 
 3_1: 
-レベル
+LV
 
 4_1: 
-合計
+Net
 
 5_1: 
-お金
+G
 
 6_1: 
-名前
+Name
 
 7_1: 
-株
+Shares
 
 8_1: 
 －
@@ -26,112 +26,112 @@ G
 －－－
 
 10_1: 
- はい 
+ Yes 
 
 11_1: 
-はい
+Yes
 
 12_1: 
-いいえ
+No
 
 13_1: 
-１位
+1st
 
 14_1: 
-２位
+2nd
 
 15_1: 
-３位
+3rd
 
 16_1: 
-４位
+4th
 
 17_1: 
-順位
+Rank
 
 18_1: 
-株数
+Shares
 
 19_1: 
-スピード設定
+Speed Setting
 
 20_1: 
-ふつう
+Normal
 
 21_1: 
-はやい
+Fast
 
 22_1: 
-超はやい
+Super Fast
 
 23_1: 
-最速
+Ludicrous
 
 24_1: 
-空き地ルール
+Open Rules
 
 25_1: 
-なし
+Empty
 
 26_1: 
-ちょっと
+Sparse
 
 27_1: 
-かなり
+Many
 
 28_1: 
-すべて
+All
 
 29_1: 
-クイックルール
+Quick Rules
 
 30_1: 
-なし
+None
 
 31_1: 
-あり
+Some
 
 32_1: 
-ボイス設定
+Voice Setting
 
 33_1: 
-あり
+On
 
 34_1: 
-なし
+Off
 
 35_1: 
-セリフ設定
+Chat Setting
 
 36_1: 
-あり
+On
 
 37_1: 
-なし
+Off
 
 38_1: 
-演出設定
+Scene Setting
 
 39_1: 
-あり
+On
 
 40_1: 
-なし
+Off
 
 41_1: 
-ＢＧＭ音量
+BGM Volume
 
 42_1: 
-ＳＥ音量
+SE Volume
 
 43_1: 
-セーブ
+Save
 
 44_1: 
-ロード
+Load
 
 45_1: 
-ボイス音量
+Voice Volume
 
 46_1: 
 1
@@ -152,34 +152,34 @@ G
 目標金額 <金額:0>
 
 52_1: 
-コンピュータのスピードは　普通です。
+Computer speed is normal.
 
 53_1: 
-コンピュータのスピードは　速めです。
+Computer speed is fast.
 
 54_1: 
-コンピュータのスピードは　かなり速めです。
+Computer speed is faster.
 
 55_1: 
-コンピュータのスピードは　最速です。
+Computer speed is fastest.
 
 56_1: 
-ボイスの再生をします。
+Voices will be played.
 
 57_1: 
-ボイスの再生をしません。
+Voices will not be played.
 
 58_1: 
 セリフをスピード設定に合わせて表示します。
 
 59_1: 
-全てのセリフをスキップします。
+Skip all chat.
 
 60_1: 
-全ての演出を表示します。
+Display all scenes.
 
 61_1: 
-一部の演出を表示しません。
+Display no scenes.
 
 62_1: 
 ＢＧＭの音量を調節できます。
@@ -200,22 +200,22 @@ G
 だれでもＯＫでは変更できません。
 
 68_1: 
-お店資産
+Shop Assets
 
 69_1: 
-総資産
+All Assets
 
 70_1: 
 いただき回数
 
 71_1: 
-総額
+Sum
 
 72_1: 
-平均
+Avg
 
 73_1: 
-最大
+Max
 
 74_1: 
 ふりこみ回数
@@ -224,22 +224,22 @@ G
 株もうけ
 
 76_1: 
-ターン数
+Turns
 
 77_1: 
-お店の数
+Shops
 
 78_1: 
-メインアカウント
+Main Account
 
 79_1: 
-サブアカウント
+Sub Account
 
 80_1: 
 <アイコン:バツ><アイコン:オプション>：戻る
 
 81_1: 
-オンラインID
+Online ID
 
 82_1: 
 前の設定に戻します。

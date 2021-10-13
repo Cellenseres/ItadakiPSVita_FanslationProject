@@ -1,470 +1,472 @@
 1_1: 
-<通常>よし！
-では　ルールの　説明を
-はじめるぞ！
+<通常>Okay!
+Now I'll start with
+the rules!
 
 2_1: 
-<通常>いただきストリートの　目的は
-お金持ちに　なることだ！
+<通常>The goo-al of Fortune
+Street is to get RICH!
 
 3_1: 
-<通常>まずは　１人ずつ　ダイスを振って
-目の数だけ　進むのだ。
+<通常>First each player rolls
+the dice and advances that number.
 
 4_1: 
-<通常>最初に進む方向は　自由だが
-今回は　右へ進むぞ。
+<通常>It's up to you which way to goo
+first, but I'll goo right this time.
 
 5_1: 
-<通常>わかれ道では　矢印が出るから
-方向をえらんで　進めるぞ。
+<通常>Choose the direction when
+arrows appear at forks in the road.
 
 6_1: 
-<通常>【？】マークのマスに　止まると
-チャンスカードを　１枚ひけるぞ。
+<通常>If you stop at 【？】,
+you can pick a Chance Card.
 
 7_1: 
-<通常>どんな　ハプニングが　起こるかは
-カードしだいだ！
+<通常>What happens depends on what
+card you draw!
 
 8_1: 
-<通常>それから　マークが　もらえる
-マスでも　チャンスカードが
-ひけるぞ！
+<通常>And what's more, you can pick
+a chance card even when you get a
+suit!
 
 9_1: 
-<通常>マークと　いうのは
-スペード　　　　　　　　　　
+<通常>A suit is a
+Spade　　　　　　　　　　
 
 
 10_1: 
-マークと　いうのは
-スペード　ハート　　　　　　
+A suit is a
+Spade, Heart　　　　　　
 
 
 11_1: 
-マークと　いうのは
-スペード　ハート　クローバー
+A suit is a
+Spade, Heart, Clover
 
 
 12_1: 
-マークと　いうのは
-スペード　ハート　クローバー
-ダイヤの　４種類　あり……
+A suit is one of a
+Spade, Heart, Clover,
+or Diamond.
 
 13_1: 
-<通常>全部あつめて　ぎんこう城に
-行くと　賞金が　もらえる
-幸運のシンボルなのだ！
+<通常>You'll get income once
+you collect them all and visit
+the bank. What lucky symbols!
 
 14_1: 
-<通常>こんどは　画面の　左下を
-見てみるのだ！
+<通常>Next take a look at the
+bottom-left!
 
 15_1: 
-<通常>この全体マップで
-どこが　誰のお店で
+<通常>On the entire map,
+you'll know where everyone's
 
 16_1: 
-<通常>どこに　誰がいるかが　ひとめで
-わかるように　なっているぞ。　
+<通常>shops are, and where everyone
+else is at a goo-lance.
 
 17_1: 
-<通常>次は　画面の　右下を見てみろ。
-この表は　貴様らが　持っている
-お金と資産の合計を示しているぞ。
+<通常>Next take a look at the
+bottom-right. It will show your
+total gold and total assets.
 
 18_1: 
-<通常>左の数字が　現金で　
+<通常>Left is your gold,　
 
 19_1: 
-<通常>右の数字が　総資産。
+<通常>and right is your total assets.
 
 20_1: 
-<通常>総資産って　いうのは
-現金と　株と　お店の値段の
-合計のことを　いうのだ。
+<通常>Your total assets are the
+sum of your gold, shares, and
+value of your shops.
 
 21_1: 
-<通常>目標の資産を持って　ぎんこう城に
-もどったら　優勝！
+<通常>You win when you reach the
+bank and your assets meet the goo-al!
 
 22_1: 
-<通常>それと　だれかが　破産すると
-ゲームは終了。そのとき　もっとも
-お金持ちの人が　優勝するぞ。
+<通常>Also the game will end when
+someone bankrupts. Then the
+wealthiest player wins.
 
 23_1: 
-<通常>基本ルールは　こんなところだ。
-また　わからないことがあったら
-いつでも　聞きにくるといい！
+<通常>That's the gist of it.
+If there's anything unclear,
+come by and ask me any time!
 
 24_1: 
-<通常>お店の　買い方を　おしえてやる！
-一度しか　言わないから
-よく　聞いておけ！
+<通常>I'll teach you how to buy shops!
+I'll only tell you once so
+listen up!
 
 25_1: 
-<通常>持ち主がいない　お店に
-とまれば　この値段で買えるのだ。
+<通常>You can buy unowned shops
+at cost when you stop at them.
 
 26_1: 
-<通常>上の数字が
-このお店の値段だ。
+<通常>The cost is the number
+above it.
 
 27_1: 
-<通常>だが　この数字は
-お店を　買ったときに
-見えなくなるのだ。
+<通常>But you won't see that
+number when you've bought
+the shop.
 
 28_1: 
-<通常>下の数字は　だれかが
-お店に　とまったときに払う
-買い物料だ。
+<通常>The cost for someone to
+stay at a shop is the number
+below.
 
 29_1: 
-<通常>貴様のお店に
-ほかの人が　とまると
-買い物料が　もらえるぞ。
+<通常>You'll receive a fee
+when other people stop at
+your shops.
 
 30_1: 
-<通常>だが　はんたいに
-人のお店にとまると　買い物料を
-払うことに　なってしまうのだ。
+<通常>But conversely, you'll
+pay a fee when you stop at
+someone else's shop.
 
 31_1: 
-<通常>それと　自分のお店に　とまると
-増資ができるぞ。
+<通常>Also you can remodel when
+when you stop at your own shop.
 
 32_1: 
-<通常>増資（ぞうし）って　いうのはな
-お金を出して　自分の　お店を
-大きくすることを　いうのだ。
+<通常>Remodel means spending
+money and making your shop
+larger.
 
 33_1: 
-<通常>増資しておけば　その分だけ
-買い物料も　たっぷり
-もらえるのだ。
+<通常>You'll get more money
+when you invest.
+
 
 34_1: 
-<通常>お店のことは　おしえたから
-次は　エリアのことを
-おしえるぞ。
+<通常>Now that I've taught you
+about shops, next I'll teach
+you about areas.
 
 35_1: 
-<通常>お店がいくつか　まとまって
-並んでいるものを　エリアと
-いうのだ。
+<通常>An area is a collection of
+several shops near each other.
+
 
 36_1: 
-<通常>このお店と……
+<通常>This shop……
 
 37_1: 
-<通常>このお店と……
+<通常>And this shop……
 
 38_1: 
-<通常>このお店と……
+<通常>And this shop……
 
 39_1: 
-<通常>そして　このお店が
-同じエリア。
+<通常>And finally this shop
+are in the same area.
 
 40_1: 
-<通常>つまり　同じ色どうしのお店が
-エリアというわけだ。
+<通常>In other words, shops of
+the same color make up an area.
 
 41_1: 
-<通常>同じエリアの　お店を　いくつも
-買えたなら　とっても　おトクだ！
+<通常>It is very good if you
+can buy several shops in the same
+area!
 
 42_1: 
-<通常>増資できる　金額も
-どんどん上がるし　買い物料も
-ぐーんと　アップするぞ！
+<通常>The money you can invest
+steadily increases, and you'll
+be a-slurp with cash soon enough!
 
 43_1: 
-<通常>さらに　エリア全部のお店を
-買いしめることが　できたら
-とっても　もうかるのだ！
+<通常>You'll be really flush
+if you can buy ALL shops in an
+area!
 
 44_1: 
-<通常>遊ぶマップによっては
-値段が　ついていない
-空き地というのが　あるぞ。
+<通常>Depending on the map,
+there are open spaces that
+don't have any cost.
 
 45_1: 
-<通常>何を　たてるかは
-空き地を　買った人だけが
-決められるのだ。
+<通常>What is built on an
+open space is decided by
+whomever buys it.
 
 46_1: 
-<通常>お店以外にも　いろいろと
-たてられるから　ぜひ
-貴様も　ためしてみるといい。
+<通常>You can even build things
+other than shops so goooo ahead
+and give it a try.
 
 47_1: 
-<通常>このゲームで　とても大切な
-株について　おしえるぞ。
+<通常>I'll teach you about the
+really important shares in this game.
 
 48_1: 
-<通常>株を買うと　だれでも　好きな
-エリアの　株主に　なれるのだ。
+<通常>You can become a shareholder of
+any area that you want when you buy shares.
 
 49_1: 
-<通常>株主に　なると　いろいろ
-おトクなことが　あるぞ。
+<通常>You have a variety of
+advantages as a shareholder.
 
 50_1: 
-<通常>まず　株を持っていると　その
-エリアに　自分のお店がなくても
-配当が　もらえるのだ！
+<通常>First you can earn income
+in an area even when it's not your
+own shop!
 
 51_1: 
-<通常>さらに！
-お店が大きくなると　そこの
-エリアの　株価も上がるぞ。
+<通常>Oh, and what's more!
+The share price of an area gooes
+up as the shops get bigger.
 
 52_1: 
-<通常>つまり　株を持って　増資すると
-あっというまに　お金持ちに
-なれるというわけだ！
+<通常>To sum it up, you'll be
+a king slime before you know it
+when you hold shares!
 
 53_1: 
-<通常>じゃあ　ここで　ちょっとした
-株のマメちしきを　おしえるぞ。
+<通常>Okay, I'll teach you a
+trick about shares now.
 
 54_1: 
-<通常>株を　買うときは　１０株以上で
-買うのが　おすすめだ。
+<通常>Buy 10 or more shares
+at a time when you buy.
 
 55_1: 
-<通常>１０株以上　購入すると
+<通常>When you do that,
 
 56_1: 
-<通常>株の　値段が　７％も
-アップ　するぞ。
+<通常>the share price will go
+up by 7%.
 
 57_1: 
-<通常>ぎゃくに　１０株以上　株を売ると
+<通常>Conversely, when you sell
+10 or more,
 
 58_1: 
-<通常>株の値段が　７％もダウンするぞ。
+<通常>the share price drops by 7%.
 
 59_1: 
-<通常>自分の株だったら　株の値段は
-下げたくないだろう？　だから
-なるべく　９株以下で　売ること！
+<通常>You wouldn't want to cut your
+own share price, right? So sell 9
+or less!
 
 60_1: 
-<通常>ぎゃくに　相手が　たくさん株を
-持っているエリアは……
+<通常>On the other hand, for areas
+that your opponents have lots of shares,
 
 61_1: 
-<通常>わざと　値段を　下げるために
-１０株以上で　売るのも
-テクニックの　ひとつだな。
+<通常>selling 10 or more shares to
+drop the share price
+is one strategy.
 
 62_1: 
-<通常>では　気になる　株は
-どこで　手に　はいるかと
-いうと……。
+<通常>Okay, so how do you goo
+about getting a hold of these
+shares, you ask?
 
 63_1: 
-<通常>株屋さんに
-ぴったり止まるか
+<通常>You can buy them if you
+land at the
 
 64_1: 
-<通常>ぎんこう城　で買えるぞ。　
+<通常>stock broker or at the bank.
 
 65_1: 
-<通常>買い方は　簡単だ。
-株屋か　ぎんこう城のマスで
-<アイコン:マル>ボタンを押せばいい。
+<通常>Buying it is simple.
+At either place, press the
+<アイコン:マル> button.
 
 66_1: 
-<通常>どちらのマスでも
-好きな株を
-買うことが　できるぞ！
+<通常>You can buy whatever
+stock you please at either
+place!
 
 67_1: 
-<通常>これで　貴様も　株の
-使い方は　カンペキだな。
-では　楽しんでくるといい！
+<通常>So now you too can
+buy and sell shares like a pro.
+Have fun!
 
 68_1: 
-<通常>ここでは　貴様に
-いたストの　必勝テクニックを
-おしえてやろう。
+<通常>Now I'll teach you a
+sure-win strategy.
 
 69_1: 
-<通常>ひとつのエリアに　自分の
-お店が　たくさんある時は
-大もうけができる　チャンスだ！
+<通常>You'll get your chance to
+make it big when you have lots
+of shops in one area!
 
 70_1: 
-<通常>自分のお店が　たくさんある
-エリアの株を　いっぱい買って
-お店に　増資をするのだ。
+<通常>Buy lots of shares in that
+area, and then remodel your
+shops.
 
 71_1: 
-<通常>そうだな　例えば……。
-この　エリアの株を
-９９株　買い足すと
+<通常>Oh, right, for example.
+If you buy 99 shares more
+in this area.
 
 72_1: 
-<通常>１９８株　になるだろう？
+<通常>Then you'll have 198, no?
 
 73_1: 
-<通常>その　エリアのお店に
-９９９Ｇ　増資すると……
+<通常>And when you spend 999G
+to remodel the areas shops.
 
 74_1: 
-<通常>いいか？
-よく　見ているのだぞ！
+<通常>Are you looking or just
+boinging around?
+Watch closely!
 
 75_1: 
-<通常>どうだ！　ドーンと　大金が
-手に入っただろう？
+<通常>See! You just made a
+ton of money faster than a
+liquid metal, no?
 
 76_1: 
-<通常>９９９Ｇの　増資が
-何回もできるエリアを　狙うと
-さらに　おトクなのだ！
+<通常>You'll be set if you set
+your eyes on an area you can do
+999G remodels on!
 
 77_1: 
-<通常>ゲームを　していると
-手持ちのお店や　買えるお店が
-ない時も　あるだろう。
+<通常>As you play, you'll find
+times when you can't buy or get
+a hold of shops.
 
 78_1: 
-<通常>そんな時はな……
-他の人が　お店をそろえている
-エリアの株を　狙うのだ。
+<通常>In times like those,
+look to buy shares in areas that
+other players have shops.
 
 79_1: 
-<通常>例えば　このエリアの株を
-買って……。
+<通常>For example, if you bought
+shares in this area.
 
 80_1: 
-<通常>他の人の順番に
-なった時に……。
+<通常>When it becomes their
+turn.
 
 81_1: 
-<通常>お店の持ち主が
-たくさん　増資すると……。
+<通常>And when the shop owner
+earns lots of money.
 
 82_1: 
-<通常>ほら！　ドーンと　大金が
-手に入っただろう？
+<通常>BO-ING! Well didn't YOU just
+make a bunch of money now?
 
 83_1: 
-<通常>これが　相乗り（あいのり）って
-いうテクニック　だ。
+<通常>This is called the piggyback
+strategy.
 
 84_1: 
-<通常>いいか？　ここまでの
-テクニックを　おぼえておけば
-優勝まちがいなしだ！
+<通常>Goo-t it? You can win if you
+remember this strategy alone!
 
 85_1: 
-<通常>……と言いたいところだが
-後は貴様の　がんばりしだいだな。
+<通常>That's what I want to say,
+but it's all up to you really.
 
 86_1: 
-<通常>さあ　楽しんでくるといい！
+<通常>Okay, now goo have fun!
 
 87_1: 
-<通常>よし！
-では　イージーモード　の説明を
-はじめるぞ！
+<通常>Okay!
+Now I'll explain EZ mode!
 
 88_1: 
-<通常>イージーモード　とは
-初心者向けのルール　で遊ぶ
-いたスト　のことだ。
+<通常>EZ mode is quick way to
+play with rules aimed at
+newcomers.
 
 89_1: 
-<通常>スタンダードモードより
-かなり　わかりやすく
-なっているから……
+<通常>It is much easier to
+understand than Standard mode.
 
 90_1: 
-<通常>少し　むずかしいと　感じたら
-こちらで　遊んでみても
-いいだろう！
+<通常>And so if you feel like
+things are too hard, try playing
+on EZ mode!
 
 91_1: 
-<通常>とはいっても　基本的には
-スタンダードモードとの違いは
-大きく３つ　だけだ。
+<通常>That said, there are 3
+big differences than with
+Standard mode.
 
 92_1: 
-<通常>１つ目は
-株が　ないこと。
-そして……
+<通常>First, there are no
+shares. And...
+
 
 93_1: 
-<通常>２つ目は
-エリアの設定が　ないこと。
+<通常>Second, there are no
+area differences.
 
 94_1: 
-<通常>３つ目は「自由に遊ぶ」などで
-空き地ルールと　取り引き設定の
-ルール変更が　できないことだ。　
+<通常>Third, with solo play,
+you cannot change Open Space
+and Transaction settings.
 
 95_1: 
-<通常>この３つを　気にしなくて
-いいのだから　ずいぶん　簡単に
-なっているだろう？
+<通常>Doesn't it become simpler
+without worrying about these
+three things?
 
 96_1: 
-<通常>では　もう少し　くわしく
-説明しよう。
+<通常>Okay, I'll goo into detail
+about one last thing.
 
 97_1: 
-<通常>イージーモードでは……
+<通常>In EZ mode,
 
 98_1: 
-<通常>自分のお店が　２軒以上ならぶと
-それぞれの　お店が大きくなるぞ。
+<通常>Your shops will get bigger
+when you own at least 2.
 
 99_1: 
-<通常>買い物料が増えるのは　もちろん
-増資あまりも　増えるから
-かなりおトクだ！
+<通常>Your income will increase and
+of course shop value increases a bit
+too, so it's really goo-d!
 
 100_1: 
-※こちらはテキストの表示は行われず、
-左記の実演内容のみ表示されます。
+※ Text won't be displayed here,
+only demo contents will follow.
 
 101_1: 
-<通常>くわえて　株の設定が　無くなって
-いるので　お店の増資や売却の
-タイミングが　わかりやすいぞ！
+<通常>To sum it up, the are no
+shares so it's easy to get the
+hang of buying and selling shops!
 
 102_1: 
-<通常>とにかく　イージーモード　では
-プレイヤーが　はあくする　情報が
-へっているので……
+<通常>In any case, in EZ mode,
+there is less info. for a player
+to understand.
 
 103_1: 
-<通常>まずは　マークを集めて
-レベルを上げ……
-ぎんこう城で　賞金をもらう！
+<通常>So first get the suits,
+level up,
+and goo get that bank cash!
 
 104_1: 
-<通常>そして　お店を　どんどん買って
-どんどん　つなげる！
+<通常>And keep on buying shops
+and connecting them together!
 
 105_1: 
-<通常>……を　基本として
-遊んでみると　いいだろう。
+<通常>That's the gist of it,
+so why don't you give it a try.
 
 106_1: 
-<通常>もし　イージーモードを遊んで
-みたくなったら「自由に遊ぶ」を
-選んでみるといい。
+<通常>Once you've goo-t the hang
+of EZ mode, you should play
+Solo Play.
 
 107_1: 
-<通常>それでは　健闘を　祈っているぞ！
+<通常>And with that, I'm praying
+for your hard work and goo-d
+fortune!
 
