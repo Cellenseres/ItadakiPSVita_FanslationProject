@@ -1,24 +1,24 @@
 1_1: 
-スライムコース
+Slime Course
 
 2_1: 
-チョコボコース
+Chocobo Course
 
 3_1: 
-伝説の勇者コース
+Legendary Hero Course
 
 4_1: 
-光の戦士コース
+Warriors of Light Course
 
 5_1: 
-闇と大魔王コース
+Gloom and Demonlord Course
 
 6_1: 
-３０周年記念コース
+30 Year Anniversary Course
 
 7_1: 
-クイックコース
+Quick Course
 
 8_1: 
-空き地コース
+Open Space Course
 
