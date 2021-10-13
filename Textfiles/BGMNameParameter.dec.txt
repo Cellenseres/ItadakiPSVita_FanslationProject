@@ -1,174 +1,174 @@
 1_1: 
-ランダム
+Random
 
 2_1: 
-城の威容～王宮のガヴォット
+Majesty of the Castle ~ Royal Palace Gavotte
 
 3_1: 
-果てしなき世界
+Endless World
 
 4_1: 
-集え、者たち
+Ethene Royal Palace
 
 5_1: 
-ダンジョン（ＤＱⅢ）
+Dungeon（DQ Ⅲ）
 
 6_1: 
-静寂に漂う
+Drifting in Silence
 
 7_1: 
-幽霊船
+Ghost Ship
 
 8_1: 
-風雅の都
+City of Elegance
 
 9_1: 
-洞窟
+Cave
 
 10_1: 
-ダミー
+Dummy
 
 11_1: 
-飛空艇ヒルダガルデ
+Airship Hilda Garde
 
 12_1: 
-クリスタルタワー
+Crystal Tower
 
 13_1: 
-古代図書館
+Ancient Library
 
 14_1: 
-魔列車
+Magic Train
 
 15_1: 
-ゴールドソーサー
+Gold Saucer
 
 16_1: 
-プリマビスタ楽団
+Primavista Orchestra
 
 17_1: 
-サンレス水郷
+Sunleth Waterscape
 
 18_1: 
-Ｖａｌｓｅ　ｄｉ　Ｆａｎｔａｓｔｉｃａ
+Valse Di Fantastica
 
 19_1: 
-おてんば姫の行進
+March of Princess Otenba
 
 20_1: 
-結婚ワルツ
+The Wedding Waltz
 
 21_1: 
-木漏れ日の中で
+Sunlight Filtering Through The Trees
 
 22_1: 
-うたげの広場
+Utage no Hiroba
 
 23_1: 
-大平原のマーチ
+The Great Plains March
 
 24_1: 
-酒場のポルカ
+Pub Polka
 
 25_1: 
-勇者アンルシア
+Hero Anlucia
 
 26_1: 
-死へのいざない
+Invitation to Death
 
 27_1: 
-ダミー
+Dummy
 
 28_1: 
-黒い甲冑ゴルベーザ
+Man in Black - Golbez
 
 29_1: 
-ビッグブリッヂの死闘
+Death Battle On The Big Bridge
 
 30_1: 
-妖星乱舞
+Monster Star Flurry
 
 31_1: 
-更に戦う者達
+Those Who Fight Further
 
 32_1: 
-片翼の天使
+One-Winged Angel
 
 33_1: 
-Ｄｏｎ’ｔ　ｂｅ　Ａｆｒａｉｄ
+Don't be Afraid
 
 34_1: 
-ハンターチャンス
+The Huntsman
 
 35_1: 
-召喚獣バトル
+A Contest of Aeons
 
 36_1: 
-Ｂｌｉｔｚ　Ｏｆｆ
+Blitz Off
 
 37_1: 
-宿命
+Destiny
 
 38_1: 
-閃光
+Flare
 
 39_1: 
-天より降りし力
+The Power to Descend from Heaven
 
 40_1: 
-Ｖｅｉｌｅｄ　ｉｎ　Ｂｌａｃｋ
+Veiled in Black
 
 41_1: 
-雄叫びをあげて
+Scream
 
 42_1: 
-死を賭して
+Bet on Death
 
 43_1: 
-負けるものか
+Are You A Loser?
 
 44_1: 
-戦いのとき
+The Time Of The Decisive Battle
 
 45_1: 
-勇気ある戦い
+Courageous Battle
 
 46_1: 
-戦闘のテーマ
+Battle Theme
 
 47_1: 
-刃の旋律
+Melody of the Blade
 
 48_1: 
-竜王
+Dragon King
 
 49_1: 
-戦闘
+Fight!
 
 50_1: 
-ダミー
+Dummy
 
 51_1: 
-バトル１（ＦＦⅨ）
+Battle 1（FF Ⅸ）
 
 52_1: 
-バトル２（ＦＦⅢ）
+Battle 2（FF Ⅲ）
 
 53_1: 
-バトル２（ＦＦＶ）
+Battle 2（FF Ｖ）
 
 54_1: 
-決戦
+Decisive Battle
 
 55_1: 
-闘う者達
+Those who fight
 
 56_1: 
-バトル２（ＦＦⅨ）
+Battle 2（FF Ⅸ）
 
 57_1: 
-ブレイズエッジ
+Saber's Edge
 
 58_1: 
-Ｔｈｅ　Ｆｉｇｈｔ　Ｉｓ　Ｏｎ！
+The Fight Is On!
 

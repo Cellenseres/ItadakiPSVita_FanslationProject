@@ -1,93 +1,93 @@
 1_1: 
-ダミーキャラ名
+Select Character
 
 2_1: 
-クリフト
+Kiryl
 
 3_1: 
-アリーナ
+Alena
 
 4_1: 
-フローラ
+Flora
 
 5_1: 
-ビアンカ
+Bianca
 
 6_1: 
-テリー
+Terry
 
 7_1: 
-ハッサン
+Carver
 
 8_1: 
-マリベル
+Maribel
 
 9_1: 
-ゼシカ
+Jessica
 
 10_1: 
-ククール
+Angelo
 
 11_1: 
-リッカ
+Erinn
 
 12_1: 
-アンルシア
+Anlucia
 
 13_1: 
-ネルゲル
+Nergel
 
 14_1: 
-ダミーキャラ名
+Select Character
 
 15_1: 
-ゴルベーザ
+Golbez
 
 16_1: 
-ギルガメッシュ
+Gilgamesch
 
 17_1: 
-ケフカ
+Kefka
 
 18_1: 
-クラウド
+Cloud
 
 19_1: 
-セフィロス
+Sephiroth
 
 20_1: 
-スコール
+Squall
 
 21_1: 
-ジタン
+Zidane
 
 22_1: 
-ユウナ
+Yuna
 
 23_1: 
-ティーダ
+Tidus
 
 24_1: 
-バルフレア
+Balthier
 
 25_1: 
-ライトニング
+Lightning
 
 26_1: 
-ミンフィリア
+Minfilia
 
 27_1: 
-ノクティス
+Noctis
 
 28_1: 
-トルネコ
+Torneko
 
 29_1: 
-ホミロン
+Healix
 
 30_1: 
-モーグリ
+Moogle
 
 31_1: 
-名前数
+Good Name
 
