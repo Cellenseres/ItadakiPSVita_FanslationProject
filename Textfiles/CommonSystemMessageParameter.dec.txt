@@ -26,7 +26,7 @@ Shares
 －－－
 
 10_1: 
- Yes 
+Yes 
 
 11_1: 
 Yes
