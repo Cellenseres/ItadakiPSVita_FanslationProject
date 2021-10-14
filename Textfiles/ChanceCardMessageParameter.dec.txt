@@ -1,5 +1,5 @@
 1_1: 
-サボテンダー
+Cactuar
 
 1_2: 
 方向てんかん
@@ -17,11 +17,11 @@
 高いため　倒すのは大変。
 
 2_1: 
-メタルライダー
+Metal Slime Knight
 
 2_2: 
-ダイスを振って
-もう１回すすむ！
+Roll the dice, and
+take another turn!
 
 2_3: 
 ＤＱⅤ以降に登場。
@@ -37,9 +37,9 @@
 次元竜
 
 3_2: 
-チャンス以外の
-好きなところに
-ワープ！
+Warp to any
+non-Chance
+space!
 
 3_3: 
 ＤＱＭ２以降に登場。
@@ -52,11 +52,11 @@
 圧倒するほどだ。
 
 4_1: 
-ケット・シー
+Cait Sith
 
 4_2: 
-だれかに
-１００Ｇあげる！
+Give someone
+100G!
 
 4_3: 
 ＦＦⅥに登場。
@@ -70,11 +70,12 @@
 人間の言葉も話すという。
 
 5_1: 
-そらの狩人
+Peahooter
 
 5_2: 
-好きな　お店か
-空き地にワープ！
+Warp to your the
+shop or Open Space
+you like!
 
 5_3: 
 ＤＱⅦ以降に登場。
@@ -86,11 +87,11 @@
 ようすは　ほほえましい。
 
 6_1: 
-まじょ
+Crone
 
 6_2: 
-好きなチャンスに
-ワープ！
+Warp to the Chance
+space you want!
 
 6_3: 
 ＤＱⅢ以降に登場。
@@ -103,12 +104,12 @@
 落とすことがある。
 
 7_1: 
-ケセランパセラン
+Dandelion fluff
 
 7_2: 
-大ラッキー！
-お店の値段が
-７％アップ！
+What luck!
+Shop values up
+7%!
 
 7_3: 
 ＤＱⅩで初登場。
@@ -122,11 +123,11 @@
 倒すのも一苦労。　
 
 8_1: 
-キラーマシン
+Killing Machine
 
 8_2: 
-全店　３割増しデー！
-もう１回すすむ！
+ALL SHOP 3% UP!
+TAKE 1 MORE TURN!
 
 8_3: 
 ＤＱⅡ以降に登場。
@@ -140,12 +141,12 @@
 呪文も非常に効きづらい。
 
 9_1: 
-まどうし
+Wizard
 
 9_2: 
-全店に　ラリホー！
-すべてのお店が休日。
-もう１回すすむ！
+All shops SNOOZE!
+All shops on closed.
+Take another turn.
 
 9_3: 
 ＤＱⅠ以降に登場。
@@ -158,11 +159,11 @@
 いつも寝ている。
 
 10_1: 
-ようじんぼう
+Yojimbo
 
 10_2: 
-全店　半額デー！
-もう１回すすむ！
+All shops half-off!
+Take another turn!
 
 10_3: 
 ＦＦⅩに登場。
@@ -176,12 +177,12 @@
 何もせずに帰ってしまう。
 
 11_1: 
-おどるほうせき
+Goodybag
 
 11_2: 
-いただきチャンス
-出た目×１１Ｇ
-みんなからもらう！
+Receive number of
+Chances x11G from
+evereyone!
 
 11_3: 
 ＤＱⅢ以降で登場。
@@ -195,12 +196,12 @@
 多くのゴールドを落とす。
 
 12_1: 
-でぶチョコボ
+Fat Chocobo
 
 12_2: 
-増資チャンス！
-好きな　お店に
-増資　できる！
+Investment chance!
+Can invest in one
+shop that you want!
 
 12_3: 
 ＦＦⅢ以降で登場。
@@ -214,12 +215,12 @@
 活躍をみせている。
 
 13_1: 
-破壊神シドー
+Malroth
 
 13_2: 
-ちょー　悲惨！
-お店の値段が
-１３％ダウン！
+Terrible disaster!
+Shop values down
+13%!
 
 13_3: 
 ＤＱⅡ以降に登場。
@@ -233,12 +234,12 @@
 おそいかかった。
 
 14_1: 
-ミミック
+Mimic
 
 14_2: 
-悲惨！　みんなに
-３０Ｇずつ
-あげる！！
+Disaster! Give
+everyone 30G
+each!!
 
 14_3: 
 ＤＱⅢ以降に登場。
@@ -252,12 +253,12 @@
 普通に出現したりもする。
 
 15_1: 
-ゴールドマン
+Gold Golem
 
 15_2: 
-いただきチャンス
-出た目×５０Ｇ
-もらえる！
+Receive number of
+Chances x50G!
+
 
 15_3: 
 ＤＱ各シリーズに登場。
@@ -271,12 +272,12 @@
 違うものに　なっている。
 
 16_1: 
-スライムべホマズン
+King Cure Slime
 
 16_2: 
-景気回復！
-３エリアの　お店の
-値段が１０％アップ！
+Bull Refresh!
+Shop values in 3
+areas up 10%!
 
 16_3: 
 ＤＱⅣ以降に登場。
@@ -289,12 +290,12 @@
 言われている。
 
 17_1: 
-巨大ナスビナーラ
+Giant Woebergine
 
 17_2: 
-ボーナス！
-賞金の半分が
-もらえる！
+Awebergenius!
+Receive half of
+prize money!
 
 17_3: 
 ＤＱⅩで初登場。
@@ -308,12 +309,12 @@
 を取り戻すことができる。
 
 18_1: 
-メルティジェミニ
+Meltigemini
 
 18_2: 
-ぎんこう城に
-２倍の　値段で
-お店を　売る！
+Sell a shop at
+2x the value to
+the bank!
 
 18_3: 
 ＦＦⅨで登場。
@@ -327,12 +328,12 @@
 状態異常攻撃を繰り返す。
 
 19_1: 
-よるのていおう
+Night emperor
 
 19_2: 
-深夜料金！
-お店の買い物料が
-３０％アップ！
+Late night fees!
+Shop fees up 30%!
+
 
 19_3: 
 ＤＱⅣ以降に登場。
@@ -346,12 +347,12 @@
 それなりに高い。
 
 20_1: 
-プリン衛生兵
+Flanitor
 
 20_2: 
-ケアル！
-好きなお店の
-値段が２０％アップ！
+CURE!
+20% value up at
+shop of your choice!
 
 20_3: 
 ＦＦ<アイコン:13>で登場した
@@ -365,11 +366,11 @@
 モンスターでも活躍する。
 
 21_1: 
-ゴブリン
+Goblin
 
 21_2: 
-どこかの　エリアの
-株を２０株もらえる！
+Receive 20 shares
+from a random area!
 
 21_3: 
 ＦＦ各シリーズに登場。
@@ -383,12 +384,12 @@
 呼び出すことができた。
 
 22_1: 
-2ヘッドドラゴン
+2-Headed Dragon
 
 22_2: 
-払いもどしチャンス！
-お店を　２倍の値段で
-ぎんこう城に売れる！
+Refund chance!
+Sell a shop back
+at 2x the value!
 
 22_3: 
 ＦＦⅢで初登場した
@@ -401,12 +402,12 @@
 作品内では最強を誇る。
 
 23_1: 
-オズマ
+Ozma
 
 23_2: 
-ケアルガ！
-好きなお店の
-値段が５０％アップ！
+CURE 2!
+50% value up at
+shop of your choice!
 
 23_3: 
 ＦＦⅨで初登場。
@@ -420,12 +421,12 @@
 ＦＦ<アイコン:14>でも凶悪さは健在。
 
 24_1: 
-オルトロス
+Ultros
 
 24_2: 
-ぎんこう城に
-値段＋２００Ｇで
-お店を　売る！
+Sell a shop to
+the bank at value
++200G!
 
 24_3: 
 ＦＦⅥに登場。
@@ -439,12 +440,12 @@
 うわさも……。
 
 25_1: 
-モルボル
+Malboro
 
 25_2: 
-アンラッキー！
-自分の　お店だけ
-買い物料　半額デー！
+Unlucky!
+Shop fees at half
+for only your shops!
 
 25_3: 
 ＦＦ各シリーズに登場。
@@ -458,12 +459,12 @@
 ない特殊攻撃である。
 
 26_1: 
-ふくまねき
+Scroll mannequin
 
 26_2: 
-超ラッキーチャンス！
-ほかの人の買い物料の
-５０％を　もらえる！
+Super lucky chance!
+Get 50% of other
+players' shop fees!
 
 26_3: 
 ＤＱⅩで初登場。
@@ -476,12 +477,11 @@
 「ふくのかみ」がいる。
 
 27_1: 
-はぐれトマト
+Rogue Tomato
 
 27_2: 
-特別収入！
-お店　１軒につき
-２７Ｇ　もらえる！
+Bonus Income!
+Get 27G per shop!
 
 27_3: 
 ＦＦ<アイコン:12>で登場。
@@ -495,11 +495,11 @@
 いたずら好きでも有名。
 
 28_1: 
-トルネコ
+Torneko Taloon
 
 28_2: 
-トルネコが
-やってきた！
+Here comes
+Torneko!
 
 28_3: 
 ＤＱⅣに登場。
@@ -512,12 +512,12 @@
 として勇者に出会う……。
 
 29_1: 
-神鳥レティス
+Empyrea
 
 29_2: 
-ほかの　人のいる
-好きなところへ
-ワープ！
+Warp to the space
+of your choice that
+someone else is at!
 
 29_3: 
 ＤＱⅧ以降に登場。
@@ -531,12 +531,12 @@
 いるらしい。
 
 30_1: 
-こうてい
+Emperor
 
 30_2: 
-国民の　１００Ｇ
-きんいつデー！
-もう１回すすむ！
+Price equality day,
+100G for everyone!
+Take anotehr turn!
 
 30_3: 
 ＦＦⅡで登場した
@@ -550,12 +550,12 @@
 特徴的な断末魔も有名。
 
 31_1: 
-カーバンクル
+Carbuncle
 
 31_2: 
-どこかのエリアの
-お店の　値段が
-１０％アップ！
+Shop values up
+10% in random
+area!
 
 31_3: 
 ＦＦⅤなどに登場。
@@ -569,12 +569,12 @@
 使いどころが　難しい。
 
 32_1: 
-キリン
+Kirin
 
 32_2: 
-どこかのエリアの
-お店の　値段が
-２０％アップ！
+Shop values up
+20% in random
+area!
 
 32_3: 
 ＦＦⅥに登場。
@@ -588,12 +588,12 @@
 長期戦には　欠かせない。
 
 33_1: 
-ケルベロス
+Cerberus
 
 33_2: 
-払いもどしチャンス！
-お店を　３倍の値段で
-ぎんこう城に売れる！
+Refund chance!
+Sell back shop
+at 3x the value!
 
 33_3: 
 ＦＦシリーズに数多く
@@ -607,12 +607,12 @@
 攻撃で冒険者を苦しめる。
 
 34_1: 
-おばけキノコ
+Funghoul
 
 34_2: 
-あまいいき！
-引いたプレイヤーは
-いきなり休日！
+SWEET BREATH!
+Player who drew this
+takes a snooze!
 
 34_3: 
 ＤＱⅢ以降に登場。
@@ -626,12 +626,12 @@
 おそう　恐ろしさももつ。
 
 35_1: 
-バハムート
+Bahamut
 
 35_2: 
-好きな　株を
-３５％　高い値段で
-売れる！
+Can sell shares of
+your choice at
+35% higher value!
 
 35_3: 
 ＦＦⅢ以降に登場。
@@ -644,12 +644,12 @@
 上位種が登場した。
 
 36_1: 
-キングスライム
+King Slime
 
 36_2: 
-増資チャンス！
-１００Ｇ払えば
-増資できる！
+Investment chance!
+Remodel for just
+100G!
 
 36_3: 
 ＤＱⅣ以降に登場。
@@ -663,12 +663,12 @@
 スライム８匹に戻る。
 
 37_1: 
-フェニックス
+Phoenix
 
 37_2: 
-どこかのエリアの
-お店の　値段が
-３０％アップ！
+Shop values up
+30% in a random
+area!
 
 37_3: 
 ＦＦⅤ以降に登場。
@@ -682,12 +682,12 @@
 力を持つ強力な技である。
 
 38_1: 
-ヴァルファーレ
+Valefor
 
 38_2: 
-好きな　株を
-１０％　高い値段で
-買える！
+Can buy shares of
+your choice at
+10% higher value!
 
 38_3: 
 ＦＦⅩで登場。
@@ -701,11 +701,11 @@
 を駆使して戦ってくれる。
 
 39_1: 
-トンべリ
+Tonberry
 
 39_2: 
-だれかに
-５０Ｇあげる！
+Give someone 50G!
+
 
 39_3: 
 ＦＦⅥ以降に登場。
@@ -719,12 +719,12 @@
 登場していたりする。
 
 40_1: 
-リバイアサン
+Leviathan
 
 40_2: 
-大洪水！　どこかの
-エリアの　お店の
-値段が２０％ダウン！
+Flood! Shop values
+down 20% in random
+area!
 
 40_3: 
 ＦＦⅢ以降に登場。
@@ -738,12 +738,12 @@
 恐るべき技である。
 
 41_1: 
-ボストロール
+Boss Troll
 
 41_2: 
-どこかのエリアの
-株価が　１０％
-ダウン！
+Share values down
+10% of a random
+area!
 
 41_3: 
 ＤＱⅢ以降に登場。
@@ -757,12 +757,12 @@
 空振りすることも多い。
 
 42_1: 
-ギガンテス
+Gigantes
 
 42_2: 
-どこかのエリアの
-株価が　２０％
-ダウン！
+Share prices down
+20% at a random
+area!
 
 42_3: 
 ＤＱⅡ以降に登場。
@@ -776,12 +776,12 @@
 アトラスなどがいる。
 
 43_1: 
-たんすミミック
+Mimic Drawer
 
 43_2: 
-資産税！
-持ち株×２Ｇ
-ぎんこう城に　払う！
+Property tax!
+Pay double the amount
+of shares to the bank!
 
 43_3: 
 ＤＱⅩで初登場。
@@ -795,12 +795,12 @@
 痛いので　油断は禁物。
 
 44_1: 
-ヘルバトラー
+Barbatos
 
 44_2: 
-イオナズン！
-隣接する　お店の
-値段が２０％ダウン！
+KABOOM!
+Adjacent shop values
+down 20%!
 
 44_3: 
 ＤＱⅤなどに登場。
@@ -814,12 +814,12 @@
 全滅させようとする強敵。
 
 45_1: 
-いどまじん
+Well Wisher
 
 45_2: 
-事業税！　自分のお店
-１軒につき　２０Ｇ
-ぎんこう城に　払う！
+Commerce Tax! Pay
+20G per each of your
+shops to the bank!
 
 45_3: 
 ＤＱⅥ以降に登場。
@@ -833,12 +833,12 @@
 恐ろしい魔物。
 
 46_1: 
-くらやみのくも
+Cloud of Darkness
 
 46_2: 
-臨時支出！
-ぎんこう城に
-１５０Ｇの支払い！
+Extra Expense!
+Pay 150G to the
+bank!
 
 46_3: 
 ＦＦⅢの最終ボスで登場。
@@ -852,12 +852,12 @@
 さらに凶悪な敵になった。
 
 47_1: 
-まおうのランプ
+Annihilantern
 
 47_2: 
-パルプンテ！
-紙の店か　わらの店。
-どちらになるか！？
+HOCUS POCUS!
+Paper or straw?
+Which will it become!?
 
 47_3: 
 ＤＱⅥ以降に登場。
@@ -871,12 +871,12 @@
 倒してしまいたい相手だ。
 
 48_1: 
-おおきづち
+Hammerhood
 
 48_2: 
-どこかのエリアの
-お店の　値段が
-１０％ダウン！
+Shop values down
+10% in a random
+area!
 
 48_3: 
 ＤＱⅤ以降に登場。
@@ -890,12 +890,12 @@
 命中すれば　強力な一撃！
 
 49_1: 
-おにこんぼう
+Night clubber
 
 49_2: 
-どこかのエリアの
-お店の　値段が
-２０％ダウン！
+Shop values down
+20% in a random
+area!
 
 49_3: 
 ＤＱⅣ以降に登場。
@@ -908,12 +908,12 @@
 弱かったりする。
 
 50_1: 
-マネマネ
+Float-o-copier
 
 50_2: 
-いま　すすんだ
-数だけ　もう１回
-すすむ！
+Take another turn
+of the same dice
+roll!
 
 50_3: 
 ＤＱⅣ以降に登場。
@@ -927,10 +927,10 @@
 弱い仲間だと……。
 
 51_1: 
-スライム
+Slime
 
 51_2: 
-あと１つ　すすむ！
+Advance 1 space!
 
 51_3: 
 ＤＱⅠ以降に登場。
@@ -944,10 +944,10 @@
 では　主役として大活躍。
 
 52_1: 
-チョコボ
+Chocobo
 
 52_2: 
-あと２つ　すすむ！
+Advance 2 spaces!
 
 52_3: 
 ＦＦⅡ以降に登場。
@@ -961,11 +961,11 @@
 数多く　登場している。
 
 53_1: 
-ベビーマジシャン
+Blinkster
 
 53_2: 
-ルーラで
-ぎんこう城へワープ！
+ZOOM straight to
+the bank!
 
 53_3: 
 ＤＱⅣ以降に登場。
@@ -978,11 +978,11 @@
 ひとつめピエロがいる。
 
 54_1: 
-テュポーン
+Chupon
 
 54_2: 
-現金　１００Ｇで
-ぎんこう城にワープ！
+100G and warp
+to the bank!
 
 54_3: 
 ＦＦⅥに登場。
@@ -996,12 +996,12 @@
 召喚獣としても登場した。
 
 55_1: 
-フェンリル
+Fenrir
 
 55_2: 
-買い物料の　無料招待
-サービスつきで
-もう１回　すすむ！
+Pay no shop fees,
+and take another
+turn!
 
 55_3: 
 ＦＦⅥ以降に登場。
@@ -1014,12 +1014,12 @@
 高額なＭＧＰが必要。
 
 56_1: 
-オーディン
+Odin
 
 56_2: 
-買い物料の　半額
-サービスつきで
-もう１回　すすむ！
+Pay half shop fees,
+and take another
+turn!
 
 56_3: 
 ＦＦⅢ以降に登場。
@@ -1033,11 +1033,11 @@
 相手にしか力を貸さない。
 
 57_1: 
-キメラ
+Chimera
 
 57_2: 
-好きな場所へ
-ワープできる！
+Warp to the space
+of your choice!
 
 57_3: 
 ＤＱ各シリーズに登場。
@@ -1051,12 +1051,12 @@
 人々に重宝されている。
 
 58_1: 
-運び屋のキャリー
+Cargo Crab Carrie
 
 58_2: 
-現金　１００Ｇで
-チャンス以外へ
-ワープできる！
+100G and can warp
+to any non-Chance
+space!
 
 58_3: 
 ＦＦ<アイコン:11>で登場。
@@ -1069,12 +1069,12 @@
 人気を呼んだ。
 
 59_1: 
-イフリート
+Ifrit
 
 59_2: 
-好きな　株を
-１０％　安く
-買える！
+Can buy the shares
+of your choice for
+10% cheaper!
 
 59_3: 
 ＦＦⅢ以降に登場。
@@ -1088,12 +1088,12 @@
 破壊するまで止まらない。
 
 60_1: 
-きりかぶこぞう
+Stumpkin
 
 60_2: 
-どこかのエリアの
-株価が　１０％
-アップ！
+Share prices up
+10% in random
+area!
 
 60_3: 
 ＤＱⅥ以降に登場。
@@ -1106,11 +1106,11 @@
 ふらせる技を　使う。
 
 61_1: 
-マドハンド
+Muddy Hand
 
 61_2: 
-持ち株１０％の
-配当金が　もらえる！
+Receive 10% value
+of shares you hold!
 
 61_3: 
 ＤＱⅡ以降に登場。
@@ -1123,11 +1123,11 @@
 どんどん仲間を呼ぶ習性。
 
 62_1: 
-スモールグール
+Drooling ghoul
 
 62_2: 
-持ち株２０％の
-配当金が　もらえる！
+Receive 20% value
+of shares you hold!
 
 62_3: 
 ＤＱⅣ以降に登場。
@@ -1141,12 +1141,12 @@
 という報告もある。
 
 63_1: 
-マンドラゴラ
+Mandoragora
 
 63_2: 
-どこかのエリアの
-株価が　２０％
-アップ！
+Share prices up
+20% in a random
+area!
 
 63_3: 
 ＦＦ<アイコン:11>で登場。
@@ -1160,12 +1160,12 @@
 ことでも有名である。
 
 64_1: 
-きりかぶおばけ
+Stump chump
 
 64_2: 
-どこかのエリアの
-株価が　３０％
-アップ！
+Share prices up
+30% in a random
+area!
 
 64_3: 
 ＤＱⅣ以降に登場。
@@ -1179,12 +1179,12 @@
 切り倒された姿ではない。
 
 65_1: 
-やまたのおろち
+Orochi
 
 65_2: 
-５倍買いチャンス！
-好きな　お店を
-５倍買いできる！
+5x Purchase Chance!
+Can buy shop of your
+choice at 5x value!
 
 65_3: 
 ＤＱⅢに登場。
@@ -1198,11 +1198,11 @@
 くさなぎの剣を　落とす。
 
 66_1: 
-マジックポット
+Magic Pot
 
 66_2: 
-一番高い　株を
-１０株　もらえる！
+Receive 10 shares
+of the highest stock!
 
 66_3: 
 ＦＦⅤ以降に登場。
@@ -1215,11 +1215,11 @@
 去っていってしまう。
 
 67_1: 
-タイタン
+Titan
 
 67_2: 
-好きな　エリアの
-株が　買える！
+Can buy shares from the
+area of your choice!
 
 67_3: 
 ＦＦⅤなどに登場。
@@ -1233,12 +1233,12 @@
 その威力は　すさまじい。
 
 68_1: 
-バトルシェイカー
+Maracaraider
 
 68_2: 
-スーパー
-ハイテンション！
-買い物料が２倍！
+SUPER
+HIGH TENSION!
+Shop fees doubled!
 
 68_3: 
 ＤＱⅩで初登場。
@@ -1253,12 +1253,12 @@
 非常になりやすい敵。
 
 69_1: 
-ラムウ
+Ramuh
 
 69_2: 
-好きな　株を
-２０％　高い値段で
-売れる！
+Can buy shares of
+your choice at
+20% higher cost!
 
 69_3: 
 ＦＦⅢ以降に登場。
@@ -1272,12 +1272,12 @@
 「裁きの雷」を得意とする。
 
 70_1: 
-メタルキング
+Metal King Slime
 
 70_2: 
-いきなり
-レベルアップ！
-賞金をもらえます！
+Surprise
+level up!
+Here's your money!
 
 70_3: 
 ＤＱⅣ以降に登場。
@@ -1291,12 +1291,12 @@
 かつては聖水に弱かった。
 
 71_1: 
-オーファン
+Orphan
 
 71_2: 
-臨時収入！
-賞金の　半分を
-もらえる！
+Subsidy!
+Receive half of
+your income!
 
 71_3: 
 ＦＦ<アイコン:13>で登場。
@@ -1309,12 +1309,12 @@
 即死攻撃を多用する。
 
 72_1: 
-べホマスライム
+Cure Slime
 
 72_2: 
-援助金！
-お店　１軒につき
-２０Ｇ　もらえる！
+Grant!
+Receive 20G per
+each shop!
 
 72_3: 
 ＤＱⅢ以降に登場。
@@ -1328,12 +1328,12 @@
 大きな活躍を見せた。
 
 73_1: 
-ヘルハウス
+Hell House
 
 73_2: 
-お店　買い取り
-チャンス！　持ち主の
-いないお店を買える！
+Buy a shop chance!
+Buy a shop without
+an owner!
 
 73_3: 
 ＦＦⅦで登場。
@@ -1347,12 +1347,12 @@
 などの多彩な技を使う。
 
 74_1: 
-ボム
+Bomb
 
 74_2: 
-自分のお店を１つ
-２倍の　値段で
-競売に　出す！
+Auction 1 of your
+shops at twice the
+value!
 
 74_3: 
 ＦＦ各シリーズに登場。
@@ -1366,12 +1366,12 @@
 大ダメージを与える。
 
 75_1: 
-ダブルイーター
+Double Eater
 
 75_2: 
-２倍の値段で
-持ち主のいない
-お店を　買える！
+Can buy an unowned
+shop at twice the
+value!
 
 75_3: 
 ＤＱＭシリーズに登場。
@@ -1385,12 +1385,12 @@
 降りられないだけ。
 
 76_1: 
-いたずらもぐら
+Mischievous mole
 
 76_2: 
-お宝を　発見！
-５００Ｇで
-売れました！
+Treasure found!
+You sold it for
+500G!
 
 76_3: 
 ＤＱⅣなどに登場。
@@ -1404,12 +1404,12 @@
 逃げ出してしまう。
 
 77_1: 
-コヨコヨ
+PuPu
 
 77_2: 
-すべてのエリアの
-株を５株ずつ
-もらえる！
+Receive 5 shares
+each from every
+area!
 
 77_3: 
 ＦＦⅧで登場。
@@ -1423,12 +1423,12 @@
 だと　何もくれない。
 
 78_1: 
-アームストロング
+Armstrong
 
 78_2: 
-＋２００Ｇで
-持ち主のいない
-お店を　買える！
+Receive +200G,
+and can buy
+an unowned shop!
 
 78_3: 
 ＦＦⅨなどに登場。
@@ -1442,12 +1442,12 @@
 金色の巨人で完全に別種。
 
 79_1: 
-エクスデス
+Exdeath
 
 79_2: 
-好きな　お店を
-３倍買い
-チャンス！
+Buy a shop of
+your choice at
+3x value chance!
 
 79_3: 
 ＦＦⅤの最終ボスで登場。
@@ -1461,12 +1461,12 @@
 カオス側として暗躍する。
 
 80_1: 
-クレーン
+Crane
 
 80_2: 
-建設　ラッシュ！
-持ち主のいる紙の店が
-わらの店に！
+Construction Boom!
+Owned paper shops
+are now straw!
 
 80_3: 
 ＦＦⅥで登場。
@@ -1480,12 +1480,12 @@
 マグニチュード８を使う。
 
 81_1: 
-きめんどうし
+Lump shaman
 
 81_2: 
-メダパニ！
-ほかの人は次のターン
-１つしかすすめない！
+FUDDLE!
+Everyone else can only
+move 1 space next turn!
 
 81_3: 
 ＤＱⅢ・Ⅷに登場。
@@ -1499,12 +1499,12 @@
 たいした脅威ではない。
 
 82_1: 
-シャーマン
+Heedoo voodoo
 
 82_2: 
-ラックのたね　発見！
-隣接する　お店の
-値段が３０％アップ！
+Found a Luck Seed!
+Adjacent shops 30%
+up in value!
 
 82_3: 
 ＤＱⅢ以降に登場。
@@ -1518,12 +1518,12 @@
 唱えて回復させる。
 
 83_1: 
-バラモス
+Baramos
 
 83_2: 
-バシルーラ！
-ほかの人は　どこかに
-飛ばされる！
+BAZOOM!
+Other players are sent
+flying!
 
 83_3: 
 ＤＱⅢ以降に登場。
@@ -1537,12 +1537,12 @@
 人心を　まどわす。
 
 84_1: 
-ベヒーモス
+Behemoth
 
 84_2: 
-メテオ！
-隕石が落ちて　お店の
-値段が５０％ダウン！
+METEO!
+Meteor swarm sends
+shop values 50% down!
 
 84_3: 
 ＦＦ各シリーズに登場。
@@ -1556,12 +1556,12 @@
 上位種も　存在する。
 
 85_1: 
-ゴールデンスライム
+Gold Slime
 
 85_2: 
-超いただきチャンス！
-出た目×１００Ｇ
-もらえる！
+Super Fortune Chance!
+Receive the dice roll
+times 100G!
 
 85_3: 
 ＤＱⅦ以降に登場。
@@ -1575,12 +1575,12 @@
 マダンテを　放ってくる！
 
 86_1: 
-いただきキャット
+Fortune Cat
 
 86_2: 
-むりやりプレゼント！
-みんなから
-１００Ｇ　もらう！
+Forced Gift!
+Receive 100G from
+everyone!
 
 86_3: 
 ＦＦⅨで登場。
@@ -1593,12 +1593,12 @@
 隕石で反撃する厄介な敵。
 
 87_1: 
-アーリマン
+Ahriman
 
 87_2: 
-お店の値段
-スペシャルスロット！
-お店の値段が　変化！
+Shop Value
+Special Slots!
+Shop value changes!
 
 87_3: 
 ＦＦⅣなどに登場。
@@ -1612,12 +1612,12 @@
 ボスとして　登場した。
 
 88_1: 
-ゾーンイーター
+Zone Eater
 
 88_2: 
-テレポ！
-ほかの人の　位置が
-入れ替わる！
+WARP!
+Switches others
+positions around!
 
 88_3: 
 ＦＦⅥに登場。
@@ -1631,12 +1631,12 @@
 倒せば仲間も帰ってくる。
 
 89_1: 
-ゾーマ
+Zoma
 
 89_2: 
-どこでもカード台風！
-どこでもカードが
-全員　もらえる！
+どこでもカード Typhoon!
+Everyone gets
+a どこでもカード!
 
 89_3: 
 ＤＱⅢ以降に登場。
@@ -1650,12 +1650,12 @@
 いてつくはどうが得意。
 
 90_1: 
-闇竜バルボロス
+Barbarus
 
 90_2: 
-全店　深夜料金！
-お店の　買い物料が
-３０％アップ！
+All shops late-night
+fees! Shop fees up
+30%!
 
 90_3: 
 ＤＱⅨ以降に登場。
@@ -1669,10 +1669,10 @@
 攻撃を見せる。
 
 91_1: 
-モーグリ
+Moogle
 
 91_2: 
-モーグリ登場！
+Moogle village!
 
 91_3: 
 ＦＦシリーズを代表する
@@ -1685,11 +1685,11 @@
 語尾に付けるのが特徴。
 
 92_1: 
-ホミロン
+Healix
 
 92_2: 
-ホミロンが
-あらわれた！
+Healix has appeared!
+
 
 92_3: 
 ＤＱＨⅡで登場。
@@ -1703,12 +1703,12 @@
 優しい部分が出てくる。
 
 93_1: 
-ラグタイムマウス
+Ragtime House
 
 93_2: 
-株の値段　スペシャル
-スロット！
-株の値段が　変化！
+Share Value
+Special Slots!
+Share values change!
 
 93_3: 
 ＦＦⅨで登場。
@@ -1722,12 +1722,12 @@
 それ以外で倒すのは困難。
 
 94_1: 
-大魔王マデサゴーラ
+Madesagora
 
 94_2: 
-建築王！　持ってる
-お店の値段の１０％を
-もらえる！
+Construction King!
+Receive 10% value
+of all your shops!
 
 94_3: 
 ＤＱⅩ以降に登場。
@@ -1741,11 +1741,11 @@
 上書きすることを企んだ。
 
 95_1: 
-アトモス
+Atomos
 
 95_2: 
-パーティーするから
-全員集合！
+Everyone meets up
+to form a party!
 
 95_3: 
 ＦＦⅤに登場。
@@ -1759,12 +1759,12 @@
 二度と　帰ることはない。
 
 96_1: 
-カルコとブリーナ
+Calca & Brina
 
 96_2: 
-自分以外の
-だれかのところへ
-緊急集合！
+Emergency meeting
+at another player's
+space!
 
 96_3: 
 ＦＦⅣで初登場。
@@ -1778,12 +1778,12 @@
 巨大な人形に合体する。
 
 97_1: 
-すべてをしるもの
+Omniscient
 
 97_2: 
-好きなエリアの
-株価を　２０％
-アップ！
+Share value up
+20% in the area
+of your chioce!
 
 97_3: 
 ＦＦⅤに登場。
@@ -1796,12 +1796,12 @@
 すべて無効にしてしまう。
 
 98_1: 
-カオス
+Chaos
 
 98_2: 
-４倍買いチャンス！
-好きな　お店を
-４倍買いできる！
+4x Purchase Chance!
+Can buy shop of your
+choice at 4x value!
 
 98_3: 
 ＦＦⅠで初登場。
@@ -1815,12 +1815,12 @@
 特殊な攻撃も多彩に行う。
 
 99_1: 
-プレゼンター
+Presenter
 
 99_2: 
-ラッキー！
-マークプレゼント！
-中身は　な～に？
+Lucky!
+Suit gift!
+But which suiiit?
 
 99_3: 
 ＦＦⅥに登場。
@@ -1834,11 +1834,11 @@
 手に入るのでオトク。
 
 100_1: 
-エンゼルスライム
+Angel Slime
 
 100_2: 
-どこでもカードを
-１枚　もらえる！
+Receive 1
+どこでもカード!
 
 100_3: 
 ＤＱＭ以降に登場。

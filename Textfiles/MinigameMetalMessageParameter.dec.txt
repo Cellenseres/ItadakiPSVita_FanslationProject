@@ -1,146 +1,145 @@
 1_1: 
-<monster>があらわれた！
+A <monster> appeared!
 
 2_1: 
-VSメタルに　ようこそ！
+Welcome to VS Metal!
 
 3_1: 
-説明を　聞きますか？
+Do you want an explanation?
 
 4_1: 
-はい
-いいえ
+Yes
+No
 
 5_1: 
-メタル系スライムと
-戦闘で勝負！
+It's a match between
+metal-type slimes!
 
 6_1: 
-<player>さんが勝利すると
-賞品がもらえます。
+You will get a prize
+if you win, <player>.
 
 7_1: 
-逃げられると　残念！
-何も　もらえません。
+If it runs away, well,
+too bad! You get nothing.
 
 8_1: 
-攻撃には　好きな技を
-選択することができます。
+You can choose your preferred
+technique to attack.
 
 9_1: 
-必殺技で　一発逆転も
-あるかも！
+Maybe you luck out and
+get a critical attack!
 
 10_1: 
-モンスターによって
-賞金が違います。
+The prize money varies with
+the monster.
 
 11_1: 
-メタルスライムは　Lv×３０G！
-はぐれメタルは　Lv×５０G！
+Metal Slimes Lv x 30G!
+Liqued Metals Lv x 50G!
 
 12_1: 
-メタルキングは　なんと！
-Lv×１００G　の賞金がもらえます！
+And for a Metal King!?
+That's Lv x 100G!
 
 13_1: 
-それでは　ゲームを始めます。
-戦闘開始！
+Okay, let's start the game.
+MATCH ON!
 
 14_1: 
-<player>のこうげき！
+<player>'s attack!
 
 15_1: 
-かいしんの　いちげき！
-<monster>に
-<n>のダメージ！
+Critical attack!
+<monster> takes
+<n> damage!
 
 16_1: 
-<monster>に
-<n>の　ダメージ！
+<monster> takes
+<n> damage!
 
 17_1: 
-ミス！
-<monster>は
-すばやく　みをかわした！
+Miss!
+<monster>
+smoothly dodges the attack!
 
 18_1: 
-<monster>を
-たおした！
+<monster> is defeated!
 
 19_1: 
-<monster>は　にげだした！
+<monster> ran away!
 
 20_1: 
-<monster>は
-ようすを　うかがっている。
+<monster> checked
+out the situation.
 
 21_1: 
-<player>は
-<n>Gを　てにいれた！
+<player> got
+<n>G!
 
 22_1: 
-<player>は
-メタルぎりを　はなった！
+<player> unleashed
+Metal Slash!
 
 23_1: 
-<monster>の
-きゅうしょをちょくげき！
-<monster>の
-いきのねを　とめた！
+<monster>
+weakpoint found!
+<monster>
+lost its life!
 
 24_1: 
-<player>は
-はやぶさぎりを　した！
+<player> used
+Falcon Slash!
 
 25_1: 
-<player>は
-まじんのごとく　きりかかった！
+<player> used
+Hatchet Man!
 
 26_1: 
-<player>は　<monster>の
-きゅうしょを　ねらった！
+<player> found 
+<monster>'s weakpoint!
 
 27_1: 
-まもののむれは　いなくなった！
+All monsters have left!
 
 28_1: 
-<monster>は　いなくなった！ 
+<monster> has left!
 
 29_1: 
-ひたすら
-きゅうしょねらいで
-こうげき
+Attack
+aiming at a
+weakpoint.
 
 30_1: 
-はやぶさのように
-すばやく
-２かいこうげき
+Attack quickly
+twice, like
+a falcon.
 
 31_1: 
-メタルボディの
-てきをきりさく
+Attack good
+versus metal body.
 
 32_1: 
-いちかばちか
-かいしんの
-いちげき
+Unpredictable attack
+that can deal
+critical damage.
 
 33_1: 
-メタルスライム
+Metal Slime
 
 34_1: 
-はぐれメタル
+Liquid Metal Slime
 
 35_1: 
-メタルキング
+Metal King Slime
 
 36_1: 
-１匹
+1
 
 37_1: 
-めいれい
-させろ
+Give
+orders
 
 38_1: 
 H
@@ -152,26 +151,26 @@ M
 Lv:
 
 41_1: 
-はい
-いいえ
+Yes
+No
 
 42_1: 
-とくぎ
+Skill
 
 43_1: 
-メタルぎり
-はやぶさぎり
-まじんぎり
-きゅうしょづき
+Metal Slash
+Falcon Slash
+Hatchet Man
+Pressure Pointer
 
 44_1: 
-メタル系スライムとの戦闘で
-<任意文字:0>Gを　てにいれました！
+You got <任意文字:0>G
+from metal-type slimes!
 
 45_1: 
-メタル系スライムのむれが
-あらわれましたが
-にげられてしまいました。
+Metal-type slimes
+appeared, but they all
+ran away.
 
 46_1: 
 Ａ

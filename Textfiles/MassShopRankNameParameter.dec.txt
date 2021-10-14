@@ -1,42 +1,42 @@
 1_1: 
-紙の店
+Paper Shop
 
 1_2: 
-紙
+Paper
 
 2_1: 
-わらの店
+Straw Shop
 
 2_2: 
-わら
+Straw
 
 3_1: 
-木の店
+Wood Shop
 
 3_2: 
-木
+Wood
 
 4_1: 
-レンガの店
+Brick Shop
 
 4_2: 
-レンガ
+Brick
 
 5_1: 
-鉄の店
+Iron Shop
 
 5_2: 
-鉄
+Iron
 
 6_1: 
-オリハルコンの店
+Orichalcum Shop
 
 6_2: 
-オリハルコン
+Orichalcum
 
 7_1: 
-グランドクロス
+Grand Cross
 
 7_2: 
-グランドクロス
+Grand Cross
 

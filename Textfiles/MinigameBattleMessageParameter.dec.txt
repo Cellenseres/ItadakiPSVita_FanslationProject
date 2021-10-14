@@ -1,112 +1,112 @@
 1_1: 
-バトルコロシアムに　ようこそ！
+Welcome to the Battle Colosseum!
 
 2_1: 
-説明を聞きますか？
+Do you want an explanation?
 
 3_1: 
-はい
-いいえ
+Yes
+No
 
 4_1: 
-最初に　<player>さんが
-ダイスを振ります。
+First, <player> rolls
+the dice.
 
 5_1: 
-そのダイスの数字が
-<player>さんのHPになります。
+The dice roll determines
+the HP for <player>.
 
 6_1: 
-HPが決まったら
-対戦相手の 攻撃です。
+Once HP decided,
+you fight it out.
 
 7_1: 
-ダイスを振って
-攻撃します。
+Roll the dice,
+and attack.
 
 8_1: 
-１人につき　１回だけ
-攻撃が　できます。
+Each person can only
+make one attack.
 
 9_1: 
-ダイスが同じ目だった場合は
-クリティカル！
+If you roll doubles,
+it's a critical!
 
 10_1: 
-ダメージが　倍になります。
+Damage determines rank.
 
 11_1: 
-<player>さんのＨＰを
-ゼロにすると　勝利者全員に
+If <player> HP reaches
+zero, the winners
 
 12_1: 
-そのときのレベル×５０G
-もらえます！
+the Lv at the time,
+multiplied by 50G!
 
 13_1: 
-<player>さんが勝利すると
-レベル×５０Ｇと
+If <player> wins,
+they get Lv times 50g,
 
 14_1: 
-どこでもカードが　もらえます！
+Receive a どこでもカード!
 
 15_1: 
-それでは　ゲームを始めます！
+Okay, let's begin the game!
 
 16_1: 
-<player>さんの
-HPを決めます。
+We'll determine the HP
+for <player>.
 
 17_1: 
-<アイコン:マル>ボタンを押して
-ダイスを振ってください。
+Press the <アイコン:マル> button,
+and roll the dice.
 
 18_1: 
-順位ボーナス
-HPに　<n>追加！
+Rank Bonus
+HP set at <n>!
 
 19_1: 
-HPが　決まりました。
-バトルスタート！
+HP is decided.
+Start the battle!
 
 20_1: 
-<player>さんの攻撃です。
-<アイコン:マル>ボタンで攻撃します。
+Attack for <player>.
+Press the <アイコン:マル> button.
 
 21_1: 
-<player>の攻撃！
+<player> attacks!
 
 22_1: 
-クリティカル！
+Critical!
 
 23_1: 
-<player>は
-<n>のダメージをうけた！
+<player> takes
+<n> damage!
 
 24_1: 
-<player>たちは
-<player>を倒した！
+<player> party
+defeats <player>!
 
 25_1: 
-<player>は
-<player>たちを倒した！
+<player> defeats
+<player> party!
 
 26_1: 
-<player>は
-<n>Gをてにいれた！
+<player> received
+<n>G!
 
 27_1: 
-どこでもカードを　てにいれた！
+Received a どこでもカード!
 
 28_1: 
-ゲーム終了です。
-また　あそびにきてね！
+The game is over.
+Come play again now!
 
 29_1: 
-いちばん高い　株を
-１０株　もらえます！
+Received 10 shares
+of the highest share!
 
 30_1: 
-<e>エリアの株を
-１０株　てにいれた！
+Received 10 shares
+from <e> area!
 

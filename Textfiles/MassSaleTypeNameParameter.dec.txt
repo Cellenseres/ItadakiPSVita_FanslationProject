@@ -1,60 +1,60 @@
 1_1: 
-空き地
+Open Space
 
 1_2: 
-空き地
+Open Space
 
 2_1: 
-関所
+Checkpoint
 
 2_2: 
-関所
+Checkpoint
 
 3_1: 
 サーカス小屋
 
 3_2: 
-サーカス
+Circus
 
 4_1: 
-飛空艇乗り場
+Airship Station
 
 4_2: 
-飛空艇
+Airship
 
 5_1: 
-神殿
+Shrine
 
 5_2: 
-神殿
+Shrine
 
 6_1: 
-酒場
+Bar
 
 6_2: 
-酒場
+Bar
 
 7_1: 
-土地屋
+Real Estate
 
 7_2: 
-土地屋
+Real Estate
 
 8_1: 
-紙の店
+Paper Shop
 
 8_2: 
-紙
+Paper
 
 9_1: 
-わらの店
+Straw Shop
 
 9_2: 
-わら
+Straw
 
 10_1: 
-木の店
+Wood Shop
 
 10_2: 
-木
+Wood
 

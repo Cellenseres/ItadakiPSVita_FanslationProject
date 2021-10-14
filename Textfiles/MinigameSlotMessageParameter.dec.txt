@@ -1,206 +1,202 @@
 1_1: 
-いただきスロットへ　ようこそ！
+Welcome to Fortune Slots!
 
 2_1: 
-説明を　聞きますか？
+Want an explanation?
 
 3_1: 
-スロットを　回して
-ヨコかナナメ　どちらかに
+Spin the slots, and
+win big when the symbols
 
 4_1: 
-同じ絵を　そろえると
-大当たり！
+line up horizontally
+or diagonally!
 
 5_1: 
-とってもステキな　商品や
-賞金が　もらえます！
+You'll win some fabulous
+prizes and cash!
 
 6_1: 
-左のドラムに　スライムが
-１つで　１０G
+From left-to-right, if
+you get 1 slime, 10G.
 
 7_1: 
-スライムが　２つそろうと
-３０G
+2 Slimes? 30G.
+
 
 8_1: 
-スライムが　３つそろうと
-１００G　もらえます。
+3 Slimes? 100G.
+
 
 9_1: 
-株マークが　そろうと
+Line up some shares?
 
 10_1: 
-いちばん高い　株を
-５株　もらえます！
+Get 5 shares of the
+highest-priced stock!
 
 11_1: 
-どこでもカードマークを
-３つそろえると
+Get 3 どこでもカードマーク?
+
 
 12_1: 
-どこでもカードが
-もらえます！
+Get a どこでもカード!
+
 
 13_1: 
-キメラのつばさマークを
-３つそろえると
+Get 3 Chimera's Wings?
+
 
 14_1: 
-どこでも　好きな場所へ
-ワープすることが　できます！
+You can warp to wherever
+your heart desires!
 
 15_1: 
-さらに　なんと！
-株やスライムの賞金は
+Oh, and what's that?
+Shares and slime cash
 
 16_1: 
-さらに　なんと！
-スライムの賞金は
+Oh, and what's that?
+Slime cash
 
 17_1: 
-そのときの　レベルの数だけ
-倍になります！
+multiplied by your
+current level!
 
 18_1: 
-そして　ラッキーセブンが
-そろったら……
+And if you get the lucky
+sevens...
 
 19_1: 
-賞金分のお金が
-もらえます！
+you'll get the prize
+money!
 
 20_1: 
-それでは　始めましょう！
-<アイコン:マル>ボタンで　スタートです！
+Okay, let's start!
+Start using the <アイコン:マル> button!
 
 21_1: 
-Ｇマークが　そろうと
+Line up some Gs?
 
 22_1: 
-２００Ｇ　×　所持しているお店の数
-の　お金が　もらえます！
+You'll get cash equal to 200G
+times the number of your shops!
 
 23_1: 
-残念！　はずれです。
-また　あそびにきてね！
+Too bad! Your loss.
+Come back again, okay!
 
 24_1: 
-スライムが　１つそろいました。
-<n>G　もらえます！
+You got 1 slime.
+Received <n>G!
 
 25_1: 
-スライムが　２つそろいました。
-<n>G　もらえます！
+You got 2 slimes.
+Receized <n>G!
 
 26_1: 
-スライムが　３つそろいました。
-<n>G　もらえます！
+You got 3 slimes.
+Receive <n>G!
 
 27_1: 
-株マークが　そろいました。
+You got a share symbol.
 
 28_1: 
-<e>エリアの株が
-<m>株　もらえます！
+Received <m> shares
+in the <e> area!
 
 29_1: 
-どこでもカードマークが
-そろいました。
+You got a
+どこでもカード symbol.
 
 30_1: 
-どこでもカードが
-１枚　もらえます！
+Receive 1
+どこでもカード!
 
 31_1: 
-キメラのつばさマークが
-そろいました。
+You got a chimera's wing
+symbol.
 
 32_1: 
-自分の　好きな　ところに
-ワープできます！
+You can warp to wherever
+you desire!
 
 33_1: 
-なんと！　ラッキーセブンが
-そろいました！！
+OMG! You got the lucky
+sevens!!
 
 34_1: 
-賞金<n>Gが
-もらえます！
+Received the prize money
+of <n>G!
 
 35_1: 
-Ｇマークが　そろいました。
+You got a G symbol.
 
 36_1: 
-<n>Ｇ　もらえます！
+Received <n>G!
 
 37_1: 
-はい
+Yes
 
 38_1: 
-いいえ
+No
 
 39_1: 
-お店を持っていないので
-１００Ｇ　もらえます！
+You receive 100G because
+you don't have any shops!
 
 40_1: 
-スロットを回しましたが
-残念！　はずれでした。
+Spun the slots, but
+too bad! Nothing came up.
 
 41_1: 
-スロットで
-スライムが　１つそろいました。
-<任意文字:0>G　てにいれました！
+1 Slime came up.
+Received <任意文字:0>G!
+
 
 42_1: 
-スロットで
-スライムが　２つそろいました。
-<任意文字:0>G　てにいれました！
+2 Slimes came up.
+Received <任意文字:0>G!
 
 43_1: 
-スロットで
-スライムが　３つそろいました。
-<任意文字:0>G　てにいれました！
+3 Slimes came up.
+Received <任意文字:0>G!
 
 44_1: 
-スロットで
-株マークが　そろいました。
+Share symbol came up.
+
 
 45_1: 
-<任意文字:0>エリアの株を
-<任意文字:1>株　てにいれました！
+Received <任意文字:1> shares
+in <任意文字:0> area!
 
 46_1: 
-スロットで
-どこでもカードマークが
-そろいました。
+どこでもカード symbol
+came up.
 
 47_1: 
-どこでもカードを
-１枚　てにいれました！
+Received 1
+どこでもカード!
 
 48_1: 
-スロットで
-キメラのつばさマークが
-そろいました。
+Chimera's Wing came
+up.
+
 
 49_1: 
-好きなところに
-ワープできます！
+They can warp to wherever
+they desire!
 
 50_1: 
-スロットで
-なんと！　ラッキーセブンが
-そろいました！！
+Oh, WOW! Lucky sevens
+came up on
+the slots!!
 
 51_1: 
-賞金<任意文字:0>Gを
-てにいれました！
+Received prize money
+of <任意文字:0>G!
 
 52_1: 
-スロットで
-Ｇマークが　そろいました。
-<任意文字:0>Ｇ　てにいれました！
+G symbol came up.
+Received <任意文字:0>G!
 

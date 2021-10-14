@@ -1,102 +1,102 @@
 1_1: 
-トロデーン城
+Castle Trodain
 
 2_1: 
-ロンダルキア
+Cave to Rhone
 
 3_1: 
-ダーマ神殿
+Alltrades Abbey
 
 4_1: 
-死の火山
+Mount Magmageddon
 
 5_1: 
-海底神殿
+Seabed Shrine
 
 6_1: 
-幽霊船
+Phantom Ship
 
 7_1: 
-カミハルムイ城
+Kamiharumui Castle
 
 8_1: 
-ダミーマップ
+Dummy Map
 
 9_1: 
-竜王の城
+Dragonlord's Castle
 
 10_1: 
-飛空艇
+Airship
 
 11_1: 
-クリスタルタワー
+Crystal Tower
 
 12_1: 
-古代図書館
+Ancient Library
 
 13_1: 
-魔列車
+Phantom Train
 
 14_1: 
-ゴールドソーサー
+Gold Saucer
 
 15_1: 
-アレクサンドリア
+Alexandria
 
 16_1: 
-サンレス水郷
+Sunleth Waterscape
 
 17_1: 
-ルシス王国領
+Lucis
 
 18_1: 
-ラダトーム城
+Tantagel
 
 19_1: 
-スタジアム
+Stadium
 
 20_1: 
-オラクルベリー
+Fortuna
 
 21_1: 
-サーキット
+Circuit
 
 22_1: 
-海底都市
+Sunken Citadel
 
 23_1: 
-クイーンバニー
+Queen Bunny
 
 24_1: 
-クローバーランド
+Club Land
 
 25_1: 
-トロデーン城
+Trodain Castle
 
 26_1: 
-スラバッカ島
+Slimeland
 
 27_1: 
-ラーミア
+Lamia
 
 28_1: 
-結晶の塔
+Crystal Tower
 
 29_1: 
-旧古代図書館
+Older Ancient Library
 
 30_1: 
-聖風の谷
+Aeolus Vale
 
 31_1: 
-うさぎーランド
+Rabbit Land
 
 32_1: 
-貝がら島
+Shellfish Island
 
 33_1: 
-レインフォレスト
+Rain Forest
 
 34_1: 
-ラバナスタ
+Rabanastre
 
