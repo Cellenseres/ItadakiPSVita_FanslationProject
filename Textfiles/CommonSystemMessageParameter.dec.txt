@@ -149,7 +149,7 @@ Voice Volume
 5
 
 51_1: 
-目標金額 <金額:0>
+Asset Goal: <金額:0>
 
 52_1: 
 Computer speed is normal.
@@ -170,7 +170,7 @@ Voices will be played.
 Voices will not be played.
 
 58_1: 
-セリフをスピード設定に合わせて表示します。
+Controls speed of NPC chat.
 
 59_1: 
 Skip all chat.
@@ -182,22 +182,22 @@ Display all scenes.
 Display no scenes.
 
 62_1: 
-ＢＧＭの音量を調節できます。
+Controls volume of music.
 
 63_1: 
-ＳＥの音量を調節できます。
+Controls volume of sound effects.
 
 64_1: 
-ボイスの音量を調節できます。
+Controls volume of voice.
 
 65_1: 
-設定を完了します。
+Quit out of settings.
 
 66_1: 
-通信対戦では変更できません。
+Cannot change during Internet Matches.
 
 67_1: 
-だれでもＯＫでは変更できません。
+Cannot change during Public game.
 
 68_1: 
 Shop Assets
@@ -206,7 +206,7 @@ Shop Assets
 All Assets
 
 70_1: 
-いただき回数
+# Fortune
 
 71_1: 
 Sum
@@ -218,10 +218,10 @@ Avg
 Max
 
 74_1: 
-ふりこみ回数
+# Bank Income
 
 75_1: 
-株もうけ
+Share Earnings
 
 76_1: 
 Turns
@@ -236,55 +236,55 @@ Main Account
 Sub Account
 
 80_1: 
-<アイコン:バツ><アイコン:オプション>：戻る
+<アイコン:バツ><アイコン:オプション>: Back
 
 81_1: 
 Online ID
 
 82_1: 
-前の設定に戻します。
-よろしいですか？
+Restores previous settings.
+Are you sure?
 
 83_1: 
-変更できません。
+Cannot change.
 
 84_1: 
-通信エラーが発生しました。
-タイトルメニューに戻ります。
+An network error occurred.
+Return to the title screen.
 
 85_1: 
-いただきストリート　ドラゴンクエスト＆ファイナルファンタジー　30th ANNIVERSARY
+Fortune Street: Dragon Quest & Final Fantasy 30th ANNIVERSARY
 
 86_1: 
-セーブに失敗しました。
-リトライしますか？
+Save failed.
+Do you want to retry?
 
 87_1: 
-ロードに失敗しました。
-リトライしますか？
+Load failed.
+Do you want to retry?
 
 88_1: 
-セーブデータを削除して
-セーブし直しますか？
+Delete save data,
+and try to fix save?
 
 89_1: 
-セーブデータを削除して
-新しくセーブデータを作り直しますか？
+Delete save data,
+and create new save data?
 
 90_1: 
-いただきストリート30th
+Fortune Street 30th
 
 91_1: 
-セーブデータが破損しています。
-もう一度セーブしますか？
+Save data is corrupt.
+Do you want to save again?
 
 92_1: 
-サインアウトしました。
-タイトルメニューに戻ります。
+Successfully logged out.
+Return to the title screen.
 
 93_1: 
-<任意文字:0>％
+<任意文字:0>%
 
 94_1: 
-通信を終了しています。しばらくお待ちください。
+Connection terminating. Please wait a moment.
 

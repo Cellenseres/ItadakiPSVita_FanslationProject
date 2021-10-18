@@ -20,7 +20,7 @@
 +
 
 8_1: 
-ランク<任意文字:0>
+Rank <任意文字:0>
 
 9_1: 
 ！！！！！！！
@@ -32,7 +32,7 @@
 ！！！！！！！
 
 12_1: 
-おかね
+Money
 
 13_1: 
 ！！！！！！！
@@ -41,10 +41,10 @@
 ！！！！！！！
 
 15_1: 
-分け前
+Share %
 
 16_1: 
-配当
+Dividend
 
 17_1: 
 ！！！！！！！
@@ -196,77 +196,77 @@ You can invest when you rest
 at your own shop. Invest?
 
 65_1: 
-ここを買うと　お店を売ることに
-なります。よろしいですか？
+If you buy here, you will sell
+a shop. Are you sure?
 
 66_1: 
-何軒交換しますか？
+What will you trade?
 
 
 67_1: 
-自分のお店は２軒まとめて交換
-できます。何軒交換しますか？
+You can trade 2 of your own
+shops. Which shops?
 
 68_1: 
-他人のお店も２軒まとめて交換
-できます。何軒交換しますか？
+You can trade for 2 shops of
+another player. Which shops?
 
 69_1: 
-サーカス小屋を　１００Ｇで
-大きくしますか？
+Spend 100G to grow the
+circus?
 
 70_1: 
-このお店を　<任意文字:0>Ｇで
-買いますか？
+Buy this shop for
+<任意文字:0>G?
 
 71_1: 
-このお店を　<任意文字:0>倍の値段の
-<任意文字:1>Ｇで買いますか？
+Buy this shop at <任意文字:0>x the value
+for <任意文字:1>G?
 
 72_1: 
-このお店を　５倍の値段の
-<任意文字:0>Ｇで買いますか？
+Buy this shop at 5x the value
+for <任意文字:0>G?
 
 
 
 73_1: 
-[<任意文字:0>に
-[ぎんこう城に
+[<任意文字:0>
+[to the bank
 
 74_1: 
-<任意文字:0>Ｇ]
-<任意文字:1>Ｇ]
+<任意文字:0>G]
+<任意文字:1>G]
 
 75_1: 
-このお店を　５倍の値段の
-<任意文字:0>Ｇで買いますか？
-（手数料をひかれて　<任意文字:1>G
-　<任意文字:2>さんに入ります）
+Buy this shop at 5x the value
+for <任意文字:0>G?
+(A commission of <任意文字:1>G
+ will be given to <任意文字:2>)
 
 76_1: 
-<任意文字:0>さんに
-<任意文字:1>G支払って
-このお店を　買いますか？
+Pay <任意文字:0>
+<任意文字:1>G
+to buy this shop?
 
 77_1: 
-このお店を　<任意文字:0>Ｇで
-ぎんこう城に　売りますか？
+Sell this shop to the bank
+for <任意文字:0>G?
 
 78_1: 
 Not enough money.
 
 
 79_1: 
-飛空艇に乗って
-ここに移動しますか？
+Ride the airship,
+and move here?
 
 80_1: 
-このお店を競売にかけますか？
+Start an auction for this shop?
 
 
 81_1: 
-好きな場所に行くことができます
-移動しますか？
+You can move to a space of
+your choice. Do you want to?
 
 82_1: 
 Buy the shop?
@@ -281,15 +281,15 @@ Warp here?
 
 
 85_1: 
-株屋で株が買えます。
-株を買いますか？
+You can buy shares from the
+stockbroker. Do you want to?
 
 86_1: 
-株を買うお金を
-持っていませんでした。
+You don't have enough
+money to buy shares.
 
 87_1: 
-飛空艇で移動しますか？
+Move using the airship?
 
 
 88_1: 
@@ -297,18 +297,17 @@ Ride the jet coaster?
 
 
 89_1: 
-ようがんまじんに
-乗りますか？
+Ride the Magmalice?
 
 90_1: 
 Pay 100G to warp?
 
 
 91_1: 
- 購入 
+ Buy 
 
 92_1: 
-<任意文字:0>倍買い
+<任意文字:0>x Buy
 
 93_1: 
 ！！！！！！！
@@ -317,16 +316,16 @@ Pay 100G to warp?
 ！！！！！！！
 
 95_1: 
-１軒
+1 shop
 
 96_1: 
-２軒
+2 shops
 
 97_1: 
- 株を売る 
+ Sell shares
 
 98_1: 
-お店を売る
+Sell shop
 
 99_1: 
 　　Buy　
@@ -347,73 +346,73 @@ Never Buy
 Never Sell
 
 105_1: 
-挑発弾(50Ｇ)　
+Pellet (50G)　
 
 106_1: 
-通常弾(100Ｇ)
+Bullet (100G)
 
 107_1: 
-魔神弾(250Ｇ)
+Magic Bullet (250G)
 
 108_1: 
-安全弾(500Ｇ)
+Safe Bullet (500G)
 
 109_1: 
-最終弾(50G)
+Final Bullet (50G)
 
 110_1: 
-うたない
+Don't shoot
 
 111_1: 
-株を買うエリアを選んでください。
+Choose the area to buy shares.
 
 112_1: 
-株を<任意文字:0>％高く買うエリアを選んでください。
+Choose the area to buy shares at +<任意文字:0>%.
 
 113_1: 
-株を<任意文字:0>％安く買うエリアを選んでください。
+Choose the area to buy shares at -<任意文字:0>%.
 
 114_1: 
-株を売るエリアを選んでください。
+Choose the area to sell shares.
 
 115_1: 
-株を<任意文字:0>％高く売るエリアを選んでください。
+Choose the area to sell shares at +<任意文字:0>%.
 
 116_1: 
-株を<任意文字:0>％安く売るエリアを選んでください。
+Choose the area to sell shares at -<任意文字:0>%.
 
 117_1: 
-エリアを選んでください。
+Choose an area.
 
 118_1: 
-値段を上げたいエリアを選んでください。
+Choose area to increase value.
 
 119_1: 
-値段を下げたいエリアを選んでください。
+Choose area to decrease value.
 
 120_1: 
-株購入完了！
+Share buy complete!
 
 121_1: 
-株売却完了！
+Share sell complete!
 
 122_1: 
-<任意文字:0>エリア
+<任意文字:0> area
 
 123_1: 
-株を売る枚数を入力します。
+Input number of shares to sell.
 
 124_1: 
-株を買う枚数を入力します。
+Input number of shares to buy.
 
 125_1: 
-<任意文字:0>さんの順番です。
+It's <任意文字:0>'s turn.
 
 126_1: 
-<任意文字:0>さんの順番です。
+It's <任意文字:0>'s turn.
 
 127_1: 
-優勝目前！　ぎんこう城へ急げ！
+It's end game! Hurry to the bank!
 
 128_1: 
 ！！！！！！！
@@ -464,184 +463,184 @@ Never Sell
 ！！！！！！！
 
 144_1: 
-<アイコン:サンカク><アイコン:シカク>：自分の株に移動
+<アイコン:サンカク><アイコン:シカク>: Transfer shares
 
 145_1: 
-<アイコン:サンカク>：ＭＡＸ　<アイコン:L1>：９枚　<アイコン:R1>：１０枚
+<アイコン:サンカク>: MAX <アイコン:L1>: 9 shares <アイコン:R1>: 10 shares
 
 146_1: 
-<アイコン:マル>：10G UP　<アイコン:シカク>：100Ｇ UP
+<アイコン:マル>: 10G UP <アイコン:シカク>: 100G UP
 
 147_1: 
-<アイコン:パッド>：カメラ切替
+<アイコン:パッド>: Switch Camera
 
 148_1: 
-<アイコン:サンカク><アイコン:シカク>：増資可能なお店へ　<アイコン:パッド>：カメラ切替　<アイコン:R1>：カーソル移動加速
+<アイコン:サンカク><アイコン:シカク>: See possibilities　<アイコン:パッド>: Switch Camera <アイコン:R1>: Cursor Speed
 
 149_1: 
-<アイコン:パッド>：カメラ切替　<アイコン:R1>：カーソル移動加速
+<アイコン:パッド>: Switch Camera <アイコン:R1>: Cursor Speed
 
 150_1: 
-<アイコン:サンカク><アイコン:シカク>：対象のお店へ移動　<アイコン:パッド>：カメラ切替　<アイコン:R1>：カーソル移動加速
+<アイコン:サンカク><アイコン:シカク>: To Target Shop <アイコン:パッド>: Switch Camera <アイコン:R1>: Cursor Speed
 
 151_1: 
-<アイコン:パッド>：カメラ切替　<アイコン:R1>：カーソル移動加速　<アイコン:L1>：ステータス表示切替
+<アイコン:パッド>: Switch Camera <アイコン:R1>: Cursor Speed <アイコン:L1>: Switch Status
 
 152_1: 
-<アイコン:サンカク>：説明切替
+<アイコン:サンカク>: Switch Help
 
 153_1: 
-！<アイコン:サンカク>：マップ　<アイコン:パッド>：カメラ切替　<アイコン:L1>：ステータス表示切替
+！<アイコン:サンカク>: Map <アイコン:パッド>: Switch Camera <アイコン:L1>: Switch Status
 
 154_1: 
-<アイコン:バツ>：1マス戻る
+<アイコン:バツ>: Back 1 Space
 
 155_1: 
-<アイコン:サンカク><アイコン:シカク>：移動可能マスへ　<アイコン:パッド>：カメラ切替　<アイコン:R1>：カーソル移動加速
+<アイコン:サンカク><アイコン:シカク>: Move possibilities <アイコン:パッド>: Switch Camera <アイコン:R1>: Cursor Speed
 
 156_1: 
-<アイコン:L1>：倍率ダウン　<アイコン:R1>：倍率アップ
+<アイコン:L1>: Scale down <アイコン:R1>: Scale up
 
 157_1: 
-<アイコン:サンカク>：データ表示切替
+<アイコン:サンカク>: Switch Data
 
 158_1: 
-<アイコン:マル><アイコン:バツ>：戻る　<アイコン:サンカク>：ルール切替
+<アイコン:マル><アイコン:バツ>: Back <アイコン:サンカク>: Switch Rules
 
 159_1: 
-<アイコン:マル><アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：閲覧プレイヤー切替
+<アイコン:マル><アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Switch Player Info
 
 160_1: 
-<アイコン:R1>：ページ切替　<アイコン:バツ>：戻る
+<アイコン:R1>: Change Page <アイコン:バツ>: Back
 
 161_1: 
-<アイコン:L1><アイコン:R1>：ページ切替　<アイコン:バツ>：戻る
+<アイコン:L1><アイコン:R1>: Change Page <アイコン:バツ>: Back
 
 162_1: 
-<アイコン:L1>：ページ切替　<アイコン:バツ>：戻る
+<アイコン:L1>: Change Page <アイコン:バツ>: Back
 
 163_1: 
-<アイコン:マル>：次へ
+<アイコン:マル>: Next
 
 164_1: 
-<アイコン:マル>：ゲーム開始
+<アイコン:マル>: Start Game
 
 165_1: 
-<アイコン:バツ>：キャンセル
+<アイコン:バツ>: Cancel
 
 166_1: 
-<アイコン:L1><アイコン:R1>：スタンプガイド　<アイコン:オプション>：アカウント情報
+<アイコン:L1><アイコン:R1>: Stamp Guide <アイコン:オプション>: Account Info
 
 167_1: 
-<アイコン:L1><アイコン:R1>：スタンプガイドを消す　<アイコン:オプション>：アカウント情報
+<アイコン:L1><アイコン:R1>: Hide Stamp Guide <アイコン:オプション>: Account Info
 
 168_1: 
-<アイコン:サンカク><アイコン:シカク>：自分の株に移動　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク><アイコン:シカク>: Move Shares <アイコン:オプション>: Account Info
 
 169_1: 
-<アイコン:サンカク>：ＭＡＸ　<アイコン:L1>：９枚　<アイコン:R1>：１０枚　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク>: MAX <アイコン:L1>: 9 shares <アイコン:R1>: 10 shares <アイコン:オプション>: Account Info
 
 170_1: 
-<アイコン:マル>：10G UP　<アイコン:シカク>：100Ｇ UP　<アイコン:オプション>：アカウント情報
+<アイコン:マル>: 10G UP <アイコン:シカク>: 100G UP <アイコン:オプション>: Account Info
 
 171_1: 
-<アイコン:パッド>：カメラ切替　<アイコン:オプション>：アカウント情報
+<アイコン:パッド>: Switch Camera <アイコン:オプション>: Account Info
 
 172_1: 
-<アイコン:サンカク><アイコン:シカク>：増資可能なお店へ　<アイコン:R1>：カーソル移動加速　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク><アイコン:シカク>: See possibilities <アイコン:R1>: Cursor Speed <アイコン:オプション>: Account Info
 
 173_1: 
-<アイコン:パッド>：カメラ切替　<アイコン:R1>：カーソル移動加速　<アイコン:オプション>：アカウント情報
+<アイコン:パッド>: Switch Camera <アイコン:R1>: Cursor Speed <アイコン:オプション>: Account Info
 
 174_1: 
-<アイコン:サンカク><アイコン:シカク>：対象のお店へ移動　<アイコン:R1>：カーソル移動加速　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク><アイコン:シカク>: To Target Shop <アイコン:R1>: Cursor Speed <アイコン:オプション>: Account Info
 
 175_1: 
-<アイコン:パッド>：カメラ切替　<アイコン:R1>：カーソル移動加速　<アイコン:オプション>：アカウント情報
+<アイコン:パッド>: Switch Camera <アイコン:R1>: Cursor Speed <アイコン:オプション>: Account Info
 
 176_1: 
-<アイコン:サンカク>：説明切替　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク>: Switch Help <アイコン:オプション>: Account Info
 
 177_1: 
-！<アイコン:サンカク>：マップ　<アイコン:パッド>：カメラ切替　<アイコン:L1>：ステータス表示切替　<アイコン:オプション>：アカウント情報
+！<アイコン:サンカク>: Map <アイコン:パッド>: Switch Camera <アイコン:L1>: Switch Status <アイコン:オプション>: Account Info
 
 178_1: 
-<アイコン:バツ>：1マス戻る　<アイコン:オプション>：アカウント情報
+<アイコン:バツ>: Back 1 Space <アイコン:オプション>: Account Info
 
 179_1: 
-<アイコン:サンカク><アイコン:シカク>：移動可能マスへ　<アイコン:R1>：カーソル移動加速　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク><アイコン:シカク>: Move possibilities <アイコン:R1>: Cursor Speed <アイコン:オプション>: Account Info
 
 180_1: 
-<アイコン:L1>：倍率ダウン　<アイコン:R1>：倍率アップ　<アイコン:オプション>：アカウント情報
+<アイコン:L1>: Scale Down <アイコン:R1>: Scale Up <アイコン:オプション>: Account Info
 
 181_1: 
-<アイコン:サンカク>：データ表示切替　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク>: Switch Data <アイコン:オプション>: Account Info
 
 182_1: 
-<アイコン:マル><アイコン:バツ>：戻る　<アイコン:サンカク>：ルール切替　<アイコン:オプション>：アカウント情報
+<アイコン:マル><アイコン:バツ>: Back <アイコン:サンカク>: Switch Rules <アイコン:オプション>: Account Info
 
 183_1: 
-<アイコン:マル><アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：閲覧プレイヤー切替　<アイコン:オプション>：アカウント情報
+<アイコン:マル><アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Switch Player Info <アイコン:オプション>: Account Info
 
 184_1: 
-<アイコン:R1>：ページ切替　<アイコン:バツ>：戻る　<アイコン:オプション>：アカウント情報
+<アイコン:R1>: Change Page <アイコン:バツ>: Back <アイコン:オプション>: Account Info
 
 185_1: 
-<アイコン:L1><アイコン:R1>：ページ切替　<アイコン:バツ>：戻る　<アイコン:オプション>：アカウント情報
+<アイコン:L1><アイコン:R1>: Change Page <アイコン:バツ>: Back <アイコン:オプション>: Account Info
 
 186_1: 
-<アイコン:L1>：ページ切替　<アイコン:バツ>：戻る　<アイコン:オプション>：アカウント情報
+<アイコン:L1>: Change Page <アイコン:バツ>: Back <アイコン:オプション>: Account Info
 
 187_1: 
-<アイコン:マル>：次へ　<アイコン:オプション>：アカウント情報
+<アイコン:マル>: Next <アイコン:オプション>: Account Info
 
 188_1: 
-<アイコン:マル>：ゲーム開始　<アイコン:オプション>：アカウント情報
+<アイコン:マル>: Start Game <アイコン:オプション>: Account Info
 
 189_1: 
-<アイコン:バツ>：キャンセル　<アイコン:オプション>：アカウント情報
+<アイコン:バツ>: Cancel <アイコン:オプション>: Account Info
 
 190_1: 
-<アイコン:サンカク>：マップ　<アイコン:マル>：移動メニュー　<アイコン:バツ>：戻る
+<アイコン:サンカク>: Map <アイコン:マル>: Move Menu <アイコン:バツ>: Back
 
 191_1: 
-<アイコン:パッド>：カメラ切替　<アイコン:R1>：カーソル移動加速　<アイコン:アナログ右>：拡大/縮小
+<アイコン:パッド>: Switch Camera <アイコン:R1>: Cursor Speed <アイコン:アナログ右>: Zoom In/Out
 
 192_1: 
-<アイコン:サンカク>：マップ　<アイコン:マル>：移動メニュー　<アイコン:バツ>：戻る　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク>: Map<アイコン:マル>: Move Menu <アイコン:バツ>: Back <アイコン:オプション>: Account Info
 
 193_1: 
-<アイコン:パッド>：カメラ切替　<アイコン:アナログ右>：拡大/縮小　<アイコン:オプション>：アカウント情報
+<アイコン:パッド>: Switch Camera <アイコン:アナログ右>: Zoom In/Out <アイコン:オプション>: Account Info
 
 194_1: 
-<アイコン:サンカク>：マップ　<アイコン:バツ>：移動メニューを閉じる
+<アイコン:サンカク>: Map <アイコン:バツ>: Close Move Menu
 
 195_1: 
-<アイコン:サンカク>：マップ　<アイコン:バツ>：移動メニューを閉じる　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク>: Map <アイコン:バツ>: Close Move Menu <アイコン:オプション>: Account Info
 
 196_1: 
-<アイコン:サンカク>：マップ
+<アイコン:サンカク>: Map
 
 197_1: 
-<アイコン:サンカク>：マップ　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク>: Map <アイコン:オプション>: Account Info
 
 198_1: 
-<アイコン:サンカク>：マップ　<アイコン:マル>：移動メニュー
+<アイコン:サンカク>: Map <アイコン:マル>: Move Menu
 
 199_1: 
-<アイコン:サンカク>：マップ　<アイコン:マル>：移動メニュー　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク>: Map <アイコン:マル>: Move Menu <アイコン:オプション>: Account Info
 
 200_1: 
-<アイコン:サンカク>：０G or MAX
+<アイコン:サンカク>: 0G or MAX
 
 201_1: 
-<アイコン:サンカク>：０G or MAX　<アイコン:オプション>：アカウント情報
+<アイコン:サンカク>: 0G or MAX　<アイコン:オプション>: Account Info
 
 202_1: 
-<アイコン:バツ>：決定へ移動　<アイコン:サンカク>：前の設定に戻す
+<アイコン:バツ>: Confirm <アイコン:サンカク>: Restore
 
 203_1: 
-<アイコン:バツ>：決定へ移動　<アイコン:オプション>：アカウント情報
+<アイコン:バツ>: Confirm <アイコン:オプション>: Account Info
 
 204_1: 
 ダミー
@@ -656,7 +655,7 @@ Never Sell
 ダミー
 
 208_1: 
-<アイコン:シカク>：セリフ表示切替
+<アイコン:シカク>: Switch Reaction
 
 209_1: 
 ダミー
@@ -665,157 +664,158 @@ Never Sell
 ダミー
 
 211_1: 
-<アイコン:マル><アイコン:バツ>：戻る
+<アイコン:マル><アイコン:バツ>: Back
 
 212_1: 
-<アイコン:マル><アイコン:バツ>：戻る　<アイコン:オプション>：アカウント情報
+<アイコン:マル><アイコン:バツ>: Back <アイコン:オプション>: Account Info
 
 213_1: 
-<アイコン:バツ>：決定へ移動　<アイコン:サンカク>：前の設定に戻す　<アイコン:オプション>：アカウント情報
+<アイコン:バツ>: Confirm <アイコン:サンカク>: Restore <アイコン:オプション>: Account Info
 
 214_1: 
-<アイコン:L1><アイコン:R1>：スタンプガイド
+<アイコン:L1><アイコン:R1>: Stamp Guide
 
 215_1: 
-<アイコン:L1><アイコン:R1>：スタンプガイドを消す
+<アイコン:L1><アイコン:R1>: Hide Stamp Guide
 
 216_1: 
-移動メニュー
+Move Menu
 
 217_1: 
-株確認
+Check Shares
 
 218_1: 
-マップを見る
+View Map
 
 219_1: 
-自分の状況
+Self Status
 
 220_1: 
-全体の状況
+All Status
 
 221_1: 
-株を確認します。
+Check shares.
 
 222_1: 
-マップを確認します。
+View the map.
 
 223_1: 
-自分の状況を確認します。
+Check your own status.
 
 224_1: 
-全体の状況を確認します。
+Check all players' status.
 
 225_1: 
-<アイコン:マル>ボタンで株が買えます
+Buy shares with <アイコン:マル> button.
 
 226_1: 
-最大級のサーカス小屋
+Most-extravagant circus.
 
 227_1: 
-<任意文字:0> <任意文字:1>が
-<任意文字:2>から
-<任意文字:3>に
-なりました！
+<任意文字:0> <任意文字:1>
+went from
+<任意文字:2>
+to <任意文字:3>!
 
 228_1: 
-<任意文字:0>　が
-<任意文字:1>から
-<任意文字:2>に
-なりました！
+<任意文字:0>
+went from
+<任意文字:1>
+to <任意文字:2>!
 
 229_1: 
-ランク<任意文字:0>［<任意文字:1>］
+Rank <任意文字:0>［<任意文字:1>］
 
 230_1: 
-コンピュータに
-操作を代わってもらいますか？
+Do you want to switch to
+computer control?
 
 231_1: 
-操作を　プレイヤーに
-戻しますか？
+Do you want to return
+to player control?
 
 232_1: 
-コンピュータに
-操作を代わってもらいますか？
-<文字色:赤>１人で挑戦では　一度でもリリーフにすると
-獲得できるいただきコインが半分になります。<文字色:終了>
+Do you want to switch to
+computer control?
+<文字色:赤>You will get half Fortune Coins
+if you take relief once in solo play.<文字色:終了>
 
 233_1: 
-操作を　プレイヤーに　戻す場合は
-リリーフキャラが　ダイスを振る前に
-<アイコン:シカク>ボタンを押してください。
+Press the <アイコン:シカク> button
+before the character rolls the dice
+to resume player control.
 
 234_1: 
-ボタンを押すと
-次にすすみます。
+Play will continue when
+you press the button.
 
 235_1: 
-ラッキー！　他人の支払いの
-２０％　お金がもらえます。
+LUCKY! You receive 20%
+of what others pay.
 
 236_1: 
-ダイスをふって
-もう１度　進みます！
+You can roll the dice,
+and take another turn!
 
 237_1: 
-休日のため　次の順番まで
-買い物料がもらえません。
+You won't receive any
+income until the next turn.
 
 238_1: 
-総資産が足りないため　
-交渉できません。
+You can't negotiate as you
+don't have enough assets.
 
 239_1: 
-この取り引きは
-お流れになりました。
+This sale has been
+canceled.
 
 240_1: 
-買えるお店は
-ありませんでした。
+There isn't a shop
+you can buy.
 
 241_1: 
-売れるお店は
-ありませんでした。
+There isn't a shop
+you can sell.
 
 242_1: 
-交換できるお店は
-ありませんでした。
+There isn't a shop
+you can trade.
 
 243_1: 
-自分の関所に止まったので
-通行料を３０Ｇ値上げしました。
+30G toll was given for
+stopping at your checkpoint.
 
 244_1: 
-見物料を
-払いました。
+You paid the
+tourist fee.
 
 245_1: 
-自分の酒場に止まったので　
-みんなでえんかい！全員集合！
+Party for stopping at
+your bar! Everyone joins
+the party!
 
 246_1: 
-自分のお店が　休日になります。
+Your shops will be on holiday.
 
 
 247_1: 
-見学料として
-<任意文字:0>Ｇを払います。
+You will pay <任意文字:0>G
+as study fees.
 
 248_1: 
-上納金として総資産の１０％
-<任意文字:0>Ｇを払います。
+You will pay a tax of 10%
+of your assets, <任意文字:0>G.
 
 249_1: 
-神の御加護！特別収入！
-<任意文字:0>Ｇもらえる！
+Goddess' Fortune! Special Income!
+Receive <任意文字:0>G!
 
 250_1: 
-飲食代として　レベル×３０Ｇ＝
-<任意文字:0>Ｇを払いました。
+Snack tax paid of LV x30G=
+<任意文字:0>G.
 
 251_1: 
-このお店が売りに出ています。
+You will place this shop up for sale.
 
 
 252_1: 
@@ -823,714 +823,714 @@ Never Sell
 増資できません。
 
 253_1: 
-全てのお店は
-ＭＡＸまで増資されています。
+All your shops are at
+maximum investment.
 
 254_1: 
-増資可能な
-お店を持っていません。
+You do not have any
+shops to invest in.
 
 255_1: 
-総資産が足りないため
-購入できません。
+You do not have enough
+assets to buy.
 
 256_1: 
-取り引き可能な
-お店は　ありません。
+There are no possible
+shops available.
 
 257_1: 
-総資産が　マイナスのため
-神の御加護がありませんでした。
+No Goddess blessing as
+you have negative assets.
 
 258_1: 
-この飛空艇は整備中です。
+This airship under repair.
 
 
 259_1: 
-マスを凍らせました。
+Space is frozen.
 
 
 260_1: 
-マスをとかしました。
+Space is thawed.
 
 
 261_1: 
-このお店を買うには
-資産が足りません。
+You don't have enough
+assets to buy this shop.
 
 262_1: 
-超ラッキー！　他人の支払いの
-５０％　お金がもらえます。
+Super Lucky! You'll receive
+50% of other player's payments.
 
 263_1: 
-所持金不足です。
-お店を売ってください。
+Insufficient funds.
+Please sell a shop.
 
 264_1: 
-<任意文字:0>さんが
-<任意文字:1>エリアを
-独占しました！
+<任意文字:0> has a
+monopoly in
+<任意文字:1> area!
 
 265_1: 
-最低落札額を誰も支払えないので
-ぎんこう城が　買い取りました。
+The bank bought the shop
+as nobody reached the
+minimum bid.
 
 266_1: 
-最低落札額を誰も支払えないので
-競売は　行われませんでした。
+No auction was held as
+nobody can pay the minimum.
 
 267_1: 
-所持金が無いので
-増資できません。
+You can't invest as
+you have no assets.
 
 268_1: 
-<任意文字:0>さんのお店が
-<任意文字:1>さんに
-<任意文字:2>倍の値段で買われました。
+<任意文字:0>'s shop
+was bought by <任意文字:1>
+for <任意文字:2>x the value.
 
 269_1: 
-コンピュータのスピードを
-設定します。
+Set the AI Speed.
 
 270_1: 
-セリフのスピードを
-設定します。
+Set the Chat Speed.
 
 271_1: 
-セーブ＆中断
-データを消す
+Save & Quit
+Erase Data
 
 272_1: 
-ゲームデータを　セーブし
-ゲームを中断します。
+Save game data, and
+quit the game.
 
 273_1: 
-ゲームデータを　セーブし
-ゲームを中断します。
-中断すると　他アカウントの成績は
-セーブされません。
+Save game data, and
+quit the game.
+If you quit, the results from
+the other account won't be saved.
 
 274_1: 
-<任意文字:0>さん
-<任意文字:1>さん
-<任意文字:2>さん
-<任意文字:3>さん
-総資産が
-目標金額を　こえました。
+<任意文字:0>
+<任意文字:1>
+<任意文字:2>
+<任意文字:3>
+surpassed target
+asset goal.
 
 275_1: 
-<任意文字:0>さん
-<任意文字:1>さん
-<任意文字:2>さん
-総資産が
-目標金額を　こえました。
+<任意文字:0>
+<任意文字:1>
+<任意文字:2>
+surpassed target
+asset goal.
 
 276_1: 
-<任意文字:0>さん
-<任意文字:1>さん
-総資産が
-目標金額を　こえました。
+<任意文字:0>
+<任意文字:1>
+surpassed target
+asset goal.
 
 277_1: 
-<任意文字:0>さん
-総資産が
-目標金額を　こえました。
+<任意文字:0>
+surpassed target
+asset goal.
 
 278_1: 
-欲しいマークを選んでください。
+Select the space you want.
 
 
 279_1: 
 ダミー
 
 280_1: 
-止まると　いろいろな
-建物が　建てられます。
+If you stop here, you
+can build.
 
 281_1: 
-止まると
-好きな　自分のお店に
-増資ができます。
+If you stop here, you
+can invest in a shop
+of your choice.
 
 282_1: 
-★サーカスめんどくさ！
+* Freakin' circus!
 
 283_1: 
-止まると
-好きな場所に
-行くことが　できます。
+If you stop here, you
+can go to the space
+of your choice.
 
 284_1: 
-止まると
-自分の総資産の５％が
-上納金としてもらえます。
+If you stop here, you
+will get a bonus of
+5% of your assets.
 
 285_1: 
-止まると
-酒場に　全員が
-集合します。
+If you stop here,
+you will invite
+everyone to the bar.
 
 286_1: 
-止まると　持ち主の
-いない好きなお店を
-買うことができます。
+If you stop here,
+you can buy an
+unowned shop.
 
 287_1: 
-止まると　いろいろな
-建物が　建てられます。
+If you stop here, you
+can build.
 
 288_1: 
-通過すると通行料として
-通過数×１０Ｇの
-お金を払います。
+If you go through, you
+will pay toll of 10G
+times total # of uses.
 
 289_1: 
-★サーカスめんどくさ！
+* Freakin' circus!
 
 290_1: 
-止まると　持ち主の
-次にもらえる賞金の
-１０％を払います。
+If you stop here, you
+vill pay 10% of prize
+money to the next player.
 
 291_1: 
-止まると
-総資産の１０％のお金を
-上納金として持ち主に払います。
+If you stop here, you
+will pay the owner 10%
+of your assets.
 
 292_1: 
-止まると　飲食代として
-持ち主レベル×３０Ｇの
-お金を払います。
+If you stop here, you
+will pay a meal fee of
+30G times owner's level.
 
 293_1: 
-止まると
-自分のお店がすべて
-休日になります。
+If you stop here, all
+of your shops will
+be closed on holiday.
 
 294_1: 
-止まると
-１００Ｇのお金で　あと
-３回大きくできます。
+If you stop here, it
+will grow larger
+once for 100G.
 
 295_1: 
-止まると
-１００Ｇのお金で　あと
-２回大きくできます。
+If you stop here, it
+will grow larger
+twice for 100G.
 
 296_1: 
-止まると
-１００Ｇのお金で　あと
-１回大きくできます。
+If you stop here, it
+will grow large
+3 times for 100G.
 
 297_1: 
-止まっても
-これ以上は
-大きくできません。
+Even if you stop here,
+you can't grow this
+shop any larger.
 
 298_1: 
-止まると
-見物料１００Ｇを
-持ち主に払います。
+If you stop here, you
+will pay a 100G tourist
+fee to the owner.
 
 299_1: 
-止まると
-見物料５００Ｇを
-持ち主に払います。
+If you stop here, you
+will pay a 500G tourist
+fee to the owner.
 
 300_1: 
-止まると
-見物料１０００Ｇを
-持ち主に払います。
+If you stop here, you
+will pay a 1000G tourist
+fee to the owner.
 
 301_1: 
-止まると
-見物料２０００Ｇを
-持ち主に払います。
+If you stop here, you
+will pay a 2000G tourist
+fee to the owner.
 
 302_1: 
-★(なし)
+★(None)
 
 303_1: 
-★(お店)
+★(Shop)
 
 304_1: 
-空き地
+Open Space
 
 305_1: 
-マークを集めてくると
-賞金がもらえます。
-通過で株が買えます。
+You will collect tolls
+if you place it here.
+And you can buy shares.
 
 306_1: 
-マークを集めてくると
-賞金がもらえます。
+You will collect tolls
+if you place it here.
 
 307_1: 
-★スペード
+★Spade
 
 308_1: 
-★ハート
+★Heart
 
 309_1: 
-★ダイヤ
+★Diamond
 
 310_1: 
-★クローバー
+★Club
 
 311_1: 
-★変わるマーク
+★Change Suit
 
 312_1: 
-止まると
-チャンスカードが
-引けます。
+If you stop here, you
+can take a Chance
+card.
 
 313_1: 
-止まると
-カジノゲームで
-あそべます。
+If you stop here, you
+can play at the
+Casino.
 
 314_1: 
-止まると
-もう１回ダイスが
-ふれます。
+If you stop here, you
+can roll the dice
+again.
 
 315_1: 
-止まると
-株が買えます。
+If you stop here, you
+can buy shares.
 
 316_1: 
-止まると　１ターンの間
-買い物料の２０％
-分け前がもらえます。
+If you stop here, you
+will get 20% of all
+shop fees for 1 turn.
 
 317_1: 
-止まると　１ターンの間
-買い物料の５０％
-分け前がもらえます。
+If you stop here, you
+will get 50% of all
+shop fees for 1 turn.
 
 318_1: 
-止まると
-アンラッキーらしい。
+If you stop here, it
+might be unlucky.
 
 319_1: 
-止まると　別の場所へ
-移動します。
+If you stop here, you
+will move to another space.
 
 320_1: 
-止まると　１ターンの間
-止まった人のお店が
-休日になります。
+If you stop here, a
+player's shops will be
+closed when they stop.
 
 321_1: 
-止まると　同じ色の
-旅の扉へ　ワープします。
+If you stop here, you
+will warp to the
+matching traveler's gate.
 
 322_1: 
-止まると
-道が　回転します。
+If you stop here, you
+will reverse direction.
 
 323_1: 
-連結スイッチ
+Coupling switch
 
 324_1: 
-止まると　好きな
-エリアの　買い物料を
-２倍にできます。
+If you stop here, you
+can get 2x the purchase
+value of an area you want.
 
 325_1: 
-止まると
-道のかたちが
-変化します。
+If you stop here, you
+will change the street
+layout.
 
 326_1: 
-止まると　他人の場所に
-飛ばされます。
-着地後は何もおこりません。
+If you stop here, you
+will be sent to a player's
+shop. Without an action.
 
 327_1: 
-止まると
-ぎんこう城に
-ジャンプします。
+If you stop here, you
+vill jump to the bank.
 
 328_1: 
-止まると　別の場所へ
-移動します。
+If you stop here, you
+vill move to another place.
 
 329_1: 
-止まると　好きなマスを
-凍らせます。
-もとにも　戻せます。
+If you stop here, you
+can freeze a space of your
+choice. Or restore one.
 
 330_1: 
-止まると
-チャンスカードが引けます。
-通過で通路が移動します。
+If you stop here, you
+can take a Chance card. You
+will move through the passage.
 
 331_1: 
-ジェットコースターから
-降りる場所です。
+This is the exit for
+the Jet Coaster.
 
 332_1: 
-止まると　中央の
-レガリア専用ルートが回転して
-移動可能ルートが変わります。 
+If you stop here, the
+Regalia will turn and
+change its route.
 
 333_1: 
-止まると超大砲がうてます。
-今　竜王を　気絶させれば
-<任意文字:0>Ｇもらえます。
+If you stop here, you will
+fire the cannon. If the
+Dragonlord is defeated, you get <任意文字:0>G.
 
 334_1: 
-止まると超大砲がうてます。
-もう　竜王は
-倒れています。
+If you stop here, you will
+fire the cannon. The
+Dragonlord is already defeated.
 
 335_1: 
-止まると
-マップのかたちが
-変化します。
+If you stop here, the
+shape of the map will
+change.
 
 336_1: 
-止まると
-マップの中央部が
-移動します。
+If you stop here, the
+center of the map will
+move.
 
 337_1: 
-通過すると
-スペードマークが
-もらえます。
+If you pass through,
+you get a Spade.
+
 
 338_1: 
-通過すると
-ハートマークが
-もらえます。
+If you pass through,
+you get a Heart.
+
 
 339_1: 
-通過すると
-ダイヤマークが
-もらえます。
+If you pass through,
+you get a Diamond.
+
 
 340_1: 
-通過すると
-クローバーマークが
-もらえます。
+If you pass through,
+you get a Club.
+
 
 341_1: 
-通過するたびに
-もらえるマークが
-変化します。
+If you pass through,
+the suit you get
+will be different.
 
 342_1: 
-止まると
-チャンスカードが
-引けます。
+If you stop here, you
+get a Chance card.
+
 
 343_1: 
-増資するお店を
-選んでください。
+Choose a shop to
+invest in.
 
 344_1: 
-買いたい他人のお店を
-選んでください。
+Choose a shop of another
+player's to buy.
 
 345_1: 
-売りたい自分のお店を
-選んでください。
+Choose a shop of yours
+to sell.
 
 346_1: 
-競売したい自分のお店を
-選んでください。
+Choose a shop of yours
+to auction.
 
 347_1: 
-交換したい自分のお店を
-選んでください。
+Choose a shop of yours
+to trade.
 
 348_1: 
-1軒目の交換したい自分のお店を
-選んでください。
+Choose the first shop of
+yours to trade.
 
 349_1: 
-2軒目の交換したい自分のお店を
-選んでください。
+Choose the second shop of
+yours to trade. 
 
 350_1: 
-交換したい他人のお店を
-選んでください。
+Choose a shop that you
+want to trade for.
 
 351_1: 
-1軒目の交換したい他人のお店を
-選んでください。
+Choose the first shop that
+you want to trade for.
 
 352_1: 
-2軒目の交換したい他人のお店を
-選んでください。
+Choose the second shop
+that you want to trade for.
 
 353_1: 
-凍らせる場所を選んでください。
-凍っている場所は溶けます。
+Choose a space to freeze.
+Frozen spaces will be thawed.
 
 354_1: 
-改築するお店を
-選んでください。
+Choose a shop to
+remodel.
 
 355_1: 
-通行料を
-払いました。
+Paid the toll.
+
 
 356_1: 
-好きな場所を
-選んでください。
+Choose the place that
+you want.
 
 357_1: 
-持ち主のいないお店を
-選んでください。
+Choose an unowned
+shop.
 
 358_1: 
-だれを　ねらいますか？
+Who will you target?
 
 
 359_1: 
-！！！！！買いたいお店を
-選んでください。
+！！！！！Choose the shop
+you want to buy.
 
 360_1: 
-ぎんこう城に売るお店を
-選んでください。
+Choose the shop you will
+sell to the bank.
 
 361_1: 
-増資あまりは<任意文字:0>Ｇです。
-いくら増資しますか？
+It is <任意文字:0>G to
+invest. How many?
 
 362_1: 
-どの施設を　建てますか？
+Which will you build?
 
 
 363_1: 
-どの施設に　改築しますか？
-今の施設の売り値：<任意文字:0>Ｇ
+Which will you remodel?
+Current sell value: <任意文字:0>G
 
 364_1: 
-<任意文字:0>を　建てます。
-よろしいですか？
+You will build the <任意文字:0>.
+Is this okay?
 
 365_1: 
-<任意文字:0>を<任意文字:1>に
-改築します。よろしいですか？
+You will remodel 
+<任意文字:0> into <任意文字:1>.
+Is this okay?
 
 366_1: 
-取り引き価格
+Sale value
 <金額:0>
 
 367_1: 
-<金額:0>で改築
+<金額:0> to remodel
 
 368_1: 
-改築で<金額:0>
-払い戻し
+Remodel will reimburse
+<金額:0>
 
 369_1: 
-通信エラー
+Network Error
 
 370_1: 
-他の人との通信が切れました。
+Connection terminated to other player.
 
-再開するために　データチェックします。
+Attempting to reconnect.
 
 371_1: 
-データチェック中
+Reconnecting.
 
 372_1: 
-<任意文字:0>さんの順番からやり直します。
-他の人との同期を待ちます。
+Restarting <任意文字:0>'s turn.
+Waiting for others.
 
 373_1: 
-以後　<任意文字:0>さんが
+From now, <任意文字:0> has
 
 374_1: 
-<任意文字:0>さん
+<任意文字:0>
 
 375_1: 
-との通信が切れました。
+disconnected.
 
 376_1: 
-の操作を継続してください。
+'s control, please continue.
 
-リリーフにしたい場合は
-その他コマンドのリリーフを
-選んでください。
+Choose the Relief command
+vhen you want to be
+relieved of control.
 
 377_1: 
-ワイヤレスＬＡＮスイッチがオフになったため
+as Wireless LAN is off,
 
 378_1: 
-ＵＭＤがオープンされたため
+as UMD is opened,
 
 379_1: 
-スリープモードに移行したため
+as Sleep Mode is engaged,
 
 380_1: 
-他の人との通信が切れました。
+connection was terminated.
 
 381_1: 
-再開するために　データチェックします。
+Attempting to reconnect.
 
 382_1: 
-ゲームを終了して　タイトルメニューへ戻ります。
+Game has ended, returning to title screen.
 
 383_1: 
-関所
+Checkpoint
 
 384_1: 
-サーカス小屋
+Small Circus
 
 385_1: 
-飛空艇乗り場
+Airship Station
 
 386_1: 
-神殿
+Shrine
 
 387_1: 
-酒場
+Bar
 
 388_1: 
-土地屋
+Real Estate
 
 389_1: 
-紙の店
+Paper Shop
 
 390_1: 
-わらの店
+Straw Shop
 
 391_1: 
-木の店
+Wood Shop
 
 392_1: 
-何も建てない
+Don't build
 
 393_1: 
-改築をやめる
+Don't remodel
 
 394_1: 
 【自分が止まる場合】
-好きな　自分のお店に
-増資ができる
+You can invest in the
+shop of your choice.
 
 395_1: 
 【他人が通過する場合】
-通行料として通過数×１０Gの
-お金を払う
+Pay toll of # times used
+times 10G.
 
 396_1: 
 【自分が止まる場合】
-サーカス小屋を１００Gで
-大きくできる(３回まで)
+Pay 100G to grow the
+circus (up to 3 times).
 
 397_1: 
 【他人が止まる場合】
-見物料を持ち主に払う
+Pay tourist fee to owner.
 
 398_1: 
 【自分が止まる場合】
-好きなマスに
-移動できる
+Move to space of
+your choice.
 
 399_1: 
 【他人が止まる場合】
-持ち主の次にもらえる
-賞金の１０％を払う
+Pay 10% prize money
+to next player.
 
 400_1: 
 【自分が止まる場合】
-自分の総資産の５％を
-上納金としてもらえる
+Receive 5% of total
+assets as tax refund.
 
 401_1: 
 【他人が止まる場合】
-総資産の１０％のお金を
-上納金として持ち主に払う
+Pay 10% of total asset
+tax to the owner.
 
 402_1: 
 【自分が止まる場合】
-このマスに
-全員を集合させる
+Gather everyone
+to this space.
 
 403_1: 
 【他人が止まる場合】
-飲食代として　持ち主の
-レベル×３０Gのお金を払う
+Pay meal fee of 30G times
+the owner's level.
 
 404_1: 
 【自分が止まる場合】
-持ち主のいない好きなお店を
-買うことができる
+Buy an unowned shop of
+your choice.
 
 405_1: 
 【他人が止まる場合】
-止まった人のお店がすべて
-休日になる
+Shops of those who stop
+here go on holiday.
 
 406_1: 
 【自分が止まる場合】
-好きな　自分のお店に
-増資ができる
+Invest in a shop that
+you own.
 
 407_1: 
 【他人が止まる場合】
-買い物料を払う
+Pay the shop fee.
 
 408_1: 
 【自分が止まる場合】
-好きな　自分のお店に
-増資ができる
+Invest in a shop that
+you own.
 
 409_1: 
 【他人が止まる場合】
-買い物料を払う
+Pay the shop fee.
 
 410_1: 
 【自分が止まる場合】
-好きな　自分のお店に
-増資ができる
+Invest in a shop that
+you own.
 
 411_1: 
 【他人が止まる場合】
-買い物料を払う
+Pay the shop fee.
 
 412_1: 
-何も建てません
+Didn't build anything.
 
 413_1: 
-レベルＵＰ！
-王様から賞金がもらえます。
+Level up!
+Got income from the king.
 
 414_1: 
-賞金
+Prize Money
 
 415_1: 
-基本ボーナス
+Main Bonus
 
 416_1: 
-レベルUPボーナス
+Level Up Bonus
 
 417_1: 
-お店ボーナス
+Shop Bonus
 
 418_1: 
-チャンスカードを
-選んでください。
+Choose a Chance card.
+
 
 419_1: 
-チャンスカードスペシャル！
-<任意文字:0>Ｇのボーナス！
+Chance Card Special!
+<任意文字:0>G Bonus!
 
 420_1: 
-<アイコン:マル>ボタンを押して
-スロットを止めてください。
+Press the <アイコン:マル> button
+to stop the slots.
 
 421_1: 
-<アイコン:マル>　で
-１０Ｇ　アップ
+<アイコン:マル> to
+10G Up
 
 422_1: 
 <アイコン:L1>：10G Up
@@ -1542,116 +1542,115 @@ Never Sell
 <アイコン:サンカク>：10G Up
 
 425_1: 
-競売画面の操作方法です。
-入札は　操作に使用している
-コントローラーで行えます。
+Auction screen controls.
+Bids are entered by the
+in-use contoller.
 
 426_1: 
-競売画面の操作方法です。
-対応するボタンで　入札できます。
+Auction screen controls.
+Bid with the respective buttons.
 
 427_1: 
-競売を始めます。
+An auction will begin.
 
 
 428_1: 
-競売中です。
+Currently in auction.
 
 
 429_1: 
-金額を入力します。
+Input your bid.
 
 
 430_1: 
-そこまで！
+That's it!
 
 
 431_1: 
-ぎんこう城が
-買い取りました。
+The bank has bought
+the shop.
 
 432_1: 
-<任意文字:0>さんが
-落札しました。
+<任意文字:0> won the
+auction.
 
 433_1: 
-<任意文字:0>さんに
-お店交換の 交渉をします。
+Entered trade negotiations
+with <任意文字:0>.
 
 434_1: 
-お店と　いっしょに
-お金も　もらいます。
+Receive a shop along with
+money.
 
 435_1: 
-お店と　いっしょに
-お金も　わたします。
+Give a shop along with
+money.
 
 436_1: 
-お店の交換を　やめます。
+Trade negotiations ended.
 
 
 437_1: 
-相手から　受け取る金額を
-入力してください。
+Input how much to get
+from the other player.
 
 438_1: 
-相手に　支払う金額を
-入力してください。
+Input how much to pay
+to the other player.
 
 439_1: 
-<任意文字:0>さんは
-この条件で　交換しますか？
+Confirm this trade with
+<任意文字:0>?
 
 440_1: 
-<任意文字:0>さんは
-この条件で　交換しますか？
+Confirm this trade with
+<任意文字:0>?
 
 441_1: 
-このお店は　わたせません。
+You cannot pick this shop.
 
 
 442_1: 
-この物件を　だれに
-売りますか？
+Who will you sell this
+land to?
 
 443_1: 
-<任意文字:0>さんへ
-この物件をいくらで
-売りますか？
+How much will you sell
+the land to <任意文字:0>
+for?
 
 444_1: 
-この物件をいくらで
-買いますか？
+How much will you sell
+the land for?
 
 445_1: 
-<任意文字:0>さん
-物件を売りますか？
+Confirm sale to
+<任意文字:0>?
 
 446_1: 
-<任意文字:0>さん
-物件を売りますか？
+Confirm sale to
+<任意文字:0>?
 
 447_1: 
-このお店は
-わたせません。
+You cannot pick this shop.
 
 448_1: 
-<任意文字:0>さん
-物件を買いますか？
+Buy this land from
+<任意文字:0>?
 
 449_1: 
-<任意文字:0>さん
-物件を買いますか？
+Buy this land from
+<任意文字:0>?
 
 450_1: 
-このお店は
-必要ありません。
+You do not need this
+shop.
 
 451_1: 
-<任意文字:0>さんの順番です。
+It's <任意文字:0>'s turn.
 
 452_1: 
-<アイコン:シカク>ボタンでリリーフを解除できます。
+Use the <アイコン:シカク> button for relief.
 
 453_1: 
 ！！！！！！！
@@ -1672,16 +1671,16 @@ Never Sell
 ！！！！！！！
 
 459_1: 
-ステージクリア条件　優勝
+Stage Clear: Win
 
 460_1: 
-ステージクリア条件　２位以上
+Stage Clear: 2nd or better
 
 461_1: 
-ステージクリア条件　３位以上
+Stage Clear: 3rd or better
 
 462_1: 
-ステージクリア条件　なし
+Stage Clear: None
 
 463_1: 
 STAGE <任意文字:0>
@@ -1693,129 +1692,126 @@ STAGE <任意文字:0>
 ！！！！！！！
 
 466_1: 
-最大破産人数 <任意文字:0>人
+Max Bankrupties: <任意文字:0>
 
 467_1: 
-もう　竜王は　倒れている。
+The Dragonlord is already defeated.
 
 
 468_1: 
-超大砲を　うてるお金を
-もっていなかった……。
+Didn't receive any money
+for firing the cannon.
 
 469_1: 
-砲弾を買って
-竜王に　超大砲を　うちますか？
-（現在のごほうび：<任意文字:0>Ｇ）
+Buy ammo, and fire the
+canno at the Dragonlord?
+(Current Prize: <任意文字:0>G)
 
 470_1: 
-どの金額の砲弾を　うちますか？
-（現在のごほうび：<任意文字:0>Ｇ）
+Which money/ammo will you fire?
+(Current Prize: <任意文字:0>G)
 
 471_1: 
-会心の一撃！
-竜王が　目を回した！！
+Critical hit!
+The Dragonlord is stunned!!
 
 472_1: 
-ぎんこう城から　ごほうびとして
-<任意文字:0>Ｇ
-もらった！
+Received a prize of
+<任意文字:0>G
+from the bank!
 
 473_1: 
-竜王に　あたったが
-あまり効果は　なかった……。
+Hit the Dragonlord,
+but it didn't have an effect...
 
 474_1: 
-砲弾の金額がプラスされて
-ごほうびの金額が
-<文字色:緑><任意文字:0><文字色:終了>Ｇ
-になった。
+Ammo was added to the
+pot, and the prize is
+now <文字色:緑><任意文字:0><文字色:終了>G.
 
 475_1: 
-なんと　竜王は　おこって
-ブレスを　吹きつけてきた！
+Oh, no, the Dragonlord got
+mad, and breathed fire!
 
 476_1: 
-こうげきを　うけて
-竜王は　気を失った……。
+After taking its attack,
+the Dragonlord lost interest...
 
 477_1: 
 ！！！！！！！
-もらえる確率が　かわります。
-安全弾は　高性能な砲弾です。
-会心の一撃が発生しやすく
-竜王に反撃をゆるしません！
+The prize rate will change.
+The Safe Bullet is quality ammo.
+Easier critical attacks,
+and less counter attacks!
 
 478_1: 
-目標金額を突破した人が
-出ましたので　次の超大砲が
-ラストチャンス！
-最後は絶対に　会心の一撃！
+The next cannon is your last
+chance as a player has reached
+the target asset goal!
+Make the last one a critical!
 
 479_1: 
-竜王に会心の砲撃が　あたったので
-次にもらえる　ごほうびが
-<任意文字:0>Ｇアップした！
+The next prize increases to
+<任意文字:0>G because the
+Demonlord was hit with a critical!
 
 480_1: 
-挑発弾は
-竜王の反撃をさそう砲弾です。
-会心の一撃は　発生しません。
-竜王に反撃されると
-離れたエリアに飛ばされます。
-
+A Pellet is more likely for
+the Demonlord to counter.
+It will not make a critical.
+You will be blown back an
+area when counter-attacked.
 
 481_1: 
-通常弾は
-うまく当たると　会心の一撃で
-竜王が　目を回します。
-会心の一撃をあたえると
-ごほうびが　もらえて
-砲弾の金額も　返ってきます。
+Firing a Bullet well will
+be a critical and stun the
+Demonlord. On a critical,
+you get prize money, and ammo
+cost will return.
 
 482_1: 
-魔神弾は
-会心の一撃が　発生しやすい
-とても強力な砲弾です。
-会心の一撃をあたえると
-ごほうびが　もらえて
-砲弾の金額も　返ってきます。
+Magic Bullets are very
+strong and are easier to
+make critical hits.
+On a critical, you get
+prize money, and ammo
+cost will return.
 
 483_1: 
-安全弾は
-会心の一撃が　発生しやすく
-竜王の反撃もゆるしません！
-会心の一撃をあたえると
-ごほうびが　もらえて
-砲弾の金額も　返ってきます。
+Safe Bullets are easier to
+make critical hits, and
+prevent counter attacks!
+On a critical, you get
+prize money, and ammo
+cost will return.
 
 484_1: 
-最終弾は
-絶対に会心の一撃が
-発生します。
-ごほうびが　もらえて
-砲弾の金額も　返ってきます。
-これが　最後のごほうびです。
+Final Bullets will always
+make a critical hit.
+
+On a critical, you get
+prize money, and ammo
+cost will return.
 
 485_1: 
-絶対会心のラストチャンス！
-竜王に　超大砲を　うちますか？
-（最後のごほうび：<任意文字:0>Ｇ）
+Absolute last chance!
+Will you fire at the Demonlord?
+(Current Prize: <任意文字:0>G)
 
 486_1: 
-レガリアが　新しいパーキングに
-移動できるようになりました。
+The Regalia will now drive
+to a new parking lot.
 
 487_1: 
-レガリアが　移動したので
-新しいパーキングを　表示します。
+The new parking lot will be
+shown as the Regalia moved.
 
 488_1: 
-レガリアのルートが　変わりましたので
-新しいパーキングを　表示します。
+The new parking lot will be
+shown as the Regalias' route changed.
 
 489_1: 
-レガリアのルートが回転します。
+The Regalia's route has moved.
 
 490_1: 
 ダミー
@@ -1842,536 +1838,532 @@ STAGE <任意文字:0>
 ダミー
 
 498_1: 
-<任意文字:0>さんは　この次
-どちらの方向にも
-進めます。
+<任意文字:0> can continue
+in either direction on
+their next turn.
 
 499_1: 
-ダイスをふって
-もう１度　進みます！
+Rolled the dice
+and took another turn!
 
 500_1: 
-チャンス以外の場所を
-行き先に選んでください。
+Choose a destination
+other than a Chance space.
 
 501_1: 
-ここにワープしますか？
+Will you warp here?
 
 
 502_1: 
-<任意文字:0>Ｇあげる人を
-選んでください。
+Choose a player to give
+<任意文字:0>G.
 
 503_1: 
-<任意文字:0>さんに
-<任意文字:1>Ｇあげました。
+Gave <任意文字:1>G
+to <任意文字:0>
 
 504_1: 
-好きなお店か空き地を
-行き先に選んでください。
+Choose an open space
+or shop destination.
 
 505_1: 
-好きなチャンスを
-行き先に選んでください。
+Choose a Chance
+destination.
 
 506_1: 
-<任意文字:0>さんの　すべての
-お店の値段が
-<任意文字:1>％　値上がりしました。
+All shop values for
+<任意文字:0>
+increased by <任意文字:1>%.
 
 507_1: 
-しかし　<任意文字:0>さんは
-お店を　１軒も
-持っていませんでした。
+But <任意文字:0> does
+not own a single
+shop.
 
 508_1: 
-１ターンのあいだ　全員の
-お店の　買い物料が
-<任意文字:0>％アップします！
+All shop fees have
+increased by <任意文字:0>%
+for 1 turn!
 
 509_1: 
-１ターンのあいだ
-全員の　お店が
-お休みになります！
+All shops are closed
+on holiday for
+1 turn!
 
 510_1: 
-１ターンのあいだ　全員の
-お店の　買い物料が
-半額になります！
+All shop fees are
+half-priced for
+1 turn!
 
 511_1: 
-<任意文字:0>さんは
-<任意文字:1>×<任意文字:2>Ｇ×<任意文字:3>人
-<任意文字:4>Ｇの　収入！
+<任意文字:0> receives
+(<任意文字:1>×<任意文字:2>G×<任意文字:3>
+players) <任意文字:4>G!
 
 512_1: 
-増資するお店を選んでください。
+Choose a shop to invest.
 
 
 513_1: 
-増資しますか？
+Invest?
 
 
 514_1: 
-増資をやめました。
+Investment ended.
 
 
 515_1: 
-しかし　<任意文字:0>さんは
-増資できるお店が　１軒も
-ありませんでした。
+But <任意文字:0>
+does not have a single
+shop to invest in.
 
 516_1: 
-残念　増資するお金を
-持っていませんでした。
+Too bad. You don't have
+enough money to invest.
 
 517_1: 
-<任意文字:0>さんの　すべての
-お店の値段が
-<任意文字:1>％　値下がりしました。
+All shops for <任意文字:0>
+have decreased in value
+by <任意文字:1>%!
 
 518_1: 
-<任意文字:0>さん
-<任意文字:1>Ｇ×<任意文字:2>人
-<任意文字:3>Ｇの　支払い！
+<任意文字:0> pays
+(<任意文字:1>G×<任意文字:2> players)
+<任意文字:3>G!
 
 519_1: 
-<任意文字:0>さんは
-<任意文字:1>×<任意文字:2>Ｇ
-<任意文字:3>Ｇの　収入！
+<任意文字:0> receives
+(<任意文字:1>×<任意文字:2>G)
+<任意文字:3>G!
 
 520_1: 
-エリアスロットを
-<アイコン:マル>ボタンを押して止めてください。
+Press the <アイコン:マル> button
+to stop area slots.
 
 521_1: 
-<任意文字:0>の
-すべての　お店の値段が
-<任意文字:1>％　値上がりしました。
+All shops for <任意文字:0>
+have increased in value
+by <任意文字:1>%!
 
 522_1: 
-<任意文字:0>さん
-<任意文字:1>Ｇの　収入！
+<任意文字:0> receives
+<任意文字:1>G!
 
 523_1: 
-<任意文字:0>倍で売るお店を
-選んでください。
+Choose a shop to sell
+at <任意文字:0>x!
 
 524_1: 
-<任意文字:0>さんの
-<任意文字:1>の
-<任意文字:2>が　<任意文字:3>Ｇで
-売られました。
+<任意文字:0>'s
+<任意文字:1>
+<任意文字:2> was sold
+for <任意文字:3>G.
 
 525_1: 
-１ターンのあいだ
-<任意文字:0>さんの お店の
-買い物料が<任意文字:1>％アップします。
+Shop fees increased for
+<任意文字:0>
+by <任意文字:1>%.
 
 526_1: 
-値段を上げるお店を
-選んでください。
+Choose a shop to increase
+the value of.
 
 527_1: 
-<任意文字:0>の
-<任意文字:1>の値段が
-<任意文字:2>％　値上がりしました。
+<任意文字:0>
+<任意文字:1> values
+increased by <任意文字:2>%.
 
 528_1: 
-<任意文字:0>さんは
-<任意文字:1>の
-株を<任意文字:2>株　手に入れた！
+<任意文字:0> got
+<任意文字:2> shares of
+<任意文字:1>!
 
 529_1: 
-<任意文字:0>さんの　お店を
-<任意文字:1>倍の　値段で払い戻せます。
-お店を　売りますか？
+<任意文字:0> can get
+a <任意文字:1>x shop buy-back.
+Do you want to sell?
 
 530_1: 
-このお店を売ります。
-よろしいですか？
+This shop will be sold.
+Are you sure?
 
 531_1: 
-お店を売るのをやめました。
+Canceled selling of shop.
 
 
 532_1: 
-＋<任意文字:0>Ｇで売る
-お店を選んでください。
+Choose a shop to sell
+at +<任意文字:0>G.
 
 533_1: 
-このお店を　＋<任意文字:0>Gで
-売りますか？
+Sell this shop at
++<任意文字:0>?
 
 534_1: 
-1ターンのあいだ
-<任意文字:0>さんのお店の
-買い物料が半額になります！
+Shop fees for <任意文字:0>
+are half-price for
+1 turn!
 
 535_1: 
-１ターンのあいだ
-<任意文字:0>さんは　買い物料の
-分け前が　もらえます。
+Recive portion of <任意文字:0>'s
+shop fees for
+1 turn.
 
 536_1: 
-<任意文字:0>さんは
-<任意文字:1>軒×<任意文字:2>Ｇ
-<任意文字:3>Gの　収入！
+<任意文字:0> receives
+(<任意文字:1>軒×<任意文字:2>G)
+<任意文字:3>G!
 
 537_1: 
-他の人のいる場所を
-行き先に選んでください。
+Choose a destination where
+another player is at.
 
 538_1: 
-１ターンのあいだ　全員の
-お店の　買い物料が
-<任意文字:0>Ｇになります！
+All shop fees will be
+<任意文字:0>G for
+1 turn!
 
 539_1: 
-１ターンのあいだ
-<任意文字:0>さんの　お店が
-お休みになります。
+Shops for <任意文字:0>
+will be closed on
+holiday for 1 turn.
 
 540_1: 
-<任意文字:0>さんの　株を
-<任意文字:1>％　高く売れます。
-売りますか？
+<任意文字:0> can sell
+shares <任意文字:1>% higher.
+Will you sell?
 
 541_1: 
-株を売るのをやめました。
+Share selling canceled.
 
 
 542_1: 
-しかし　<任意文字:0>さんは
-株を　持っていませんでした。
+But <任意文字:0> does not
+have any shares.
 
 543_1: 
-<任意文字:0>Ｇ　払って
-増資しますか？
+Pay <任意文字:0>G to
+invest?
 
 544_1: 
-残念！　<任意文字:0>Ｇのお金を
-持っていませんでした。
+Too bad! You do not have
+<任意文字:0>G.
 
 545_1: 
-<任意文字:0>さんは好きな株を
-<任意文字:1>％　高く買えます。
-買いますか？
+<任意文字:0> can buy shares
+of their choice at <任意文字:1>%
+higher. Will you buy?
 
 546_1: 
-株を買うのをやめました。
+Share buying canceled.
 
 
 547_1: 
-残念！　株を買うお金を
-持っていませんでした。
+Too bad! You do not have
+the money to buy shares.
 
 548_1: 
-<任意文字:0>Ｇあげる人を
-選んでください。
+Choose a player to give
+<任意文字:0>G.
 
 549_1: 
-<任意文字:0>さんに
-<任意文字:1>Ｇあげました。
+Gave <任意文字:1>G to
+<任意文字:0>.
 
 550_1: 
-<任意文字:0>の
-すべての　お店の値段が
-<任意文字:1>％　値下がりしました。　
+All of <任意文字:0>'s
+shops have decreased in
+value by <任意文字:1>%.
 
 551_1: 
-<任意文字:0>の
-株が<任意文字:1>％
-値下がりしました。
+<任意文字:0> shares
+have decreased by
+<任意文字:1>%.
 
 552_1: 
-<任意文字:0>さんは
-<任意文字:1>株×<任意文字:2>Ｇ
-<任意文字:3>Ｇの　支払い！
+<任意文字:0> pays
+(<任意文字:1> shares ×<任意文字:2>G)
+<任意文字:3>G!
 
 553_1: 
-<任意文字:0>の
-<任意文字:1>の値段が
-<任意文字:2>％　値下がりしました。
+<任意文字:0>'s
+<任意文字:1> values
+decreased by <任意文字:2>%!
 
 554_1: 
-しかし　まわりにお店が
-ありませんでした。
+But there were no
+adjacent shops.
 
 555_1: 
-<任意文字:0>さんは
-<任意文字:1>軒×<任意文字:2>Ｇ
-<任意文字:3>Ｇの　支払い！
+<任意文字:0> pays
+(<任意文字:1> shops ×<任意文字:2>G)
+<任意文字:3>G!
 
 556_1: 
-<任意文字:0>さん
-<任意文字:1>Ｇの　支払い！
+<任意文字:0> pays
+<任意文字:1>G!
 
 557_1: 
-持ち主のいるすべての
-紙の店が　わらの店に
-なりました！
+All owned paper shops
+turned into straw
+shops!
 
 558_1: 
-しかし　なにも
-おきませんでした。
+But nothing happened.
+
 
 559_1: 
-持ち主のいるすべての
-わらの店が　紙の店に
-なりました！
+All owned straw shops
+turned into paper
+shops!
 
 560_1: 
-<任意文字:0>Ｇ　払って
-ぎんこう城に　行きますか？
+Pay <任意文字:0>G to
+go to the bank?
 
 561_1: 
-好きな場所を行き先に
-選んでください。
+Choose the destination
+of your choice.
 
 562_1: 
-<任意文字:0>G　払って
-ワープしますか？
+Pay <任意文字:0>G
+to warp?
 
 563_1: 
-<任意文字:0>さんは好きな株を
-<任意文字:1>％　安く買えます。
-買いますか？
+<任意文字:0> can buy
+shares <任意文字:1>% cheaper.
+Will you buy?
 
 564_1: 
-<任意文字:0>の
-株が<任意文字:1>％
-値上がりしました。
+<任意文字:0> shares
+increased by <任意文字:1>%.
+
 
 565_1: 
-持っている　株の
-金額に　応じて
-<任意文字:0>％の　配当がもらえます。
+Earned a <任意文字:0>% dividend
+of held shares respectively.
 
 566_1: 
-<任意文字:0>さんは
-<任意文字:1>G×<任意文字:2>％
-<任意文字:3>Gの　収入！
+<任意文字:0> gets
+(<任意文字:1>G×<任意文字:2>%)
+<任意文字:3>G!
 
 567_1: 
-好きな　お店か空き地を
-<任意文字:0>倍の値段で　買い取れます。
-買いますか？
+You can buy the shop or
+open space of your choice at
+<任意文字:0>x. Will you buy?
 
 568_1: 
-<任意文字:0>倍で買う　お店か空き地を
-選んでください。
+Choose a shop or open
+space to buy at <任意文字:0>x.
 
 569_1: 
-このお店を買います。
-よろしいですか？
+You will buy this shop.
+Are you sure?
 
 570_1: 
 ！！！！
-このお店を買うと　自分のお店を
-売ることになります。
+You will need to sell a
+shop in order to buy this.
 
 571_1: 
 ！！！！
-それでも
-お店を買いますか？
+Do you still want to
+buy this shop?
 
 572_1: 
-このお店は買えません。
+You cannot buy that shop.
 
 
 573_1: 
-お店を買うのをやめました。
+Shop buying canceled.
 
 
 574_1: 
-残念！　お店を買うお金が
-ありませんでした。
+Too bad! You don't have
+any money to buy shops.
 
 575_1: 
-<任意文字:0>さんは
-株を買いますか？
+Will you buy shares,
+<任意文字:0>?
 
 576_1: 
-１ターンのあいだ
-<任意文字:0>さんの
-お店の　買い物料が
-<任意文字:1>倍になります。
+Shop fees for <任意文字:0>
+will be at <任意文字:1>x
+for 1 turn.
 
 577_1: 
-賞金として
-<任意文字:0>G　もらいました！
+Received a prize of
+<任意文字:0>G!
 
 578_1: 
-まだ　持ち主のいない
-お店か空き地を　買えます。
-買いますか？
+You can still buy unowned
+shops or open spaces.
+Will you buy?
 
 579_1: 
-買いたい　持ち主のいない
-お店か空き地を選んでください。
+Choose the unowned shop
+or open space you want.
 
 580_1: 
-しかし　もう
-空いているお店は
-ありませんでした。
+But there are no more
+available shops.
+
 
 581_1: 
-２倍で競売に出すお店を
-選んでください。
+Choose a shop to auction
+for 2x the value.
 
 582_1: 
-まだ　持ち主のいない
-お店か空き地を
-<任意文字:0>倍の値段で　買えます。
-買いますか？
+You can still buy unowned
+shops or open spaces at
+<任意文字:0>x value. Buy?
 
 583_1: 
-すべてのエリアの株を
-<任意文字:0>株ずつ　もらいました！
+Received <任意文字:0> shares
+each of all areas!
 
 584_1: 
-まだ　持ち主のいない
-お店か空き地を
-＋<任意文字:0>Gで　買えます。
-買いますか？
+You can still buy unowned
+shops or open spaces at
++<任意文字:0>G. Will you buy?
 
 585_1: 
-＋<任意文字:0>Ｇで買う　持ち主のいない
-お店か空き地を選んでください。
+Choose an unowned shop or
+open space to buy at +<任意文字:0>G.
 
 586_1: 
 ！！！！
-それでも
-＋<任意文字:0>Gでお店を買いますか？
+Are you still sure you
+want to buy at +<任意文字:0>G?
 
 587_1: 
-<任意文字:0>さん以外の人は
-１ターンのあいだ
-１しか　進めません！
+Everyone other than
+<任意文字:0> must advance
+only 1 space for 1 turn!
 
 588_1: 
-<任意文字:0>さん以外の人は
-どこか　とおくに飛ばされた！
+Everyone other than
+<任意文字:0> is sent flying!
 
 589_1: 
-<任意文字:0>さん
-<任意文字:1>G×<任意文字:2>人
-<任意文字:3>の　収入！
+<任意文字:0> receives
+(<任意文字:1>G×<任意文字:2> players)
+<任意文字:3>G!
 
 590_1: 
-全員の場所が
-入れ替わりました。
+All players locations are
+shuffled.
 
 591_1: 
-どこかのエリアのお店が
-ルーレットの結果で変わります。
-ルーレット　スタート！
+Shop areas will be changed
+by the roulette result.
+ROLL-ETTE START!
 
 592_1: 
-<任意文字:0>さんと
-<任意文字:1>さんの
-場所が　入れ替わりました。
+<任意文字:0>
+swapped places with
+<任意文字:1>.
 
 593_1: 
-残念！　他の人が
-ひとりしか　いませんでした。
+Too bad! There are no
+other players but you.
 
 594_1: 
-残念！　全員　同じ
-マスにいました。
+Too bad! Everyone is
+already on the same space.
 
 595_1: 
-全員　どこでもカードを
-１枚ずつ　手に入れました！
+Everyone receives one
+どこでもカード!
 
 596_1: 
-どこかのエリアの株が
-ルーレットの結果で変わります。
-ルーレット　スタート！
+Shop areas will be changed
+by the roulette result.
+ROLL-ETTE START!
 
 597_1: 
-持っている　すべてのお店の
-値段に　応じて
-<任意文字:0>％の　お金がもらえます。
+Receive <任意文字:0>% dividend
+for all shares held based
+on their respective price.
 
 598_1: 
-<任意文字:0>さんは
-<任意文字:1>G×<任意文字:2>％
-<任意文字:3>G　の収入！
+<任意文字:0> receives
+(<任意文字:1>G×<任意文字:2>%)
+<任意文字:3>G!
 
 599_1: 
-プレゼントの中身は
-マーク４つだった！
+The box contained a
+set of 4 suits!
 
 600_1: 
-<任意文字:0>さんは
-マークが
-４つそろいました。
+<任意文字:0> got
+a set of 4 suits.
+
 
 601_1: 
-<任意文字:0>さんは
-どこでもカードを
-１枚　手に入れた！
+<任意文字:0> got
+! どこでもカード!
+
 
 602_1: 
-しかし　いんせきは
-落ちてきませんでした。
+But a meteor didn't
+fall.
 
 603_1: 
-<任意文字:0>さんの
-<任意文字:1>が　<任意文字:2>Ｇで
-売られました。
+<任意文字:0>'s
+<任意文字:1>
+was sold for <任意文字:2>G.
 
 604_1: 
-<任意文字:0>の値段が
-<任意文字:1>％　値下がりしました。
+Value of <任意文字:0>
+decreased <任意文字:1>%.
 
 605_1: 
-<任意文字:0>の値段が
-<任意文字:1>％　値上がりしました。
+Value of <任意文字:0>
+increased <任意文字:1>%.
 
 606_1: 
-このお店を競売にかけますか？
+Start an auction for this shop?
 
 607_1: 
-２倍で買う　持ち主のいない
-お店か空き地を選んでください。
+Choose an unowned shop or
+open space to buy at 2x.
 
 608_1: 
-<アイコン:マル>ボタンで移動します。
+Move with the <アイコン:マル> button.
 
 609_1: 
-増資あまり
+Investment
 <金額:0>
 
 610_1: 
-増資あまり
+Investment
 MAX
 
 611_1: 
-売却価格
+Sell Price
 <金額:0>
 
 612_1: 
-競売価格
+Auction Price
 <金額:0>
 
 613_1: 
-買取価格
+Buy Price
 <金額:0>
 
 614_1: 
-リリーフ中
+In Relief
 
 615_1: 
-お店価格
+Shop Price
 
 616_1: 
-買い物料
+Shop Fee
 
 617_1: 
-増資あまり
+Invest Price
 
 618_1: 
 ！！！！！！！
@@ -2380,192 +2372,192 @@ MAX
 ！！！！！！！
 
 620_1: 
-エリア名
+Area Name
 
 621_1: 
-株価
+Share Value
 
 622_1: 
-競売
+Auction
 
 623_1: 
-１０Ｇ　Up
+10G　Up
 
 624_1: 
-売り出し価格
+Sell Value
 
 625_1: 
-あげる店
+Give Shop
 
 626_1: 
-もらう店
+Get Shop
 
 627_1: 
-差額
+Balance
 
 628_1: 
-交渉
+Trade
 
 629_1: 
-お金をもらう
+Get Money
 
 630_1: 
-お金をあげる
+Give Money
 
 631_1: 
-中止
+Stop
 
 632_1: 
-絶対しない
+Never
 
 633_1: 
-取引価格
+Sale Value
 
 634_1: 
 <プレイヤー名:0> ⇒ <プレイヤー名:1>
 <金額:0>
 
 635_1: 
-誰を　狙いますか？
-行き先の効果は発生しません。
+Who will you target?
+The space will have no effect.
 
 636_1: 
-<プレイヤーさん:0>は
-株とお店を売っても
-支払金額に足りないため
-破産となります。
+<プレイヤーさん:0> will
+bankrupt as they do not
+have enough shares or
+shops to sell.
 
 637_1: 
-<プレイヤーさん:0>は
-お店を売っても
-支払金額に足りないため
-破産となります。
+<プレイヤーさん:0> vill
+bankrupt as they cannot
+pay even if they sell
+their shops.
 
 638_1: 
-<プレイヤーさん:0>の持っている
-お店と株を売却しました。
+<プレイヤーさん:0>'s shops
+and shares were sold.
 
 639_1: 
-<プレイヤーさん:0>の持っている
-お店を売却しました。
+<プレイヤーさん:0>'s shops
+were sold.
 
 640_1: 
-チャンスカード
+Chance Card
 
 641_1: 
-好きなマスを行き先に選んでください。
+Choose the space to move to.
 
 642_1: 
-売りたい自分のお店を選んでください。
+Choose your shop to sell.
 
 643_1: 
-買いたい他人のお店を選んでください。
+Choose their shop to buy.
 
 644_1: 
-交換したい自分のお店を選んでください。
+Choose your shop to trade.
 
 645_1: 
-交換したい他人のお店を選んでください。
+Choose their shop to trade.
 
 646_1: 
-１軒目の交換したい自分のお店を選んでください。
+Choose your 1st shop to trade.
 
 647_1: 
-２軒目の交換したい自分のお店を選んでください。
+Choose your 2nd shop to trade.
 
 648_1: 
-１軒目の交換したい他人のお店を選んでください。
+Choose their 1st shop to trade.
 
 649_1: 
-２軒目の交換したい他人のお店を選んでください。
+Choose their 2nd shop to trade.
 
 650_1: 
-改築するお店を選んでください。
+Choose a shop to remodel.
 
 651_1: 
-値段を上げるお店を選んでください。
+Choose a shop to increase value.
 
 652_1: 
-増資するお店を選んでください。
+Choose a shop to invest in.
 
 653_1: 
-ぎんこう城に売るお店を選んでください。
+Choose a shop to sell to the bank.
 
 654_1: 
-競売にかけるお店を選んでください。
+Choose a shop to auction.
 
 655_1: 
-２倍で売るお店を選んでください。
+Choose a shop to sell at 2x value.
 
 656_1: 
-＋２００Ｇで売るお店を選んでください。
+Choose a shop to sell at +200G.
 
 657_1: 
-３倍で売るお店を選んでください。
+Choose a shop to sell at 3x value.
 
 658_1: 
-５倍で買うお店を選んでください。
+Choose a shop to buy at 5x value.
 
 659_1: 
-４倍で買うお店を選んでください。
+Choose a shop to buy at 4x value.
 
 660_1: 
-３倍で買うお店を選んでください。
+Choose a shop to buy at 3x value.
 
 661_1: 
-持ち主のいない買いたいお店か空き地を選んでください。
+Choose an unowned shop or open space to buy.
 
 662_1: 
-＋２００Ｇで買いたい持ち主のいないお店か空き地を選んでください。
+Choose an unowned shop or open space to buy at +200G.
 
 663_1: 
-好きなお店か空き地を行き先に選んでください。
+Choose a shop or open space destination.
 
 664_1: 
-好きなチャンスを行き先に選んでください。
+Choose your preferred Chance destination.
 
 665_1: 
-チャンス以外の場所を行き先に選んでください。
+Choose a non-Change destination.
 
 666_1: 
-凍らせる場所を選んでください。凍っている場所は溶けます。
+Choose a frozen space. Frozen spaces will be thawed.
 
 667_1: 
- 交換 
+ Trade 
 
 668_1: 
-ぎんこう城
+Bank
 
 669_1: 
- 売買 
+ Buy/Sell 
 
 670_1: 
-<任意文字:0>エリア
+<任意文字:0> area
 
 671_1: 
 <金額:0>⇒<金額:1>
 
 672_1: 
- 増資 
+ Capital 
 
 673_1: 
-増資限度額は<金額:0>です。
-いくら増資しますか？
+Investment limit is <金額:0>.
+How much will you invest?
 
 674_1: 
-増資後
+LEFT
 
 675_1: 
-ＭＡＸ
+MAX
 
 676_1: 
-株価予測
+Est. Value
 
 677_1: 
 ！！！！！！！
 
 678_1: 
-倍
+x
 
 679_1: 
 ！！！！！！！
@@ -2616,50 +2608,50 @@ MAX
 ！！！！！！！
 
 695_1: 
-新築
+Build
 
 696_1: 
-改築
+Remodel
 
 697_1: 
 ∞
 
 698_1: 
-どの建物を　建てますか？
+Which building will you build?
 
 699_1: 
-どの建物を　改築しますか？
-今の施設の売り値：<金額:0>
+Which building will you remodel?
+Current sell value: <金額:0>
 
 700_1: 
-現在の順位
+Current Rank
 
 701_1: 
-<任意文字:0>位
+#<任意文字:0>
 
 702_1: 
-<任意文字:0>％
+<任意文字:0>%
 
 703_1: 
 ！！！！！！！
 
 704_1: 
-１位との差
+Diff from #1
 
 705_1: 
-２位との差
+Diff from #2
 
 706_1: 
-目標金額までの残り
+Left until goal
 
 707_1: 
-次のレベルアップ賞金
+Next Level Income
 
 708_1: 
-お店数
+# Shops
 
 709_1: 
-増資率
+Capital Gains
 
 710_1: 
 <任意文字:0>／<任意文字:1>
@@ -2707,55 +2699,56 @@ MAX
 ！！！！！！！
 
 725_1: 
-<任意文字:0>さん
-が通信エラーになりました。以後リリーフになります。
-<任意文字:3>さんの順番の最初からやり直します。
+Connection error occurred with
+<任意文字:0>. They are in Relief.
+Restarting at <任意文字:3>'s turn.
 
 726_1: 
-<任意文字:0>さん
-<任意文字:1>さん
-が通信エラーになりました。以後リリーフになります。
-<任意文字:3>さんの順番の最初からやり直します。
+Connection error occurred with
+<任意文字:0> and
+<任意文字:1>. They are in Relief.
+Restarting at <任意文字:3>'s turn.
 
 727_1: 
-<任意文字:0>さん
-<任意文字:1>さん
-<任意文字:2>さん
-が通信エラーになりました。以後リリーフになります。
-<任意文字:3>さんの順番の最初からやり直します。
+Connection error occurred with
+<任意文字:0>,
+<任意文字:1>, and
+<任意文字:2>. They are in Relief.
+Restarting at <任意文字:3>'s turn.
 
 728_1: 
-<任意文字:0>さん
-が通信エラーになりました。以後リリーフになります。
+Connection error occurred with
+<任意文字:0>. They are in Relief.
 
 729_1: 
-<任意文字:0>さん
-<任意文字:1>さん
-が通信エラーになりました。以後リリーフになります。
+Connection error occurred with
+<任意文字:0> and
+<任意文字:1>. They are in Relief.
 
 730_1: 
-<任意文字:0>さん
-<任意文字:1>さん
-<任意文字:2>さん
-が通信エラーになりました。以後リリーフになります。
+Connection error occurred with
+<任意文字:0>,
+<任意文字:1>, and
+<任意文字:2>. They are in Relief.
 
 731_1: 
-通信が遅れているので
-<任意文字:0>さんの順番の最初からやり直します。
+Restarting at <任意文字:0>'s
+turn due to a slow connection.
 
 732_1: 
-時間切れのため
-<任意文字:0>さんの順番の最初からやり直します。
+Restarting at <任意文字:0>'s
+turn due to a network timeout.
 
 733_1: 
-他の人を待っています。
-しばらく　お待ちください。
+Waiting on other players...
+Please stand by.
 
 734_1: 
-通信待ちです。しばらくお待ちください。
+Connecting...
+Please stand by.
 
 735_1: 
-スタンプガイド
+Stamp Guide
 
 736_1: 
 ！！！！！！！
@@ -2764,53 +2757,53 @@ MAX
 ！！！！！！！
 
 738_1: 
-購入価格
+Buy Price
 
 739_1: 
-売却価格
+Sell Price
 
 740_1: 
-いただきストリートの
-基本的なルールを　説明します。
+I'll explain the main rules
+for Fortune Street.
 
 741_1: 
-いただきストリートで売り買いする
-お店について　説明します。
+I'll explain about buying and
+selling shops in Fortune Street.
 
 742_1: 
-いただきストリートで　お金を増やすために大切な
-「株」について　説明します。
+I'll explain how to get more
+money using "shares" in Fortune Street.
 
 743_1: 
-大きく儲けるための
-株を使ったテクニックを　説明します。
+I'll explain the stock-buying
+strategy.
 
 744_1: 
-お店がないときでも
-儲けることができる　テクニックを説明します。
+I'll explain the no-shop
+strategy.
 
 745_1: 
-初心者でも遊びやすい　
-イージーモードについて　説明します。
+I'll explain the newcomer-friendly
+EZ Mode.
 
 746_1: 
-タイトルメニューに　戻ります。
+Return to the title screen.
 
 747_1: 
-落札者が確定したので
-競売を終了しました。
+The auction ended as a high
+bidder was decided.
 
 748_1: 
-優勝条件：
-目標金額をこえる
-総資産で　ぎんこう城に早く
-たどりついた人が優勝！
+Victory Condition:
+The player who crosses the
+target asset threshold and
+gets to the bank, wins!
 
 749_1: 
-優勝条件：
-目標金額をこえた人が
-ぎんこう城についた時に
-<文字色:黄>総資産の一番多い人<文字色:終了>が優勝！
+Victory Condition:
+The player <文字色:黄>with the most
+assets<文字色:終了> wins when one
+player reaches the goal and the bank!
 
 750_1: 
 <アイコン:L1>
@@ -2825,7 +2818,7 @@ MAX
 ★
 
 754_1: 
-倍
+x
 
 755_1: 
 Up

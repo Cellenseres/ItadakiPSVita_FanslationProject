@@ -20,7 +20,7 @@
 ！！！！！！！
 
 8_1: 
-枚
+shares
 
 9_1: 
 ！！！！！！！
@@ -62,7 +62,7 @@ S Rank
 Strength
 
 22_1: 
-所持コイン数
+# Coins
 
 23_1: 
 Main Menu
@@ -74,34 +74,34 @@ Main Menu
 Solo Play
 
 26_1: 
-通信で対戦
+Net Match
 
 27_1: 
 Rules
 
 28_1: 
-景品交換所
+Prize Shop
 
 29_1: 
-戦績
+Results
 
 30_1: 
 Museum
 
 31_1: 
-各種設定
+Settings
 
 32_1: 
-プレイヤー名簿
+Player Info
 
 33_1: 
 ！！！！！！！
 
 34_1: 
-名簿から削除
+Delete All
 
 35_1: 
-他アカウントからロード
+Load Other Account
 
 36_1: 
 あなたのプレイヤーデータをロードしますが　よろしいですか？
@@ -118,13 +118,13 @@ Museum
 他のコントローラーで　選択してください。
 
 40_1: 
-通信対戦
+Net Match
 
 41_1: 
-ゲームを主催
+Host Game
 
 42_1: 
-ゲームに参加
+Join Game
 
 43_1: 
 1P
@@ -142,13 +142,13 @@ Museum
 Map Select
 
 48_1: 
-目標金額
+Asset Goal
 
 49_1: 
 Character Select
 
 50_1: 
-たいせん相手選択
+Opponent Select
 
 51_1: 
 Enter Name
@@ -160,25 +160,25 @@ Rules
 Rules
 
 54_1: 
-順番決定
+Turn Order
 
 55_1: 
 Random
 
 56_1: 
-そのまま
+As-is
 
 57_1: 
-目標金額
+Asset Goal
 
 58_1: 
-オススメ
+Recommended
 
 59_1: 
-じぶんで
+Manual
 
 60_1: 
-破産人数
+Bankrupties
 
 61_1: 
 1P
@@ -199,7 +199,7 @@ All
 Slots
 
 67_1: 
-Colisseum
+Colosseum
 
 68_1: 
 VS Metals
@@ -268,16 +268,16 @@ Super Fast
 ！！！！！！！
 
 90_1: 
-Restor Defaults
+Restore Defaults
 
 91_1: 
 Confirm
 
 92_1: 
-イージーモードでは　空き地ルールを設定できません。
+Open Space rules unused during EZ Mode.
 
 93_1: 
-イージーモードでは　取り引きの設定はできません。
+Sale rules unused during EZ Mode.
 
 94_1: 
 ！！！！！！！
@@ -310,16 +310,16 @@ Confirm
 Start
 
 104_1: 
-設定を変える
+Change Settings
 
 105_1: 
-たいせん相手選択
+Opponent Select
 
 106_1: 
 Yes
 
 107_1: 
-選び直す
+Change
 
 108_1: 
 Player
@@ -328,13 +328,13 @@ Player
 AI
 
 110_1: 
-前回の続き
+Continue
 
 111_1: 
 Start New
 
 112_1: 
-各種設定
+Player Info
 
 113_1: 
 ！！！！！！！
@@ -370,25 +370,25 @@ Start New
 Back
 
 124_1: 
-順番決定
+Turn Order
 
 125_1: 
 Rules
 
 126_1: 
-目標金額
+Asset Goal
 
 127_1: 
-<任意文字:0>の部屋
+<任意文字:0> Room
 
 128_1: 
 Room Name
 
 129_1: 
-状況
+Requirement
 
 130_1: 
-再検索
+Review
 
 131_1: 
 Character
@@ -400,7 +400,7 @@ Map
 Signup Rules
 
 134_1: 
-最強キャラクター
+Strongest Character
 
 135_1: 
 Prizes
@@ -438,22 +438,22 @@ Open Space Rules
 Quick Rules
 
 145_1: 
-基本ルール
+Main Rules
 
 146_1: 
-お店について
+About Shops
 
 147_1: 
-お金を増やすには
+Earning Money
 
 148_1: 
-株の必勝テクニック
+Share Strategy
 
 149_1: 
-お店がないときのテクニック
+Without Shops Tips
 
 150_1: 
-イージーモードについて
+About EZ Mode
 
 151_1: 
 Back to Menu
@@ -738,7 +738,7 @@ Coin
 登場作品順
 
 245_1: 
-ランク順
+Rank Order
 
 246_1: 
 解禁順
@@ -756,7 +756,7 @@ RULE
 Signup Rules
 
 251_1: 
-元のランク　<任意文字:0>ランク
+Previous Rank <任意文字:0> Rank
 
 252_1: 
 ITEM
@@ -785,16 +785,16 @@ Museum Name
 だれでもOK対戦条件
 
 259_1: 
-だれでもOK
+Public
 
 260_1: 
-だれでもOKロビー
+Public Lobby
 
 261_1: 
 COM追加選択
 
 262_1: 
-オンラインID
+Login ID
 
 263_1: 
 PlayStation<アイコン:TMマーク>Networkに
@@ -825,10 +825,10 @@ PlayStation<アイコン:TMマーク>Networkのフレンドと　通信対戦し
 フレンド機能を　ご利用ください。
 
 269_1: 
-どのキャラでもOK
+Any Character OK
 
 270_1: 
-どこでもOK
+Any Region OK
 
 271_1: 
 COMを追加してもいい
@@ -845,10 +845,10 @@ COMは追加しない
 だれかが追加してもいいを選択していても　そろうまで待ちます。
 
 275_1: 
-モード
+Mode
 
 276_1: 
-マップ
+Map
 
 277_1: 
 モードと　希望のマップを　選択します。
@@ -863,7 +863,7 @@ COMは追加しない
 （遊べるモードはスタンダードのみですが　ＢＧＭが選べます）
 
 280_1: 
-キャラ
+Character
 
 281_1: 
 どのキャラで遊ぶか　選択します。
@@ -932,7 +932,7 @@ EX
 人同士はマッチングしなくなります。
 
 299_1: 
-キャラクター名
+Character Name
 
 300_1: 
 他の人が希望した
@@ -943,7 +943,7 @@ PlayStation<アイコン:TMマーク>Network接続中です。
 しばらく　お待ちください。
 
 302_1: 
-対戦選択
+Choose Match
 
 303_1: 
 対戦相手しめきりまで
@@ -2397,8 +2397,8 @@ PlayStation<アイコン:TMマーク>Networkの　データ確認中です。
 各種設定に戻ります。
 
 716_1: 
-ゲームデータのアップロード
+Download DLC
 
 717_1: 
-ゲームデータのダウンロード
+Download DLC
 
