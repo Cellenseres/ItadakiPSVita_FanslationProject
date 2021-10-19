@@ -104,18 +104,18 @@ Delete All
 Load Other Account
 
 36_1: 
-あなたのプレイヤーデータをロードしますが　よろしいですか？
-対戦を中断した場合　他アカウントの成績はセーブされません。
+Your player data will be loaded, are you sure?
+Results won't be saved to alternate accounts if match is paused.
 
 37_1: 
 －－－－－
 
 38_1: 
-選択されたアカウントには　セーブデータがありません。
+Could not save data to the chosen account.
 
 39_1: 
-このコントローラーは　すでにアカウント登録されています。
-他のコントローラーで　選択してください。
+An account is already registered.
+Choose another controller.
 
 40_1: 
 Net Match
@@ -274,7 +274,7 @@ Restore Defaults
 Confirm
 
 92_1: 
-Open Space rules unused during EZ Mode.
+Vacancy rules unused during EZ Mode.
 
 93_1: 
 Sale rules unused during EZ Mode.
@@ -409,30 +409,30 @@ Prizes
 Back to Title Screen
 
 137_1: 
-使用するキャラクターを増やすことができます。
+More characters are available to use.
 
 138_1: 
-「自由に遊ぶ」と「通信で対戦」で
-マップを　増やすことができます。
+More maps are available to play in
+"Free Play" and "Net Match" modes.
 
 139_1: 
-「自由に遊ぶ」と「通信で対戦」の中で　
-今までと違った遊び方が　できるようになります。
+How you play will change in "Free Play"
+and "Net Match" modes.
 
 140_1: 
-手強い相手と戦うことが
-できるようになります。
+You will be up against
+stronger opponents.
 
 141_1: 
-ミュージアムに展示されるアイテムを
-増やすことができます。
+More items are on display in
+the museum.
 
 142_1: 
-景品交換をやめて　タイトルメニューに
-戻ります。
+Quit Prize Exchange, and return to
+the title screen.
 
 143_1: 
-Open Space Rules
+Vacancy Rules
 
 144_1: 
 Quick Rules
@@ -459,103 +459,103 @@ About EZ Mode
 Back to Menu
 
 152_1: 
-<アイコン:バツ>：戻る　<アイコン:サンカク>：表示切替　<アイコン:シカク>：ソート切替
+<アイコン:バツ>:Back <アイコン:サンカク>: Change Display <アイコン:シカク>: Change Sort
 
 153_1: 
-<アイコン:バツ>：戻る　<アイコン:サンカク>：表示切替
+<アイコン:バツ>: Back　<アイコン:サンカク>: Change Display
 
 154_1: 
-<アイコン:バツ>：戻る
+<アイコン:バツ>: Back
 
 155_1: 
-<アイコン:バツ>：戻る
+<アイコン:バツ>: Back
 
 156_1: 
-<アイコン:バツ>：戻る
+<アイコン:バツ>: Back
 
 157_1: 
-<アイコン:バツ>：戻る
+<アイコン:バツ>: Back
 
 158_1: 
-<アイコン:バツ>：タイトルメニューに戻る
+<アイコン:バツ>: Back to Title
 
 159_1: 
-<アイコン:バツ>：キャラクターを選び直す
+<アイコン:バツ>: Reselect Character
 
 160_1: 
-<アイコン:シカク>：最強モードに切替
+<アイコン:シカク>: Change Strongest Mode
 
 161_1: 
-<アイコン:シカク>：通常モードに切替
+<アイコン:シカク>: Change Normal Mode
 
 162_1: 
-<アイコン:マル>：進む
+<アイコン:マル>: Next
 
 163_1: 
-<アイコン:マル>：進む　<アイコン:バツ>：戻る
+<アイコン:マル>: Next <アイコン:バツ>: Back
 
 164_1: 
 ！！！！！！！
 
 165_1: 
-<アイコン:サンカク>：「他アカウントからロード」を選択
+<アイコン:サンカク>: Choose "Load Other Account"
 
 166_1: 
-<アイコン:バツ>：「名前選択」へ戻る
+<アイコン:バツ>: Back to Name Input
 
 167_1: 
-<アイコン:バツ>：キャラクターを選び直す
+<アイコン:バツ>: Reselect Character
 
 168_1: 
-<アイコン:バツ>：戻る　<アイコン:サンカク>：前の設定に戻す　<アイコン:パッド>：決定へ移動　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:バツ>: Back <アイコン:サンカク>: Restore Settings <アイコン:パッド>: Confirm <アイコン:L1><アイコン:R1>: Change Page
 
 169_1: 
-<アイコン:バツ>：選び直す
+<アイコン:バツ>: Reselect
 
 170_1: 
-<アイコン:バツ>：戻る
+<アイコン:バツ>: Back
 
 171_1: 
-<アイコン:バツ>：「マップ選択」へ戻る
+<アイコン:バツ>: Back to "Map Select"
 
 172_1: 
-<アイコン:バツ>：「BGM設定」へ戻る
+<アイコン:バツ>: Back to "BGM Settings"
 
 173_1: 
-<アイコン:バツ>：戻る　<アイコン:パッド>：決定へ移動　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:バツ>: Back <アイコン:パッド>: Confirm <アイコン:L1><アイコン:R1>: Change Page
 
 174_1: 
-<アイコン:バツ>：通信をやめる
+<アイコン:バツ>: Disconnect
 
 175_1: 
-<アイコン:バツ>：通信をやめる　<アイコン:サンカク>：再検索
+<アイコン:バツ>: Disconnect <アイコン:サンカク>: Review
 
 176_1: 
-<アイコン:バツ>：ルームから出る
+<アイコン:バツ>: Leave Room
 
 177_1: 
-<アイコン:マル>：サインイン　<アイコン:バツ>：タイトルメニューに戻る
+<アイコン:マル>: Login <アイコン:バツ>: Return to Title
 
 178_1: 
-<アイコン:マル>：PlayStation<アイコン:Rマーク>Plusに加入　 <アイコン:バツ>：タイトルメニュー
+<アイコン:マル>: PlayStation<アイコン:Rマーク>Join with Plus <アイコン:バツ>: Title
 
 179_1: 
-<アイコン:バツ>：「対戦条件設定」へ戻る
+<アイコン:バツ>: Back to "Match Conditions"
 
 180_1: 
-<アイコン:バツ>：「対戦条件設定」へ戻る
+<アイコン:バツ>: Back to "Match Conditions"
 
 181_1: 
-<アイコン:バツ>：ルームから出る　<アイコン:オプション>：アカウント情報
+<アイコン:バツ>: Leave Room <アイコン:オプション>: Account Info
 
 182_1: 
-<アイコン:オプション>：アカウント情報
+<アイコン:オプション>: Account Info
 
 183_1: 
-<アイコン:パッド>：決定へ移動　<アイコン:L1><アイコン:R1>：ページ切替　<アイコン:オプション>：アカウント情報
+<アイコン:パッド>: Confirm <アイコン:L1><アイコン:R1>: Change Page <アイコン:オプション>: Account Info
 
 184_1: 
-<アイコン:バツ>：戻る　<アイコン:サンカク>：再検索
+<アイコン:バツ>: Back <アイコン:サンカク>: Review
 
 185_1: 
 Map Name
@@ -591,130 +591,130 @@ Create Room
 Join Room
 
 196_1: 
-<アイコン:マル>：進む　<アイコン:バツ>：戻る
+<アイコン:マル>: Next　<アイコン:バツ>: Back
 
 197_1: 
-<アイコン:マル>：進む　<アイコン:バツ>：戻る
+<アイコン:マル>: Next　<アイコン:バツ>: Back
 
 198_1: 
-<アイコン:マル>：進む　<アイコン:バツ>：戻る
+<アイコン:マル>: Next　<アイコン:バツ>: Back
 
 199_1: 
-<アイコン:マル>：進む
+<アイコン:マル>: Next
 
 200_1: 
-<アイコン:マル>：進む
+<アイコン:マル>: Next
 
 201_1: 
-<アイコン:マル>：進む　<アイコン:バツ>：戻る
+<アイコン:マル>: Next <アイコン:バツ>: Back
 
 202_1: 
-<アイコン:マル>：コメント　<アイコン:サンカク>：鑑賞モード　<アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:マル>: Comments <アイコン:サンカク>: Likes Mode <アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Change Page
 
 203_1: 
-<アイコン:マル>：試写室に入る　<アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:マル>: Enter Gallery <アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Change Page
 
 204_1: 
-<アイコン:バツ>：美術品選択に戻る
+<アイコン:バツ>: Back to Museum
 
 205_1: 
-<アイコン:マル>：美術品を見る　<アイコン:サンカク>：鑑賞モード　<アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:マル>: See Art <アイコン:サンカク>: Likes Mode <アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Change Page
 
 206_1: 
-<アイコン:サンカク>：鑑賞モード　<アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:サンカク>: Likes Mode <アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Change Page
 
 207_1: 
-<アイコン:マル>：次のコメント　<アイコン:バツ>：作品説明に戻る　<アイコン:サンカク>：鑑賞モード　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:マル>: Next Comment <アイコン:バツ>: Back to Create Explanation <アイコン:サンカク>: Likes Mode <アイコン:L1><アイコン:R1>: Change Page
 
 208_1: 
-<アイコン:マル><アイコン:バツ>：作品説明に戻る　<アイコン:サンカク>：鑑賞モード　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:マル><アイコン:バツ>: Back to Create Explanation <アイコン:サンカク>: Likes Mode <アイコン:L1><アイコン:R1>: Change Page
 
 209_1: 
-<アイコン:マル>：試写室へ移動　<アイコン:サンカク>：鑑賞モード　<アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:マル>: Go to Gallery <アイコン:サンカク>: Likes Mode <アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Change Page
 
 210_1: 
-<アイコン:サンカク><アイコン:バツ>：鑑賞モードをやめる
+<アイコン:サンカク><アイコン:バツ>: Quit Likes Mode
 
 211_1: 
-<アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Change Page
 
 212_1: 
-<アイコン:マル>：美術品を見る　<アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:マル>: See Art <アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Change Page
 
 213_1: 
-<アイコン:マル>：コメント　<アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：美術品切替
+<アイコン:マル>: Comments <アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Change Art
 
 214_1: 
-<アイコン:マル>：次のコメント　<アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：美術品切替
+<アイコン:マル>: Next Comment <アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Change Art
 
 215_1: 
-<アイコン:バツ>：戻る　<アイコン:L1><アイコン:R1>：美術品切替
+<アイコン:バツ>: Back <アイコン:L1><アイコン:R1>: Change Art
 
 216_1: 
-<アイコン:マル><アイコン:バツ>：作品説明に戻る　<アイコン:L1><アイコン:R1>：美術品切替
+<アイコン:マル><アイコン:バツ>: Back to Create Explanation <アイコン:L1><アイコン:R1>: Change Art
 
 217_1: 
 No.<任意文字:0> / <任意文字:1>
 
 218_1: 
-<アイコン:バツ>：戻る　<アイコン:サンカク>：前の設定に戻す　<アイコン:パッド>：決定へ移動　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:バツ>: Back <アイコン:サンカク>: Restore Settings <アイコン:パッド>: Confirm <アイコン:L1><アイコン:R1>: Change Page
 
 219_1: 
-<アイコン:バツ>：戻る　<アイコン:パッド>：決定へ移動　<アイコン:L1><アイコン:R1>：ページ切替
+<アイコン:バツ>: Back <アイコン:パッド>: Confirm <アイコン:L1><アイコン:R1>: Change Page
 
 220_1: 
-<アイコン:サンカク><アイコン:シカク>：プレイヤーキャラクター切替　<アイコン:L1><アイコン:R1>：成績切替
+<アイコン:サンカク><アイコン:シカク>: Change Player Character <アイコン:L1><アイコン:R1>: Change Results
 
 221_1: 
-<アイコン:バツ>：戻る
+<アイコン:バツ>: Back
 
 222_1: 
-<アイコン:バツ>：タイトルメニューに戻る
+<アイコン:バツ>: Back to Title
 
 223_1: 
-<アイコン:サンカク><アイコン:シカク>：モード切替　<アイコン:L1><アイコン:R1>：成績切替
+<アイコン:サンカク><アイコン:シカク>: Change Mode <アイコン:L1><アイコン:R1>: Change Results
 
 224_1: 
-<アイコン:サンカク><アイコン:シカク>：表情切替　<アイコン:L1><アイコン:R1>：キャラクター切替
+<アイコン:サンカク><アイコン:シカク>: Change Expression <アイコン:L1><アイコン:R1>: Change Character
 
 225_1: 
-<アイコン:マル>：チャンスカード解説　<アイコン:バツ>：戻る
+<アイコン:マル>: Chance Card Details <アイコン:バツ>: Back
 
 226_1: 
-<アイコン:L1><アイコン:R1>：カード切替
+<アイコン:L1><アイコン:R1>: Change Card
 
 227_1: 
-<アイコン:L1><アイコン:R1>：文字種類切り替え　<アイコン:シカク>：文字を消す　<アイコン:バツ>：キャンセルにカーソル移動　<アイコン:オプション>： 決定にカーソル移動
+<アイコン:L1><アイコン:R1>: Change Alphabet <アイコン:シカク>: Erase <アイコン:バツ>: Cancel Cursor Movement <アイコン:オプション>: Confirm Cursor
 
 228_1: 
-<アイコン:バツ>：戻る　<アイコン:サンカク>：ハイライトを消す　<アイコン:シカク>：情報切替
+<アイコン:バツ>: Back <アイコン:サンカク>: Erase Highlight <アイコン:シカク>: Change Info
 
 229_1: 
-<アイコン:バツ>：戻る　<アイコン:マル>：ハイライトを消す　<アイコン:シカク>：情報切替
+<アイコン:バツ>: Back <アイコン:マル>: Erase Highlight <アイコン:シカク>: Change Info
 
 230_1: 
-<アイコン:R1>：ページ切替　<アイコン:バツ>：戻る　<アイコン:オプション>：アカウント情報
+<アイコン:R1>: Change Page <アイコン:バツ>: Back <アイコン:オプション>: Account Info
 
 231_1: 
-<アイコン:L1><アイコン:R1>：ページ切替　<アイコン:オプション>：アカウント情報
+<アイコン:L1><アイコン:R1>: Change Page <アイコン:オプション>: Account Info
 
 232_1: 
-<アイコン:L1>：ページ切替　<アイコン:マル>：次へ　<アイコン:オプション>：アカウント情報
+<アイコン:L1>: Change Page <アイコン:マル>: To Next <アイコン:オプション>: Account Info
 
 233_1: 
-<アイコン:マル>：進む　<アイコン:オプション>：アカウント情報
+<アイコン:マル>: Next <アイコン:オプション>: Account Info
 
 234_1: 
-<アイコン:R1>：ページ切替　<アイコン:マル>：進む　<アイコン:オプション>：アカウント情報
+<アイコン:R1>: Change Page <アイコン:マル>: Next <アイコン:オプション>: Account Info
 
 235_1: 
-<アイコン:L1>：ページ切替　<アイコン:マル>：進む　<アイコン:オプション>：アカウント情報
+<アイコン:L1>: Change Page <アイコン:マル>: Next <アイコン:オプション>: Account Info
 
 236_1: 
-<アイコン:バツ>：「名前選択」へ戻る　<アイコン:オプション>：アカウント情報
+<アイコン:バツ>: Back to "Name Input" <アイコン:オプション>: Account Info
 
 237_1: 
-<アイコン:バツ>：キャラクターを選び直す　<アイコン:オプション>：アカウント情報
+<アイコン:バツ>: Reselect Character <アイコン:オプション>: Account Info
 
 238_1: 
 MENU
@@ -732,16 +732,16 @@ Rank
 Coin
 
 243_1: 
-交換済み
+Confirm Trade
 
 244_1: 
-登場作品順
+Date Seen
 
 245_1: 
-Rank Order
+By Rank
 
 246_1: 
-解禁順
+Date Earned
 
 247_1: 
 MAP
@@ -765,24 +765,24 @@ ITEM
 Museum Name
 
 254_1: 
-自由に遊ぶで
-お店を空き地に変えて
-遊ぶことができます。
+You can play with open
+spaces rather than
+shops in free play.
 
 255_1: 
-自由に遊ぶで
-目標金額の半分のお金を
-持っている状態から
-遊ぶことができます。
+You can play after
+having half target
+assets during
+free play.
 
 256_1: 
-所持コイン数
+# Coins
 
 257_1: 
-この項目は未解放です。
+This item contains bad words.
 
 258_1: 
-だれでもOK対戦条件
+Public Match Conditions
 
 259_1: 
 Public
@@ -791,38 +791,38 @@ Public
 Public Lobby
 
 261_1: 
-COM追加選択
+Choose AI
 
 262_1: 
 Login ID
 
 263_1: 
-PlayStation<アイコン:TMマーク>Networkに
-サインインしていません。
-ネット対戦を行う場合は　 サインインする必要があります。
+Could not login to the
+PlayStation<アイコン:TMマーク>Network.
+Login is required for Net Matches.
 
 264_1: 
-PlayStation<アイコン:Rマーク>Plusに　加入していません。
-PlayStation<アイコン:Rマーク>Plusに　加入すると
-ネット対戦を行うことができます。
+PlayStation<アイコン:Rマーク>Plus not joined.
+Joining PlayStation<アイコン:Rマーク>Plus is
+required for Net Matches.
 
 265_1: 
-タイトルメニューに戻りますが　よろしいですか？
+Return to the title screen?
 
 266_1: 
-見知らぬ人たちと　通信対戦します。
-あらかじめ対戦条件を決めて
-同じ条件を希望する人と　対戦できます。　
+Net Match versus strangers.
+First decide on the game to
+look for similar players.
 
 267_1: 
-PlayStation<アイコン:TMマーク>Networkのフレンドと　通信対戦します。
-フレンドについては　PlayStation<アイコン:Rマーク>4
-フレンド機能を　ご利用ください。
+Net Match versus PlayStation<アイコン:TMマーク>Network friends.
+Friends are from your PlayStation<アイコン:Rマーク>4
+friends.
 
 268_1: 
-PlayStation<アイコン:TMマーク>Networkのフレンドと　通信対戦します。
-フレンドについては　PlayStation<アイコン:Rマーク>Vita
-フレンド機能を　ご利用ください。
+Net Match versus PlayStation<アイコン:TMマーク>Network friends.
+Friends are from your PlayStation<アイコン:Rマーク>Vita
+friends.
 
 269_1: 
 Any Character OK
@@ -831,17 +831,17 @@ Any Character OK
 Any Region OK
 
 271_1: 
-COMを追加してもいい
+AI OK
 
 272_1: 
-COMは追加しない
+No AI
 
 273_1: 
-参加者が４人そろわなくても　COMを入れて開始します。
+AI will be used when 4 players not found.
 だれかが追加しないを選択していたら　そろうまで待ちます。
 
 274_1: 
-参加者が４人そろうまで待ちます。
+Will wait for 4 players to join.
 だれかが追加してもいいを選択していても　そろうまで待ちます。
 
 275_1: 
@@ -851,34 +851,34 @@ Mode
 Map
 
 277_1: 
-モードと　希望のマップを　選択します。
-必ず　希望のマップで遊べるとは　かぎりません。
+Choose the mode and desired map.
+You may not always be able to play on that map.
 
 278_1: 
-どのマップで遊ぶか　選択してください。
-（スタンダード・イージーモードで遊べるマップです）
+Choose which map you will play on.
+(You can play on Standard or EZ Mode maps.)
 
 279_1: 
-どのマップで遊ぶか　選択してください。
-（遊べるモードはスタンダードのみですが　ＢＧＭが選べます）
+Choose which map you will play on.
+(Standard mode is playable, but you can select BGM.)
 
 280_1: 
 Character
 
 281_1: 
-どのキャラで遊ぶか　選択します。
+Choose which character to play.
 
 282_1: 
-COM追加
+AI Allowed
 
 283_1: 
-COMを追加していいか　選択します。
+Choose whether AI can join.
 
 284_1: 
 EX
 
 285_1: 
-この条件でさがす
+Experience level search
 
 286_1: 
 この条件で　対戦できる人をさがします。
@@ -893,180 +893,180 @@ EX
 検索範囲を広げて　対戦相手を探しますか？
 
 289_1: 
-キャンセル中です。
-しばらく　お待ちください。
+Canceling...
+Please wait a moment.
 
 290_1: 
-対戦相手がそろうまで
-しばらく　お待ちください。
+Looking for opponents...
+Please wait a moment.
 
 291_1: 
-しめきりまで
-しばらく　お待ちください。
+Please wait until
+search timeout.
 
 292_1: 
-ルームから出て　条件画面に戻ります。
-よろしいですか？
+Leave the room, and return to search.
+Are you sure?
 
 293_1: 
-遊ぶマップを　抽選します。
-しばらく　お待ちください。
+Finding map to play on.
+Please wait a moment.
 
 294_1: 
-遊ぶマップが　決定しました！
+Confirmed map!
 
 295_1: 
-遊ぶキャラを　抽選します。
-しばらく　お待ちください。
+Finding character to play as.
+Please wait a moment.
 
 296_1: 
-遊ぶキャラが　決定しました！
+Confirmed character!
 
 297_1: 
-使用するキャラクターを　キープしますか？
+Do you want to keep this character?
 
 298_1: 
-他の人と　使用キャラクターが
-同じだった時は　抽選になります。
-同じキャラクターを　キープした
-人同士はマッチングしなくなります。
+When both players choose the same
+character, a lottery will be held.
+If both players choose to keep,
+then you will be rematched.
 
 299_1: 
 Character Name
 
 300_1: 
-他の人が希望した
-マップで遊びます。
+The other player's map
+has been chosen.
 
 301_1: 
-PlayStation<アイコン:TMマーク>Network接続中です。
-しばらく　お待ちください。
+Searching PlayStation<アイコン:TMマーク>Network...
+Please wait a moment.
 
 302_1: 
 Choose Match
 
 303_1: 
-対戦相手しめきりまで
+Until opponents found
 
 304_1: 
-フレンド限定選択
+Friends-only
 
 305_1: 
-自分のルームを作る
+Create Room
 
 306_1: 
-フレンドのルームに入る
+Join Friend's Room
 
 307_1: 
-自分のルームを作って
-フレンドを待ちます。
+Creating your room,
+and waiting for friends.
 
 308_1: 
-参加できる
-フレンドのルームを探します。
+Searching for a friend's
+room to join.
 
 309_1: 
-フレンド限定対戦条件
+Friends-only match
 
 310_1: 
-この条件でルームを作る
+Create Room with Conditions
 
 311_1: 
-この条件で　ルームを作ります。
+Room created with conditions.
 
 312_1: 
-モードと　マップを　選択します。
+Select Mode and Map.
 
 313_1: 
-参加者が４人そろわなくても　COMを入れて開始します。
+AI will be added as there are less than 4 players.
 
 314_1: 
-参加者が４人そろうまで待ちます。
+Waiting for 4 players until starting.
 
 315_1: 
-フレンド限定ロビー
+Friends-only Lobby
 
 316_1: 
-使用する名前を選択してください。
+Input the name to use.
 
 317_1: 
-<任意文字:0>さん
-使用するキャラクターを選択してください。
+Choose the character to use,
+<任意文字:0>.
 
 318_1: 
-対戦キャラクターの　ランクを選択してください。
+Choose the character match rank.
 
 319_1: 
-対戦キャラクターは　これでいいですか？
+Is this match character okay?
 
 320_1: 
-対戦キャラクターが　決まりました。
+Match character confirmed.
 
 321_1: 
-このまま　ゲームを　始めます。
+The game will start now.
 
 322_1: 
-ルール設定を　変更することが　できます。
+You can change the rules.
 
 323_1: 
-順番をランダムで決めて　遊びます。
+Play with random turn order.
 
 324_1: 
-キャラクターを選んだ順番で　遊びます。
+Play with character-chosen turn order.
 
 325_1: 
-設定された目標金額で　遊びます。
+Play with custom goal.
 
 326_1: 
-自分で目標金額を決めて　遊びます。
+Play with your own set goal.
 
 327_1: 
-１人　破産するとゲームが　終了します。
+Game ends when 1 player bankrupts.
 
 328_1: 
-２人　破産するとゲームが　終了します。
+Game ends when 2 players bankrupt.
 
 329_1: 
-３人　破産するとゲームが　終了します。
+Game ends when 3 players bankrupt.
 
 330_1: 
-全てのゲームが登場します。
+All games are available.
 
 331_1: 
-カジノマスに止まった場合　スロットが登場します。
+Stopping at Casino uses Slots.
 
 332_1: 
-カジノマスに止まった場合　バトルコロシアムが登場します。
+Stopping at Casino uses Battle Colosseum.
 
 333_1: 
-カジノマスに止まった場合　ＶＳメタルが登場します。
+Stopping at Casino uses VS Metal.
 
 334_1: 
-カジノマスに止まった場合　チョコボの森が登場します。
+Stopping at Casino uses Chocobo Forest.
 
 335_1: 
-最初に持っているお金は　決められたとおりです。
+Starting money is as-is.
 
 336_1: 
-最初に持っているお金は　目標金額の半分です。
+Stsarting money is half goal.
 
 337_1: 
-コンピュータから　お店の交換や　売買の交渉が　あります。
+Receive shop requests from AI.
 
 338_1: 
-コンピュータから　お店の交換や　売買の交渉は　ありません。
+Will not receive shop requests from AI.
 
 339_1: 
-お店を空き地に変更しないで遊びます。
+Play without vacant lots.
 
 340_1: 
-お店をちょっとだけ　空き地に変更して　遊びます。
+Play with few vacant lots.
 
 341_1: 
-お店をかなり　空き地に変更して　遊びます。
+Play with many vacant lots.
 
 342_1: 
-お店を全て　空き地に変更して　遊びます。
+Play with all vacant lots.
 
 343_1: 
 ！！！！！！！
@@ -1108,46 +1108,46 @@ Choose Match
 ！！！！！！！
 
 356_1: 
-前の設定に戻します。
-よろしいですか？
+Previous settings will be restored.
+Are you sure?
 
 357_1: 
-ルール設定を終了して　ゲームを　始めます。
+Rule selection finished, the game will begin.
 
 358_1: 
-変更した設定が　無効になりますが
-よろしいですか？
+Setting change will have no effect.
+Are you sure?
 
 359_1: 
-<任意文字:0>さん
-対戦するキャラクターを選択してください。
+Choose a character for the match,
+<任意文字:0>.
 
 360_1: 
-<任意文字:0>さんの参加が　決定しました！
+<任意文字:0> joined!
 
 361_1: 
-スロットで順番を決定します。
+Turn Order will be decided by Slots.
 
 362_1: 
-順番が決定しました！
+Confirmed Turn Order!
 
 363_1: 
-<アイコン:マル>ボタンを押すとゲームが始まります！
+Press the <アイコン:マル> button to start the game!
 
 364_1: 
-出た数字の大きい人から順番に並び替えます。
+Turn Order by larger-numbered (rank?) player.
 
 365_1: 
-ステージクリア条件　優勝
+Stage Clear: Win
 
 366_1: 
-ステージクリア条件　２位以上
+Stage Clear: 2nd or better
 
 367_1: 
-ステージクリア条件　３位以上
+Stage Clear: 3rd or better
 
 368_1: 
-ステージクリア条件　なし
+Stage Clear: None
 
 369_1: 
 景品交換所のキャラクターメニューに
@@ -1210,124 +1210,124 @@ Choose Match
 コースの最初からやり直しになります。<文字色:終了>
 
 381_1: 
-次のステージに　挑戦しますか？
+Try the next stage?
 
 382_1: 
-次に挑戦する
+Try Next
 
 383_1: 
-コースを中断する
+Stop Course
 
 384_1: 
-三賞発表
+Award Results
 
 385_1: 
-それでは　三賞の発表です！
+And now the results!
 
 386_1: 
-今回の　いただき王は……
+Our Fortune Champion is...
 
 387_1: 
-不動産王は……
+The Real Estate Mogul is...
 
 388_1: 
-証券王は……
+The Wolf of Wall Street is...
 
 389_1: 
-増資王は……
+The Biggest Builder is...
 
 390_1: 
-その他の受賞者です。
+These are our prize winners.
 
 391_1: 
-さらに今回は　特別賞が出ています！
+And now the special prizes!
 
 392_1: 
-発表は以上です。
+That's all folks.
 
 393_1: 
-発表は以上です。
-受賞者には副賞として　いただきコインが贈られます。
+That's all folks.
+Prize winners will get more Fortune Coins as prizes.
 
 394_1: 
-特別賞発表
+Special Prize Announcement
 
 395_1: 
-受賞者
+Special Prize Winner
 
 396_1: 
-副賞いただきコイン一覧
+Fortune Coins Summary
 
 397_1: 
-賞名
+Prize
 
 398_1: 
-コイン
+Coin
 
 399_1: 
-受賞者
+Winner
 
 400_1: 
-合計獲得枚数
+Total Coins
 
 401_1: 
 ！！！！！！！
 
 402_1: 
-受賞者なし
+No Winner
 
 403_1: 
-今回の獲得いただきコイン
+Fortune Coins Acquired
 
 404_1: 
-三賞
+Winner
 
 405_1: 
-特別賞
+Special Prize
 
 406_1: 
-順位ボーナス
+Turn Order Bonus
 
 407_1: 
-ゲーム結果
+Game Result
 
 408_1: 
-最強モードボーナス
+Strongest Mode Bonus
 
 409_1: 
-リリーフ代金
+Relief Cost
 
 410_1: 
-<文字色:緑>2倍<文字色:終了>
+<文字色:緑>x2<文字色:終了>
 
 411_1: 
-<文字色:赤>半減<文字色:終了>
+<文字色:赤>half<文字色:終了>
 
 412_1: 
-最初に　あなたの名前を　教えてください。
+First tell us your name.
 
 413_1: 
-このゲームは　オートセーブに　対応しています。
-セーブ中は　本体の電源を　切らないでください。
+This game uses auto-save.
+Please do not turn off the power while saving.
 
 414_1: 
-しばらく　お待ちください。
+Please wait a moment.
 
 415_1: 
-おめでとうございます！
-「<任意文字:0>」で　遊べるようになりました。
+Congratulations!
+You can play with "<任意文字:0>".
 
 416_1: 
-おめでとうございます！
-「<任意文字:0>ＥＸ」が　追加されました。
+Congratulations!
+You gained <任意文字:0> EXP.
 
 417_1: 
-景品交換所で　「<任意文字:0>」を追加すると
-「<任意文字:0>ＥＸ」で　遊べるようになります。
+If you join "<任意文字:0>" at the Prize
+Exchange Shop, you can play with "<任意文字:0>" EXP.
 
 418_1: 
-おめでとうございます！
-いただきコイン<枚:0>を　もらいました。
+Congratulations!
+You gained <枚:0> Fortune Coins.
 
 419_1: 
 ダミー
@@ -1341,28 +1341,28 @@ Choose Match
 終了させることを　おすすめします。<文字色:終了>
 
 422_1: 
-追加コンテンツが無効になりました。
-関連するデータを削除します。
+Insufficient space for DLC.
+Free enough data to use this.
 
 423_1: 
-１人で挑戦で
-「<任意文字:0>」で　遊べるようになりました。
+You can try to play
+"<任意文字:0>" alone.
 
 424_1: 
-最初に　ワイヤレスコントローラーで
-あなたの名前を　教えてください。
+First tell us your name using the
+Wireless Controller.
 
 425_1: 
-目標金額:
+Reached Goal:
 
 426_1: 
-参加者:
+Joined:
 
 427_1: 
-Ｎｏ．
+#
 
 428_1: 
-Ｎｏ．<任意文字:0>　<プレイヤー:X>
+# <任意文字:0>　<プレイヤー:X>
 
 429_1: 
 Player <任意文字:0>
@@ -1380,48 +1380,48 @@ Player3
 Player4
 
 434_1: 
-COM <任意文字:0>
+AI <任意文字:0>
 
 435_1: 
-COM1
+AI 1
 
 436_1: 
-COM2
+AI 2
 
 437_1: 
-COM3
+AI 3
 
 438_1: 
-コントローラー
+Controller
 <任意文字:0>
 
 439_1: 
-コントローラ
-１
+Controller
+1
 
 440_1: 
-コントローラ
-２
+Controller
+2
 
 441_1: 
-コントローラ
-３
+Controller
+3
 
 442_1: 
-コントローラ
-４
+Controller
+4
 
 443_1: 
-次へ
+To Next
 
 444_1: 
-選び直す
+Reselect
 
 445_1: 
-最初の目標金額より　下げることはできません。
+You cannot decrease below initial goals.
 
 446_1: 
-コース選択
+Select Course
 
 447_1: 
 CHALLENGE MODE
@@ -1442,150 +1442,150 @@ STRONGEST MODE
 ＳＴＡＧＥ　０４
 
 453_1: 
-難易度
+Difficulty
 
 454_1: 
-初めての人でも
-遊びやすいコースです。
-ドラゴンクエストに
-関連するマップが
-登場します。
+An easy course for
+even newcomers.
+Dragon Quest
+themed maps are
+used.
 
 455_1: 
-初めての人でも
-遊びやすいコースです。
-ファイナルファンタジーに
-関連するマップが
-登場します。
+An easy course for
+even newcomers.
+Final Fantasy
+themed maps are
+used.
 
 456_1: 
-このゲームに慣れた人が
-挑戦しやすいコースです。
-ドラゴンクエストに
-関連するマップが
-登場します。
+A challenging course
+for those used to the
+game.
+Dragon Quest themed
+maps are used.
 
 457_1: 
-このゲームに慣れた人が
-挑戦しやすいコースです。
-ファイナルファンタジーに
-関連するマップが
-登場します。
+A challenging course
+for those used to the
+game.
+Final Fantasy themed
+maps are used.
 
 458_1: 
-ドラゴンクエストと
-ファイナルファンタジーの
-マップが登場する
-最難関のコースです。
-これが　最後の戦いだ！
+THe most difficult
+course with Dragon
+Quest and Final
+Fantasy maps. This is
+the Decisive Battle!
 
 459_1: 
-３０周年を記念した
-エクストラコースです。
-まだ見ぬ仕掛け満載の
-新マップが　登場します。
-キミにクリアできるかな？
+Extra course to
+commemorate the 30th
+anniversary. Never seen
+new maps are used.
+Can YOU clear it?
 
 460_1: 
-クイックルールを
-採用したコースです。
-目標金額の半分を
-持った状態から
-ゲームスタートします。
+Course used for
+Quick rules.
+Start the game with
+half the required
+assets.
 
 461_1: 
-空き地ルールを
-採用したコースです。
-ステージが進むにつれて
-空き地マスの割合が
-多くなります。
+Course used for
+Vacancy rules.
+More vacant lots will
+appear as you continue
+through stages.
 
 462_1: 
 ★
 
 463_1: 
-<アイコン:シカク>ボタンで最強モードに挑戦できます。
-全てのコースでＣＯＭが全員Ｓランクになるかわりに
-もらえるいただきコインが２倍になります。
+Using the <アイコン:シカク> button, you can try
+Strongest Mode. All AI are at S-Rank, but you
+will get twice the number of coins.
 
 464_1: 
-最強モードに切り替わりました。
-<アイコン:シカク>ボタンで通常モードと最強モードを
-自由に切り替えられます。
+Switched to Strongest Mode.
+You can freely switch to Standard Mode
+using the <アイコン:シカク> button.
 
 465_1: 
-１位
+#1
 
 466_1: 
-２位
+#2
 
 467_1: 
-３位
+#3
 
 468_1: 
-４位
+#4
 
 469_1: 
-総合結果
+Combined Results
 
 470_1: 
-勝率
+Win %
 
 471_1: 
-総いただき回数
+# Fortunes
 
 472_1: 
-総ふりこみ回数
+# Bank Deposits
 
 473_1: 
-総いただき額
+Total Fortunes
 
 474_1: 
-総ふりこみ額
+Total Bank Deposits
 
 475_1: 
-総株もうけ額
+Total Shares
 
 476_1: 
-最大いただき額
+Max Fortune
 
 477_1: 
-最大ふりこみ額
+Max Bank Deposit
 
 478_1: 
-最大お店価格
+Max Shop Value
 
 479_1: 
-対戦を中断したので
-他アカウントの成績はセーブされません。
+Cannot save to a different account
+because you're in the middle of a match.
 
 480_1: 
-ゲームデータを　セーブし
-ゲームを中断します。
+Save and stop the game.
+
 
 481_1: 
-ゲームデータをセーブします。
-よろしいですか？
+Game will be saved.
+Are you sure?
 
 482_1: 
-ログアウトしている他アカウントについては
-成績がセーブされずに　失敗します。
-セーブしたい場合はログインしてください。
-<アイコン:マル>ボタンを押すと　セーブを開始します。
+Saving results to a logged out
+account has failed.
+Login when you want to save.
+Press the <アイコン:マル> button to save.
 
 483_1: 
-ゲームデータをロードします。
-よろしいですか？
+Game will be loaded.
+Are you sure?
 
 484_1: 
 Gallery
 
 485_1: 
-タイトルメニューに戻ります。
-よろしいですか？
+Will return to the title screen.
+Are you sure?
 
 486_1: 
-ご覧になる作品を選んでください。
+Choose what to look at.
 
 487_1: 
 ！！！！！！！
@@ -1594,390 +1594,390 @@ Gallery
 ！！！！！！！
 
 489_1: 
-鑑賞する美術品を選んでください。
+Choose the art you want to see.
 
 490_1: 
-試写室
+Private Gallery
 
 491_1: 
-準備中です。
+Loading...
 
 492_1: 
-やめる
+Quit
 
 493_1: 
-景品交換所で交換できます。
+You can exchange at the Prize Exchange Shop.
 
 494_1: 
-未購入
+Exchange
 
 495_1: 
-いたストハイライト
+F.S. Highlights
 
 496_1: 
 WINNER
 
 497_1: 
-未登録
+Unregistered
 
 498_1: 
-ターン数
+Turn #
 
 499_1: 
-作成日時　<任意文字:0>/<任意文字:1>/<任意文字:2>　<任意文字:3>:<任意文字:4>
+Created: <任意文字:0>/<任意文字:1>/<任意文字:2>　<任意文字:3>:<任意文字:4>
 
 500_1: 
-作成日時　----/--/--　--:--
+Created: ----/--/--　--:--
 
 501_1: 
-今回のいたストハイライトを　作成しますか？
-<文字色:赤>※いたストハイライトの作成には
-時間がかかります。
-「いいえ」を選ぶと　今回の
-いたストハイライトは作成しません。<文字色:終了>
+Create a game highlight?
+<文字色:赤>※ It will take some time to
+create a game highlight.
+Choosing "No" will not create
+a game highlight.<文字色:終了>
 
 502_1: 
-いたストハイライトの
-保存枠が　いっぱいです。
-保存している　いたストハイライトを
-削除して　新しく作成しますか？
+Game highlight storage is full.
+
+Erase stored game highlight,
+and create a new one?
 
 503_1: 
-いたストハイライトを　作成せずに
-終了しますが　よろしいですか？
+You will quit without creating
+a game highlight. Are you sure?
 
 504_1: 
-いたストハイライトを作成しています。
-しばらく　お待ちください。
+Creating game highlight.
+Please wait a moment.
 
 505_1: 
-削除する　いたストハイライトを
-選んでください。
+Choose a game highlight to
+erase.
 
 506_1: 
-選んだ　いたストハイライトを
-削除しても　よろしいですか？
+Are you sure you want to
+erase this game highlight?
 
 507_1: 
-いたストハイライトを　削除しました。
+Game highlight erased.
 
 508_1: 
-選んだ　いたストハイライトを
-再生しますか？
+Do you want to playback the
+selected game highlight?
 
 509_1: 
-いたストハイライトを
-再生する準備をしています。
-しばらく　お待ちください。
+Preparing to playback the
+game highlight.
+Please wait a moment.
 
 510_1: 
-良いシーンが少なかったため
-いたストハイライトが作成できませんでした。
+Unable to create game highlight
+as there were too few good scenes.
 
 511_1: 
-それでは　いたストハイライトを　再生します。
-<文字色:赤>※再生中は　<文字色:白><アイコン:シカク><文字色:赤>ボタンで　字幕表示を
-切り替えられます。<文字色:終了>
+Now your game highlight will be played back.
+<文字色:赤>※ You may press the <文字色:白><アイコン:シカク><文字色:赤> button
+to change the caption while it plays back.<文字色:終了>
 
 512_1: 
-いたストハイライトが　完成しました。
-すぐに再生しますか？
-<文字色:赤>※再生中は　<文字色:白><アイコン:シカク><文字色:赤>ボタンで　字幕表示を
-切り替えられます。<文字色:終了>
+Successfully completed game highlight.
+Do you want to play it back it now?
+<文字色:赤>※ You may press the <文字色:白><アイコン:シカuuク><文字色:赤> button
+to change the caption while it plays back.<文字色:終了>
 
 513_1: 
-コレクション
+Collection
 
 514_1: 
-成績
+Results
 
 515_1: 
-コレクション
+Collection
 
 516_1: 
-ハイライト
+Highlight
 
 517_1: 
-個人成績
+Player Results
 
 518_1: 
-ベストテン
+Best 10
 
 519_1: 
-キャラクター
+Character
 
 520_1: 
-チャンスカード
+Chance Card
 
 521_1: 
-今までにプレイした　ゲームの成績を
-見ることができます。
+You can view game results that
+you have played until now.
 
 522_1: 
-キャラクターや　チャンスカードを
-見ることができます。
+You can view characters or
+Chance Cards.
 
 523_1: 
-今までのハイライトを
-見ることができます。
+You can view highlights that
+you have made until now.
 
 524_1: 
-１人１人の成績を
-見ることができます。
+You can view the results for
+each player.
 
 525_1: 
-色々な項目の　ベストテンを
-見ることができます。
+You can view the "Best 10"
+results for a category.
 
 526_1: 
-ゲームに登場している　キャラクターの詳細や
-表情などを　見ることができます。
+You can view descriptions and
+pictures of characters from their game.
 
 527_1: 
-ゲーム内で引いた　チャンスカードを
-見ることができます。
+You can view Chance Cards that
+were picked in a game.
 
 528_1: 
-対戦相手
+Opponent
 
 529_1: 
-成績を見たいプレイヤー名　または
-対戦相手のキャラクター名を　選択してください。
+Choose the player or opponent character
+you want to see results for.
 
 530_1: 
-成績一覧
+Result List
 
 531_1: 
-コース戦　成績
+Course Match  Results
 
 532_1: 
-全てのモード
+All Modes
 
 533_1: 
-スタンダード
+Standard
 
 534_1: 
-イージー
+EZ
 
 535_1: 
-エクストラ
+Extra
 
 536_1: 
-項目
+Category
 
 537_1: 
-回数
+#
 
 538_1: 
-割合
+%
 
 539_1: 
-総合順位
+Combined Rank
 
 540_1: 
-<任意文字:0>位
+# <任意文字:0>
 
 541_1: 
-<任意文字:0>回
+<任意文字:0>
 
 542_1: 
-<任意文字:0>％
+<任意文字:0>%
 
 543_1: 
-試合数
+# Matches
 
 544_1: 
-１位回数
+# 1st
 
 545_1: 
-２位回数
+# 2nd
 
 546_1: 
-３位回数
+# 3rd
 
 547_1: 
-４位回数
+# 4th
 
 548_1: 
-順位
+Rank
 
 549_1: 
-金額・回数
+Mony・Times
 
 550_1: 
-勝ち点
+Win Points
 
 551_1: 
-いただき回数
+# Fortunes
 
 552_1: 
-ふりこみ回数
+# Bank Deposits
 
 553_1: 
-破産回数
+# Bankruptcies
 
 554_1: 
-破産させ回数
+# Bankrupties Caused
 
 555_1: 
-株もうけ額
+Share Amount
 
 556_1: 
-出場数
+# Appearances
 
 557_1: 
-最終戦
+Final Battle
 
 558_1: 
-１位回数
+#1
 
 559_1: 
-２位回数
+#2
 
 560_1: 
-３位回数
+#3
 
 561_1: 
-４位回数
+#4
 
 562_1: 
-途中　　敗退回数
+Mid-Match  KOs
 
 563_1: 
-１回戦　敗退回数
+1st Match  KOs
 
 564_1: 
-２回戦　敗退回数
+2nd Match  KOs
 
 565_1: 
-３回戦　敗退回数
+3rd Match  KOs
 
 566_1: 
-賞一覧
+Prize List
 
 567_1: 
-金
+Gold
 
 568_1: 
-銀
+Silver
 
 569_1: 
-銅
+Bronze
 
 570_1: 
-全てのコース
+All Courses
 
 571_1: 
 <任意文字:0>/<任意文字:1>
 
 572_1: 
-総合順位
+Combined Rank
 
 573_1: 
-マップごとの順位
+Map Rank
 
 574_1: 
-最大いただき額
+Max Fortune
 
 575_1: 
-最大ふりこみ額
+Max Bank Deposit
 
 576_1: 
-いただき回数
+# Fortunes
 
 577_1: 
-ふりこみ回数
+# Bank Deposits
 
 578_1: 
-破産回数
+# Bankruptcies
 
 579_1: 
-破産させ回数
+# Bankruptcies caused
 
 580_1: 
-最大お店価格
+Max Shop Value
 
 581_1: 
-株もうけ額
+Share Amount
 
 582_1: 
-破産
+Bankruptcy
 
 583_1: 
-だれが
+By?
 
 584_1: 
-だれから
+From?
 
 585_1: 
-いただき額
+Fortune Amount
 
 586_1: 
-ふりこみ額
+Bank Deposit Amount
 
 587_1: 
-キャラクターコレクション
+Character Collection
 
 588_1: 
-だれに
+To?
 
 589_1: 
-価格
+Value
 
 590_1: 
-もうけ額
+Revenue
 
 591_1: 
-どのベストテンデータを　見ますか？
+Which Best 10 data do you want to see?
 
 592_1: 
-<アイコン:マル>ボタンを押すと　キャラクターの詳細を
-見ることができます。
+Press the <アイコン:マル> button to
+view character descriptions.
 
 593_1: 
-チャンスカードコレクション
+Chance Card Collection
 
 594_1: 
-<アイコン:マル>ボタンを押すと　チャンスカードの詳細を
-見ることができます。
+Press the <アイコン:マル> button to view
+Chance Card descriptions.
 
 595_1: 
-集めた種類
+Types Collected
 
 596_1: 
 <任意文字:0>/<任意文字:1>
 
 597_1: 
-１人目のかたは　使用しているコントローラーに固定され
-プレイヤーも固定となります。
-他のかたは　自分の使うコントローラーで
-名簿から名前を選択してください。
+One person will use their controller to play,
+and they will be the "player" too.
+Others should choose their names from the
+name list using their own controller.
 
 598_1: 
-１人目のかたは　プレイヤー固定となります。
-他のかたは　名簿から名前を選択してください。
+One person will use their controller to play,
+and others should choose their names from the list.
 
 599_1: 
-かな
+Hiragana
 
 600_1: 
-カナ
+Katakana
 
 601_1: 
-英数字
+A-Z0-9
 
 602_1: 
-空白
+Kanji
 
 603_1: 
-キャンセル
+Cancel
 
 604_1: 
-決定
+Confirm
 
 605_1: 
-文字が入力されていません。
-あなたの名前を　入力してください。
+You haven't entered any characters.
+Please enter your name.
 
 606_1: 
 ！！！！！！！
@@ -1986,154 +1986,155 @@ WINNER
 ！！！！！！！
 
 608_1: 
-<任意文字:0>さん
-が通信エラーになりました。タイトルメニューに戻ります。
+Connection error with
+<任意文字:0>. Returning to title screen.
 
 609_1: 
-<任意文字:0>さん
-<任意文字:1>さん
-が通信エラーになりました。タイトルメニューに戻ります。
+Connection error with
+<任意文字:0> and
+<任意文字:1>. Returning to title screen.
 
 610_1: 
-<任意文字:0>さん
-<任意文字:1>さん
-<任意文字:2>さん
-が通信エラーになりました。タイトルメニューに戻ります。
+Connection error with
+<任意文字:0>さん,
+<任意文字:1>さん, and
+<任意文字:2>さん. Returning to title screen.
 
 611_1: 
-通信待ちです。しばらくお待ちください。
+Waiting for connection. Please wait a moment.
 
 612_1: 
-通信エラーが発生しました。
-ルーム作成に失敗しました。
+A connection error occurred.
+Failed to create room.
 
 613_1: 
-通信接続中です。
-しばらく　お待ちください。
+Connecting to network...
+Please wait a moment.
 
 614_1: 
-通信中です。
-しばらく　お待ちください。
+Connecting...
+Please wait a moment.
 
 615_1: 
-ネットワークに接続されていません。
-タイトルメニューに戻ります。
+Could not connect to the network.
+Returning to the title screen.
 
 616_1: 
-ローカル対戦ルーム
+Local Match Room
 
 617_1: 
-このキャラと対戦
+Match Against Character
 
 618_1: 
-参加者のエントリーを待っています。
-しばらく　お待ちください。
+Waiting for people to join.
+Please wait a moment.
 
 619_1: 
-参加者のエントリーを待っています。
-<アイコン:マル>ボタンで参加者募集をしめきります。
+Waiting for people to join.
+Press the <アイコン:マル> button to stop waiting.
 
 620_1: 
-参加者がそろいました。
-<アイコン:マル>ボタンで参加者募集をしめきります。
+Player has joined.
+Press the <アイコン:マル> button to stop waiting.
 
 621_1: 
-他の人が　操作中です。
-しばらく　お待ちください。
+Waiting on other player...
+Please wait a moment.
 
 622_1: 
-参加できるルームを探しています。
-しばらく　お待ちください。
+Searching for a room to join...
+Please wait a moment.
 
 623_1: 
-ルームが見つかりました。
-入室するルームを選択してください。
+Found rooms.
+Chose a room to join.
 
 624_1: 
-ルームが見つかりませんでした。
-<アイコン:サンカク>ボタンで再検索してください。
+Unable to find a room.
+Press the <アイコン:サンカク> button to try again.
 
 625_1: 
-エントリー中です。
-募集しめきりまで　お待ちください。
+Entering room.
+Please wait until room is ready.
 
 626_1: 
-このルームは　募集を終了しています。
-別のルームを選択してください。
+This room has stopped accepting players.
+Choose a different room.
 
 627_1: 
-すでに　このルームは満員です。
-別のルームを選択してください。
+This room is already full.
+Choose a different room.
 
 628_1: 
-ルームから出て　条件画面に戻ります。
-このルームも消えますが　よろしいですか？
+Leave the room and return to filter screen.
+This room will be deleted. Are you sure?
 
 629_1: 
-フレンド限定トップに戻ります。
-よろしいですか？
+Return to the friend list.
+Are you sure?
 
 630_1: 
-このルームは　なくなりました。
-フレンド限定トップに戻ります。
+This room has been removed.
+Returning to the friend list.
 
 631_1: 
-この条件で　ルーム作成中です。
-しばらく　お待ちください。
+Creating room with filters.
+Please wait a moment.
 
 632_1: 
-ルーム入室中です。
-しばらく　お待ちください。
+Entering room...
+Please wait a moment.
 
 633_1: 
-このルームには　入室できません。
-あなたの遊べないマップが　選択されています。
+You cannot enter this room.
+A map you cannot play on is selected.
 
 634_1: 
-参加者募集をしめきりました。
-しばらく　お待ちください。
+Closing room availability.
+Please wait a moment.
 
 635_1: 
-対戦相手が決まりました。
-しばらく　お待ちください。
+Your match opponents are decided.
+Please wait a moment.
 
 636_1: 
-通信エラーが発生して　このルームは　なくなりました。
-条件画面に戻ります。
+A network error occurred, and this room has been
+removed. Returning to the filter screen.
 
 637_1: 
-このルームは　なくなりました。
-別のルームを選択してください。
+This room has been removed.
+Choose a different room.
 
 638_1: 
-通信エラーが発生して　このルームは　なくなりました。
-タイトルメニューに戻ります。
+A network error occurred, and this room has been
+removed. Returning to the title screen.
 
 639_1: 
-入室に失敗しました。
+Failed to enter room.
 
 640_1: 
-お気に入りキャラ
+Characters of interest
 
 641_1: 
-ゲームデータ
-（<アイコン:サンカク>クロスセーブ）
+Game Data
+(<アイコン:サンカク> Cross-Save)
 
 642_1: 
+Change Player Name
 プレイヤー名変更
 
 643_1: 
-決定
+Confirm
 
 644_1: 
-選択中
+Choosing
 
 645_1: 
-待機中
+Waiting
 
 646_1: 
-ネット対戦の　準備中です。
-しばらく　お待ちください。
+Preparing Net Match.
+Please wait a moment.
 
 647_1: 
 PUSH <アイコン:マル> START
@@ -2145,203 +2146,204 @@ PUSH <アイコン:マル> START
 649_1: 
 DRAGON QUEST characters: <アイコン:Cマーク> ARMOR PROJECT/BIRD STUDIO/SQUARE ENIX
 FINAL FANTASY characters: <アイコン:Cマーク> SQUARE ENIX
+DORAKUE TRANSLATIONS
 
 650_1: 
 CHARACTER ILLUSTRATION: SHIRO AMANO
+HACKING: CELLENSERES
+TRANSLATION: GERB, TIGALI
 
 651_1: 
-プレイ人数:
+# Players:
 
 652_1: 
-目標金額:
+Goal:
 
 653_1: 
-参加者
+Joined
 
 654_1: 
-コース名:
+Course:
 
 655_1: 
-マップ名:
+Map:
 
 656_1: 
-挑戦者
+Challenger
 
 657_1: 
-インストールが完了するまで
-この項目は選択できません。
+You cannot choose this option
+until installation is complete.
 
 658_1: 
-メンバー
+Member
 
 659_1: 
-条件
+Condition
 
 660_1: 
-対戦相手しめきりまで
+Until Opponents Found
 
 661_1: 
-動画・生放送配信ガイドライン
+Picture, Creative Work Distribution Guidelines
 
-本ゲームは株式会社スクウェア・エニックスを代表とする
-共同著作者が権利を所有する著作物です。
+This game is a copyrighted work of authors
+represented by Square Enix, Ltd.
 
 
 662_1: 
-本ゲームの動画配信は、非営利・非商用を目的とした場合のみ利用できます。
-但し、非営利・非商用であっても、音楽データのみの掲載および音楽の
-視聴を主目的と捉えられる利用は禁止しております。
+You can distribute the game for backup and personal use.
+But it is prohibited, even for non-profit or non-commercial use to
+copy and distribute music or sound for public consumption.
 
 
 663_1: 
-ゲーム内動画配信に関する利用条件については、
-いただきストリート公式サイト
-http://www.jp.square-enix.com/itastDQFF30th/
-をご確認ください。
+For more details about related to distributon
+of game contents, see the official
+Itadaki Street web site
+http://www.jp.square-enix.com/itastDQFF30th/.
 
 664_1: 
-<アイコン:オプション>動画配信に関する注意
+<アイコン:オプション> Warning about Online Communication
 
 665_1: 
-この名前は使用できません。
-他の名前を　 入力してください。
+You cannot use this name.
+Please enter a different name.
 
 666_1: 
-体験版のユーザーが
-含まれています。
+A demo user is
+configured.
 
 667_1: 
-使用できる　キャラクターや
-マップが　制限されます。
+The characters and maps that
+you can use are limited.
 
 668_1: 
-このルームには　入室できません。
-あなたの遊べないマップが　選択されています。
+You cannot enter this room.
+A map that you cannot play is selected.
 
 669_1: 
-他アカウントを加えた対戦を中断しましたので
-対戦終了後　 他アカウントの成績はセーブされません。
+The game results will not be saved after the
+game because another account joined during the match.
 
 670_1: 
-マークを集めて
-賞金をもらい
-お店や株を売買して
-お金持ちを目指す
-いたストの
-基本的な　モードです。
+Aim to be wealthy by
+collecting spaces,
+earning money, and
+trading shops & shares
+in F.S. game mode.
 
 671_1: 
-いたストを簡単にした
-シンプルなモードです。
-スタンダードモードが
-少し　難しいと感じたり
-手軽に　遊びたいときに
-オススメです。
+This is the Simple
+Mode for easy F.S.
+Standard Mode will
+feel a little harder,
+but not unmanageable
+when you want to play.
 
 672_1: 
-BGM設定
+BGM Settings
 
 673_1: 
-通常BGM設定
+Normal BGM
 
 674_1: 
-資産突破BGM設定
+Goal BGM
 
 675_1: 
-決定
+Confirm
 
 676_1: 
-<アイコン:バツ>：戻る
+<アイコン:バツ>: Back
 
 677_1: 
-通常再生するBGMを設定できます。
+You can play normal BGM.
 
 678_1: 
-資産突破後に再生するBGMを設定できます。
+You can play goal/winning BGM.
 
 679_1: 
-現在の設定で決定します。
+Will confirm current settings.
 
 680_1: 
-通常BGM設定
+Normal BGM
 
 681_1: 
-資産突破BGM設定
+Goal BGM
 
 682_1: 
-BGM名
+BGM Name
 
 683_1: 
-<アイコン:サンカク>再生
+<アイコン:サンカク> Play
 
 684_1: 
-<アイコン:サンカク>停止
+<アイコン:サンカク> Stop
 
 685_1: 
-通常再生するBGMを選択してください。
+Choose a normal BGM to play.
 
 686_1: 
-資産突破後に再生するBGMを選択してください。
+Choose a goal/winning BGM to play.
 
 687_1: 
-クロスセーブとは
-PlayStation<アイコン:Rマーク>4と　PlayStation<アイコン:Rマーク>Vitaで
-同じゲームデータを使い　ゲームを進められるサービスです。
+Cross-Save is a service where you can continue same game data
+used on a PlayStation<アイコン:Rマーク>4 or PlayStation<アイコン:Rマーク>Vita.
 
 688_1: 
-クロスセーブするためには
-PlayStation<アイコン:TMマーク>Networkに　接続する必要があります。
+Connecting to the PlayStation<アイコン:TMマーク>Network
+is required in order to use Cross-Save.
 
 689_1: 
-PlayStation<アイコン:Rマーク>4の　ゲームデータを使うには
-PlayStation<アイコン:Rマーク>Vitaと　同じ
-PlayStation<アイコン:TMマーク>Network のアカウントに　する必要があります。
+Using the same PlayStation<アイコン:TMマーク>Network account
+is required to use the PlayStation<アイコン:Rマーク>4 game data
+on the PlayStation<アイコン:Rマーク>Vita.
 
 690_1: 
-PlayStation<アイコン:Rマーク>Vitaの　ゲームデータを使うには
-PlayStation<アイコン:Rマーク>4と　同じ
-PlayStation<アイコン:TMマーク>Network のアカウントに　する必要があります。
+Using the same PlayStation<アイコン:TMマーク>Network account
+is required to use the PlayStation<アイコン:Rマーク>Vita game data
+on the PlayStation<アイコン:Rマーク>4.
 
 691_1: 
-「アップロード」を選択すると　本体にセーブしてから
-PlayStation<アイコン:TMマーク>Networkにも　ゲームデータをセーブします。
-「ダウンロード」を選択すると
+When you choose "Upload", it will save the game
+from the console to the PlayStation<アイコン:TMマーク>Network.
+When you choose "Download", it will load the game
 
 692_1: 
-PlayStation<アイコン:TMマーク>Networkの　ゲームデータをロードします。
-DLC状況が異なる場合　関連データが削除されることがあります。
-「アップロード」「ダウンロード」のいずれかを選択すると
+from the PlayStation<アイコン:TMマーク>Network.
+If there is DLC, that data will not be transferred.
+Choosing "Upload" or "Download"
 
 693_1: 
-PlayStation<アイコン:TMマーク>Networkに　接続します。
-（<アイコン:バツ>ボタンで　各種設定に戻ります）
+will connect you to the PlayStation<アイコン:TMマーク>Network.
+(<アイコン:バツ> Back to Settings)
 
 694_1: 
-アップロード
+Upload
 
 695_1: 
-ダウンロード
+Download
 
 696_1: 
-ダウンロードできる　ゲームデータはありません。
+There is no game data to download.
 
 697_1: 
-PlayStation<アイコン:TMマーク>Networkに
-サインインしていません。
-クロスセーブする場合は　 サインインする必要があります。
-（<アイコン:マル>サインイン　<アイコン:バツ>各種設定に戻る）
+You are not logged in to
+the PlayStation<アイコン:TMマーク>Network.
+You must log in in order to Cross-Save.(
+(<アイコン:マル> Login <アイコン:バツ> Back to Settings)
 
 698_1: 
-本体
+Console
 
 699_1: 
 PlayStation<アイコン:TMマーク>Network
 
 700_1: 
-プレイヤー名
+Player
 
 701_1: 
-セーブ日時
+Saved
 
 702_1: 
 <任意文字:0>/<任意文字:1>/<任意文字:2>　<任意文字:3>:<任意文字:4>
@@ -2350,55 +2352,55 @@ PlayStation<アイコン:TMマーク>Network
 ----/--/--　--:--
 
 704_1: 
-PSNに　ゲームデータをセーブします。
-「アップロード」を選択すると　PSNのデータを上書きします。
+Saves game data to PSN.
+Choosing "Upload" will write to PSN storage.
 
 705_1: 
-PSNから　ゲームデータをロードします。
-「ダウンロード」を選択すると　本体のデータを上書きします。
+Loads game data from PSN.
+Choosing "Download" will write to console storage.
 
 706_1: 
-PSNのゲームデータが　進んでいるようです。
-PSNのデータを　本当に上書きしてよろしいですか？
+There is game data on PSN.
+Are you sure you want to overwrite from console?
 
 707_1: 
-本体のゲームデータが　進んでいるようです。
-本体のデータを　本当に上書きしてよろしいですか？
+There is game data on the console.
+Are you sure you want to overwrite from PSN?
 
 708_1: 
-PlayStation<アイコン:TMマーク>Networkに　アップロードしています。
-しばらく　お待ちください。
+Uploading to the PlayStation<アイコン:TMマーク>Network.
+Please wait a moment.
 
 709_1: 
-PlayStation<アイコン:TMマーク>Networkから　ダウンロードしています。
-しばらく　お待ちください。
+Downloading from the PlayStation<アイコン:TMマーク>Network.
+Please wait a moment.
 
 710_1: 
-本体にセーブ中です。
-しばらく　お待ちください。
+Saving to console.
+Please wait a moment.
 
 711_1: 
-PlayStation<アイコン:TMマーク>Networkへの
-アップロードが　完了しました。
+Completed upload to
+the PlayStation<アイコン:TMマーク>Network.
 
 712_1: 
-本体への
-ダウンロードが　完了しました。
+Completed download to
+the console.
 
 713_1: 
-PlayStation<アイコン:TMマーク>Networkの　データ確認中です。
-しばらく　お待ちください。
+Confirming data on the PlayStation<アイコン:TMマーク>Network.
+Please wait a moment.
 
 714_1: 
-通信エラーが発生しました。
+A network error has occurred.
 
 715_1: 
-ネットワークに接続されていません。
-各種設定に戻ります。
+Network is not connected.
+Returning to Settings.
 
 716_1: 
-Download DLC
+Download Game Data
 
 717_1: 
-Download DLC
+Download Game Data
 

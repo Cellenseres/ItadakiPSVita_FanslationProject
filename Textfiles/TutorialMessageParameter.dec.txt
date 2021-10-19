@@ -190,12 +190,12 @@ area!
 
 44_1: 
 <通常>Depending on the map,
-there are open spaces that
+there are vacant lots that
 don't have any cost.
 
 45_1: 
-<通常>What is built on an
-open space is decided by
+<通常>What is built on a
+vacant lot is decided by
 whomever buys it.
 
 46_1: 
@@ -409,8 +409,8 @@ area differences.
 
 94_1: 
 <通常>Third, with solo play,
-you cannot change Open Space
-and Transaction settings.
+you cannot change Vacancy
+or selling rules
 
 95_1: 
 <通常>Doesn't it become simpler

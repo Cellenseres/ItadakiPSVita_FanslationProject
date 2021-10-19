@@ -140,7 +140,7 @@ Buy another player's shop.
 Trade for another player's shop.
 
 48_1: 
-Remodel a shop built on an open space.
+Remodel a shop built on a vacant lot.
 
 49_1: 
 Confirm the game end money and
@@ -1053,7 +1053,7 @@ fee to the owner.
 ★(Shop)
 
 304_1: 
-Open Space
+Vacant Lot
 
 305_1: 
 You will collect tolls
@@ -1863,7 +1863,7 @@ Gave <任意文字:1>G
 to <任意文字:0>
 
 504_1: 
-Choose an open space
+Choose a vacant lot
 or shop destination.
 
 505_1: 
@@ -2150,7 +2150,7 @@ of held shares respectively.
 
 567_1: 
 You can buy the shop or
-open space of your choice at
+vacant lot of your choice at
 <任意文字:0>x. Will you buy?
 
 568_1: 
@@ -2198,12 +2198,12 @@ Received a prize of
 
 578_1: 
 You can still buy unowned
-shops or open spaces.
+shops or vacant lots.
 Will you buy?
 
 579_1: 
 Choose the unowned shop
-or open space you want.
+or vacant lot you want.
 
 580_1: 
 But there are no more
@@ -2216,7 +2216,7 @@ for 2x the value.
 
 582_1: 
 You can still buy unowned
-shops or open spaces at
+shops or vacant lots at
 <任意文字:0>x value. Buy?
 
 583_1: 
@@ -2225,12 +2225,12 @@ each of all areas!
 
 584_1: 
 You can still buy unowned
-shops or open spaces at
+shops or vacant lots at
 +<任意文字:0>G. Will you buy?
 
 585_1: 
 Choose an unowned shop or
-open space to buy at +<任意文字:0>G.
+vacant lot to buy at +<任意文字:0>G.
 
 586_1: 
 ！！！！
@@ -2328,7 +2328,7 @@ Start an auction for this shop?
 
 607_1: 
 Choose an unowned shop or
-open space to buy at 2x.
+vacant lot to buy at 2x.
 
 608_1: 
 Move with the <アイコン:マル> button.
@@ -2505,13 +2505,13 @@ Choose a shop to buy at 4x value.
 Choose a shop to buy at 3x value.
 
 661_1: 
-Choose an unowned shop or open space to buy.
+Choose an unowned shop or vacant lot to buy.
 
 662_1: 
-Choose an unowned shop or open space to buy at +200G.
+Choose an unowned shop or vacant lot to buy at +200G.
 
 663_1: 
-Choose a shop or open space destination.
+Choose a shop or vacant lot destination.
 
 664_1: 
 Choose your preferred Chance destination.

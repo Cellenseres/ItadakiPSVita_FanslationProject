@@ -1,8 +1,8 @@
 1_1: 
-Open Space
+Vacant Lot
 
 1_2: 
-Open Space
+Vacant Lot
 
 2_1: 
 Checkpoint
@@ -11,7 +11,7 @@ Checkpoint
 Checkpoint
 
 3_1: 
-サーカス小屋
+Small Circus
 
 3_2: 
 Circus
