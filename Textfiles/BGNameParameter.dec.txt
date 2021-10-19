@@ -14,7 +14,7 @@ Mount Magmageddon
 Seabed Shrine
 
 6_1: 
-Phantom Ship
+Ghost Ship
 
 7_1: 
 Kamiharumui Castle

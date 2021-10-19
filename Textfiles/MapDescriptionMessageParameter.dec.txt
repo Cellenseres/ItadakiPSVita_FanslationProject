@@ -1,466 +1,484 @@
 1_1: 
-ＤＱⅧに登場する城。
-かつて　イバラの呪いに
-閉ざされていたが
-ある兵士の活躍により
-美しいすがたを
-取りもどした。
+Castle from DQ8.
+Previously under a thorn
+curse its beauty was
+restored thanks to the
+valiant efforts of a
+soldier.
 
 1_2: 
-ＤＱⅧに登場する城。
-ルートは　たんじゅん
-だけど　遊びやすく
-奥が深いマップ。
-マップも小さいから
-短時間で「いたスト」の
-面白さを　体験するなら
-ココ！
+Castle from DQ8.
+It has a simple route,
+but despite its easy play
+it is a deep map.
+This is the place to
+experience the quirks of
+Fortune Street quickly!
 
 1_3: 
-ＤＱⅧに登場する城。
-ルートが短く
-分岐も少ないマップ。
-上だけ　下だけを
-回り続けることは
-できないけれど
-株を買うチャンスも
-多い。
-たんじゅんなようで
-奥が深い。
+Castle from DQ8.
+A map with a short route
+with few branches.
+You cannot go but either
+the upper or lower way,
+but there are plenty of
+stock buying chances.
+It is more complex than
+it appears.
 
 1_4: 
-ＤＱⅧに登場する城。
-たんじゅんなルートで
-イージーモードに
-慣れるには
-もってこいのマップ。
-マップも小さいので
-あっという間に
-勝負が決まる！
+Castle from DQ8.
+An ideal map with a
+simple route to get
+used to things in EZ Mode.
+You'll be a winner in no
+time at all!
 
 1_5: 
-ＤＱⅧに登場する城。
-ルート自体はたんじゅんだが
-遊びやすく　奥が深い
-マップとなっている。
-マップも小さいから
-短時間で「いたスト」の
-面白さを　体験するなら　ココ！
+Castle from DQ8.
+The route starts off simple,
+but it becomes a quite
+complex map as you play.
+This is the place to
+experience the quirks of
+Fortune Street quickly!
 
 1_6: 
-ＤＱⅧに登場する城。
-ルートが短く
-分岐も少ないマップ。
-上だけ　下だけを回り続けることは
-できないけれど
-株を買えるチャンスも多い。
-たんじゅんなようで　奥が深い。
+Castle from DQ8.
+A map with a short route
+with few branches.
+You cannot go but either
+the upper or lower way,
+but there are plenty of
+stock buying chances.
+It is more complex than
+it appears.
 
 1_7: 
-ＤＱⅧに登場する城。
-ルートはたんじゅんなので
-イージーモードに慣れるには
-もってこいのマップ。
-マップも小さいので
-あっという間に勝負が決まる！
+Castle from DQ8.
+An ideal map with a
+simple route to get
+used to things in EZ Mode.
+You'll be a winner in no
+time at all!
 
 2_1: 
-ＤＱⅡに登場する
-けわしい岩山に囲まれ
-長い長い　洞くつを
-抜けた先にある
-雪に　おおわれた
-凍てつく台地。
+Appearing in DQ2,
+a long and winding
+cave through the
+dangerous mountains
+that leads to a
+snow-covered tundra.
 
 2_2: 
-ＤＱⅡに登場する
-氷に　おおわれた
-凍てつく台地。
-マップにある
-「氷スイッチ」で
-どのマスを凍らせるかが
-面白さのポイント。
-凍ったマスには
-止まれなくなる。
+A snow-covered tundra
+that appears in DQ2.
+The "Ice Switches"
+on the map will keep
+you on your toes
+wondering what space
+will be frozen.
+You cannot stop on
+frozen spaces.
 
 2_3: 
-ＤＱⅡに登場する
-氷に　おおわれた
-凍てつく台地。
-「氷スイッチ」がない
-シンプルなマップ。
-中央の分岐がクセモノで
-左から右へ
-右から左へにしか
-進めない。
+A snow-covered tundra
+that appears in DQ2.
+A simple map without
+"Ice Switches".
+The middle route is
+tricky as you can
+only go either left
+to right or right to
+left.
 
 2_4: 
-ＤＱⅡに登場する
-氷に　おおわれた
-凍てつく台地。
-「氷スイッチ」で
-好きなマスを凍らせたり
-凍ったマスを溶かしたり
-イージーモードだけど
-戦略的なマップ。
+A snow-covered tundra
+that appears in DQ2.
+You can freeze and
+thaw spaces using
+"Ice Switches" in
+EZ Mode while still
+being a tough map.
 
 2_5: 
-ＤＱⅡに登場する　雪に
-おおわれた凍てつく台地。
-マップには「氷スイッチ」があり
-止まると　好きなマスを
-凍らせることができる。
-凍ったマスは　すべるようになり
-となりのマスへ　行くことに。
+A snow-covered tundra
+that appears in DQ2.
+The map has "Ice Switches",
+and you can freeze and
+thaw spaces of your choice
+causing you to slide
+on to the next space.
 
 2_6: 
-ＤＱⅡに登場する　氷に
-おおわれた凍てつく台地。
-「氷スイッチ」がない
-シンプルなマップ。
-中央の分岐がクセモノで
-左から来たら　右へ
-右から来たら　左しか進めない。
+A snow-covered tundra
+that appears in DQ2.
+A simple map without
+"Ice Switches".
+The middle route is
+tricky as you can
+only go either left
+to right or right to
+left.
 
 2_7: 
-ＤＱⅡに登場する　雪に
-おおわれた凍てつく台地。
-「氷スイッチ」で好きなマスを
-凍らせられるから
-イージーモードなのに戦略的。
-凍ったマスを
-溶かすこともできる。
+A snow-covered tundra
+that appears in DQ2.
+A tough EZ Mode map as
+your spaces can be
+frozen.
+You can also thaw
+frozen spaces.
 
 3_1: 
-ＤＱ世界で　転職を
-つかさどる大きな神殿。
-世界中の　転職したい
-人々が集う場所。
+Large shrine that
+controls jobs in the
+DQ World.
+A place for those who
+seek to change jobs.
 
 3_2: 
-ＤＱ世界で　転職を
-つかさどる大きな神殿。
-特別な仕掛けはない
-遊びやすいマップ。
-メガネ型になっている
-下の島は
-高い　買い物料を
-回避するのが
-とても難しいので注意。
+Large shrine that
+controls jobs in the
+DQ World.
+An easy-going map
+without any gimmicks.
+Warning that the glasses
+shaped lower island has
+high shop fees that are
+difficult to avoid.
 
 3_3: 
-ＤＱ世界で　転職を
-つかさどる大きな神殿。
-分岐は　自由に
-ルートを選べる。
-株は買いやすいけど
-マークは集めにくい。
-負けそうになっても
-３つもあるカジノで
-逆転できる！？
+Large shrine that
+controls jobs in the
+DQ World.
+You can pick the
+route branch freely.
+Easy to buy shares,
+but hard to get suits.
+Even if it looks like
+you'll lose, the 3
+casinos may turn your
+luck around!
 
 3_4: 
-ＤＱ世界で　転職を
-つかさどる大きな神殿。
-仕掛けのないマップで
-見た目が大きいワリに
-お店は少なめ。
-急いで　お店を
-買っていこう。
-ワープをどう使うかが
-考えどころ。
+Large shrine that
+controls jobs in the
+DQ World.
+A map without gimmicks
+and looks profitable
+with few shops.
+Rush to buy the shops.
+Think about how to
+use the warps.
 
 3_5: 
-ＤＱ世界で　転職をつかさどる
-大きな神殿。
-マップ特有の仕掛けはなく
-オーソドックスなマップ。
-メガネ型になっている下の島は
-高い　買い物料を回避するのが
-とても難しいので注意。
+Large shrine that controls
+jobs in the DQ World.
+An orthodox map that has
+no special gimmicks.
+A word of warning that it
+is difficult to avoid the high
+shop fees on the glasses-shaped
+lower island.
 
 3_6: 
-ＤＱ世界で　転職をつかさどる
-大きな神殿。
-分岐では好きなルートを選べるので
-自由度の高いマップ。
-株は買いやすいけど
-マークは集めにくい。
-なんと　カジノが　３つもある。
+Large shrine that controls
+jobs in the DQ World.
+A map with lots of choice
+as you can choose what branch
+you want to take.
+It's easy to buy shares,
+but hard to collect suits.
+Oh my! AND 3 Casinos too!
 
 3_7: 
-ＤＱ世界で　転職をつかさどる
-大きな神殿。
-仕掛けのないマップで
-見た目が大きなワリには
-お店が少ない。
-急がないと　買えるお店が
-なくなってしまう。
+Large shrine that controls
+jobs in the DQ World.
+A map without gimmicks
+and looks profitable with
+having few shops.
+If you don't hurry, you
+won't be able to buy any.
 
 4_1: 
-ＤＱⅤに登場する
-溶岩が　にえたぎる
-ヤケドを　しそうな
-魔の洞くつ。
+From DQ5, a magic cave
+that looks easy to burn
+yourself on its bubbling
+magma.
 
 4_2: 
-ＤＱⅤに登場する
-溶岩が　にえたぎる
-魔の洞くつ。
-マップが４つに
-分断される
-「火山噴火スイッチ」が
-ある。
-もう一度　スイッチに
-止まると元にもどる。
+A magic cave from DQ5
+bubbling with magma.
+The map has "Volcanic
+Switches" on its 4
+branching paths.
+Stepping on the switch
+again restores it.
 
 4_3: 
-ＤＱⅤに登場する
-溶岩が　にえたぎる
-魔の洞くつ。
-３つの区画が
-くっついてるけど
-「火山噴火スイッチ」は
-ないから　離れない。
-ぎんこう城を通りやすく
-株の売り買いが
-重要なマップ。
+A magic cave from DQ5
+bubbling with magma.
+There are 3 seprate
+sections, but without
+switches you cannot
+be isolated.
+With an easy-access
+bank, stock-trading
+is essential.
 
 4_4: 
-ＤＱⅤに登場する
-溶岩が　にえたぎる
-魔の洞くつ。
-右下の離れ島は
-「火山噴火スイッチ」で
-くっつく。
-でも左上の島が
-離れてしまう。
-もう一度スイッチに
-止まれば　元にもどる。
+A magic cave from DQ5
+bubbling with magma.
+Stepping on the "Volcanic
+Switch" will connect the
+lower-right island.
+But the upper-left
+island will be isolated.
+Stepping on the switch
+again restores it.
 
 4_5: 
-ＤＱⅤに登場する　溶岩が
-にえたぎる魔の洞くつ。
-このマップには　止まると
-マップが４つに分断される
-「火山噴火スイッチ」がある。
-噴火後　さらにスイッチに
-止まると　元にもどる。
+A magic cave from DQ5
+bubbling with magma.
+There are 4 "Volcanic
+Switches" on this map
+where you can stop.
+After an eruption,
+stepping on the switch
+will restore things.
 
 4_6: 
-ＤＱⅤに登場する　溶岩が
-にえたぎる魔の洞くつ。
-３つの区画がくっついてるけど
-ここは「火山噴火スイッチ」が
-ないから　離れたりしない。
-ぎんこう城を通りやすいから
-株の売り買いが　重要なマップ。
+A magic cave from DQ5
+bubbling with magma.
+There are 3 separate sections,
+but without a "Volcanic Switch"
+you cannot be isolated.
+With an easy-to-access bank,
+stock-trading is essential
+for this map.
 
 4_7: 
-ＤＱⅤに登場する　溶岩が
-にえたぎる魔の洞くつ。
-右下の離れた島は
-「火山噴火スイッチ」に止まると
-くっつく。でも今度は
-左上の島が離れてしまう。
-スイッチに止まると元にもどる。
+A magic cave from DQ5
+bubbling with magma.
+Stepping on the "Volcanic
+Switch" will connect the
+lower-right island. But
+the upper-left will be
+isolated.
+Stepping on the switch again
+restores it.
 
 5_1: 
-ＤＱⅥの世界の海の底に
-広がる　神秘の世界。
-海の魔王グラコスが
-支配する地にある神殿。
+A secret world underneath
+the wide, blue sea of DQ6.
+The shrine is where
+Demonlord-of-the-Sea,
+Gracos, rules from.
 
 5_2: 
-ＤＱⅥの世界の海の底に
-広がる　神秘の世界。
-仕掛けのない
-オーソドックスな
-マップで
-初心者は遊びやすく
-上級者でも
-戦略を駆使して
-遊ぶことができる
-マップ。
+A secret world underneath
+the wide, blue sea of DQ6.
+An orthodox map without
+gimmicks, easy to play
+for newcomers, but still
+offers a challenge
+for veterans.
 
 5_3: 
-ＤＱⅥの世界の海の底に
-広がる　神秘の世界。
-分岐が多いように
-見えるけど　十字路は
-まっすぐしか進めない。
-お店が避けにくいから
-買い物料の取り合いに
-なりやすい。
-
+A secret world underneath
+the wide, blue sea of DQ6.
+It might seem like there
+are many branches, but
+you can only continue
+orthagonally.
+Shop fees are hard to
+come by as you can slip
+& slide your way around.
 
 5_4: 
-ＤＱⅥの世界の海の底に
-広がる　神秘の世界。
-仕掛けがない
-オーソドックスな
-マップだけど
-右下の一本道を
-いつ通るかで
-流れが変わる。
-イージーモードでも
-戦略が大事なマップ。
+A secret world underneath
+the wide, blue sea of DQ6.
+An orthedox map without
+gimmicks, but the main
+path to the lower-right
+might wash away.
+Even in EZ Mode, it
+offers important lessons.
 
 5_5: 
-ＤＱⅥの世界の海の底に広がる
-神秘の世界。
-仕掛けのない
-オーソドックスな　マップで
-初心者は遊びやすく
-上級者でも　戦略を駆使して
-遊べるマップ。
+A secret world underneath
+the wide, blue sea of DQ6.
+An orthodox map without
+gimmicks, it is easy to
+play for newcomers yet
+offers challenges for
+veterans.
 
 5_6: 
-ＤＱⅥの世界の海の底に広がる
-神秘の世界。
-分岐がたくさんあるように
-見えるけど　十字路は
-まっすぐにしか　進めない。
-高いお店が避けにくいから
-買い物料の取り合いになりやすい。
+A secret world underneath
+the wide, blue sea of DQ6.
+It may look like there are
+many branches, but you
+can only proceed
+orthagonally.
+It is hard to earn shop fees
+as you can slip and slide
+your way around the map.
 
 5_7: 
-ＤＱⅥの世界の海の底に広がる
-神秘の世界。
-仕掛けがないオーソドックスな
-マップだけど　右下の一本道を
-いつ通るかで流れが変わる。
-イージーモードでも
-戦略が大事なマップ。
+A secret world underneath
+the wide, blue sea of DQ6.
+An orthodox map without
+gimmicks, but the lower-right
+ptah might wash away at some
+point. Even in EZ Mode, it
+offers important lessons.
 
 6_1: 
-ＤＱⅢに登場する
-大海原を　人しれず
-さまよう幽霊船。
-オリビアの恋人
-エリックが　無実の罪で
-囚われ　のっていた船。
+The Ghost Ship that
+sails the high seas
+with nary a soul onboard
+in DQ3.
+A ship posessed by the
+innocent sin of Olivia.
 
 6_2: 
-ＤＱⅢに登場する
-大海原を　人しれず
-さまよう幽霊船。
-マップは　横に広いけど
-最大ダイス目が７で
-ダイスマスもあるから
-スピーディーに
-遊べる。
+The Ghost Ship that
+sails the high seas
+with nary a soul onboard
+in DQ3.
+The map is quite large,
+but it plays quickly
+as the max. roll is 7
+and it has dice spaces.
 
 6_3: 
-ＤＱⅢに登場する
-大海原を　人しれず
-さまよう幽霊船。
-船の形のマップで
-たくさんの分岐がある。
-最初から
-独占しようとすると
-お金がなくなって
-しまう！？
+The Ghost Ship that
+sails the high seas
+with nary a soul onboard
+in DQ3.
+Shaped like a ship,
+it has many branches.
+If you aim for a
+monopoly to start,
+you'll be stripped
+to the bone!?
 
 6_4: 
-ＤＱⅢに登場する
-大海原を　人しれず
-さまよう幽霊船。
-分岐に行きやすく
-お店をねらうか
-マークを集めるか
-考えるのが楽しい
-マップ。
+The Ghost Ship that
+sails the high seas
+with ary a soul onboard
+in DQ3.
+A fun map with easy
+going branches that
+makes you think
+whether you want
+suits or shops.
 
 6_5: 
-ＤＱⅢに登場する　大海原を
-人しれず　さまよう
-エリックがのっていた船。
-マップは　横に広いけど
-最大ダイス目が７で
-ダイスマスもあるから
-スピーディーに遊べる。
+The Ghost Ship that
+sails the high seas
+captained by Eric
+in DQ3.
+The map is quite large,
+but it plays quickly
+as the max. roll is 7
+and it has dice spaces.
 
 6_6: 
-ＤＱⅢに登場する　大海原を
-人しれず　さまよう
-エリックがのっていた船。
-船の形の大きなマップで
-たくさんの分岐がある。
-急いで独占をねらいすぎると
-お金がなくなるかもしれない！？
+The Ghost Ship that
+sails the high seas
+captained by Eric
+in DQ3.
+It's ship-shape gives
+it many branches.
+If you hurry too fast
+for a monopoly, you
+migth get stripped to
+the bone!?
 
 6_7: 
-ＤＱⅢに登場する　大海原を
-人しれず　さまよう
-エリックがのっていた船。
-分岐に行きやすいから
-お店をねらうかマークを集めるか
-考えるのが楽しいマップ。
+The Ghost Ship that
+sails the high seas
+captained by Eric
+in DQ3.
+The branches make it
+easy-going so it's
+fun to decide whether
+to go for suits or shops.
 
 7_1: 
-ＤＱⅩに登場する
-一年中ずっと　桜が
-満開の　美しい城。
-多くのエルフが住む
-エルトナ大陸にある
-風雅な都。
+Beautiful castle in
+DQX where cherries
+bloom all year long.
+An elegant capital
+located in Eltona where
+many elves live.
 
 7_2: 
-ＤＱⅩに登場する
-一年中ずっと　桜が
-満開の　美しい城。
-エリアが多く
-１本道に　お店が
-連続して並んでいるから
-買い物料の取り合いを
-楽しめる。
+Beautiful castle in
+DQX where cherries
+bloom all year long.
+Numerous areas, with
+shops lined up on one
+main path, which makes
+for a fun battle over
+shop fees.
 
 7_3: 
-ＤＱⅩに登場する
-一年中ずっと　桜が
-満開の　美しい城。
-クローバーのような形で
-ぎんこう城を中心にした
-３つの区画がある。
-１つだけを回れないから
-分岐では　よく考えて
-進むことが大事。
+Beautiful castle in
+DQX where cherries
+bloom all year long.
+Club-shaped with 3
+sections and the bank
+in the middle.
+It's important to choose
+the branch wisely so
+you only go around once.
 
 7_4: 
-ＤＱⅩに登場する
-一年中ずっと　桜が
-満開の　美しい城。
-１本道で
-分岐が　まったくない。
-８つ並んだ　お店を
-どれだけ買えるかが
-重要。
+Beautiful castle in
+DQX where cherries
+bloom all year long.
+It has a main road
+with not even one
+branch.
+Which of the 8 area
+shops to buy is
+very important.
 
 7_5: 
-ＤＱⅩに登場する　一年中ずっと
-桜が満開の　美しい城。
-エリアが多く
-１本道に　お店が連続して
-並んでいるから
-買い物料の取り合いを楽しめる。
+Beautiful castle in
+DQX where cherries
+bloom all year long.
+Numerous areas, with
+shops lined up on one
+main path, which makes
+for a fun battle over
+shop fees.
 
 7_6: 
-ＤＱⅩに登場する　一年中ずっと
-桜が満開の　美しい城。
-クローバーのようなマップで
-ぎんこう城を中心にした
-３つの区画が広がっている。
-１つだけ回ったりできないから
-分岐では　よく考えて進もう。
+Beautiful castle in
+DQX where cherries
+bloom all year long.
+Club-shaped with 3
+sections and the bank
+in the middle.
+Think wisely which
+branch to take so you
+circle around only once.
 
 7_7: 
-ＤＱⅩに登場する　一年中ずっと
-桜が満開の　美しい城。
-１本道で　分岐が　まったくない。
-８つも並んだ　お店を
-どれだけ買えるかが
-重要なマップ。
+Beautiful castle in
+DQX where cherries
+bloom all year long.
+It has a main road
+with not even one
+branch.
+Which of the 8 area
+shops to buy is
+very important.
 
 8_1: 
 ダミー
@@ -484,72 +502,79 @@
 ダミー
 
 9_1: 
-ＤＱⅠに登場する
-魔の島と呼ばれた
-孤島に　築かれし城。
-城の奥深くには
-竜王が待ち受ける。
+A castle built on the
+isolated "Isle of Evil"
+in DQ1.
+The Dragonlord awaits
+deep within the
+castle.
 
 9_2: 
-ＤＱⅠに登場する
-魔の島に築かれた
-竜王の城。
-正体を現した竜王を
-超大砲で攻撃できる。
-竜王を見事気絶させると
-王様から　ご褒美が
-もらえる。
-高い砲弾ほど
-気絶しやすい。
+Dragonlord's Castle
+built on the Isle of Evil
+in DQ1.
+You can fire a giant
+cannon at the realistic
+Dragonlord.
+Receive prizes from the
+King for hitting true.
+The higher-priced ammo
+the easier it is to
+defeat.
 
 9_3: 
-ＤＱⅠに登場する
-魔の島に築かれた
-竜王の城。
-竜王は　いないけど
-大きなマップだから
-油断はできない。
-中央にワープできたら
-一気にマークが
-集められる。
+Dragonlord's Castle
+built on the Isle of Evil
+in DQ1.
+It's size means you
+can't be unprepared even
+if the Dragonlord isn't
+home.
+You can warp to the
+center making it easy
+to get the suits.
 
 9_4: 
-ＤＱⅠに登場する
-魔の島に築かれた
-竜王の城。
-株がないから　竜王を
-気絶させられるか
-とっても重要。
-怒った竜王の
-ブレスには要注意。
-遠くへ吹っ飛ばされて
-しまう。
+Dragonlord's Castle
+built on the Isle of Evil
+in DQ1.
+Without shares, it is
+essential to target the
+Dragonlord.
+Watch out for its
+Fire Breath. Or you'll
+be sent packing.
 
 9_5: 
-ＤＱⅠに登場する
-魔の島に築かれた　竜王の城。
-正体を現した　大きな竜王を
-超大砲で攻撃できる。
-見事　竜王を気絶させると
-王様から　ご褒美がもらえる。
-高い砲弾ほど　気絶しやすい。
+Dragonlord's Castle built
+on the Isle of Evil in DQ1.
+You can shoot the realistic
+giant Dragonlord with the
+super cannon.
+If your aim is true, you'll
+get a reward from the King.
+The higher-priced ammo makes
+that easier.
 
 9_6: 
-ＤＱⅠに登場する
-魔の島に築かれた　竜王の城。
-竜王は　いないけれど
-大きなマップで　油断できない。
-中央の区画にワープできれば
-一気にマークを集めるチャンス。
+Dragonlord's Castle built
+on the Isle of Evil in DQ1.
+It's size means you can't be
+unprepared even if the
+Dragonlord isn't home.
+You can warp to the center
+making it easy to get suits.
 
 9_7: 
-ＤＱⅠに登場する
-魔の島に築かれた　竜王の城。
-株がないから　超大砲で竜王を
-気絶させれば　すごく有利になる。
-でも怒った竜王の　ブレスに注意。
-遠くへ　吹っ飛ばされてしまう。
-安い砲弾ほど　怒りやすい。
+Dragonlord's Castle built
+on the Isle of Evil in DQ1.
+Without shares, it is
+very useful to target the
+Demonlord with the super
+cannon. But watch out not
+to anger it. Or you'll be
+sent packing. Cheaper ammo
+makes it easier to anger.
 
 10_1: 
 ＦＦⅨに登場する
