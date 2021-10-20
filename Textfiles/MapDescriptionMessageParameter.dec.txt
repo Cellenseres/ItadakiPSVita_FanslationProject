@@ -577,541 +577,509 @@ sent packing. Cheaper ammo
 makes it easier to anger.
 
 10_1: 
-ＦＦⅨに登場する
-後甲板が舞台になる
-仕掛けの　劇場艇。
-盗賊団タンタラスの
-隠れミノになっている
-とても豪華な飛空艇。
+Ship with an aft deck
+stage used as a
+theater in FF9.
+A lavish airship
+that masks the crimes
+of the Tantalus
+Theater Troupe.
 
 10_2: 
-ＦＦⅨに登場する
-後甲板が舞台になる
-仕掛けの　劇場艇。
-ぎんこう城を中心に
-４つの四角い区画が
-交差する　なつかしい
-名作マップが復活。
-中央の分岐は
-まっすぐにしか
-進めない。
+Ship with an aft deck
+stage used as a
+theater in FF9.
+The central bank is
+the crossroads of the
+4-corner sections
+making it a perfect
+nostalgic motif.
+You cannot advance
+anywhere but
+straight at the center.
 
 10_3: 
-ＦＦⅨに登場する
-後甲板が舞台になる
-仕掛けの　劇場艇。
-大きいマップで
-分岐も多め。
-左右の円は　回り続ける
-ことができない。
-移動できる
-チャンスカードも多い。
+Ship with an aft deck
+stage used as a
+theater in FF9.
+A large map with many
+branches.
+You can't continue via
+the left-right circles.
+There are many movement
+Chance Cards too.
 
 10_4: 
-ＦＦⅨに登場する
-後甲板が舞台になる
-仕掛けの　劇場艇。
-小さくかわいいマップ
-だけど　分岐が少なくて
-あなどれない。
-意外と高いお店が
-多いマップ。
+Ship with an aft deck
+stage used as a
+theater in FF9.
+A cute, small map,
+but don't underestimate
+the few branches it has.
+It has a surprising
+number of valuable shops.
 
 10_5: 
-ＦＦⅨに登場する　後甲板が
-芝居用の舞台になる仕掛けの
-劇場艇。
-ぎんこう城を中心に
-４つの四角い区画が交差する
-なつかしい名作マップが復活。
+Ship with an aft deck stage
+used as a theater in FF9.
+The central bank is the
+crossroads of the 4-corner
+sections making it a
+perfect nostalgic motif.
 
 10_6: 
-ＦＦⅨに登場する　後甲板が
-芝居用の舞台になる仕掛けの
-劇場艇。
-大きいマップで　分岐が多い。
-左右の円は　回り続けることが
-できない。
-移動できるチャンスカードも多い。
+Ship with an aft deck stage
+used as a theater in FF9.
+A large map with many branches.
+You can't continue va the
+left-right circles.
+There are many movement
+Chance Cards too.
 
 10_7: 
-ＦＦⅨに登場する　後甲板が
-芝居用の舞台になる仕掛けの
-劇場艇。
-小さなかわいいマップだけど
-分岐が少なく　あなどれない。
-意外に高いお店が多くて
-油断できないマップ。
+Ship with an aft deck stage
+used as a theater in FF9.
+A cute, small map, but you
+should not underestimate
+the few branches it has.
+It has a surprising number
+of valuable shops that
+will take you unaware.
 
 11_1: 
-ＦＦⅢに登場する
-クリスタルで　できた
-美しい塔。光の力を
-集めて　作られた塔で
-かつては　シルクスの塔
-と呼ばれていた。
+A beautiful, crystal
+tower seen in FF3. It
+was built to collect
+the power of light,
+and formerly known as
+Syrcus Tower.
 
 11_2: 
-ＦＦⅢに登場する
-クリスタルで　できた
-美しい塔。
-小さいマップだけど
-マーク集めを後回しで
-お店を買ったり
-分岐選択を考え
-楽しめるマップ。
+A beautiful, crystal
+tower seen in FF3.
+It's a small map, but
+one to enjoy thinking
+about putting off getting
+suits for buying shops
+in the branch routes.
 
 11_3: 
-ＦＦⅢに登場する
-クリスタルで　できた
-美しい塔。
-四角いマップで
-エリアも少ない。
-お店を右か左にたくさん
-買って　安全なルートを
-作ってしまおう。
+A beautiful, crystal
+tower seen in FF3.
+A four-section map
+with few areas.
+Buy many shops left
+or right to make a
+safe route.
 
 11_4: 
-ＦＦⅢに登場する
-クリスタルで　できた
-美しい塔。
-小さいマップで
-左と右は　回り続けたり
-できないから
-買い物料の取り合いに
-なりやすい。
+A beautiful, crystal
+tower seen in FF3.
+A small map where you
+cannot circle to the
+left and right so a
+back-and-forth over
+shop fees is common.
 
 11_5: 
-ＦＦⅢに登場する　クリスタルで
-できた　美しい塔。
-小さいマップでありながら
-マーク集めを　後回しにして
-お店を買ったり
-分岐選択を楽しめるマップ。
+A beautiful, crystal tower
+seen in FF3.
+It's a small map, but one to
+enjoy thinking about what
+branch to take to put off
+getting suits in order
+to buy shops.
 
 11_6: 
-ＦＦⅢに登場する　クリスタルで
-できた　美しい塔。
-四角い　小さなマップで
-エリアも少ない。
-右か左に　お店をたくさん買って
-安全なルートを作ってしまおう。
+A beautiful, crystal tower
+seen in FF3.
+A four-section map with few
+areas.
+Buy many shops to the left
+or right to make a safe route.
 
 11_7: 
-ＦＦⅢに登場する　クリスタルで
-できた　美しい塔。
-小さいマップで　左と右は
-回り続けることができないから
-買い物料の取り合いになりやすい。
-上に進むか　下に進むか
-腕の見せどころ。
+A beautiful, crystal tower
+seen in FF3.
+A small map where you cannot
+circle to the left and right
+so a back-and-forth over shop
+fees is common.
+To go up? Or go down? It's
+up to your skillz.
 
 12_1: 
-ＦＦⅤに登場する
-古代から伝わる
-巨大な図書館。
-地下は　ダンジョンに
-なっており　封印の書の
-１つが　残されていた。
+A giant library from ancient
+times seen in FF5. 
+The basement has become a
+dungeon, in which a single,
+sealed tome remained.
 
 12_2: 
-ＦＦⅤに登場する
-古代から伝わる
-巨大な図書館。
-中央にある
-たてのラインは
-「スイッチ」を通ると
-左右へと　移動する。
-ぎんこう城は　中央に
-あるから気をつけよう。
+A giant library from
+ancient times seen
+in FF5.
+You move left-right by
+stepping on the switch
+in the shield line in
+the center.
+Be careful though as
+the bank is there too.
 
 12_3: 
-ＦＦⅤに登場する
-古代から伝わる
-巨大な図書館。
-星型の楽しいマップ。
-「スイッチ」もないから
-たくさんある分岐を
-どう進むか
-安心して　悩める！？
+A giant library from
+ancient times seen
+in FF5.
+A new, star-shaped map.
+Are you worried about
+how to safely proceed
+with all the branches
+since there are no
+switches!?
 
 12_4: 
-ＦＦⅤに登場する
-古代から伝わる
-巨大な図書館。
-「スイッチ」を通ると
-中央にある
-たてのラインが
-左右へ　移動する。
-「スイッチ」が多いから
-ぎんこう城も
-どんどん動いていく。
+A giant library from
+ancient times seen
+in FF5.
+You move left-right by
+stepping on the switch
+in the shield line in
+the center of the map.
+The bank will move too
+as there are many
+switches.
 
 12_5: 
-ＦＦⅤに登場する　古代から伝わる
-巨大な図書館。
-中央にある　たてのラインは
-「スイッチ」を通ると
-左右へと　移動する。
-ぎんこう城は　中央にあるから
-位置には　気をつけよう。
+A giant library from ancient
+times seen in FF5.
+You move left-right by stepping
+on switches in the central
+shield line.
+Be careful of your position as
+the bank is also in the center.
 
 12_6: 
-ＦＦⅤに登場する　古代から伝わる
-巨大な図書館。
-星の形をした楽しいマップ。
-「スイッチ」もないから
-たくさんある分岐をどう進むか
-安心して　悩める！？
+A giant library from ancient
+times seen in FF5.
+A new, star-shaped map.
+Are you worried about how to
+safely proceed with all the
+branches since there are no
+switches!?
 
 12_7: 
-ＦＦⅤに登場する　古代から伝わる
-巨大な図書館。
-「スイッチ」を通過したときに
-中央にある　たてのラインが
-左右へ　移動する。
-「スイッチ」はたくさんあるから
-ぎんこう城も目まぐるしく動く。
+A giant library from ancient
+times seen in FF5.
+You move left-right by stepping
+on the switch in the central
+shield line.
+The bank will move too as
+there are many switches.
 
 13_1: 
-ＦＦⅥに登場する　魂を
-冥界に運ぶための列車。
-列車の形をしているが
-意思があり　運行を
-じゃまされると　怒る。
+Train that runs to the
+afterlife in FF6.
+It may look like a
+train, but it has a mind
+of its own, and if you
+mess with it, it's ire
+is suplexing.
 
 13_2: 
-ＦＦⅥに登場する　魂を
-冥界に運ぶための列車。
-マップ上には　止まると
-ぎんこう城のある区画が
-移動する
-「連結スイッチ」が
-あるから　注意。
-ルートを考えながら
-進んでいこう。
+Train that runs to the
+afterlife in FF6.
+If you stop at the top,
+the bank will move
+sections.
+Watch out for the
+"couplers".
+Think carefully about
+the route you take.
 
 13_3: 
-ＦＦⅥに登場する　魂を
-冥界に運ぶための列車。
-橋のような横長マップで
-「連結スイッチ」は
-ない。
-マーク集めも大変だから
-大砲をうまく
-使っていこう。
+Train that runs to the
+afterlife in FF6.
+A bridge-like long
+horizontal map with
+no couplers.
+It's tough getting
+the suits so use the
+cannon wisely.
 
 13_4: 
-ＦＦⅥに登場する　魂を
-冥界に運ぶための列車。
-「連結スイッチ」で
-ぎんこう城のある
-区画から離れてしまうと
-なかなか　もどれない。
-イージーモードなのに
-戦略的なマップで
-あなどれない。
+Train that runs to the
+afterlife in FF6.
+The coupler will detach
+the section with the
+bank making it hard
+to return.
+It's a strategic map,
+and no walk-in-the-park
+despite being EZ Mode.
 
 13_5: 
-ＦＦⅥに登場する　魂を　冥界に
-運ぶための列車。
-マップ上には　止まると
-ぎんこう城のある区画が移動する
-「連結スイッチ」がある。
-もう一度止まると　元にもどる。
-ルートを考えながら進もう。
+Train that runs to the afterlife
+in FF6.
+The "coupler" will move the
+section that the bank is in if
+you stop at the top.
+It returns if you step on it
+again. Think carefully about
+your route as you go.
 
 13_6: 
-ＦＦⅥに登場する　魂を　冥界に
-運ぶための列車。
-橋のような横長マップで
-「連結スイッチ」はない。
-マークを集めるのも大変だから
-大砲をうまく使っていこう。
+Train that runs to the afterlife
+in FF6.
+It is a brige-like long
+horizontal map with no coupler.
+It's tough collecting the suits
+so use the cannon wisely.
 
 13_7: 
-ＦＦⅥに登場する　魂を　冥界に
-運ぶための列車。
-「連結スイッチ」で
-ぎんこう城のある区画から
-離れてしまうと
-なかなか　もどれなくなる。
-戦略的で　あなどれないマップ。
+Train that runs to the afterlife
+in FF6.
+The coupler wil detach the
+section with the bank making
+it hard to return.
+It's a strategic map, and no
+walk-in-the-park despite being
+EZ Mode.
 
 14_1: 
-ＦＦⅦに登場する
-巨大な　遊園地。
-デートにおすすめ。
-神羅カンパニーの
-兵士でさえ　あこがれる
-夢のテーマパーク。
+A giant playground
+seen in FF7. Makes a
+good date night.
+It's the theme park
+that's the dream
+Shinra soldiers
+long for.
 
 14_2: 
-ＦＦⅦに登場する
-巨大な　遊園地。
-デートにおすすめ。
-左の小さな島と
-右の大きな島は
-「ジェットコースター」
-で移動ができる。
-乗りたいときは
-乗り場のマスに
-入るだけで　オーケー。
+A giant playground
+seen in FF7. Makes a
+good date night.
+You can move between
+the small left isle
+and big right isle
+by Jet Coaster. Just
+move to the entry
+space when you want
+to ride is A-Okay.
 
 14_3: 
-ＦＦⅦに登場する
-巨大な　遊園地。
-デートにおすすめ。
-うさぎのようなマップで
-耳の部分が
-かなり長い。
-マークが集めにくく
-なる前に　がんばって
-上のお店も買おう。
+A giant playground
+seen in FF7. Makes a
+good date night.
+A rabbit-shaped map
+with fairly long
+ears.
+Do your best to
+buy shops up above
+before getting the
+easy suits.
 
 14_4: 
-ＦＦⅦに登場する
-巨大な　遊園地。
-デートにおすすめ。
-左の小さな島には
-「ジェットコースター」
-でも移動できるけど
-大きな島へ　すぐ
-もどりやすい。
+A giant playground
+seen in FF7. Makes a
+good date night.
+You can get to the
+small left isle by
+Jet Coaster too, and
+easy-as-pie to
+return to the big
+isle.
 
 14_5: 
-ＦＦⅦに登場する　巨大な
-遊園地。デートにおすすめ。
-左の小さな島と右の大きな島は
-「ジェットコースター」で移動が
-できる。乗るときはコースター
-乗り場のマスに入るだけで
-オーケー。
+A giant playground seen in
+FF7. Makes a good date night.
+You can move beteween the
+small left isel and big right
+isle by Jet Coaster. When you
+want to ride, just hop on at
+the entry space is A-Okay.
 
 14_6: 
-ＦＦⅦに登場する　巨大な
-遊園地。デートにおすすめ。
-うさぎのような形のマップで
-耳の部分が　とっても長い。
-マークが集めにくくなるので
-がんばって　上のお店も買おう。
+A giant playground seen in
+FF7. Makes a good date night.
+A rabbit-shaped map with
+fairly long ears.
+Do your best to buy shops
+up above before getting
+the easy suits.
 
 14_7: 
-ＦＦⅦに登場する　巨大な
-遊園地。デートにおすすめ。
-左の小さな島には
-「ジェットコースター」でも
-移動できるけど
-すぐ大きな島へ　もどりやすい。
-
-15_1: 
-ＦＦⅨに登場する
-巨大な　クリスタルを
-かかげた城。
-霧の大陸の東部を治める
-アレクサンドリア王国の
-王都。
-
-15_2: 
-ＦＦⅨに登場する
-巨大な　クリスタルを
-かかげた城。
-分岐がなく　お店の数も
-少ないので　初心者に
-おすすめ。
-ひたすら買い物料の
-取り合いをしたい
-プレイヤーにも
-オススメのマップ。
-
-15_3: 
-ＦＦⅨに登場する
-巨大な　クリスタルを
-かかげた城。
-シンプルなマップだけど
-ダイス目の最大は
-たったの５。
-分岐もないから
-買い物料の取り合いが
-すごい。
-
-15_4: 
-ＦＦⅨに登場する
-巨大な　クリスタルを
-かかげた城。
-分岐がなく　お店の数は
-とっても少ない
-初心者向けのマップ。
-ダイス運が
-勝利のカギ！？
-
-15_5: 
-ＦＦⅨに登場する　巨大な
-クリスタルをかかげた城。
-分岐がなく　お店の数も少ないので
-初心者プレイヤー向け。
-ひたすら買い物料を取り合いたい
-プレイヤーにもオススメなマップ。
+A giant playground seen in
+FF7. Makes a good date night.
+You can get to the small left
+isle by Jet Coaster too, and
+it's easy-as-pie to return
+to the big isle.
 
 15_6: 
-ＦＦⅨに登場する　巨大な
-クリスタルをかかげた城。
-なつかしいシンプルなマップだけど
-ダイス目の最大は　たったの５。
-分岐もないから
-買い物料の取り合いがすごい。
+A giant, shining crystal
+castle seen in FF9.
+A nostalgically simple map,
+but the max roll is only
+5. There are no branches
+so it's a back-and-forth
+over shop fees.
 
 15_7: 
-ＦＦⅨに登場する　巨大な
-クリスタルをかかげた城。
-分岐がなく
-お店の数はとっても少ない
-初心者向けのマップ。
-勝利のカギは　ダイス運！？
+A giant, shining crystal
+castle seen in FF9.
+A newcomer-friendly map
+with few shops and no
+branches.
+Is the key to winning
+the luck of the dice!?
 
 16_1: 
-ＦＦ<アイコン:13>に登場する
-コクーンで　数少ない
-自然保護区域。
-自然環境下での
-生態系観察を　目的に
-聖府が　管理している。
+Cocoon, the nature paradise
+in FF<アイコン:13>.
+It's a controlled utopia
+with its purpose to
+monitor the world below.
 
 16_2: 
-ＦＦ<アイコン:13>に登場する
-コクーンで　数少ない
-自然保護区域。
-大きな円と　小さな円が
-組み合わさったマップ。
-小さな円で独占しやすく
-高額エリアが
-たくさんできやすいから
-スリリングに遊べる。
+Cocoon, the nature paradise
+in FF<アイコン:13>.
+A map that combines a
+small and large circle.
+It provides a thrilling
+playthrough as it's easy
+to monopolize the small
+circle, and has many high
+valued areas.
 
 16_3: 
-ＦＦ<アイコン:13>に登場する
-コクーンで　数少ない
-自然保護区域。
-右下に小さな島がある
-マップだけど
-避けられないワープが
-こわい。
-ぎんこう城に
-うまく行けないときの
-戦略も大事。
+Cocoon, the nature paradise
+in FF<アイコン:13>.
+A map with a small island
+in the bottom-right, but
+the unavoidable warp is
+scary. Strategy is important
+as it is not easy to get
+to the bank too.
 
 16_4: 
-ＦＦ<アイコン:13>に登場する
-コクーンで　数少ない
-自然保護区域。
-小さな円のお店は
-買いやすいけど
-高いお店を買いすぎると
-すぐ　お金がなくなる。
-できるだけ　たくさん
-お店が買えるように
-戦略を考えよう。
+Cocoon, the nature paradise
+in FF<アイコン:13>.
+It's easy to buy shops
+in the small circle,
+but you'll run out of
+money buying high-value
+shops right away.
+Think carefully about
+how you can buy many
+shops.
 
 16_5: 
-ＦＦ<アイコン:13>に登場する　コクーンで
-数少ない自然保護区域。
-大きな円と　小さな円が
-組み合わさったマップ。
-小さな円で　独占しやすいので
-高額エリアが　たくさんできやすく
-スリリングに楽しめる。
+Cocoon, the nature paradise
+in FF<アイコン:13>.
+A map that combines small and large
+circles.
+It provides a thrilling playthrough
+as it's easy to monopolize the small
+circle, and has many high-valued
+areas.
 
 16_6: 
-ＦＦ<アイコン:13>に登場する　コクーンで
-数少ない自然保護区域。
-大きな島と小さな島がある
-オーソドックスなマップだけど
-避けられないワープがこわい。
-ぎんこう城にうまく行けないときの
-戦略も考えてみよう。
+Cocoon, the nature paradise
+in FF<アイコン:13>.
+An orthodox map with a large
+and small island, but unavoidable
+warp is scary, and you should
+think strategically about how
+best to get to the bank.
 
 16_7: 
-ＦＦ<アイコン:13>に登場する　コクーンで
-数少ない自然保護区域。
-小さな円のお店は買いやすいけど
-高いお店を　たくさん買うと
-すぐに　お金がなくなる。
-できるだけ　たくさん　お店が
-買えるように　戦略を考えよう。
+Cocoon, the nature paradise
+in FF<アイコン:13>.
+It's easy to buy shops in the small
+circle, but you'll run out of money
+fast if you buy lots of high-valued
+shops.
+Think strategically about how you
+can buy lots of shops.
 
 17_1: 
-ＦＦ<アイコン:15>に登場する
-ルシス王国の領地。
-ニフルハイム帝国に
-侵略され　現在は
-支配下にある。
+Territory of the kingdom
+of Lucis in FF<アイコン:15>.
+Invaded by the Empire
+of Niflheim, it is
+now under their
+control.
 
 17_2: 
-ＦＦ<アイコン:15>に登場する
-帝国に　侵略され
-支配された大陸。
-マップには移動手段の
-１つに独自のルートを
-走る「車」がある。
-変わるマークマスが
-あるから　最短ルートを
-常に考え直すマップ。
+Lands under control of the
+Empire in FF<アイコン:15>.
+There is a car that is
+the only means of moving
+to a route on the map.
+It's a map that requires
+re-thinking the shortest
+route due to the changing
+suit spaces.
 
 17_3: 
-ＦＦ<アイコン:15>に登場する
-帝国に　侵略され
-支配された大陸。
-ぎんこう城のある円は
-ぐるぐると回れる。
-広くて　移動が大変。
-上級者としての
-腕がためされる
-てごわいマップ。
+Lands under control of the
+Empire in FF<アイコン:15>.
+You can go round-and-round
+the circle the bank is at.
+Movement is hard as it's
+so large.
+A map even skilled
+players are afraid of.
 
 17_4: 
-ＦＦ<アイコン:15>に登場する
-帝国に　侵略され
-支配された大陸。
-「車」の乗り方が
-重要になる。
-とても大きな
-マップだから
-進み方を考えていこう。
+Lands under control of the
+Empire in FF<アイコン:15>.
+Learning how to ride
+the car is essential.
+It's a very large
+map so think before
+you go.
 
 17_5: 
-ＦＦ<アイコン:15>に登場する
-帝国に侵略され　支配された王国。
-マップには　移動手段の１つに
-独自のルートを走る「車」がある。
-変わるマークマスがあるから
-常に最短ルートを　考え直す
-ギャンブル要素の　強いマップ。
+Lands under the control of the
+Empire in FF<アイコン:15>.
+There is a car that is the
+only means of moving to a route
+on the map.
+A strong map where you
+gamble over how to get the
+shortest route due to the
+changing suit spaces.
 
 17_6: 
-ＦＦ<アイコン:15>に登場する
-帝国に侵略され　支配された王国。
-ぎんこう城のある大きな円は
-ぐるぐると回れる。
-マップが広くて　移動が大変。
-上級者としての腕がためされる
-てごわいマップ。
+Lands under the control of the
+Empire in FF<アイコン:15>.
+You can go round-and-round
+the circle the bank is at.
+Movement is hard as it's
+so large.
+A map even skilled players
+are afraid of.
 
 17_7: 
-ＦＦ<アイコン:15>に登場する
-帝国に侵略され　支配された王国。
-独自のルートを走る「車」を
-どう乗りこなすかが重要。
-イージーモード最大級のマップで
-進み方を考えていかないと
-ライバルになかなか勝てない！
+Lands under the control of the
+Empire in FF<アイコン:15>.
+It's important to understand
+how to ride the car to get
+to unique routes.
+As the penultimate EZ
+Mode map, you won't defeat
+your rivals if you don't
+think before you go!
 
 18_1: 
-ルートが短く
-分岐も少ないマップ。
-上だけ　下だけを
-回り続けることは
-できないけれど　株を
-買うチャンスも多い。
+A map with a short
+route and few branches.
+You can't circle
+just by the top
+or bottom. There
+are many chances
+to buy shares.
 
 18_2: 
 ＤＵＭＭＹ
@@ -1123,12 +1091,13 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 18_5: 
-ルートが短く
-分岐も少ないマップ。
-上だけ　下だけを回り続けることは
-できないけれど
-株を買えるチャンスも多い。
-たんじゅんなようで　奥が深い。
+A map with a short route, and
+few branches too.
+You can't circle just by the
+top or the bottom.
+There are many chances to buy
+shares.
+It's simplicity is complex.
 
 18_6: 
 ＤＵＭＭＹ
@@ -1137,10 +1106,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 19_1: 
-中央の分岐がクセモノで
-左から右へ
-右から左へにしか
-進めない。
+The center is frought
+with danger so you
+can only advance via
+left-to-right or
+right-to-left.
 
 19_2: 
 ＤＵＭＭＹ
@@ -1152,9 +1122,10 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 19_5: 
-中央の分岐がクセモノで
-左から来たら　右へ
-右から来たら　左しか進めない。
+The center is frought with
+danger so you can only
+advance via left-to-right
+or right-to-left.
 
 19_6: 
 ＤＵＭＭＹ
@@ -1163,12 +1134,12 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 20_1: 
-分岐は　自由に選べる。
-株は買いやすいけど
-マークは集めにくい。
-負けそうになっても
-３つもあるカジノで
-逆転できる！？
+Freely choose your path.
+Easy to buy shares,
+but hard to get suits.
+Even if it looks dire,
+you may turn the tables
+with the 3 casinos!?
 
 20_2: 
 ＤＵＭＭＹ
@@ -1180,11 +1151,12 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 20_5: 
-分岐では好きなルートを選べるので
-自由度の高いマップ。
-株は買いやすいけど
-マークは集めにくい。
-なんと　カジノが　３つもある。
+You can choose your preferred
+route so it's a map with lots
+of choice.
+Shares are easy to buy, but
+suits are hard to come by.
+And what's that, 3 casinos too.
 
 20_6: 
 ＤＵＭＭＹ
@@ -1193,11 +1165,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 21_1: 
-３つの区画が
-くっついたマップ。
-ぎんこう城を通りやすく
-株の売り買いが
-重要なマップ。
+Map separated into
+3 sections.
+It's easy to get to
+the bank so trading
+shares is essential.
 
 21_2: 
 ＤＵＭＭＹ
@@ -1209,9 +1181,9 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 21_5: 
-３つの区画がくっついてるマップ。
-ぎんこう城を通りやすいから
-株の売り買いが　重要なマップ。
+Map separated into 3 sections.
+It's easy to get to the bank
+so trading shares is essential.
 
 21_6: 
 ＤＵＭＭＹ
@@ -1220,13 +1192,13 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 22_1: 
-分岐が多いように
-見えるけど　十字路は
-まっすぐしか進めない。
-お店が避けにくいから
-買い物料の取り合いに
-なりやすい。
-
+It may appear to have
+many branches, but you
+must go straight to
+advance.
+It's hard to avoid
+the shops so it's
+a fight for shop fees.
 
 22_2: 
 ＤＵＭＭＹ
@@ -1238,11 +1210,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 22_5: 
-分岐がたくさんあるように
-見えるけど　十字路は
-まっすぐにしか　進めない。
-高いお店が避けにくいから
-買い物料の取り合いになりやすい。
+It may appear to have many
+branches, but you must go
+straight to advance.
+It's hard to avoid the shops
+so it's a fight for shop fees.
 
 22_6: 
 ＤＵＭＭＹ
@@ -1251,12 +1223,12 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 23_1: 
-船の形のマップで
-たくさんの分岐がある。
-最初から
-独占しようとすると
-お金がなくなって
-しまう！？
+Shaped like a ship,
+it has many branches.
+If you aim for a
+monopoly to start,
+you'll be stripped
+to the bone!?
 
 23_2: 
 ＤＵＭＭＹ
@@ -1268,10 +1240,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 23_5: 
-船の形の大きなマップで
-たくさんの分岐がある。
-急いで独占をねらいすぎると
-お金がなくなるかもしれない！？
+Shaped like a ship, it has
+many branches.
+If you aim for a monopoly
+to start, you'll be stripped
+to the bone!?
 
 23_6: 
 ＤＵＭＭＹ
@@ -1280,12 +1253,12 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 24_1: 
-クローバーのような形で
-ぎんこう城を中心にした
-３つの区画がある。
-１つだけを回れないから
-分岐では　よく考えて
-進むことが大事。
+Club-shaped with 3
+sections and the bank
+in the middle.
+It's important to choose
+the branch wisely so
+you only go around once.
 
 24_2: 
 ＤＵＭＭＹ
@@ -1297,11 +1270,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 24_5: 
-クローバーのようなマップで
-ぎんこう城を中心にした
-３つの区画が広がっている。
-１つだけ回ったりできないから
-分岐では　よく考えて進もう。
+Club-shaped with 3 sections
+and the bank in the middle.
+It's important to choose
+the branch wisely so
+you only go around once.
 
 24_6: 
 ＤＵＭＭＹ
@@ -1310,12 +1283,12 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 25_1: 
-ＤＱⅧに登場する城。
-かつて　イバラの呪いに
-閉ざされていたが
-ある兵士の活躍により
-美しいすがたを
-取りもどした。
+Castle from DQ8.
+Previously under a thorn
+curse its beauty was
+restored thanks to the
+valiant efforts of a
+soldier.
 
 25_2: 
 ＤＵＭＭＹ
@@ -1327,13 +1300,13 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 25_5: 
-ＤＱⅧに登場する城。
-ルート自体はたんじゅんだが
-遊びやすく　奥が深い
-マップとなっている。
-マップも小さいから
-短時間で「いたスト」の
-面白さを　体験するなら　ココ！
+Castle from DQ8.
+The route starts off simple,
+but it becomes a quite
+complex map as you play.
+This is the place to
+experience the quirks of
+Fortune Street quickly!
 
 25_6: 
 ＤＵＭＭＹ
@@ -1342,11 +1315,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 26_1: 
-大きなマップだから
-油断はできない。
-中央にワープできたら
-一気にマークが
-集められる。
+You can't prepare
+as it's so large.
+You can warp to the
+center so getting
+suits is a snap.
 
 26_2: 
 ＤＵＭＭＹ
@@ -1358,9 +1331,10 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 26_5: 
-大きなマップで　油断できない。
-中央の区画にワープできれば
-一気にマークを集めるチャンス。
+You can't prepare as it's so
+large.
+You can warp to the center
+so getting suits is a snap.
 
 26_6: 
 ＤＵＭＭＹ
@@ -1369,12 +1343,12 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 27_1: 
-大きいマップで
-分岐も多め。
-左右の円は　回り続ける
-ことができない。
-移動できる
-チャンスカードも多い。
+A large map with many
+branches.
+You can't continue via
+the left-right circles.
+There are many movement
+Chance Cards too.
 
 27_2: 
 ＤＵＭＭＹ
@@ -1386,10 +1360,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 27_5: 
-大きいマップで　分岐が多い。
-左右の円は　回り続けることが
-できない。
-移動できるチャンスカードも多い。
+A large map with many branches.
+You can't continue via the
+left-right circles.
+There are many movement
+Chance Cards too.
 
 27_6: 
 ＤＵＭＭＹ
@@ -1398,11 +1373,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 28_1: 
-四角いマップで
-エリアも少ない。
-お店を右か左にたくさん
-買って　安全なルートを
-作ってしまおう。
+A four-section map
+with few areas.
+Buy many shops left
+or right to make a
+safe route.
 
 28_2: 
 ＤＵＭＭＹ
@@ -1414,10 +1389,10 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 28_5: 
-四角い　小さなマップで
-エリアも少ない。
-右か左に　お店をたくさん買って
-安全なルートを作ってしまおう。
+A four-section map with few
+areas.
+But many shops left or
+right to make a safe route.
 
 28_6: 
 ＤＵＭＭＹ
@@ -1426,10 +1401,10 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 29_1: 
-星型の楽しいマップ。
-たくさんある分岐を
-どう進むかが
-勝利へのカギ！？
+A new star-shaped map.
+With so many branches,
+which one is the key
+to victory!?
 
 29_2: 
 ＤＵＭＭＹ
@@ -1441,10 +1416,9 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 29_5: 
-星の形をした楽しいマップ。
-たくさんある分岐をどう進むか
-しっかり　考えることが
-勝利へのカギ！？
+A new star-shaped map.
+With so many branches, which
+one is the key to victory!?
 
 29_6: 
 ＤＵＭＭＹ
@@ -1453,11 +1427,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 30_1: 
-橋のように
-横長なマップ。
-マーク集めも大変だから
-大砲をうまく
-使っていこう。
+A bridge-like
+long horizontal map.
+It's hard to get suits
+so fire the
+cannon well.
 
 30_2: 
 ＤＵＭＭＹ
@@ -1469,9 +1443,10 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 30_5: 
-橋のような横長マップで
-マークを集めるのも大変だから
-大砲をうまく使っていこう。
+A bridge-like long horizontal
+map, and since it's hard to
+get suits, you should fire
+the cannon at ideal times.
 
 30_6: 
 ＤＵＭＭＹ
@@ -1480,12 +1455,13 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 31_1: 
-うさぎのようなマップで
-耳の部分が
-かなり長い。
-マークが
-集めにくくなる前に
-上のお店も買おう。
+A rabbit-shaped map
+with fairly long
+ears.
+Do your best to
+buy shops up above
+before getting the
+easy suits.
 
 31_2: 
 ＤＵＭＭＹ
@@ -1497,10 +1473,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 31_5: 
-うさぎのような形のマップで
-耳の部分が　とっても長い。
-マークが集めにくくなるので
-がんばって　上のお店も買おう。
+A rabbit-shaped map with
+fairly long ears.
+Do your best to buy shops
+up above before getting
+the easy suits.
 
 31_6: 
 ＤＵＭＭＹ
@@ -1509,12 +1486,12 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 32_1: 
-シンプルなマップだけど
-ダイス目の最大は
-たったの５。
-分岐もないから
-買い物料の取り合いが
-すごい。
+A nostalgically simple map,
+but the max roll is only
+5. There are no branches
+so it's an incredible
+back-and-forth over
+shop fees.
 
 32_2: 
 ＤＵＭＭＹ
@@ -1526,10 +1503,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 32_5: 
-なつかしいシンプルなマップだけど
-ダイス目の最大は　たったの５。
-分岐もないから
-買い物料の取り合いがすごい。
+A nostalgically simple map, but
+the max roll is only 5.
+There are no branches so it's
+an incredible back-and-forth
+over shop fees.
 
 32_6: 
 ＤＵＭＭＹ
@@ -1538,12 +1516,12 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 33_1: 
-右下の小さな島へ
-飛ばされてしまう
-避けられないワープが
-こわい。　ぎんこう城に
-うまく行けないときの
-戦略も大事。
+The unavoidable warp
+to the small lower-right
+island is scary. It's
+also important to plan
+when you can't get to
+the bank efficiently.
 
 33_2: 
 ＤＵＭＭＹ
@@ -1555,11 +1533,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 33_5: 
-大きな島と小さな島がある
-オーソドックスなマップだけど
-避けられないワープがこわい。
-ぎんこう城にうまく行けないときの
-戦略も考えてみよう。
+An orthodox map with a large
+and small island, but unavoidable
+warp is scary, and you should
+think strategically about how
+best to get to the bank.
 
 33_6: 
 ＤＵＭＭＹ
@@ -1568,12 +1546,12 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 34_1: 
-ぎんこう城のある円は
-ぐるぐると回れる。
-広くて　移動が大変。
-上級者としての
-腕がためされる
-てごわいマップ。
+You can go round-and-round
+the circle the bank is at.
+Movement is hard as it's
+so large.
+A map even skilled
+players are afraid of.
 
 34_2: 
 ＤＵＭＭＹ
@@ -1585,11 +1563,11 @@ makes it easier to anger.
 ＤＵＭＭＹ
 
 34_5: 
-ぎんこう城のある大きな円は
-ぐるぐると回れる。
-マップが広くて　移動が大変。
-上級者としての腕がためされる
-てごわいマップ。
+You can go round-and-round
+the circle the bank is at.
+Movement is hard as it's so
+large. It's a map even
+skilled players are afraid of.
 
 34_6: 
 ＤＵＭＭＹ
