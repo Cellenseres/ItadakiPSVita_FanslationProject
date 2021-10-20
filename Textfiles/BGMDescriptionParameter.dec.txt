@@ -1,422 +1,417 @@
 1_1: 
-再生できる
-BGMの中から
-ランダムで選ばれます。
+Playback
+has been configured
+to be random.
 
 2_1: 
-「トロデーン城」の
-通常曲。
+“Castle Trodain”
+normal music
 
-出典：ＤＱⅧ
-平和なお城で流れる曲。
+From: DQ8
+Heard during at peaceful castle.
 
 3_1: 
-「ロンダルキア」の
-通常曲。
+“Cave to Rhone”
+normal music
 
-出典：ＤＱⅡ
-フィールドで流れる曲。
+From: DQ2
+Heard in the field.
 
 4_1: 
-「ダーマ神殿」の
-通常曲。
+“Alltrades Abbey”
+normal music
 
-出典：ＤＱⅨ
-ダーマ神殿で流れる曲。
+From: DQ9
+Heard in Alltrades Abbey.
 
 5_1: 
-「死の火山」の
-通常曲。
+“Mount Magmageddon”
+normal music
 
-出典：ＤＱⅢ
-洞窟で流れる曲。
+From: DQ3
+Heard in caves.
 
 6_1: 
-「海底神殿」の
-通常曲。
+“Seabed Shrine”
+normal music
 
-出典：ＤＱⅥ
-海中を探索するときに
-流れる曲。
+From: DQ6
+Heard when searching
+beneath the sea.
 
 7_1: 
-「幽霊船」の
-通常曲。
+“Ghost Ship”
+normal music
 
-出典：ＤＱⅢ
-幽霊船や塔で流れる曲。
+From: DQ3
+Heard in towers and on
+the Ghost Ship.
 
 8_1: 
-「カミハルムイ城」の
-通常曲。
+“Kamiharumui Castle”
+normal music
 
-出典：ＤＱⅩ
-王都カミハルムイで
-流れる曲。
+From: DQ10
+Heard in the capital
+city, Kamiharumui.
 
 9_1: 
-「竜王の城」の
-通常曲。
+“Dragonlord's Castle”
+normal music
 
-出典：ＤＱⅠ
-ダンジョンで流れる曲。
+From: DQ1
+Heard in dungeons.
 
 10_1: 
-ダミー
+Dummy Map
 
 11_1: 
-「飛空艇」の
-通常曲。
+“Prima Vista”
+normal music
 
-出典：ＦＦⅨ
-飛空艇ヒルダガルデで
-移動中に流れる曲。
+From: FF9
+Heard when traveling in
+the airship Hilda Garde.
 
 12_1: 
-「クリスタルタワー」の
-通常曲。
+“Crystal Tower”
+normal music
 
-出典：ＦＦⅢ
-クリスタルタワーで
-流れる曲。
+From: FF2
+Heard in the Crystal
+Tower.
 
 13_1: 
-「古代図書館」の
-通常曲。
+“Ancient Library”
+normal music
 
-出典：ＦＦⅤ
-古代図書館で流れる曲。
+From: FF5
+Heard in the Ancient
+Library.
 
 14_1: 
-「魔列車」の
-通常曲。
+“Phantom Train”
+normal music
 
-出典：ＦＦⅥ
-魔列車で流れる曲。
+From: FF6
+Heard on the Phantom
+Train.
 
 15_1: 
-「ゴールドソーサー」の
-通常曲。
+“Gold Saucer”
+normal music
 
-出典：ＦＦⅦ
-ゴールドソーサーで
-流れる曲。
+From: FF7
+Heard at the Gold
+Saucer.
 
 16_1: 
-「アレクサンドリア」の
-通常曲。
+“Alexandria”
+normal music
 
-出典：ＦＦⅨ
-プリマビスタ楽団の
-イベントで流れる曲。
+From: FF9
+Heard during the
+Primavista Orchestra event.
 
 17_1: 
-「サンレス水郷」の
-通常曲。
+“Sunleth Waterscape”
+normal music
 
-出典：ＦＦ<アイコン:13>
-サンレス水郷で
-流れる曲。
+From: FF<アイコン:13>
+Heard in the Sunleth
+Waterscape.
 
 18_1: 
-「ルシス王国領」の
-通常曲。
+“Lucis”
+normal music
 
-出典：ＦＦ<アイコン:15>
-フィールドで流れる曲。
+From: FF<アイコン:15>
+Heard in the field.
 
 19_1: 
-アリーナとクリフトの
-ハイライト曲。
+Alena and Kiryl
+Highlight
 
-出典：ＤＱⅣ
-第二章のフィールドで
-流れる曲。
+From: DQ4
+Heard in the field
+during Chapter 2.
 
 20_1: 
-フローラとビアンカの
-ハイライト曲。
+Nera and Bianca
+Highlight
 
-出典：ＤＱⅤ
-主人公の結婚式で
-流れる曲。
+From: DQ5
+Heard during the
+wedding.
 
 21_1: 
-テリーとハッサンの
-ハイライト曲。
+Terry and Carver
+Highlight
 
-出典：ＤＱⅥ
-街で流れる曲。
+From: DQ6
+Heard in towns.
 
 22_1: 
-マリベルの
-ハイライト曲。
+Maribel
+Highlight
 
-出典：ＤＱⅦ
-街で流れる曲。
+From: DQ7
+Heard in towns.
 
 23_1: 
-ゼシカとククールの
-ハイライト曲。
+Jessica and Angelo
+Highlight
 
-出典：ＤＱⅧ
-キラーパンサーで
-移動中に流れる曲。
+From: DQ8
+Heard when riding
+a Killer Panther.
 
 24_1: 
-リッカの
-ハイライト曲。
+Erinn
+Highlight
 
-出典：ＤＱⅨ
-リッカの宿屋で
-流れる曲。
+From: DQ9
+Heard in Erinn's inn.
 
 25_1: 
-アンルシアの
-ハイライト曲。
+Anlucia
+Highlight
 
-出典：ＤＱⅩ　Ｖｅｒ２
-アンルシアに関わる
-戦闘で流れる曲。
+From: DQ10 v2
+Heard in battle
+with Anlucia.
 
 26_1: 
-ネルゲルの
-ハイライト曲。
+Nelgel
+Highlight
 
-出典：ＤＱⅩ
-冥王ネルゲルとの
-戦闘で流れる曲。
+From: DQ10
+Heard in battle with
+the Dread Lord Nelgel.
 
 27_1: 
 ダミー
 
 28_1: 
-ゴルベーザの
-ハイライト曲。
+Golbez
+Highlight
 
-出典：ＦＦⅣ
-ゴルベーザのイベントで
-流れる曲。
+From: FF4
+Heard during Golbez's
+events.
 
 29_1: 
-ギルガメッシュの
-ハイライト曲。
+Gilgamesh
+Highlight
 
-出典：ＦＦⅤ
-ギルガメッシュとの
-戦闘で流れる曲。
+From: FF5
+Heard in battle with
+Gilgamesh.
 
 30_1: 
-ケフカの
-ハイライト曲。
+Kefka
+Highlight
 
-出典：ＦＦⅥ
-ケフカとの戦闘で
-流れる曲。
+From: FF6
+Heard in battle with
+Kefka.
 
 31_1: 
-クラウドの
-ハイライト曲。
+Cloud
+Highlight
 
-出典：ＦＦⅦ
-ボスとの戦闘で
-流れる曲。
+From: FF7
+Heard in boss battles.
 
 32_1: 
-セフィロスの
-ハイライト曲。
+Sephiroth
+Highlight
 
-出典：ＦＦⅦ
-セフィロスとの戦闘で
-流れる曲。
+From: FF7
+Heard in battle with
+Sephiroth.
 
 33_1: 
-スコールの
-ハイライト曲。
+Squall
+Highlight
 
-出典：ＦＦⅧ
-通常の戦闘で流れる曲。
+From: FF8
+Heard in battles.
 
 34_1: 
-ジタンの
-ハイライト曲。
+Zidane
+Highlight
 
-出典：ＦＦⅨ
-狩猟祭で流れる曲。
+From: FF9
+Heard when hunting.
 
 35_1: 
-ユウナの
-ハイライト曲。
+Yuna
+Highlight
 
-出典：ＦＦⅩ
-エボン＝ジュとの戦闘で
-流れる曲。
+From: FF10
+Heard in battle with
+Yu Yevon.
 
 36_1: 
-ティーダの
-ハイライト曲。
+Tidus
+Highlight
 
-出典：ＦＦⅩ
-ブリッツボールのときに
-流れる曲。
+From: FF10
+Heard when playing
+Blitzball.
 
 37_1: 
-バルフレアの
-ハイライト曲。
+Balthier
+Highlight
 
-出典：ＦＦ<アイコン:12>
-バルフレアのイベントで
-流れる曲。
+From: FF<アイコン:12>
+Heard during  Balthier's
+events.
 
 38_1: 
-ライトニングの
-ハイライト曲。
+Lightning
+Highlight
 
-出典：ＦＦ<アイコン:13>
-通常の戦闘で流れる曲。
+From: FF<アイコン:13>
+Heard in battles.
 
 39_1: 
-ミンフィリアの
-ハイライト曲。
+Minfilia
+Highlight
 
-出典：ＦＦ<アイコン:14>
-イベントで流れる曲。
+From: FF<アイコン:14>
+Heard during events.
 
 40_1: 
-ノクティスの
-ハイライト曲。
+Noctus
+Highlight
 
-出典：ＦＦ<アイコン:15>
-帝国軍との戦闘で
-流れる曲。
+From: FF<アイコン:15>
+Heard in battle with
+the imperial army.
 
 41_1: 
-「トロデーン城」の
-資産突破曲。
+“Trodain Castle”
+Fortune victory
 
-出典：ＤＱⅧ
-通常の戦闘で流れる曲。
+From: DQ8
+Heard in battles.
 
 42_1: 
-「ロンダルキア」の
-資産突破曲。
+“Cave to Rhone”
+Fortune victory
 
-出典：ＤＱⅡ
-破壊神シドーとの戦闘で
-流れる曲。
+From: DQ2
+Heard in battle with
+Malroth.
 
 43_1: 
-「ダーマ神殿」の
-資産突破曲。
+“Alltrades Abbey”
+Fortune victory
 
-出典：ＤＱⅨ
-通常の戦闘で流れる曲。
+From: DQ9
+Heard in battles.
 
 44_1: 
-「死の火山」の
-資産突破曲。
+“Mount Magmageddon”
+Fortune victory
 
-出典：ＤＱⅢ
-ボスとの戦闘で
-流れる曲。
+From: DQ3
+Heard in boss battles.
 
 45_1: 
-「海底神殿」の
-資産突破曲。
+“Seabed Shrine”
+Fortune victory
 
-出典：ＤＱⅥ
-通常の戦闘で流れる曲。
+From: DQ6
+Heard in battles.
 
 46_1: 
-「幽霊船」の
-資産突破曲。
+“Ghost Ship”
+Fortune victory
 
-出典：ＤＱⅢ
-通常の戦闘で流れる曲。
+From: DQ3
+Heard in battles.
 
 47_1: 
-「カミハルムイ城」の
-資産突破曲。
+“Kamiharumui Castle”
+Fortune victory
 
-出典：ＤＱⅩ
-通常の戦闘で流れる曲。
+From: DQ10
+Heard in battles.
 
 48_1: 
-「竜王の城」の
-資産突破曲　その１。
+“Dragonlord's Castle”
+Fortune victory 1
 
-出典：ＤＱⅠ
-正体を現した竜王との
-戦闘で流れる曲。
+From: DQ1
+Heard in battle with
+Dragonlord's true form.
 
 49_1: 
-「竜王の城」の
-資産突破曲　その２。
+“Dragonlord's Castle”
+Fortune victory 2
 
-出典：ＤＱⅠ
-通常の戦闘で流れる曲。
+From: DQ1
+Heard in battles.
 
 50_1: 
 ダミー
 
 51_1: 
-「飛空艇」の
-資産突破曲。
+“Prima Vista”
+Fortune victory
 
-出典：ＦＦⅨ
-通常の戦闘で流れる曲。
+From: FF9
+Heard in battles.
 
 52_1: 
-「クリスタルタワー」の
-資産突破曲。
+“Crystal Tower”
+Fortune victory
 
-出典：ＦＦⅢ
-ボスとの戦闘で
-流れる曲。
+From: FF3
+Heard in boss battles.
 
 53_1: 
-「古代図書館」の
-資産突破曲。
+“Ancient Library”
+Fortune victory
 
-出典：ＦＦⅤ
-ボスとの戦闘で
-流れる曲。
+From: FF5
+Heard in boss battles.
 
 54_1: 
-「魔列車」の
-資産突破曲。
+“Phantom Train”
+Fortune victory
 
-出典：ＦＦⅥ
-ボスとの戦闘で
-流れる曲。
+From: FF6
+Heard in boss battles.
 
 55_1: 
-「ゴールドソーサー」の
-資産突破曲。
+“Gold Saucer”
+Fortune victory
 
-出典：ＦＦⅦ
-通常の戦闘で流れる曲。
+From: FF7
+Heard in battles.
 
 56_1: 
-「アレクサンドリア」の
-資産突破曲。
+“Alexandria”
+Fortune victory
 
-出典：ＦＦⅨ
-ボスとの戦闘で
-流れる曲。
+From: FF9
+Heard in boss battles.
 
 57_1: 
-「サンレス水郷」の
-資産突破曲。
+“Sunleth Waterscape”
+Fortune victory
 
-出典：ＦＦ<アイコン:13>
-ボスとの戦闘で
-流れる曲。
+From: FF<アイコン:13>
+Heard in boss battles.
 
 58_1: 
-「ルシス王国領」の
-資産突破曲。
+“Lucis”
+Fortune victory
 
-出典：ＦＦ<アイコン:15>
-通常の戦闘で流れる曲。
+From: FF<アイコン:15>
+Heard in battles.
 
