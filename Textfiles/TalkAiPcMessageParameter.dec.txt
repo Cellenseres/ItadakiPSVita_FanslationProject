@@ -1,125 +1,125 @@
 1_1: 
-<通常>サントハイム神官　クリフト
-まいります。お手やわらかに
-<p>。
+<通常>I am Kiryl, priest, from
+Zamoksva. Well met,
+<p>.
 
 1_2: 
-<通常>アリーナよ。
-<p>なら
-相手に不足ナシ　ね！
+<通常>I Alena.
+If you I up against,
+<p>, then it be nothing!
 
 1_3: 
-<喜>ごきげんよう。
-サラボナの　フローラですわ。
-よろしくお願いします。
+<喜>How do you do?
+I am Nera of Mostroferrato.
+It's a pleasure to meet you.
 
 1_4: 
-<喜>ビアンカです。
-私が　ついてるから　だいじょうぶ。
-ね　いっしょに　行きましょう！
+<喜>I'm Bianca.
+It'll be OK, cause I'm on your side.
+'Kay, let's get rollin'!
 
 1_5: 
-<通常>オレの名は　テリー。
-さすらいの剣士だ。
+<通常>MY name is Terry.
+Wandering swordsman.
 
 1_6: 
-<通常>オレの名前は　ハッサン。
-旅の武闘家だ。
-あんたは？
+<通常>My name is Carver.
+A traveling martial artist.
+And you?
 
 1_7: 
-<喜>ウフフ！　マリベルよ。
-優勝は　あたしが　もらったも
-どーぜんね！
+<喜>A-hee-hee! I'm Maribel.
+It's as good as done that
+I'M getting the win!
 
 1_8: 
-<喜>私は　ゼシカ・アルバート。
-おたがい　全力でがんばりましょ。
-よろしくね　<p>。
+<喜>I am Jessica Albert.
+Let's go all out together.
+It's a pleasure, <p>.
 
 1_9: 
-<喜>あんたのウワサは　よく耳にしてた。
-ひとつ　お手やわらかに頼むぜ。
-<p>？
+<喜>I've heard the rumors.
+Take it easy on me.
+<p>?
 
 1_10: 
-<喜>セントシュタインで　宿屋を営む
-リッカです！　<p>
-よろしく　お願いします！
+<喜>I'm Erinn, keeper of the
+inn at Stornway! It's nice
+to meet you, <p>!
 
 1_11: 
-<通常>グランゼドーラ王国の　姫であり
-勇者の　アンルシアよ。
-正々堂々と　戦いましょうね！
+<通常>I am princess and the
+heroine of Granzedora, Anlucia.
+We will fight for justice!
 
 1_12: 
-<通常>我は　冥王ネルゲル。
-すべての死を　創りだし
-すべてを死に　帰せし者だ。
+<通常>I am the Dreadlord Nelgel.
+I am the one that creates all
+death and returns all to death.
 
 1_13: 
 ダミー
 
 1_14: 
-<通常>私は　暗黒魔道士　ゴルベーザ。
-<p>よ　我が術に
-ひれふすがいい！
+<通常>I am the archmage, Golbez.
+You'd best kneel before my
+skills, <p>!
 
 1_15: 
-<通常>オレが　ギルガメッシュだ！
-<p>よ！　お前の腕を
-見せてもらうぜ！
+<通常>I AM GILGAMESH!
+Show me what you've got,
+<p>!
 
 1_16: 
-<通常>始まったら
-誰にも　止められないじょー！
+<通常>Noooobody is going to
+stop me once we begin!
 
 1_17: 
-<通常>俺はクラウド・ストライフ。
-さあ　始めようか。
-そして　さっさと終わらせよう。
+<通常>I am Cloud Strife.
+So, we going to start?
+Oh, and I'll finish this soon.
 
 1_18: 
-<通常><p>？
-クックック……これは失礼。
-おまえには　名前など無かったな。
+<通常><p>?
+K'hee-hee-hee... It's a shame.
+Your name means nothing to me.
 
 1_19: 
-<通常>俺は　スコール。
-……そっちの名前は　把握した。
-あいさつは　終わりだ。
+<通常>I am Squall.
+...I think I got your name.
+OK, now that's settled.
 
 1_20: 
-<通常>ジタンってんだ。
-よろしくな　<p>！
+<通常>Call me Zidane.
+Nice to meet ya, <p>!
 
 1_21: 
-<通常>ビサイドから　まいりました。
-召喚士　ユウナと申します。
-<p>　こんにちは。
+<通常>I come from Besaid.
+I am Yuna the Summoner.
+Hello, <p>.
 
 1_22: 
-<激><特>オレ　ティーダ！
-ブリッツの　選手やってるッス。
-ザナルカンド・エイブスのエース！
+<激><特>I'M TIDUS!
+I'm a Blitzballer.
+Ace of the Zanarkand Abes!
 
 1_23: 
-<通常>オレの名前を知らない　だと？
-なら　今　おぼえるんだな。
-バルフレアだ。
+<通常>You don't know my name?
+Now you better remember it now.
+It's Balthier.
 
 1_24: 
-<通常>ライトニングだ。
-よろしく頼む。
+<通常>I'm Lightning.
+Nice to meet you.
 
 1_25: 
-<通常>あなたがウワサの……。
-フフフ　待っていたわ。
+<通常>So YOU'RE the one...
+Hee-hee, I've waited for you.
 
 1_26: 
-<通常>ん　じゃ　ゲーム始めるか。
-……あれ？　つか　あんた
-誰だっけ？
+<通常>Oh, hmm, game's starting?
+Huh? Wait, who are you
+again?
 
 2_1: 
 

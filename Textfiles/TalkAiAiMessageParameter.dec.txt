@@ -1,117 +1,123 @@
 1_1: 
-<通常>サントハイム神官　クリフト
-まいります。
+<通常>I am Kiryl, priest, from
+Zamoksva.
 
 1_2: 
-<通常>サントハイムの　アリーナよ。
-手加減なしで　お相手するわ！！
+<通常>Alena, from Zamoksva.
+I beat you with nothing
+but fists!!
 
 1_3: 
-<通常>わたくし　フローラと申します。
-サラボナの富豪　
-ルドマンの娘ですのよ。
+<通常>I am called Nera.
+I am the daughter of the wealthy
+Briscoletti of Mostroferrato.
 
 1_4: 
-<喜>うふふっ　こんにちは。
-私　ビアンカです。
-今日は　がんばるぞ～！
+<喜>Hee-hee. Hi, y'all.
+I'm Bianca.
+I'm goin' all out today!
 
 1_5: 
-<通常>オレの名は　テリー。
-さすらいの剣士だ。
+<通常>My name is Terry.
+Wandering swordsman.
 
 1_6: 
-<喜>オレは　ハッサンだ！
-よろしく　たのむぜ！
+<喜>I, am CARVER!
+Well met!
 
 1_7: 
-<喜>え？　あたし？
-マリベルよ！　マ・リ・ベ・ル！！
-ちゃんと　おぼえておきなさいよ。
+<喜>Oh? Me?
+I'm Maribel! Ma〜ri〜BEL!!
+You best remember it.
 
 1_8: 
-<喜>リーザス村の
-ゼシカ・アルバートよ。
-みんな　よろしくね。
+<喜>Jessica Albert from
+Alexandria.
+Nice to meet everyone.
 
 1_9: 
-<通常>オレの名は　ククール。
-まあ　ひとつよろしく　たのむぜ。
+<通常>My name is Angelo.
+Well, I guess I should say
+Hi once.
 
 1_10: 
-<喜>セントシュタインで
-宿屋をしている　リッカです！
-みなさん　よろしくお願いします！
+<喜>I'm Erinn, the innkeeper
+from Stornway!
+It's a pleasure everyone!
 
 1_11: 
-<通常>私の名は　アンルシア。
-グランゼドーラ王国の　姫にして
-勇者の　使命を授かった者よ。
+<通常>My name is Anlucia.
+As princess of Granzedora,
+heroes take orders from me.
 
 1_12: 
-<通常>我が名は　冥王ネルゲル。
-あまねく死を　統べる者だ。
+<通常>MY name is Dreadlord Nelgel.
+I am the one that governs
+all of death.
 
 1_13: 
 ダミー
 
 1_14: 
-<通常>我が名は　ゴルベーザ。
-この地のクリスタルを
-我が手中に　おさめてくれよう！
+<通常>My name is Golbez.
+You will give me all of the
+crystals of the land!
 
 1_15: 
-<通常>我こそは　伝説の剣士
-ギルガメッシュ！
-この　華麗な　剣さばきを見よ！
+<通常>It is I, the legendary
+swordsman, Gilgamesh!
+Behold my fine fencing!
 
 1_16: 
-<通常>このケフカ様の名を
-知らないだって！？
-シンジラレナーイ！！
+<通常>ARE YOU telling ME you
+don't know the great Kefka's
+name!? UN-BELIEV-ABLE!!
 
 1_17: 
-<通常>俺は　クラウド・ストライフ。
-「なんでも屋」を　やっている。
+<通常>I'm Cloud Strife.
+I'm working as a
+“jack-of-all-trades”.
 
 1_18: 
-<通常>私の名はセフィロス。
-かつては英雄と呼ばれたが……
-おい　身がまえなくてもいいぞ。
+<通常>My name is Sephiroth.
+I was called a hero before...
+Hey, don't be so alarmed.
 
 1_19: 
-<考>これも　ＳｅｅＤの任務なのか？
-わからないな……。
+<考>Is this a job for SeeD?
+I dunno.
 
 1_20: 
-<通常>呼び捨てにして　いいぜ？
-「よお　ジタン」　ってな。
+<通常>Mind if I just throw it
+out there? Like, uh,
+“Yo, Zidane.”
 
 1_21: 
-<通常>ビサイドから　まいりました。
-召喚士　ユウナと申します。
+<通常>I am from Besaid.
+I am Yuna the Summoner.
 
 1_22: 
-<激><特>オレ　ティーダ！
-ブリッツの　選手やってるッス。
-ザナルカンド・エイブスのエース！
+<激><特>I'M TIDUS!
+I'm a Blitzballer.
+Ace of the Zanarkand Abes!
 
 1_23: 
-<通常>オレは　バルフレア。
-このゲームの　主人公さ。
+<通常>I'm Balthier.
+This game's protagonist.
 
 1_24: 
-<通常>ライトニングだ。
-足手まといは置いていく。
+<通常>Lightning here.
+You all are just going to
+slow me down.
 
 1_25: 
-<通常>聞こえるかしら？
-わたしは　ミンフィリア。
-「暁の血盟」の　盟主です。
+<通常>Is this thing on?
+I'm Minfilia. The leader
+of the Scions of the Seventh Dawn.
 
 1_26: 
-<喜>ん？　オレ？　ノクティス。
-ノクトでいいよ。よろしくな。
+<喜>Hm? Me? Noctis.
+Noct's fine. It's a pleasure.
 
 2_1: 
 <喜>がんばりますので　みなさん
