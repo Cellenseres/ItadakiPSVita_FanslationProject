@@ -1,91 +1,91 @@
 1_1: 
-<通常>いただきストリート！
+<通常>It Fortune Street!
 
 1_2: 
-<喜>いただきストリート！
+<喜>It Fortuuuune Street!
 
 1_3: 
-<喜>いただきストリート！　ですわ！
+<喜>This. Is. Fortune Street!
 
 1_4: 
-<喜>いただきストリート！
+<喜>It's Fortune Street!
 
 1_5: 
-<通常>いただきストリート！
+<通常>Fortune Street!
 
 1_6: 
-<喜>いただきストリートだぜ！
+<喜>It's Fortune-Carvin' Street!
 
 1_7: 
-<喜>いただきストリート！
+<喜>FOR-tuuuune Street!
 
 1_8: 
-<喜>いただきストリート！
+<喜>It's Fortune Street!
 
 1_9: 
-<通常>いただきストリート！
+<通常>Fortune Street!
 
 1_10: 
-<喜>いただきストリート！
+<喜>It's Fortune Street!
 
 1_11: 
-<喜>いただきストリート！
+<喜>It's Fortune Street!
 
 1_12: 
-<喜>いただきストリート！
+<喜>Fortune Street!
 
 1_13: 
 ダミー
 
 1_14: 
-<喜>いただきストリートだ！
-ファファファファ！
+<喜>Iiiit's Fortune Street!
+Ha-ha-ha-ha!
 
 1_15: 
-<喜>あっ　いただきストリート～！
+<喜>Oh, Fortune Streeeeet!
 
 1_16: 
-<喜>いただきストリート！
-ヒーヒッヒッヒ！
+<喜>It's Fortune StrEE!
+EE-hee-hee-hee!
 
 1_17: 
-<通常>いただきストリート！
+<通常>Fortune Street!
 
 1_18: 
-<通常>……いただきストリート。
+<通常>...Fortune Street.
 
 1_19: 
-<通常>いただきストリート。
+<通常>Fortune Street.
 
 1_20: 
-<喜>いただきストリート！
+<喜>Yo, Fortune Street!
 
 1_21: 
-<喜>いただきストリート！
+<喜>It's Fortune Street!
 
 1_22: 
-<喜>いただきストリートッス！
+<喜>Fortune STREETZ!
 
 1_23: 
-<通常>いただきストリート！
+<通常>Fortune Street!
 
 1_24: 
-<通常>いただきストリート。
+<通常>It's Fortune Street.
 
 1_25: 
-<喜>いただきストリート！
+<喜>It's Fortune Street!
 
 1_26: 
-<喜>いただきストリート！
+<喜>Fortune Street!
 
 1_27: 
-<喜>いただきストリート！
+<喜>Fortune Street, Hoooo!
 
 1_28: 
-<通常>いただきストリート！
+<通常>Gooo Fortune Street!
 
 1_29: 
-<通常>いただきストリート　クポ！
+<通常>It's Fortune Street, Kupo!
 
 2_1: 
 
@@ -169,12 +169,12 @@
 
 
 2_28: 
-<通常>さあ　今日は　どのモードで遊ぶのだ？
-覚悟を決めて　選ぶがいい！
+<通常>So what mode ya goo-in' for today?
+As they say, All work and no play!
 
 2_29: 
-<通常>よく　来たクポ！
-好きなモードを　選ぶクポ～。
+<通常>Welcome, Kupo!
+Choose whatever you fancy, kupo.
 
 3_1: 
 
@@ -258,12 +258,12 @@
 
 
 3_28: 
-<通常>これは　ひとりで遊ぶ　勝ち抜き形式のモードだ。
-おのれを　きたえるのに　最適だな。
+<通常>This is a 1-player, winner-takes-all mode.
+Maybe a flantastic test of your training?
 
 3_29: 
-<通常>これは　ひとりで遊ぶ　勝ち抜き形式のモードクポ～。
-キミが　どこまで　戦えるか　たのしみクポ。
+<通常>This is a 1-player, win everything mode, kupo.
+The fun is in how far will you make it, kupo.
 
 4_1: 
 
@@ -347,12 +347,12 @@
 
 
 4_28: 
-<通常>マップやルールを　自由に選んで遊べるモードだよ～。
-今　使っているゲーム機で　みんなと楽しく遊ぶこともできるよ。
+<通常>The mode to choose map and rules to play on.
+Have a goo-d time with everyone in your current game.
 
 4_29: 
-<通常>マップやルールを　自由に選んで遊べるモードクポ～。
-今　使っているゲーム機で　みんなと楽しく遊べるクポ。
+<通常>Freely play on any map or rules, kupo.
+Play with all the characters you've gotten so far, kupo.
 
 5_1: 
 
@@ -436,12 +436,12 @@
 
 
 5_28: 
-<通常>ゲームでコインをためると　この景品交換所で
-キャラクターやマップを　増やせるよ。
+<通常>Slurp up coins in-game to goo get maps
+and characters at the exchange shop.
 
 5_29: 
-<通常>ゲームで貯めた　コインを使って　キャラクターや　マップを
-増やすことができるクポ～。
+<通常>Use coins earned in-game, so you can
+get more characters and maps, kupo.
 
 6_1: 
 
@@ -525,12 +525,12 @@
 
 
 6_28: 
-<通常>何か　わからないことがあれば　ここを選択だ。
-我輩が　一から　きたえなおしてやる。
+<通常>Bounce on over here if you need a clue.
+It'll be me that'll squish you into shape.
 
 6_29: 
-<通常>いただきストリートの　ゲーム説明を　聞けるクポ。
-わからないことがあれば　迷わず　見てみるクポ。
+<通常>Learn explanations about Fortune Street, kupo.
+Check it out if your lost or confused, kupo.
 
 7_1: 
 
@@ -614,12 +614,13 @@
 
 
 7_28: 
-<通常>自分の　戦績が気になる？
-えーと……ここで見れるよ　じゃなかった　見れるぞ！
+<通常>Goo-t a hankering about your progress?
+Uhh, you can view it here. No, wait, what's
+wrong with me. You can gooooo check it out!!
 
 7_29: 
-<通常>今までの　戦績を見たいクポ？
-ここを見れば　確認できるクポ。
+<通常>So you wanna look at your results, kupo?
+Confirm it when you look here, kupo.
 
 8_1: 
 
@@ -703,12 +704,13 @@
 
 
 8_28: 
-<通常>他のゲーム機と通信して
-対戦するなら　このモードを　選んでね！
+<通常>Gooo to this mode if you want to
+connect and match up against other consoles, 'kay!
 
 8_29: 
-<通常>他のゲーム機と　通信をしたいクポ？
-ここを選べば　みんなと通信対戦することができるクポ！
+<通常>Wanna connect to other consoles, kupo?
+Then pick this to slam-dance, net battle versus
+everyone, kupo!
 
 9_1: 
 
@@ -792,12 +794,12 @@
 
 
 9_28: 
-<通常>これまで　集めたアイテムを見るなら
-ミュージアムを　選択してね！
+<通常>Bounce on over to the museum when you
+want to view items you've collected so far, 'kay!
 
 9_29: 
-<通常>いろいろな　アイテムが　展示されているところクポ。
-展示するアイテムを持ってるなら　入ってみるクポ。
+<通常>Where a bunch of items are on display, kupo.
+If that's your bag, then moonwalk on in, kupo.
 
 10_1: 
 
@@ -881,12 +883,12 @@
 
 
 10_28: 
-<通常>ＢＧＭやＳＥの　ボリュームを設定したり
-ゲームデータのセーブや　ロードができるよ。
+<通常>You can spring or squish BGM and SE
+volume, and save and load game data.
 
 10_29: 
-<通常>ＢＧＭやＳＥの　ボリュームを設定したり
-ゲームデータの　セーブやロードが　できるクポ。
+<通常>Configure BGM and SE volume,
+and save and load your game data, kupo.
 
 11_1: 
 
@@ -970,12 +972,12 @@
 
 
 11_28: 
-<通常>何人で　遊ぶのだ？　さあ　プレイ人数を　選ぶのだ！
-（ひとりを選ぶ場合　のこり３人はコンピュータになります）
+<通常>How many players? Come on, choose a number!
+(3 AI will fill in spots when you play alone.)
 
 11_29: 
-<通常>何人で　遊ぶクポ？　プレイ人数を　教えてほしいクポ～。
-（ひとりを選ぶ場合　のこり３人はコンピュータになります）
+<通常>How many, kupo? I want you to tell me, kuuupo.
+(3 AI will fill in spots when you play alone.)
 
 12_1: 
 
@@ -1059,12 +1061,12 @@
 
 
 12_28: 
-<通常>今日は　１人で　遊ぶのだな？
-（のこり３人は　コンピュータになります）
+<通常>So you playing alone today?
+(3 AI will fill in remaining spots.)
 
 12_29: 
-<通常>１人で遊ぶクポ？
-（のこり３人は　コンピュータになります）
+<通常>Playing by yourself, kupo?
+(3 AI will fill in remaining spots.)
 
 13_1: 
 
@@ -1148,12 +1150,12 @@
 
 
 13_28: 
-<通常>今日は　２人で　遊ぶのだな？
-（のこり２人は　コンピュータになります）
+<通常>A goo-uple of you today?
+(2 AI will filling remaining spots.)
 
 13_29: 
-<通常>２人で遊ぶクポ？
-（のこり２人は　コンピュータになります）
+<通常>2 peeps, kupo?
+(2 AI will filling remaining spots.)
 
 14_1: 
 
@@ -1237,12 +1239,12 @@
 
 
 14_28: 
-<通常>今日は　３人で　遊ぶのだな？
-（のこり１人は　コンピュータになります）
+<通常>A goo-roup of 3 of you today?
+(1 AI will fill the remaining spot.)
 
 14_29: 
-<通常>３人で遊ぶクポ？
-（のこり１人は　コンピュータになります）
+<通常>3 peeps, kupo?
+(1 AI will fill the remaining spot.)
 
 15_1: 
 
@@ -1326,10 +1328,10 @@
 
 
 15_28: 
-<通常>今日は　４人で　遊ぶのだな？
+<通常>So a party of 4 today?
 
 15_29: 
-<通常>４人で遊ぶクポ？
+<通常>4 peeps playing, kupo?
 
 16_1: 
 
@@ -1413,10 +1415,11 @@
 
 
 16_28: 
-<通常>いただきストリートの　基本ルールを　説明するぞ！
+<通常>I'm goo-nna explain all the rules!
 
 16_29: 
-<通常>いただきストリートの　基本ルールを　教えてもらえるクポ。
+<通常>You'll be taught the Fortune Street
+rules, kupo.
 
 17_1: 
 
@@ -1500,12 +1503,12 @@
 
 
 17_28: 
-<通常>いただきストリートで　売り買いする
-お店について　説明するぞ！　
+<通常>I'm goo-nna explain all about
+buying and selling shops!
 
 17_29: 
-<通常>ここでは　お店の売り買いを　教えてもらえるクポ。
-しっかり勉強して　強くなるクポ！
+<通常>You'll be taught buying and selling shops, kupo.
+Kupo! Study hard, and you'll be better off for it!
 
 18_1: 
 
@@ -1589,12 +1592,13 @@
 
 
 18_28: 
-<通常>いただきストリートで　お金を増やすために
-重要な　株について　説明するぞ！
+<通常>I'm goo-nna explain all about how you
+can slurp up money with shares!
 
 18_29: 
-<通常>ここでは　株について　教えてもらえるクポ。
-お金を稼ぐための　大切なコツなんだクポ！
+<通常>Here you'll be taught about shares, kupo.
+This one's really important on how to rake
+in the cash, kupo!
 
 19_1: 
 
@@ -1678,12 +1682,13 @@
 
 
 19_28: 
-<通常>誰よりも　お金を　集めるための秘訣
-株を使ったテクニックを　説明してやろう！
+<通常>I'm goo-nna explain my secret share
+technique that'll let any goo-n get rich!
 
 19_29: 
-<通常>株のことを　もっと知りたいなら　ここクポ！
-すごいテクニックを教えてもらえるクポ～。
+<通常>Wanna know about shares, this is the
+place, kupo!
+You'll be a taught a cool technique, kupo.
 
 20_1: 
 
@@ -1767,12 +1772,12 @@
 
 
 20_28: 
-<通常>お店がなくても　甘ったれるな！
-そんなときでも　かせげるテクニックを　説明してやろう！
+<通常>Don't give up even if have no shops!
+I'll explain a technique to get money even then!
 
 20_29: 
-<通常>お店がなくて　こまったことは　ないクポ？
-そういう時のために　ここを見ておくと　いいクポ。
+<通常>Ever been hard up without shops, kupo?
+You should check this out for those times, kupo.
 
 21_1: 
 
@@ -1856,11 +1861,13 @@
 
 
 21_28: 
-<通常>イージーモードについて　説明してやろう！
-基本を　おぼえれば　すぐに上達できるぞ！
+<通常>I'm goo-nna teach you about EZ Mode!
+You'll be a pro in no time once this gels
+with you!
 
 21_29: 
-<通常>初心者でも　遊びやすい　モードクポ。
+<通常>A mode that's easy to play
+even for a beginner, kupo.
 
 22_1: 
 
@@ -1944,11 +1951,11 @@
 
 
 22_28: 
-<通常>自分で　部屋を作って
-ゲームを始めたいなら　ここを選ぶんだ！
+<通常>Bounce on in here when you want
+to create a room to start a game!
 
 22_29: 
-<通常>自分で部屋を作って　ゲームを始められるクポ。
+<通常>Make a room to start up a game, kupo.
 
 23_1: 
 
@@ -2032,11 +2039,12 @@
 
 
 23_28: 
-<通常>誰かが作った部屋を　選んで
-ゲームに　参加することが　できるよ。
+<通常>Choose a room someone else created,
+and you can bounce your way into a game.
 
 23_29: 
-<通常>誰かが作った部屋を　選んで　ゲームに参加するクポ。
+<通常>Join a game when you choose a
+room someone else created, kupo.
 
 24_1: 
 
@@ -2120,11 +2128,12 @@
 
 
 24_28: 
-<通常>この前遊んだ　続きからで　いいのかなぁ？
+<通常>Guess you want to continue where
+you bounced out before?
 
 24_29: 
-<通常>この前の続きを　したいクポ？
-中断したところから　始まるけど　いいクポ？
+<通常>You wanna continue, kupo?
+It starts where you left off, kupo-piche?
 
 25_1: 
 
@@ -2208,11 +2217,12 @@
 
 
 25_28: 
-<通常>この前遊んだ　続きからじゃなく
-新しく　ゲームを始めるんだね？
+<通常>So you goo-nna start a new game
+rather than continue from before, right?
 
 25_29: 
-<通常>この前の続きじゃなくて　新しくゲームを始めるクポ？
+<通常>Start a new game instead of
+continuing, kupo?
 
 26_1: 
 
@@ -2296,12 +2306,12 @@
 
 
 26_28: 
-<通常>新しく始めると　前に遊んだ時の　中断データが
-消えてしまうけど　本当に　いいの？
+<通常>The game you played before'll be squished
+if you start a new game. Goo-t it?
 
 26_29: 
-<通常>新しく始めると　前に遊んだ中断データが
-消えちゃうクポ。それでも　本当にいいクポ？
+<通常>Your previous game will go poof when
+you start a new one, kupo. You hip to that, kupo?
 
 27_1: 
 
@@ -2385,10 +2395,10 @@
 
 
 27_28: 
-<通常>えっ　やめるの？
+<通常>WHAT!? You're throwing in the towel?
 
 27_29: 
-<通常>やっぱり　やめるクポ？
+<通常>So you're quitting, kupo?
 
 28_1: 
 
@@ -2472,10 +2482,12 @@
 
 
 28_28: 
-<通常>他のPlayStation<アイコン:Rマーク>Vitaと　通信対戦するのだな？ 
+<通常>Goo-ing up online against another
+PlayStation<アイコン:Rマーク>Vita?
 
 28_29: 
-<通常>他のPlayStation<アイコン:Rマーク>Vitaと　通信対戦するクポ？ 
+<通常>You want to play a Net Match
+against another PlayStation<アイコン:Rマーク>Vita, kupo?
 
 29_1: 
 
@@ -2559,12 +2571,12 @@
 
 
 29_28: 
-<通常>PlayStation<アイコン:TMマーク>Networkに接続して
-通信対戦するのだな？
+<通常>Connect to the PlayStation<アイコン:TMマーク>Network,
+and goo up aginst someone online?
 
 29_29: 
-<通常>PlayStation<アイコン:TMマーク>Networkに接続して
-通信対戦するクポ？
+<通常>Connect to the PlayStation<アイコン:TMマーク>Network,
+and play a Net Match, kupo?
 
 30_1: 
 
@@ -2648,10 +2660,11 @@
 
 
 30_28: 
-<通常>ローカル対戦を　開始するが　準備はいいか？
+<通常>Start a local match? Are YOU up for it?
 
 30_29: 
-<通常>ローカル対戦を　開始するけど　準備は　いいクポ？
+<通常>Are you ready for to start a local
+match, kupo?
 
 31_1: 
 
@@ -2735,10 +2748,10 @@
 
 
 31_28: 
-<通常>ネット対戦を　開始するが　準備はいいか？
+<通常>Start a Net Match? Are you ready?
 
 31_29: 
-<通常>ネット対戦を　開始するけど　準備は　いいクポ？
+<通常>Are you ready to start a Net Match, kupo?
 
 32_1: 
 
@@ -2822,12 +2835,12 @@
 
 
 32_28: 
-<通常>今日は　何人で　遊ぶのだ？
-（人数が足りないときは　コンピュータが参加します）
+<通常>How many are goo-ing at it today?
+(AI will fill in empty spots.)
 
 32_29: 
-<通常>今日は　何人で　遊ぶクポ？
-（人数が足りないときは　コンピュータが参加します）
+<通常>How many are playing today, kupo?
+(AI will fill in empty spots.)
 
 33_1: 
 
@@ -2911,10 +2924,11 @@
 
 
 33_28: 
-<通常>さぁ！　今日は　どのキャラクターで遊ぶのだ？
+<通常>A-ttention! Now which character do
+you flancy playing as today?
 
 33_29: 
-<通常>どのキャラクターで　遊ぶクポ？
+<通常>Who'll you play as, kupo?
 
 34_1: 
 
@@ -2998,11 +3012,11 @@
 
 
 34_28: 
-<通常>貴様の名前を　我輩に　教えてくれ！
-（どの名前で遊ぶか決めてください）
+<通常>Tell me your name, slime cadet!
+(Decide what name to play as.)
 
 34_29: 
-<通常>どっちの名前で　遊ぶクポ？
+<通常>Which name'll you use, kupo?
 
 35_1: 
 
@@ -3086,11 +3100,11 @@
 
 
 35_28: 
-<通常>よし　これで　<p>の参加が
-決定したぞ！
+<通常>Roger! You'll join in as
+<p>!
 
 35_29: 
-<通常><p>の参加が　決まったクポ！
+<通常>You'll join as <p>, kupo!
 
 36_1: 
 
@@ -3174,12 +3188,13 @@
 
 
 36_28: 
-<通常>いろんな　コースがあるけど　どのコースに　挑戦する？
-（★の数が多いほど　難しいコースです）
+<通常>You've goo-t so many courses to choose
+from, which one'll you battle on?
+(★ indicates course difficulty)
 
 36_29: 
-<通常>どのコースに　参加するクポ？
-（★の数が多いほど　難しいコースです）
+<通常>Which course you gonna join, kupo?
+(★ indicates course difficulty)
 
 37_1: 
 
@@ -3350,10 +3365,10 @@
 
 
 38_28: 
-<通常>そのコースに　するの？
+<通常>Goo on this course?
 
 38_29: 
-<通常>そのコースで　いいクポ？
+<通常>So this'll be the one, kupo?
 
 39_1: 
 
@@ -3437,12 +3452,12 @@
 
 
 39_28: 
-<通常><p>　自分の使うコントローラーで
-<アイコン:マル>ボタンを　押すのだ。
+<通常>Press the <アイコン:マル> button on the
+controller you'll use, <p>.
 
 39_29: 
-<通常><p>　自分の使うコントローラーで
-<アイコン:マル>ボタンを　押すクポ。
+<通常>Press the <アイコン:マル>ボタン button on the
+controller you'll use, <p>.
 
 40_1: 
 
@@ -3526,12 +3541,13 @@
 
 
 40_28: 
-<通常>では　２人目の戦士よ。
-自分の使うコントローラーで　名前を教えてくれ！
+<通常>Roger! 2 player combatants!
+Tell me your name using your controllers!
 
 40_29: 
-<通常>次は　２人目クポ。
-自分の使うコントローラーで　名前を教えてほしいクポ。
+<通常>Next up, 2-players, kupo.
+I want you tell me your names on your own
+controllers, kupo.
 
 41_1: 
 
@@ -3615,12 +3631,13 @@
 
 
 41_28: 
-<通常>つぎは３人目の戦士だ。
-自分の使うコントローラーで　名前を教えてくれ！
+<通常>Roger! 3 player combatants!
+Tell me your names using your controllers!
 
 41_29: 
-<通常>次は　３人目クポ。
-自分の使うコントローラーで　名前を教えてほしいクポ。
+<通常>Next up, 3-players, kupo.
+I want you tell me your names on your own
+controllers, kupo.
 
 42_1: 
 
@@ -3704,12 +3721,14 @@
 
 
 42_28: 
-<通常>最後は　４人目の戦士だ。待たせたな！
-自分の使うコントローラーで　名前を教えてくれ！
+<通常>Roger! 4 player combatants. Won't keep
+you waiting then!
+Tell me your names using your controllers!
 
 42_29: 
-<通常>最後は　４人目クポ。
-自分の使うコントローラーで　名前を教えてほしいクポ。
+<通常>At last, 4-players, kupo.
+I want you tell me your names on your own
+controllers, kupo.
 
 43_1: 
 
@@ -3793,12 +3812,14 @@
 
 
 43_28: 
-<通常>貴様のプレイヤーデータをロードするが　それでもいいのか？
-対戦を中断した場合　このアカウントの成績はセーブされないぞ！
+<通常>Are you sure you want to load your player data,
+recruit?
+Any paused match results on this account won't be saved!
 
 43_29: 
-<通常>キミの　プレイヤーデータを　ロードするけど　いいクポ～？
-対戦を中断した時　このアカウントの成績はセーブされないクポ。
+<通常>You hip to load your player data, kupo?
+Any paused match results on this account won't
+be saved, kupo.
 
 44_1: 
 
@@ -3882,12 +3903,12 @@
 
 
 44_28: 
-<通常>選択されたアカウントには　セーブデータは　ないぞ？
-（セーブデータがある　アカウントを選択してください）
+<通常>But you don't HAVE ANY saves on that account!
+(Choose an account that has save data.)
 
 44_29: 
-<通常>選択されたアカウントには　セーブデータがないクポ。
-（セーブデータがある　アカウントを選択してください）
+<通常>Kupo, there's no save data on that account.
+(Choose an account that has save data.)
 
 45_1: 
 
@@ -3971,11 +3992,11 @@
 
 
 45_28: 
-<通常>まずは　１人目！
-<アイコン:マル>ボタンを押すのだ。
+<通常>First up, player 1!
+Press the <アイコン:マル> button.
 
 45_29: 
-<通常>それじゃあ　１人目の人　<アイコン:マル>ボタンを押すクポ。
+<通常>Kupo-po, press the <アイコン:マル> button, player 1.
 
 46_1: 
 
@@ -4059,11 +4080,12 @@
 
 
 46_28: 
-<通常>では　２人目！
-名前を教えてくれ！
+<通常>Next, player 2!
+Tell me your name!
 
 46_29: 
-<通常>次は　２人目の人　名前を教えてほしいクポ。
+<通常>Next, kupo, I'd like you to tell
+me your name, player 2.
 
 47_1: 
 
@@ -4147,11 +4169,12 @@
 
 
 47_28: 
-<通常>つぎは３人目！
-名前を教えてくれ！
+<通常>Next up, player 3!
+Tell me your name!
 
 47_29: 
-<通常>次は　３人目の人　名前を教えてほしいクポ。
+<通常>Next, kupo, I'd like you to tell
+me your name, player 3.
 
 48_1: 
 
@@ -4235,11 +4258,12 @@
 
 
 48_28: 
-<通常>最後に　４人目！
-名前を教えてくれ！
+<通常>Next up, player 4!
+Tell me your name!
 
 48_29: 
-<通常>最後は　４人目の人　名前を教えてほしいクポ。
+<通常>Next, kupo, I'd like you to tell
+me your name, player 4.
 
 49_1: 
 
@@ -4323,11 +4347,12 @@
 
 
 49_28: 
-<通常>名簿から　削除したい人がいれば
-名前を　選んでね。
+<通常>You'll pick the person from the
+list that you're goo-ing to remove.
 
 49_29: 
-<通常>名簿から　消したい人がいれば　名前を選ぶクポ。
+<通常>You'll pick the name of the person
+you want to remove from the list, kupo.
 
 50_1: 
 
@@ -4411,12 +4436,12 @@
 
 
 50_28: 
-<通常><p>が　プレイ中のデータや個人データも
-削除されるけど　それでも　いいの？
+<通常>Peronal and play data for <p>
+will be erased. Does that gel with you?
 
 50_29: 
-<通常><p>が　プレイ中のデータや個人データも
-消されるけど　それでも　いいクポ？
+<通常>Personal and play data for <p>
+will be erased. Kupo?
 
 51_1: 
 
@@ -4500,10 +4525,11 @@
 
 
 51_28: 
-<通常><p>の　データを　きれ～に　削除したよ。
+<通常>Data for <p> has been completely
+squished.
 
 51_29: 
-<通常><p>の　データを消したクポ。
+<通常>Erased data for <p>, kupo.
 
 52_1: 
 
@@ -4587,12 +4613,14 @@
 
 
 52_28: 
-<通常><p>　今日は　どのキャラクターで遊ぶのだ？
-（自分で遊ぶキャラクターを選んでください）
+<通常>Who you goo-ing to play as today,
+<p>?
+(Choose the character you will play as.)
 
 52_29: 
-<通常><p>　今日は　どのキャラクターで遊ぶクポ？
-（自分で遊ぶキャラクターを選んでください）
+<通常><p>, which character will you play,
+kupo?
+(Choose the character you will play as.)
 
 53_1: 
 
@@ -4676,12 +4704,12 @@
 
 
 53_28: 
-<通常>我輩に聞こえるように　貴様の名前を　しっかり選ぶのだ！
-（どの名前で遊ぶか決めてください）
+<通常>Say your name loud and proud for me, recruit!
+(Decide which name you will play as.)
 
 53_29: 
-<通常>どっちの名前を使って　遊ぶクポ？
-選んでほしいクポ。
+<通常>Which name will you use to play, kupo?
+That means, kupo, I want you to choose one.
 
 54_1: 
 
@@ -4765,12 +4793,12 @@
 
 
 54_28: 
-<通常>ふっふっふ　これで　<p>の参加が
-決定したぞ！
+<通常>Hee-hee-hee, and now you've bounced
+into the fray as <p>!
 
 54_29: 
-<通常>クポポ～！
-<p>の参加が　決まったクポ～！
+<通常>Kupo-po!!
+<p> has joined, kupo!
 
 55_1: 
 
@@ -4854,12 +4882,12 @@
 
 
 55_28: 
-<通常><p>　対戦相手は　誰にするのだ？
-（対戦相手のコンピュータを選んでください）
+<通常>So who you goo-ing up against, <p>?
+(Choose the AI match opponents.)
 
 55_29: 
-<通常><p>　対戦相手を　選ぶクポ～！
-（対戦相手のコンピュータを選んでください）
+<通常><p>, choose your opponents, kupo!
+(Choose the AI match opponents.)
 
 56_1: 
 
@@ -4943,10 +4971,11 @@
 
 
 56_28: 
-<通常>対戦相手は　これでいいのか？　後悔はするなよ？
+<通常>So these goo-ns, huh? You not goo-nna
+regret it later?
 
 56_29: 
-<通常>本当に　そのキャラクターで　いいクポ？
+<通常>Are you sure about this, kupo?
 
 57_1: 
 
@@ -5030,12 +5059,12 @@
 
 
 57_28: 
-<通常>では　２人目の戦士よ！　自分の使うコントローラーで
-<アイコン:マル>ボタンを押すのだ！
+<通常>Okay, 2nd recruit! Press the <アイコン:マル> button
+on your controller.
 
 57_29: 
-<通常>次は　２人目の人　自分の使うコントローラーで
-<アイコン:マル>ボタンを押すクポ。
+<通常>Next, 2nd player, press the <アイコン:マル> button
+on your controller, kupo.
 
 58_1: 
 
@@ -5119,12 +5148,12 @@
 
 
 58_28: 
-<通常>つぎは　３人目の戦士だ！　自分の使うコントローラーで
-<アイコン:マル>ボタンを押すのだ！
+<通常>Okay, 2nd recruit! Press the <アイコン:マル> button
+on your controller.
 
 58_29: 
-<通常>次は　３人目の人　自分の使うコントローラーで
-<アイコン:マル>ボタンを押すクポ。
+<通常>Next, 2nd player, press the <アイコン:マル> button
+on your controller, kupo.
 
 59_1: 
 
@@ -5208,12 +5237,12 @@
 
 
 59_28: 
-<通常>最後は　４人目の戦士だ！　自分の使うコントローラーで
-<アイコン:マル>ボタンを押すのだ！
+<通常>Last up, recruit #4! Press the <アイコン:マル> button
+on your controller!
 
 59_29: 
-<通常>最後は　４人目の人　自分の使うコントローラーで
-<アイコン:マル>ボタンを押すクポ。
+<通常>Lastly, player 4, press the <アイコン:マル> button
+on your controller, kupo.
 
 60_1: 
 
@@ -5297,10 +5326,10 @@
 
 
 60_28: 
-<通常>使用するコントローラーは　これで　いいのだな？
+<通常>That controller you want to use?
 
 60_29: 
-<通常>使うコントローラーは　これで　いいクポ？
+<通常>Is that controller okay, kupo?
 
 61_1: 
 
@@ -5384,12 +5413,12 @@
 
 
 61_28: 
-<通常>今日は　どのマップで遊ぶのだ？
-（スタンダード・イージーモードで遊べるマップです）
+<通常>Which map you goo-nna play on today?
+(Playable maps are Standard and EZ Mode.)
 
 61_29: 
-<通常>どこで　遊ぶクポ？
-（スタンダード・イージーモードで遊べるマップです）
+<通常>Where you going to play, kupo?
+(Playable maps are Standard and EZ Mode.)
 
 62_1: 
 
@@ -5473,12 +5502,12 @@
 
 
 62_28: 
-<通常>では　これより　ゲームを開始する！
-（設定を変えないまま　ゲームを始めます）
+<通常>Without further a-goo, the game will start!
+(Settings can't be changed when the game starts.)
 
 62_29: 
-<通常>全部　決まったクポ！　さあ　たのしく　遊ぶクポー！
-（設定を変えないまま　ゲームを始めます）
+<通常>It's all set, kupo! Have fun, kupo!
+(Settings can't be changed when the game starts.)
 
 63_1: 
 
@@ -5562,12 +5591,12 @@
 
 
 63_28: 
-<通常>ゲームを始める前に　ルール設定を　変更することが　できるよ！
-（目標金額　破産人数や　スピード設定などを　変更できます）
+<通常>You can change rules before the game starts!
+(Asset Goal, bankruptcies, speed, etc...)
 
 63_29: 
-<通常>ゲームのルール設定を　変えるクポ？
-（目標金額　破産人数や　スピード設定などを　変更できます）
+<通常>Are you going to change the rules, kupo?
+(Asset Goal, bankruptcies, speed, etc...)
 
 64_1: 
 
@@ -5651,10 +5680,10 @@
 
 
 64_28: 
-<通常>ダイスを振る順番を　ランダムで決めて　遊べるよ。
+<通常>Turn order is random.
 
 64_29: 
-<通常>ダイスを振る順番を　ランダムに決めて　遊べるクポ。
+<通常>Turn order is random, kupo.
 
 65_1: 
 
@@ -5738,10 +5767,10 @@
 
 
 65_28: 
-<通常>キャラクターを　選んだ順番で　遊ぶことが　できるよ。
+<通常>Turn order is chosen by character.
 
 65_29: 
-<通常>ダイスを振る順番を　自分で決めて　遊べるクポ。
+<通常>Turn order is chosen by character, kupo.
 
 66_1: 
 
@@ -5912,10 +5941,10 @@
 
 
 67_28: 
-<通常>目標金額を　自分で決めて　遊ぶことが　できるよ。
+<通常>You can decide the asset goal.
 
 67_29: 
-<通常>目標金額を　自分で決めて　遊ぶことが　できるクポ。
+<通常>You can decide the asset goal, kupo.
 
 68_1: 
 
@@ -5999,10 +6028,11 @@
 
 
 68_28: 
-<通常>１人破産したら　ゲームが終了するよ。
+<通常>Game's over when 1 player goos bankrupt.
 
 68_29: 
-<通常>１人破産したら　ゲームが終了するクポ。
+<通常>The game'll end when 1 player goes
+bankrupt, kupo.
 
 69_1: 
 
@@ -6086,10 +6116,11 @@
 
 
 69_28: 
-<通常>２人破産したら　ゲームが終了するよ。
+<通常>Game's over when 2 players goo bankrupt.
 
 69_29: 
-<通常>２人破産したら　ゲームが終了するクポ。
+<通常>The game'll end when 2 players go
+bankrupt, kupo.
 
 70_1: 
 
@@ -6173,10 +6204,11 @@
 
 
 70_28: 
-<通常>３人破産したら　ゲームが終了するよ。
+<通常>Game's over when 3 players goo bankrupt.
 
 70_29: 
-<通常>３人破産したら　ゲームが終了するクポ。
+<通常>The game'll end when 3 players go
+bankrupt, kupo.
 
 71_1: 
 
@@ -6260,10 +6292,10 @@
 
 
 71_28: 
-<通常>コンピュータの　スピードは　普通で　いいんだね？
+<通常>AI speed is normal, okay?
 
 71_29: 
-<通常>コンピュータの　スピードは　普通で　いいクポ？
+<通常>AI speed is normal, ok-kupo?
 
 72_1: 
 
@@ -6347,10 +6379,10 @@
 
 
 72_28: 
-<通常>コンピュータの　スピードは　速めで　いいんだね？
+<通常>AI speed is fast, okay?
 
 72_29: 
-<通常>コンピュータの　スピードは　速めで　いいクポ？
+<通常>AI speed is fast, ok-kupo?
 
 73_1: 
 
@@ -6434,10 +6466,10 @@
 
 
 73_28: 
-<通常>コンピュータの　スピードは　かなり速めで　いいんだね？
+<通常>AI speed is super fast, okay?
 
 73_29: 
-<通常>コンピュータの　スピードは　かなり速めで　いいクポ？
+<通常>AI speed is super fast, ok-kupo?
 
 74_1: 
 
@@ -6521,10 +6553,10 @@
 
 
 74_28: 
-<通常>コンピュータの　スピードは　最速で　いいんだね？
+<通常>AI speed is ludicrous, okay?
 
 74_29: 
-<通常>コンピュータの　スピードは　最速で　いいクポ？
+<通常>AI speed is ludicrous, ok-kupo?
 
 75_1: 
 
@@ -6608,10 +6640,11 @@
 
 
 75_28: 
-<通常>ボイスありだな？　よし！　我輩の声を　聞くがいい！
+<通常>You want voice? Roger that! You SHOULD
+be listening to MY voice!
 
 75_29: 
-<通常>ボイスは　ありでいいクポ？　わかったクポ～！
+<通常>You want voice, kupo? Got it, kupo!
 
 76_1: 
 
@@ -6695,10 +6728,11 @@
 
 
 76_28: 
-<通常>ボイスは　なし？　そんなぁ～　ぼくの声　聞いてくれないの？
+<通常>No voice? Are you jelly of my beautiful
+voice? Do you not want to hear me?
 
 76_29: 
-<通常>ボイスは　なしでいいクポ？　ざんねんクポ……。
+<通常>So no voice, kupo? Too bad, kupo...
 
 77_1: 
 
@@ -6782,10 +6816,12 @@
 
 
 77_28: 
-<通常>セリフ設定あり　だな！　よし　ビシビシ　きたえてやる！
+<通常>You want chat! Roger! Sticks and stones
+are good for training!
 
 77_29: 
-<通常>セリフ設定は　ありクポ？　クポポ～。了解クポ！
+<通常>You want chat, kupo? Kupo-po!
+Ase you wish, kupo!
 
 78_1: 
 
@@ -6869,10 +6905,12 @@
 
 
 78_28: 
-<通常>えっ　セリフ設定なし　なの？　さみしいこと言わないでよ～。
+<通常>What, no chat? Don't tell me you're
+lonely later.
 
 78_29: 
-<通常>セリフ設定は　なしクポ？　ひどいクポ～。
+<通常>You don't want chat, kupo? How cruel,
+kupo.
 
 79_1: 
 
@@ -6956,10 +6994,12 @@
 
 
 79_28: 
-<通常>コンピュータ操作時の　報告や演出を　カットしないんだね。
+<通常>Scenes and reporting won't be cut when the
+AI is in control.
 
 79_29: 
-<通常>コンピュータ操作時の　報告や演出を　カットしないクポ！
+<通常>We won't cut scenes and reporting when
+the AI is in cotnrol, kupo!
 
 80_1: 
 
@@ -7043,10 +7083,12 @@
 
 
 80_28: 
-<通常>コンピュータ操作時の　報告や演出を　一部カットできるよ。
+<通常>Scenes and reporting will be cut when
+the AI is in control.
 
 80_29: 
-<通常>コンピュータ操作時の　報告や演出を　一部カットできるクポ。
+<通常>Scenes and reporting will be cut when
+the AI is in control, kupo.
 
 81_1: 
 
@@ -7130,10 +7172,12 @@
 
 
 81_28: 
-<通常>カジノマスで　全てのゲームが　ランダムで登場するよ。
+<通常>All games will be available randomly
+at Casino spaces.
 
 81_29: 
-<通常>カジノマスで　全てのゲームが　ランダムに登場するクポ。
+<通常>All games will be available randomly
+at Casino spaces, kupo.
 
 82_1: 
 
@@ -7217,12 +7261,14 @@
 
 
 82_28: 
-<通常>カジノマスに止まった時に　バトルコロシアムが　登場するよ。
-（<アイコン:マル>ボタンで　登場させるか　切り替えられます）
+<通常>Battle Colosseum will show up when stopping
+at Casino spaces.
+(Press the <アイコン:マル> button to swap)
 
 82_29: 
-<通常>カジノマスに止まった時に　バトルコロシアムが　登場するクポ。
-（<アイコン:マル>ボタンで　登場させるか　切り替えられます）
+<通常>Battle Colosseum will show up when stopping
+at Casino spaces, kupo.
+(Press the <アイコン:マル> button to swap)
 
 83_1: 
 
@@ -7306,12 +7352,14 @@
 
 
 83_28: 
-<通常>カジノマスに止まった時に　ＶＳメタルが　登場するよ。
-（<アイコン:マル>ボタンで　登場させるか　切り替えられます）
+<通常>VS Metal will show up when stopping at
+Casino spaces.
+(Press the <アイコン:マル> button to swap)
 
 83_29: 
-<通常>カジノマスに止まった時に　ＶＳメタルが　登場するクポ。
-（<アイコン:マル>ボタンで　登場させるか　切り替えられます）
+<通常>VS Metal will show up when stopping at
+Casino spaces, kupo.
+(Press the <アイコン:マル> button to swap)
 
 84_1: 
 
@@ -7395,12 +7443,14 @@
 
 
 84_28: 
-<通常>カジノマスに止まった時に　チョコボの森が　登場するよ。
-（<アイコン:マル>ボタンで　登場させるか　切り替えられます）
+<通常>Chocobo Forest will show up when stopping at
+Casino spaces.
+(Press the <アイコン:マル> button to swap)
 
 84_29: 
-<通常>カジノマスに止まった時に　チョコボの森が　登場するクポ。
-（<アイコン:マル>ボタンで　登場させるか　切り替えられます）
+<通常>Chocobo Forest will show up when stopping at
+Casino spaces, kupo.
+(Press the <アイコン:マル> button to swap)
 
 85_1: 
 
@@ -7484,12 +7534,14 @@
 
 
 85_28: 
-<通常>カジノマスに止まった時に　スロットが登場するよ。
-（<アイコン:マル>ボタンで　登場させるか　切り替えられます）
+<通常>Slots will show up when stopping at
+Casino spaces.
+(Press the <アイコン:マル> button to swap)
 
 85_29: 
-<通常>カジノマスに止まった時に　スロットが登場するクポ。
-（<アイコン:マル>ボタンで　登場させるか　切り替えられます）
+<通常>Slots will show up when stopping at
+Casino spaces, kupo.
+(Press the <アイコン:マル> button to swap)
 
 86_1: 
 
@@ -7573,10 +7625,12 @@
 
 
 86_28: 
-<通常>コンピュータから　お店の交換を　もちかけてくるよ。
+<通常>You'll receive trade requests from
+the AI.
 
 86_29: 
-<通常>コンピュータから　お店の交換を　もちかけてくるクポ。
+<通常>You'll receive trade requests from
+the AI, kupo.
 
 87_1: 
 
@@ -7660,10 +7714,12 @@
 
 
 87_28: 
-<通常>コンピュータから　お店の交換を　してこなくなるよ。
+<通常>You'll not receive trade requests from
+the AI.
 
 87_29: 
-<通常>コンピュータから　お店の交換を　してこなくなるクポ。
+<通常>You'll not receive trade requests from
+the AI, kupo.
 
 88_1: 
 
@@ -7747,10 +7803,12 @@
 
 
 88_28: 
-<通常>空き地の数が　いつも通りのマップで　遊べるよ。
+<通常>You'll play with the regular
+number of vacant lots.
 
 88_29: 
-<通常>お店を　空き地に変更しないで　遊べるクポ。
+<通常>You'll play with the regular
+number of vacant lots, kupo.
 
 89_1: 
 
@@ -7834,12 +7892,12 @@
 
 
 89_28: 
-<通常>お店を少しだけ　空き地にして　遊べるよ。
-（３つのエリアで１軒ずつ　お店マスが空き地マスになります）
+<通常>You'll play with few vacant lots.
+(There will be 1 vacant lot in 3 areas.)
 
 89_29: 
-<通常>お店を　少し空き地に変えるなら　ここを選ぶクポ。
-（３つのエリアで１軒ずつ　お店マスが空き地マスになります）
+<通常>You'll play with few vacant lots, kupo.
+(There will be 1 vacant lot in 3 areas.)
 
 90_1: 
 
@@ -7923,12 +7981,12 @@
 
 
 90_28: 
-<通常>お店をいっぱい　空き地にして　遊べるよ。
-（すべてのエリアで１軒ずつ　お店マスが空き地マスになります）
+<通常>You'll play with many vacant lots.
+(There will be 1 vacant lot in all areas.)
 
 90_29: 
-<通常>お店をいっぱい　空き地にできるクポ～。
-（すべてのエリアで１軒ずつ　お店マスが空き地マスになります）
+<通常>You'll play with many vacant lots, kupo.
+(There will be 1 vacant lot in all areas.)
 
 91_1: 
 
@@ -8012,12 +8070,13 @@
 
 
 91_28: 
-<通常>空き地が好きならこれだね！
-（すべてお店マスが空き地マスになります）
+<通常>You must REALLY like vacant lots!
+(All shop spaces will be vacant lots.)
 
 91_29: 
-<通常>お店を　すべて空き地に変えるなら　ここを選ぶクポ。
-（すべてお店マスが空き地マスになります）
+<通常>Choose this to change all shops into
+vacant lots, kupo.
+(All shop spaces will be vacant lots.)
 
 92_1: 
 
@@ -8101,10 +8160,12 @@
 
 
 92_28: 
-<通常>ゲーム開始時の　所持金を変更しないなら　これを選んでね。
+<通常>Pick this if you don't want to change the
+starting money when you begin the game.
 
 92_29: 
-<通常>最初に　持っているお金を　変えないで　遊べるクポ。
+<通常>Play without changing your initial cash,
+kupo.
 
 93_1: 
 
@@ -8188,10 +8249,10 @@
 
 
 93_28: 
-<通常>目標金額の半分の所持金を持って　ゲームを始められるよ。
+<通常>Start the game with half the asset goal.
 
 93_29: 
-<通常>最初に　持っているお金を　目標金額の半分に　できるクポ。
+<通常>Start the game with half the asset goal, kupo.
 
 94_1: 
 
@@ -8275,10 +8336,11 @@
 
 
 94_28: 
-<通常>ＢＧＭの音量が気になるなら　ここで調整できるよ。
+<通常>You can adjust the BGM volume to
+to your tastes here.
 
 94_29: 
-<通常>ＢＧＭの音量を　変えるクポ？
+<通常>You can change the BGM volume, kupo?
 
 95_1: 
 
@@ -8362,10 +8424,11 @@
 
 
 95_28: 
-<通常>ＳＥの音量が気になるなら　ここで調整できるよ。
+<通常>You can adjust the SE volume to
+to your tastes here.
 
 95_29: 
-<通常>ＳＥの音量を　変えるクポ？
+<通常>You can change the SE volume, kupo?
 
 96_1: 
 
@@ -8449,10 +8512,11 @@
 
 
 96_28: 
-<通常>ボイスの音量が気になるなら　ここで調整できるよ。
+<通常>You can adjust the voice volume to
+to your tastes here.
 
 96_29: 
-<通常>ボイスの音量を　変えるクポ？
+<通常>You can change the voice volume, kupo?
 
 97_1: 
 
@@ -8623,12 +8687,12 @@
 
 
 98_28: 
-<通常>ルールはこれでいいのだな？
-（この設定で　ゲームを始めます）
+<通常>Are you okay with these rules?
+(The game will start with this configuration.)
 
 98_29: 
-<通常>ルールは　これでいいクポ？
-（この設定で　ゲームを始めます）
+<通常>You cool with these rules, kupo?
+(The game will start with this configuration.)
 
 99_1: 
 
@@ -8712,12 +8776,12 @@
 
 
 99_28: 
-<通常>えっ　違うルールにするの？
-（設定を変更せずに戻ります）
+<通常>What, you want different rules?
+(Restores settings without changes.)
 
 99_29: 
-<通常>違うルールにするクポ？
-（設定を変更せずに戻ります）
+<通常>You want different rules, kupo?
+(Restores settings without changes.)
 
 100_1: 
 
@@ -8801,10 +8865,10 @@
 
 
 100_28: 
-<通常>では　<アイコン:マル>ボタンを押して　ゲームを　始めるぞ！
+<通常>Okay, press the <アイコン:マル> button to start!
 
 100_29: 
-<通常><アイコン:マル>ボタンを押して　ゲームを　始めるクポ～！
+<通常>Press the <アイコン:マル> button to start, kupo!
 
 101_1: 
 
@@ -8888,10 +8952,12 @@
 
 
 101_28: 
-<通常>最初の目標金額より　下げることは　できないよ。
+<通常>You can't decrease it below the
+initial goal.
 
 101_29: 
-<通常>最初の目標金額より　下げることは　できないクポ～。
+<通常>You can't decrease it below the
+initial goal, kupo.
 
 102_1: 
 
@@ -8975,10 +9041,10 @@
 
 
 102_28: 
-<通常>イージーモードでは　空き地ルールを　設定できないよ。
+<通常>You can't change this in EZ Mode.
 
 102_29: 
-<通常>イージーモードでは　空き地ルールを　設定できないクポ～。
+<通常>You can't change this in EZ Mode, kupo.
 
 103_1: 
 
@@ -9062,10 +9128,10 @@
 
 
 103_28: 
-<通常>イージーモードでは　取り引きの設定は　できないよ。
+<通常>You can't change this in EZ Mode.
 
 103_29: 
-<通常>イージーモードでは　取り引きの設定は　できないクポ～。
+<通常>You can't change this in EZ Mode, kupo.
 
 104_1: 
 
@@ -9149,10 +9215,12 @@
 
 
 104_28: 
-<通常>中断したときの　目標金額より　下げることは　できないよ。
+<通常>You can't decrease the goal when
+you're in the middle of a game.
 
 104_29: 
-<通常>中断した時の　目標金額より　下げることは　できないクポ～。
+<通常>You can't decrease the goal when
+you're in the middle of a game, kupo.
 
 105_1: 
 
@@ -9236,10 +9304,10 @@
 
 
 105_28: 
-<通常>すでに　破産している人数より　下げることは　できないよ。
+<通常>You can't decrease the minimum bankruptcies.
 
 105_29: 
-<通常>すでに　破産している人数より　下げることは　できないクポ～。
+<通常>You can't decrease the minimum bankruptcies, kupo.
 
 106_1: 
 
@@ -9323,11 +9391,11 @@
 
 
 106_28: 
-<通常>ここは　景品交換所だ。よく　来たな！
-カンゲイしてやるぞ！
+<通常>This is the Prize Exchange Shop. Come on in!
+I'll be your reception!
 
 106_29: 
-<通常>景品交換所へ　ようこそクポ～！
+<通常>Welcome to the Prize Exchange Shop, kupo!
 
 107_1: 
 
@@ -9411,12 +9479,13 @@
 
 
 107_28: 
-<通常>いただきコインが　あれば景品と交換できるよ。
-交換した景品は　「自由に遊ぶ」などで　使えるんだ！
+<通常>You can exchange for prizes with your
+Fortune Coins.
+Prizes are things like "Free Play"!
 
 107_29: 
-<通常>いただきコインが　あれば　ここで景品と交換できるクポ。
-交換した景品は　「自由に遊ぶ」などで　使えるクポ～。
+<通常>You can trade Fortune Coins for prizes, kupo.
+Prizes are things like "Free Play", kupo.
 
 108_1: 
 
@@ -9500,10 +9569,10 @@
 
 
 108_28: 
-<通常>使用する　キャラクターを　増やすことができるぞ。
+<通常>You can get more characters to play as.
 
 108_29: 
-<通常>使うキャラクターを　増やすクポ？
+<通常>Want to get more playable characters, kupo?
 
 109_1: 
 
@@ -9587,11 +9656,12 @@
 
 
 109_28: 
-<通常>マップを増やせば　「自由に遊ぶ」と「通信で対戦」で
-使うことが　できるよ。
+<通常>When you get more maps, you can use those
+in Free Play or Net Matches.
 
 109_29: 
-<通常>「自由に遊ぶ」と「通信で対戦」で　使えるマップが増えるクポ。
+<通常>The maps you can use in Free Play or
+Net Match will increase, kupo.
 
 110_1: 
 
@@ -9675,12 +9745,12 @@
 
 
 110_28: 
-<通常>追加ルールを増やすと　「自由に遊ぶ」と「通信で対戦」が
-ものすご～く　おもしろくなるんだ！
+<通常>Free Play and Net Matches become Metal King
+tier of interesting with more rules!
 
 110_29: 
-<通常>「自由に遊ぶ」と「通信で対戦」で
-設定できるルールが　増えるクポ。
+<通常>You'll have more rules you can configure
+in Free Play and Net Matches, kupo.
 
 111_1: 
 
@@ -9764,10 +9834,12 @@
 
 
 111_28: 
-<通常>最強のキャラクターを　解放するのだな？
+<通常>Maybe it'll unlock the strongest
+character?
 
 111_29: 
-<通常>最強キャラクターに　興味があるクポ？
+<通常>Any interest in the strongest
+character, kupo?
 
 112_1: 
 
@@ -9851,10 +9923,12 @@
 
 
 112_28: 
-<通常>ミュージアムに　展示するアイテムを　増やしたいのだな？
+<通常>Maybe you want to get more items
+to display in the museum?
 
 112_29: 
-<通常>ミュージアムの　展示品を　増やすクポ？
+<通常>Wanna get more display items for
+the museum, kupo?
 
 113_1: 
 
@@ -9938,12 +10012,12 @@
 
 
 113_28: 
-<通常>景品の交換は　もういいの？
-じゃ　タイトルメニューに　戻ろっか。
+<通常>Done with the Prize Exchange Shop?
+Okay, I'll Zoom us back to the title screen.
 
 113_29: 
-<通常>景品の交換を　終了して
-タイトルメニューに　戻るクポ。
+<通常>I'll return us to the title screen
+if you want to exit the Prize Exchang Shop, kupo.
 
 114_1: 
 
