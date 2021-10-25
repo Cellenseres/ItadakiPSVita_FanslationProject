@@ -2,78 +2,79 @@
 Kiryl's Whack
 
 1_2: 
-ＤＱⅣの第五章にて　強敵バルザックとの決戦にもかかわらず
-クリフトは　相手に効果が無い「ザキ」を唱え続けてしまった。
+In DQ4 Chapter 5, Kiryl, on-queue, would continue to cast
+Whack to no effect during the decisive battle with Balzack.
 
 1_3: 
 Kiryl's Whack
 
 2_1: 
-姫様のためならば
+Training with Princess
 
 2_2: 
-ＤＱⅣの第二章にて　腕試しのため　城から抜け出したアリーナを
-追いかけて　強引についていこうとするクリフトとブライ。
+In DQ4 Chapter 2, Kiryl and Borya pursued and stuck by
+Alena who ran away from the castle to win the tournament.
 
 2_3: 
-姫様のためならば
+Training with Princess
 
 3_1: 
-脱出王女アリーナ
+Alena's Escape
 
 3_2: 
-ＤＱⅣの第二章にて　お城の壁を壊してまで外出したいアリーナ。
-直したばかりの壁なら壊しやすそうと　すぐに脱出をはかる。
+In DQ4 Chapter 2, Alena punched through a wall to escape
+the castle. She came up with the plan as soon as she saw
+that the recently damaged wall was under repair.
 
 3_3: 
-脱出王女アリーナ
+Alena's Escape
 
 4_1: 
-武術大会で優勝！
+Tournament Victory!
 
 4_2: 
-ＤＱⅣの第二章にて　エンドール国における武術大会に出場した
-アリーナは　強敵を次々と撃破し見事優勝を果たした。
+In DQ4 Chapter 2, Alena persevered battle after battle
+against strong foes in the tournament held by Endor.
 
 4_3: 
-武術大会優勝！
+Tournament Victory!
 
 5_1: 
-哀しき石像
+Statue of Sorrow
 
 5_2: 
-ＤＱⅤの青年時代にて　魔物使いの青年が誘拐された妻を
-助け出そうとするが力およばず８年もの間　石にされてしまう。
+In the 2nd era of DQ5, the young monster tamer who went
+to save his kidnapped wife was turned to stone for 8 years.
 
 5_3: 
-哀しき石像
+Statue of Sorrow
 
 6_1: 
-運命の選択　ビアンカかフローラか
+Fateful Choice: Bianca or Nera?
 
 6_2: 
-ＤＱⅤの青年時代にて　大富豪ルドマンに気に入られた
-魔物使いの青年は　誰と結婚するか選択を迫られるのだった。
+In the 2nd era of DQ5, the young monster tamer who earned
+the privilege of Briscoletti must choose who to marry.
 
 6_3: 
-運命の選択
+Fateful Choice
 
 7_1: 
-Naming Knack
+A Knack for Naming
 
 7_2: 
-ＤＱⅤの幼年時代にて　ベビーパンサーの名前を　ゲレゲレ
-ボロンゴ　プックル　チロルのどれにするか迷うビアンカ。
+In the 1st era of DQ5, Bianca struggles to name the
+Sabrecub one of Purrcy, Saber, Leo or Mohicat.
 
 7_3: 
-Naming Knack
+A Knack for Naming
 
 8_1: 
 First Meeting
 
 8_2: 
-ＤＱⅤの幼年時代にて　剣士である父と旅をしていた少年は
-のちの花嫁候補になる幼いフローラと運命の出会いを果たした。
+In the 1st era of DQ5, a boy traveling with his swordsman
+father, chances upon a young Nera who he may marry later.
 
 8_3: 
 First Meeting
@@ -82,8 +83,8 @@ First Meeting
 Noble Knight
 
 9_2: 
-ＤＱⅥにて　最強の剣を追い求めるテリーは
-アークボルトの洞窟にひそむ魔獣ドランゴと死闘を繰りひろげた。
+In DQ6, Terry, seeking the strongest sword, is in a fight
+to the death against the Hackasaurus in Arkbolt cave.
 
 9_3: 
 Noble Knight
@@ -92,111 +93,112 @@ Noble Knight
 Best-Dressed Contest
 
 10_2: 
-ＤＱⅥにて　ジャンポルテの館で開催される
-「かっこよさ」を競い合うコンテスト。　老若男女問わず人気。
+In DQ6, A contest held to determine “style” is held in the
+Château de Sass. Popular across all ages, genders and slimes.
 
 10_3: 
 Best-Dressed Contest
 
 11_1: 
-ハッサンはせいけんづきを　おもいだした！
+Carver remembered knuckle sandwich!
 
 11_2: 
-ＤＱⅥにて　ムドーの城に乗り込み石化した自分の実体と
-融合したハッサンは本来の力を取り戻し得意技を思い出した。
+In DQ6, Carver recovered his memories after fusing with his
+real body turned to stone in Murdaw's Keep.
 
 11_3: 
-せいけんづき！
+Knuckle Sandwich!
 
 12_1: 
-戦いのはじまり
+The Fight Begins
 
 12_2: 
-ＤＱⅥにて　たき火の前で決意をかためた３人は
-ミレーユが呼び出した竜に乗り　魔王城に攻め込むのだった。
+In DQ6, three people determine their resolve around a campire
+before Milly summons a dragon to take them to the keep.
 
 12_3: 
-戦いのはじまり
+The Fight Begins
 
 13_1: 
-ふしぎな石版
+Fantastical Fragment
 
 13_2: 
-ＤＱⅦにて　表面に地形のような不思議な模様が描かれた石版。
-石版の欠片がそろうとかつて存在した大陸が復活する。
+In DQ7, stone tablets form into mysterious shapes.
+When put back together, lost lands are restored.
 
 13_3: 
-ふしぎな石版
+Fantastical Fragment
 
 14_1: 
-わがままお嬢様
+Spoiled Brat
 
 14_2: 
-ＤＱⅦにて　神殿の探索を終えたマリベルたちは
-村に帰ろうとするがそこは　封印された古の時代だった。
+In DQ7, at the end of their search for a temple,
+Maribel decides, in that ancient era, to return home.
 
 14_3: 
-わがままお嬢様
+Spoiled Brat
 
 15_1: 
 Sexy Beam
 
 15_2: 
-ＤＱⅧにて　ゼシカの指先から放たれたラブリーなビーム。
-射抜かれれば凶悪な魔物もメロメロになる。
+In DQ8, a lovely beam from Jessica's finger.
+Wicked monsters captured by it become enthralled.
 
 15_3: 
 Sexy Beam
 
 16_1: 
-兄との別れ
+Farewell to Brother
 
 16_2: 
-ＤＱⅧにて　リーザス像に魂を残したサーベルトから
-謎に満ちた死の真相と進むべき道を聞き　泣き崩れるゼシカ。
+In DQ8, a distraught Jessica learns of the truth about
+how her brother, Alistair, died who's soul had 
+inhabited the statue of Alexandra.
 
 16_3: 
-兄との別れ
+Farewell to Brother
 
 17_1: 
-過去からの確執
+Hurt from the Past
 
 17_2: 
-ＤＱⅧにて　修道院で暮らすこととなった少年ククールは
-そこで異母兄であるマルチェロと運命的な対面を果たした。
+In DQ8, a young Angelo who had been living in the abbey
+had a fateful meeting with his brother Marcello.
 
 17_3: 
-過去からの確執
+Hurt from the Past
 
 18_1: 
-色男にして優男
+The Gentleman Player
 
 18_2: 
-ＤＱⅧにて　オディロ院長の死後　ドルマゲスを倒すと
-宣言しつつも目の前の女性を　口説かずにはいられないククール。
+In DQ8, after Abbot Francisco's death, Angelo swears to
+defeat Dhoulmagus and confesses to the woman before him.
 
 18_3: 
-色男にして優男
+The Gentleman Player
 
 19_1: 
-宿屋はじめました
+Beg-inn-ing
 
 19_2: 
 ＤＱⅨにて　宿屋の仲間に　未熟な自分を認めてもらうため
 父の形見である「宿王の証」を取り出すリッカ。
 
 19_3: 
-宿屋はじめました
+Beg-inn-ing
 
 20_1: 
-仲間と共に
+With The Party
 
 20_2: 
-ＤＱⅨにて　ルイーダとの出会いをきっかけに　父の
-過去を知ったリッカはセントシュタインで働く決意をかためた。
+In DQ9, Erinn who knew her father's past, decides to
+work in Stornway motivated by meeting Patty.
 
 20_3: 
-仲間と共に
+With The Party
 
 21_1: 
 Peggy Sue
@@ -209,274 +211,275 @@ Peggy Sue
 Peggy Sue
 
 22_1: 
-忘却と偽りの私
+My Lament and Lies
 
 22_2: 
 ＤＱⅩにて　魔道士に生み出された　偽りの勇者は　本物の力を
 得るために　記憶を無くした　謎の少女ミシュアを幽閉した。
 
 22_3: 
-忘却と偽りの私
+My Lament and Lies
 
 23_1: 
-来襲せし冥界の王
+Invasion by the King of Hell
 
 23_2: 
 ＤＱⅩにて　冥王はエテーネの民が使う「時渡りの術」が
 いずれ脅威になると考え　魔物を率いて村を滅ぼした！
 
 23_3: 
-来襲せし冥界の王
+Invasion by the King of Hell
 
 24_1: 
-最後の戦いへ
+To the Final Battle
 
 24_2: 
 ＤＱⅩにて　冥王との５００年越しの戦いに終止符を打つため
 強固な結界に覆われた冥王の心臓に向けて飛び立つ　破邪舟。
 
 24_3: 
-最後の戦いへ
+To the Final Battle
 
 25_1: 
-黒い甲冑の魔道士ゴルベーザ
+Black-Armored Archmage Golbez
 
 25_2: 
-ＦＦⅣにて　ファブールを襲った魔道士ゴルベーザは
-セシル一行を蹴散らし風のクリスタルとローザを奪い去った。
+In FF4, the archmage Golbez who attacked Fabul banishing
+Cecil and running off with Rosa and the Wind Crystal.
 
 25_3: 
-黒い甲冑の魔道士
+Black-Armored Archmage
 
 26_1: 
 Decisive Lunar Battle
 
 26_2: 
-ＦＦⅣにて　悪の元凶ゼムスとの最終決戦で　洗脳が
-解けたゴルベーザはフースーヤと共闘しメテオを撃ち放った。
+In FF4, Fusoya and Golbez, who was brainwashed, twincast
+Meteo in the decisive battle against the main evil Zeromus.
 
 26_3: 
 Decisive Lunar Battle
 
 27_1: 
-Big Bridge Death
+Death at Big Bridge
 
 27_2: 
-ＦＦⅤにて　エクスデスの居城から脱出したバッツ一行は
-待ち構えていたギルガメッシュと激闘を繰りひろげた。
+In FF5, Buttes who escaped Exdeath's Castle finds
+Gilgamesh lying in wait in an epic battle.
 
 27_3: 
 Big Bridge
 
 28_1: 
-じばく！
+Self-Destruct!
 
 28_2: 
-ＦＦⅤにて　エクスデスの部下ネクロフォビアのワナに
-はまったバッツ一行を身をていして救出したギルガメッシュ。
+In FF5, Gilgamesh sacrificed himself to rescue the
+party from the trap set by Necrophobe, Exdeath's minion.
 
 28_3: 
-じばく！
+Self-Destruct!
 
 29_1: 
-三闘神
+Warring Triad
 
 29_2: 
-ＦＦⅥにて　ケフカは魔大陸で皇帝ガストラを裏切り
-三闘神が持つ　力のバランスを崩し世界を崩壊へ導いた。
+In FF6, Kefka betrays Emperor Geshtal on the Floating
+Continent, obtains the triad, and disrupts their balance
+sending the world into ruin.
 
 29_3: 
-三闘神
+Warring Triad
 
 30_1: 
-破壊の果て
+The End of Destruction
 
 30_2: 
-ＦＦⅥにて　崩壊した世界に建てられた瓦礫の塔に乗り込んだ
-ティナ達は　堕天使の姿と化したケフカとの決戦を　むかえた。
+In FF6, Terra and company climb the tower made from the
+ruined world to face the fallen angel, Kefka, once and for all.
 
 30_3: 
-破壊の果て
+The End of Destruction
 
 31_1: 
-遊園地deデート
+Le Parc de Date
 
 31_2: 
-ＦＦⅦにて　立ち寄った砂漠の娯楽施設ゴールドソーサーで
-クラウドは流されるまま　２人きりのゴンドラに乗ってしまう。
+In FF7, Cloud rides the gondola for two as it flies over
+the Gold Saucer built atop the desert.
 
 31_3: 
-遊園地deデート
+Le Parc de Date
 
 32_1: 
-Ｇバイク
+G-Bike
 
 32_2: 
-ＦＦⅦにて　クラウドが神羅ビルを脱出する際に奪ったバイク。
-その名はハーディ＝デイトナ　乗り手を選ぶモンスターマシン。
+In FF7, The bike Cloud used to escape the Shinra building.
+It's the Hardy-Daytona or dubbed by its riders, the Monster Machine.
 
 32_3: 
-Ｇバイク
+G-Bike
 
 33_1: 
-決別の劫火
+Apocalypse Farewell
 
 33_2: 
-ＦＦⅦにて　ニブルヘイムで出生の秘密を知った
-セフィロスは村を焼き払い炎の中へ姿を消した。
+In FF7, Sephiroth finds out the secret of his birth
+in Nibelheim, burns it to the ground, and vanishes.
 
 33_3: 
-決別の劫火
+Apocalypse Farewell
 
 34_1: 
-星に選ばれし者
+The One Who Summons Meteor
 
 34_2: 
 ＦＦⅦにて　人類への憎しみに駆られ暴走したセフィロスは
 星を　セトラの手に取り戻すことを宣言するのだった。
 
 34_3: 
-星に選ばれし者
+The One Who Summons Meteor
 
 35_1: 
-恋の呪文　好きにな～る好きにな～る
+Love Spell: I will love you, I will love you
 
 35_2: 
 ＦＦⅧにて　ＳｅｅＤ就任を祝う記念パーティーで
 リノアは　スコールをダンスに誘うために恋の魔法を唱えた。
 
 35_3: 
-恋の呪文
+Love Spell
 
 36_1: 
-魔女でも……いいさ
+Even a witch... Is Okay
 
 36_2: 
 ＦＦⅧにて　スコールとその仲間は魔女として覚醒し
 エスタの封印装置でパッキング処理中のリノアを奪還した。
 
 36_3: 
-魔女でもいいさ
+Even a witch... Is Okay
 
 37_1: 
-誰かを助けるのに理由がいるかい？
+Even if you can save them, do have a reason?
 
 37_2: 
 ＦＦⅨにて　永遠の闇を倒したあと仲間と共に脱出せず
 イーファの大樹に取り残されたクジャの救出に向かうジタン。
 
 37_3: 
-誰かを助けるのに
+Even if you can save them
 
 38_1: 
-誘拐計画
+Kidnap Plan
 
 38_2: 
 ＦＦⅨにて　ジタンはシド大公の依頼を受けガーネット姫の誘拐を
 くわだてるが姫の目的は　国から脱出することだった。
 
 38_3: 
-誘拐計画
+Kidnap Plan
 
 39_1: 
-異界送り
+Seeing Off to the Farplane
 
 39_2: 
 ＦＦⅩにて　シンの襲来により　犠牲者が出たキーリカ村で
 死者の魂を鎮める舞い異界送りを行うユウナ。
 
 39_3: 
-異界送り
+Seeing Off to the Farplane
 
 40_1: 
-信じていた教え
+If you trust me, tell me
 
 40_2: 
 ＦＦⅩにて　エボン教の本質を知り傷ついたユウナは
 聖なる泉にてティーダと心を通わせ口づけを交わした。
 
 40_3: 
-信じていた教え
+If you trust me, tell me
 
 41_1: 
-ザナルカンドにて
+To Zanarkand
 
 41_2: 
 ＦＦⅩにて　ザナルカンド遺跡に辿り着いたティーダは
 野営をする仲間たちに旅の思い出を語ろうと呼びかけるのだった。
 
 41_3: 
-ザナルカンドにて
+To Zanarkand
 
 42_1: 
-夢の終わり
+The Dream's End
 
 42_2: 
 ＦＦⅩにて　遂にエボン＝ジュを消滅させたティーダは
 消えゆく体でユウナを抱擁し　幻光の雲に飛び込むのだった。
 
 42_3: 
-夢の終わり
+The Dream's End
 
 43_1: 
-この物語の主人公
+Protagonist of Our Story
 
 43_2: 
 ＦＦ<アイコン:12>にて　王宮に忍び込んだヴァンは警備の隙を狙って
 侵入したバルフレアと出会い　運命の歯車が回りだす……。
 
 43_3: 
-この物語の主人公
+Protagonist of Our Story
 
 44_1: 
-ただひとりの相棒
+Only One Protege
 
 44_2: 
 ＦＦ<アイコン:12>にて　落下するバハムートの動力を修理したバルフレアは
 怪我を負った相棒を抱え　決死の脱出をはかるのだった。
 
 44_3: 
-ただひとりの相棒
+Onle One Protege
 
 45_1: 
-前だけ見てろ
+Look Only Forward
 
 45_2: 
 ＦＦ<アイコン:13>にて　スーリヤ湖での野営中セラの声を聞いた
 ライトニングは本心をわずかに見せスノウの背に拳を押し当てた。
 
 45_3: 
-前だけ見てろ
+Look Only Forward
 
 46_1: 
-足手まといだ
+A Burden
 
 46_2: 
 ＦＦ<アイコン:13>にて　下界に汚染された者をパルスへ追放する
 パージ列車の車内で反旗をひるがえすライトニング。
 
 46_3: 
-足手まといだ
+A Burden
 
 47_1: 
-十二賢者の行進
+March of the Twelve
 
 47_2: 
 ＦＦ<アイコン:14>にて　打倒帝国を掲げるエオルゼア同盟軍が起こした作戦
 「マーチ　オブ　アルコンズ」は見事に成功を収めた。
 
 47_3: 
-十二賢者の行進
+March of the Twelve
 
 48_1: 
-リンクパール
+Linkpearl
 
 48_2: 
 ＦＦ<アイコン:14>にて　暁の血盟の盟主であるミンフィリアは
 仲間を支援しつつ新時代の英雄を探し求めていた。
 
 48_3: 
-リンクパール
+Linkpearl
 
 49_1: 
 Final Fantasy <アイコン:15>

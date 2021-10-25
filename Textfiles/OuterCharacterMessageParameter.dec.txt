@@ -6821,7 +6821,7 @@ are good for training!
 
 77_29: 
 <通常>You want chat, kupo? Kupo-po!
-Ase you wish, kupo!
+As you wish, kupo!
 
 78_1: 
 
@@ -10101,12 +10101,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 114_28: 
-<通常>歴戦の猛者が　そろっているが　貴様が使いたいのは誰だ？
-（いただきコインと交換するキャラクターを選んでください）
+<通常>Of all these tough recruits you fought before you,
+who are you going to use?
+(Choose a character to trade with your Fortune Coins.)
 
 114_29: 
-<通常>新しく使えるようにするキャラクターは　誰にするクポ？
-（いただきコインと交換するキャラクターを選んでください）
+<通常>So which character are you gonna use next, kupo?
+(Choose a character to trade with your Fortune Coins.)
 
 115_1: 
 
@@ -10190,10 +10191,10 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 115_28: 
-<通常>このキャラクターで　いいのだな？
+<通常>Are you sure?
 
 115_29: 
-<通常>このキャラクターで　いいクポ？
+<通常>Are you sure, kupo?
 
 116_1: 
 
@@ -10277,12 +10278,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 116_28: 
-<通常>きみは　どのマップが好きなのかな？
-（いただきコインと交換するマップを選んでください）
+<通常>Which map gels with you?
+(Choose a map to trade with your Fortune Coins.)
 
 116_29: 
-<通常>新しく遊べるようにするマップは　どこにするクポ？
-（いただきコインと交換するマップを選んでください）
+<通常>What new map will you be playing on next,
+kupo?
+(Choose a map to trade with your Fortune Coins.)
 
 117_1: 
 
@@ -10366,10 +10368,10 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 117_28: 
-<通常>このマップで　いいんだね？
+<通常>So you want this map?
 
 117_29: 
-<通常>このマップで　いいクポ？
+<通常>This map is okay, kupo?
 
 118_1: 
 
@@ -10453,12 +10455,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 118_28: 
-<通常>ルールが増えれば　これまでと　違う戦術を　ためせるんだ。
-（いただきコインと交換するルールを選んでください）
+<通常>You can train different skills with more rules.
+(Choose rule to trade for Fortune Coins.)
 
 118_29: 
-<通常>ルールを追加すると　いろんな遊び方が　できるようになるクポ。
-（いただきコインと交換するルールを選んでください）
+<通常>You can do all sorts of playstyles with
+more rules, kupo.
+(Choose rule to trade for Fortune Coins.)
 
 119_1: 
 
@@ -10542,10 +10545,10 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 119_28: 
-<通常>このルールで　いいんだね？
+<通常>Is this rule okay?
 
 119_29: 
-<通常>追加するルールは　これでいいクポ？
+<通常>Do you want to add this rule, kupo?
 
 120_1: 
 
@@ -10629,12 +10632,14 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 120_28: 
-<通常>最強である　Ｓランクにしたいキャラクターを　選ぶのだ！
-（いただきコインと交換する最強キャラクターを選んでください）
+<通常>Choose a character you want to make S Rank!
+(Choose strongest character to trade for Fortune
+ Coins.) 
 
 120_29: 
-<通常>最強にしたいキャラクターを　選ぶクポ。
-（いただきコインと交換する最強キャラクターを選んでください）
+<通常>Choose a character to make the strongest, kupo.
+(Choose strongest character to trade for Fortune
+ Coins.) 
 
 121_1: 
 
@@ -10718,10 +10723,10 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 121_28: 
-<通常>このキャラクターで　いいのだな？
+<通常>Will you goo with this character?
 
 121_29: 
-<通常>このキャラクターで　いいクポ？
+<通常>Is this character okay, kupo?
 
 122_1: 
 
@@ -10805,12 +10810,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 122_28: 
-<通常>アイテムが増えると　ミュージアムが　にぎやかになるね！
-（いただきコインと交換するアイテムを選んでください）
+<通常>Spiff up your museum with more items!
+(Choose item to trade for Fortune Coins.)
 
 122_29: 
-<通常>ミュージアムに　かざるアイテムは　どれにするクポ？
-（いただきコインと交換するアイテムを選んでください）
+<通常>What item'll you use to jazz up your
+museum, kupo?
+(Choose item to trade for Fortune Coins.)
 
 123_1: 
 
@@ -10894,10 +10900,10 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 123_28: 
-<通常>このアイテムで　いいんだね？
+<通常>Is this item okay?
 
 123_29: 
-<通常>新しく　かざるアイテムは　これでいいクポ？
+<通常>Is this fresh enough for you, kupo?
 
 124_1: 
 
@@ -10981,10 +10987,11 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 124_28: 
-<通常>はい　どうぞ。　気に入った？　ふふっ　よかった～。
+<通常>Okay, here you goo. It tickle your pink
+slime? Hee-hee, I'm glad.
 
 124_29: 
-<通常>はい　どうぞクポ～。
+<通常>Yes, here you go, kupo.
 
 125_1: 
 
@@ -11068,10 +11075,11 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 125_28: 
-<通常>他に交換したいものは　あるのかな？　遠慮しないで　言ってね。
+<通常>Anything else you goo-nna trade for?
+Don't hold back now.
 
 125_29: 
-<通常>他にも　交換するクポ？
+<通常>Anything else, kupo?
 
 126_1: 
 
@@ -11155,18 +11163,18 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 126_28: 
-<通常>その景品は　交換しているぞ！
+<通常>You already goo-t that one!
 
 126_29: 
-<通常>それは　前に交換したクポ。
+<通常>You already traded for that, kupo.
 
 127_1: 
-<哀>なぜでしょう……。
-敵と遭遇すると
-いつもいつも　ザキを
-唱えたい衝動が
-身体を動かすのです。
-何かの呪いでは……。
+<哀>Why is it...
+Why do I always, always
+want to cast Whack
+when I encounter an
+enemy. There's something
+about the spell...
 
 127_2: 
 アリーナ外回りダミー116
@@ -11190,12 +11198,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 ゼシカ外回りダミー116
 
 127_9: 
-<考>どうして　クリフトは
-ザキを連発するんだ？
-かからなきゃ
-諦めればいいのによ。
-オレは　そんなマネ
-したことねえけどな。
+<考>Why does priest
+cast Whack?
+It better to not than
+try to cast.
+But I no nothing
+about magic.
 
 127_10: 
 リッカ外回りダミー116
@@ -11216,12 +11224,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ギルガメッシュ外回りダミー116
 
 127_16: 
-<喜>ヒーヒッヒッヒ！
-何を叫んでるんだ～？
-ザキザキザキザキ……
-流行ってる歌か～？
-呪文？　これが？
-才能ナーシ！！
+<喜>Ee-hee-hee-hee-hee!
+What's all the fuss about?
+WHACK-WHACK-WHACK...
+Maybe it's what the kiddos
+listen to these days?
+But this? A spell?
+YOU NO-TALENT HACK!!
 
 127_17: 
 クラウド外回りダミー116
@@ -11257,28 +11266,29 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 127_28: 
-ホミロン：
-びじゅつひん０１
+Healix:
+Exhibit 01
 
 127_29: 
-モーグリ：
-びじゅつひん０１
+Moogle:
+Exhibit 01
 
 128_1: 
-<喜>あの時は　姫様に
-ついていこうと
-必死でした……。
-姫様においていかれて
-しまった夢を　今でも
-見てしまいます。
+<喜>I was absolute in
+following princess
+back then.
+Even now I am haunted
+by nightmare of her
+leaving without me.
 
 128_2: 
-<喜>うふふ　内緒よ。
-このとき　じつは
-モンスターかと思って
-回しげりするところ
-だったの。声をかけて
-くれて助かったわ。
+<喜>Tee-hee, it secret.
+Really I think he
+monster back then,
+and was going to give
+roundhouse to head.
+I glad he say
+something.
 
 128_3: 
 フローラ外回りダミー117
@@ -11347,12 +11357,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ライトニング外回りダミー117
 
 128_25: 
-<通常>アリーナは　今も昔も
-おてんばだったのね！
-クリフトたちも
-大変みたいだけれど
-どこか　幸せそう。
-ステキな関係だわ！
+<通常>Alena was such a
+tomboy then and now!
+Kiryl and co. seem to
+have had it rough, but
+he seems happy.
+What a charming
+relationship!
 
 128_26: 
 ノクティス外回りダミー117
@@ -11361,23 +11372,24 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 128_28: 
-ホミロン：
-びじゅつひん０２
+Healix:
+Exhibit 02
 
 128_29: 
-モーグリ：
-びじゅつひん０２
+Moogle:
+Exhibit 02
 
 129_1: 
 クリフト外回りダミー118
 
 129_2: 
-<怒>もう！　だって
-仕方ないじゃない。
-特訓には狭いんだし。
-あのままだったら
-きっと　天井にも
-穴を　開けてたわ。
+<怒>Oh, come on! I
+given no choice.
+And I take training
+whenever I could.
+I surely would have
+put hole into
+ceiling then.
 
 129_3: 
 フローラ外回りダミー118
@@ -11392,12 +11404,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 ハッサン外回りダミー118
 
 129_7: 
-<喜>彼女がいたら
-ダンジョンで
-楽できそうね～。
-壁に穴　開けて
-どんどん
-近道できそうだし。
+<喜>It's so nice to
+have fist girl with
+you in a dungeoun.
+Punching holes in
+walls to make
+shortcuts and all.
 
 129_8: 
 ゼシカ外回りダミー118
@@ -11439,12 +11451,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ジタン外回りダミー118
 
 129_21: 
-<喜>壁を　蹴破るなんて
-すごいんだね。
-そんな力があったら
-わたしも暴れてみたい
-かも？　キマリが
-心配するかな。
+<喜>She's amazing to
+crush walls.
+Maybe I'd be a force
+to be reckoned with
+if I were that strong?
+Maybe enough to
+worry Kimahri?
 
 129_22: 
 ティーダ外回りダミー118
@@ -11465,28 +11478,28 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 129_28: 
-ホミロン：
-びじゅつひん０３
+Healix:
+Exhibit 03
 
 129_29: 
-モーグリ：
-びじゅつひん０３
+Moogle:
+Exhibit 03
 
 130_1: 
-<喜>あの時の姫様の
-華麗な攻撃……。
-ああ　姫様！
-私のまぶたの裏に
-姫様の勇姿が
-焼き付いております！
+<喜>That was such
+splendid attack...
+Ohh, princess!
+Your gallant figure
+is burned into
+my eyes!
 
 130_2: 
-<考>今でも思うの。
-もし　このとき
-デスピサロが棄権
-しなかったらって。
-まあ　今の私なら
-絶対負けないけどね！
+<考>I think about
+now too. If Psaro the
+Manslayer had no
+withdrawn.
+Well I would no
+lose to him NOW!
 
 130_3: 
 フローラ外回りダミー119
@@ -11549,12 +11562,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 ティーダ外回りダミー119
 
 130_23: 
-<喜>王女が　武術大会？
-しかも　優勝なんて
-なかなか　やるねえ。
-今度　うちの王女様と
-フランにも出るように
-言ってみるかね。
+<喜>The king's tourney?
+She must be like pretty
+tough to win that.
+Maybe I should ask
+my queen and Fran
+about holding one?
 
 130_24: 
 ライトニング外回りダミー119
@@ -11569,12 +11582,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 130_28: 
-ホミロン：
-びじゅつひん０４
+Healix:
+Exhibit 04
 
 130_29: 
-モーグリ：
-びじゅつひん０４
+Moogle:
+Exhibit 04
 
 131_1: 
 クリフト外回りダミー120
@@ -11583,19 +11596,18 @@ if you want to exit the Prize Exchang Shop, kupo.
 アリーナ外回りダミー120
 
 131_3: 
-<哀>石のまま　８年……。
-つらい　できごとが
-たくさんありましたが
-あの方を　支えるのが
-今も昔も　わたくしの
-役目ですの。
+<哀>Stone for 8 years...
+There was much hardship,
+but then, as it is now,
+it's my role to support
+him.
 
 131_4: 
-<哀>この時のことは
-あまり見たくないの。
-だって　かなしすぎる
-出来事だったから。
-ごめんなさい……。
+<哀>I don't wanna think
+about that time.
+I mean 'cause it's like
+way too sad.
+I'm sorry...
 
 131_5: 
 テリー外回りダミー120
@@ -11646,12 +11658,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ジタン外回りダミー120
 
 131_21: 
-<哀>長い間　石像に
-変えられて……。
-世界の移り変わりを
-じっと見守るだけで
-何もできないなんて
-きっと　つらいよね。
+<哀>To be turned into
+a statue for so long...
+It surely must have
+been tough to not be
+able to do anything
+and just watch the
+world change, y'know?
 
 131_22: 
 ティーダ外回りダミー120
@@ -11672,12 +11685,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 131_28: 
-ホミロン：
-びじゅつひん０５
+Healix:
+Exhibit 05
 
 131_29: 
-モーグリ：
-びじゅつひん０５
+Moogle:
+Exhibit 05
 
 132_1: 
 クリフト外回りダミー121
@@ -11686,20 +11699,21 @@ if you want to exit the Prize Exchang Shop, kupo.
 アリーナ外回りダミー121
 
 132_3: 
-<喜>わたくし　この日の
-晩は　ぐっすり
-眠っておりましたの。
-だって　あの方を
-信じていたから……。
-ぽっ……。
+<喜>I was completely
+asleep that night.
+I mean, I knew I 
+could trust my love's
+decision implicitly.
+*blush*
 
 132_4: 
-<喜>はぁ……今でも
-この時のことを思うと
-ドキドキするわ……。
-すごくキンチョウして
-眠れなかったっけ……
-きゃ　はずかしいわ。
+<喜>Sigh. Even when I
+think about it now,
+I'm all anxious.
+I was so nervous I
+like couldn't sleep.
+Ahh, it's so
+embarrassin'.
 
 132_5: 
 テリー外回りダミー121
@@ -11759,12 +11773,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 バルフレア外回りダミー121
 
 132_24: 
-<通常>花嫁に選ばれたほうは
-幸せかもしれないが
-そうでなかったほうが
-どんな想いで　現実を
-受け入れたのか……。
-気にはなるな。
+<通常>It probably makes
+you happy to be popped
+the question, but how
+hard would the truth
+feel if you weren't the
+one asked..?
+It's sort of interesting.
 
 132_25: 
 ミンフィリア外回りダミー121
@@ -11776,12 +11791,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 132_28: 
-ホミロン：
-びじゅつひん０６
+Healix:
+Exhibit 06
 
 132_29: 
-モーグリ：
-びじゅつひん０６
+Moogle:
+Exhibit 06
 
 133_1: 
 クリフト外回りダミー122
@@ -11793,20 +11808,20 @@ if you want to exit the Prize Exchang Shop, kupo.
 フローラ外回りダミー122
 
 133_4: 
-<喜>あら　なつかしい！
-小さいころの私と
-パンサーちゃんね！
-あの人と私で
-名前を決めたのよ。
-いいセンスでしょ？
+<喜>Oh, how nostalgic!
+It's kitty an' me as
+a li'l girl!
+He and I gave it its
+name. We sure did a
+good job, no?
 
 133_5: 
-<考>オレも　かつては
-モンスターマスターを
-目指していたが……。
-ベビーパンサーに
-好かれるとは　こいつ
-なかなか　やるな。
+<考>I set my eyes on
+being a monster scout
+long ago too...
+He must be quite good
+to get a Sabercub to
+follow him.
 
 133_6: 
 ハッサン外回りダミー122
@@ -11869,23 +11884,24 @@ if you want to exit the Prize Exchang Shop, kupo.
 ミンフィリア外回りダミー122
 
 133_26: 
-<喜>おっ　かわいいな。
-名前は　なんだ？
-ゲレゲレ……って……
-名前のセンスは
-どうだろうな。
-別にいーけど。
+<喜>Oh, how cute.
+What's it's name again?
+Purrcy..? Hmm...
+I'm not sure about
+that one.
+But it's not my
+choice.
 
 133_27: 
 
 
 133_28: 
-ホミロン：
-びじゅつひん０７
+Healix:
+Exhibit 07
 
 133_29: 
-モーグリ：
-びじゅつひん０７
+Moogle:
+Exhibit 07
 
 134_1: 
 クリフト外回りダミー123
@@ -11894,20 +11910,21 @@ if you want to exit the Prize Exchang Shop, kupo.
 アリーナ外回りダミー123
 
 134_3: 
-<喜>あの方を　ひと目
-見た瞬間　わたくし
-きんちょうしてしまい
-船の　入口の前で
-動けなくなったのを
-おぼえていますわ。
+<喜>The moment I laid
+eyes on him I was
+so nervous,
+and I remember I
+I could hardly move
+at the entrance to
+the ship.
 
 134_4: 
-<通常>へぇ　あの人と
-フローラさんって
-昔に会っていたのね。
-ふふっ　小さくても
-フローラさんは
-とっても上品そうね。
+<通常>Wow, so he met
+Miss Nera a long time
+ago, no?
+Hee-hee, she was
+such a high-class
+lady back then too.
 
 134_5: 
 テリー外回りダミー123
@@ -11955,12 +11972,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 スコール外回りダミー123
 
 134_20: 
-<喜>コイツ　やるなぁ～。
-この年で　しっかり
-女の子のハートを
-つかんでるなんてな。
-将来　いいライバルに
-なりそうだぜ！
+<喜>What a player.
+Even at that age, he
+was stealin' young
+girls' hearts.
+I bet he'd make a
+good rival!
 
 134_21: 
 ユウナ外回りダミー123
@@ -11984,12 +12001,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 134_28: 
-ホミロン：
-びじゅつひん０８
+Healix:
+Exhibit 08
 
 134_29: 
-モーグリ：
-びじゅつひん０８
+Moogle:
+Exhibit 08
 
 135_1: 
 クリフト外回りダミー124
@@ -12004,12 +12021,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ビアンカ外回りダミー124
 
 135_5: 
-<特>炎や　雷撃をよけ
-一瞬のスキをついて
-斬りつける！
-しっかり見ておけ。
-これが一流の剣士の
-戦い方ってやつだ！
+<特>Strike in but
+a moment like a
+flash of lightning
+or fire!
+I've seen it.
+He must have quite
+the sword arm!
 
 135_6: 
 ハッサン外回りダミー124
@@ -12060,12 +12078,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ユウナ外回りダミー124
 
 135_22: 
-<喜>気合　入ってんな～！
-でも　りきみすぎると
-ケガするッスよ！
-大きな試合のときほど
-リラックスするのが
-勝利への近道！
+<喜>He's got spunk!
+But he's gonna cramp
+up if he does it too
+much!
+Relaxing before a
+big game is the road
+to victory!
 
 135_23: 
 バルフレア外回りダミー124
@@ -12083,12 +12102,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 135_28: 
-ホミロン：
-びじゅつひん０９
+Healix:
+Exhibit 09
 
 135_29: 
-モーグリ：
-びじゅつひん０９
+Moogle:
+Exhibit 09
 
 136_1: 
 クリフト外回りダミー125
@@ -12103,20 +12122,20 @@ if you want to exit the Prize Exchang Shop, kupo.
 ビアンカ外回りダミー125
 
 136_5: 
-<考>んっ？　ねえさんも 
-出場していたのか！？
-それがわかっていれば
-見に……。
-いや　なんでもない。
-今のは　忘れてくれ。
+<考>Huh? Didn't my
+sister do it too!?
+I mean I knew it,
+but I don't want...
+No, it's nothing.
+Just forget it.
 
 136_6: 
-<喜>きたえたカラダなら
-ステテコパンツでも
-カッコいいもんだぜ！
-……ん？　なんだ
-わからねぇなら
-見せてやろうか？
+<喜>Even boxers look
+cool when you're
+SWOLE!
+Hmm? What.
+If you don't believe
+me, I'll show you?
 
 136_7: 
 マリベル外回りダミー125
@@ -12173,12 +12192,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ライトニング外回りダミー125
 
 136_25: 
-<通常>ベストドレッサー？
-かっこよさを競うの？
-それは　いいわね！
-息抜きによさそうだし
-「暁の血盟」でも
-やってみようかしら？
+<通常>Best Dresser?
+Competing for style?
+That's a GOOD IDEA!
+It'd be a good side
+activity, and maybe
+even the Scions'll
+try out?
 
 136_26: 
 ノクティス外回りダミー125
@@ -12187,23 +12207,23 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 136_28: 
-ホミロン：
-びじゅつひん１０
+Healix:
+Exhibit 10
 
 136_29: 
-モーグリ：
-びじゅつひん１０
+Moogle:
+Exhibit 10
 
 137_1: 
 クリフト外回りダミー126
 
 137_2: 
-<通常>すごーい！
-このせいけんづき
-気持ちがこめられた
-とっても強い拳ね。
-わたしと打ち合ったら
-どうなるかしら？
+<通常>Iiiiincredible!
+Knuckle sandwich make
+feel good and very
+strong punch too.
+I wonder what happen
+if I try?
 
 137_3: 
 フローラ外回りダミー126
@@ -12215,12 +12235,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 テリー外回りダミー126
 
 137_6: 
-<喜>大工の息子ハッサン！
-そのことが　はじめて
-うれしく　思えた
-瞬間だぜ！
-ヘヘッ！　なんだか
-テレくせえな……。
+<喜>Carpenter's son,
+Carver! The happy
+moment that I first
+remembered that!
+He-he! I feel sort
+of embarrassed
+about it now...
 
 137_7: 
 マリベル外回りダミー126
@@ -12247,12 +12268,14 @@ if you want to exit the Prize Exchang Shop, kupo.
 ゴルベーザ外回りダミー126
 
 137_15: 
-<喜>剣よりも　鋭い拳か！
-さすがのオレ様でも
-鍛え上げた体という
-武器は　奪えんぜ！
-オレ様の剣術と勝負
-してほしいもんだ！
+<喜>A small fist rather
+than a blade!?
+Even for one such as
+I, you can't steal a
+highly-trained body!
+I want to cross their
+fist to my blade in
+a duel!
 
 137_16: 
 ケフカ外回りダミー126
@@ -12291,12 +12314,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 137_28: 
-ホミロン：
-びじゅつひん１１
+Healix:
+Exhibit 11
 
 137_29: 
-モーグリ：
-びじゅつひん１１
+Moogle:
+Exhibit 11
 
 138_1: 
 クリフト外回りダミー127
@@ -12305,12 +12328,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 アリーナ外回りダミー127
 
 138_3: 
-<喜>きびしい冒険を
-続ける中で　愛が
-深まってゆく……。
-ハッサンさんと
-この女性も……あら
-ちがいましたの？
+<喜>Love strengthens as
+you continue on a hard
+quest...
+Between Carver and
+that young woman...
+Wait, am I wrong?
 
 138_4: 
 ビアンカ外回りダミー127
@@ -12319,12 +12342,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 テリー外回りダミー127
 
 138_6: 
-<特>夢だと思っていた
-魔王との闘いが
-現実だなんて　ほんと
-不思議だよな～！
-……って　ここは
-夢の中じゃないよな？
+<特>It sure was strange
+in the battle with the
+Demonlord that I thought
+was a dream was actually
+reality!
+...Wait, isn't THIS
+just a dream?
 
 138_7: 
 マリベル外回りダミー127
@@ -12351,12 +12375,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ゴルベーザ外回りダミー127
 
 138_15: 
-<考>夢が現実で現実が夢？
-その場所はつまり……
-次元の狭間だな！
-ん……　あれ？
-って　ちがうの！？
-ウガー！
+<考>Dream is reality,
+and reality is a dream?
+That place is surely...
+the Interdimensional Rift!
+Hmm, oh, wait?
+I'm wrong!?
+Gah!
 
 138_16: 
 ケフカ外回りダミー127
@@ -12395,12 +12420,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 138_28: 
-ホミロン：
-びじゅつひん１２
+Healix:
+Exhibit 12
 
 138_29: 
-モーグリ：
-びじゅつひん１２
+Moogle:
+Exhibit 12
 
 139_1: 
 クリフト外回りダミー128
@@ -12412,12 +12437,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 フローラ外回りダミー128
 
 139_4: 
-<考>石版が完成したら
-他の大陸に行けるの？
-石版はバラバラ？
-うーん　こういう
-パズルのようなものは
-私　苦手かも……。
+<考>So ya can go to
+different land when tablet
+is complete?
+And they're all lost?
+Hmmm, I ain't really
+good at puzzles like
+this.
 
 139_5: 
 テリー外回りダミー128
@@ -12426,12 +12452,14 @@ if you want to exit the Prize Exchang Shop, kupo.
 ハッサン外回りダミー128
 
 139_7: 
-<怒>コレ　本当に
-めんどくさかったわ。
-割れてなかったら
-もっと楽できたのに
-余計な事したヤツも
-いたもんね！
+<怒>It was REALLY
+annoying.
+I can't believe
+someone went through
+all the dumb trouble
+when it could have
+been much easier
+without!
 
 139_8: 
 ゼシカ外回りダミー128
@@ -12479,12 +12507,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ティーダ外回りダミー128
 
 139_23: 
-<特>石版と　謎の大陸か。
-いかにも主人公向けの
-物語って感じだねえ。
-ノノ　シュトラールの
-整備を頼む……。
-冒険を始めようぜ！
+<特>Fragment sof the
+Forgotten Lands? Sounds
+like a story for THE
+main character!
+Nono, prepare the
+Strahl... We're going
+on a new quest!
 
 139_24: 
 ライトニング外回りダミー128
@@ -12499,12 +12528,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 139_28: 
-ホミロン：
-びじゅつひん１３
+Healix:
+Exhibit 13
 
 139_29: 
-モーグリ：
-びじゅつひん１３
+Moogle:
+Exhibit 13
 
 140_1: 
 クリフト外回りダミー129
@@ -12525,12 +12554,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ハッサン外回りダミー129
 
 140_7: 
-<通常>なによ？
-別にいいでしょ。
-実際つまらなかったし
-わたし　ウソつくの
-大っ嫌いなの。
-覚えておきなさい。
+<通常>What? Who cares
+about that.
+It would have been
+boring otherwise,
+and I HATE LIARS.
+And don't you forget
+it.
 
 140_8: 
 ゼシカ外回りダミー129
@@ -12539,12 +12569,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ククール外回りダミー129
 
 140_10: 
-<怒>宿屋に　来てくれて
-ありがと！　ぜんぜん
-うれしくなかったわ！
-なんて　私が言ったら
-あっという間に宿屋が
-つぶれますね……。
+<怒>Thanks for coming
+to the inn! I was'nt
+happy at all!
+Like if I had any
+say they'd be out
+of the inn business
+like that.
 
 140_11: 
 アンルシア外回りダミー129
@@ -12580,12 +12611,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 ユウナ外回りダミー129
 
 140_22: 
-<喜>言いたいことを正直に
-言うって　なにより
-大事ッスよ
-えっ？　青くさい？
-オレ　この青さは
-なくしたくないッス！
+<喜>As they say, tellin'
+the truth is more
+important than anything.
+What? Am I naive?
+Well I don't ever
+want to not be!
 
 140_23: 
 バルフレア外回りダミー129
@@ -12603,12 +12634,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 140_28: 
-ホミロン：
-びじゅつひん１４
+Healix:
+Exhibit 14
 
 140_29: 
-モーグリ：
-びじゅつひん１４
+Moogle:
+Exhibit 14
 
 141_1: 
 クリフト外回りダミー130
@@ -12632,12 +12663,14 @@ if you want to exit the Prize Exchang Shop, kupo.
 マリベル外回りダミー130
 
 141_8: 
-<怒>何よ　これ！？
-こんな瞬間……勝手に
-かざらないでよっ！！
-……他の人が見る前に
-いっそ　メラゾーマで
-燃やそうかしら。
+<怒>What the hell!?
+In the moment, you do
+whatever you can to
+win!!
+Maybe I oughta 
+KAFRIZZLE it before
+anyone else takes a
+peek?
 
 141_9: 
 ククール外回りダミー130
@@ -12670,12 +12703,14 @@ if you want to exit the Prize Exchang Shop, kupo.
 セフィロス外回りダミー130
 
 141_19: 
-<通常>……ふざけるな。
-これが　攻撃だと？
-でも　意外なことに
-効果はあるようだ。
-俺は　どうだろう。
-恥は　かきたくない。
+<通常>You can't be serious.
+THIS is an attack?
+Well I guess it does
+seem to have an effect
+surprisingly.
+How could I even do it?
+I wouldn't want to be
+ashamed afterward.
 
 141_20: 
 ジタン外回りダミー130
@@ -12702,20 +12737,20 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 141_28: 
-ホミロン：
-びじゅつひん１５
+Healix:
+Exhibit 15
 
 141_29: 
-モーグリ：
-びじゅつひん１５
+Moogle:
+Exhibit 15
 
 142_1: 
-<考>魂とは　死してなお
-大切な人に寄りそって
-いるものなのです。
-私は　奇跡を
-見ているのでしょう。
-神よ。感謝します。
+<考>A soul, parted from
+its body, seeking
+out one it loves.
+I see that as one
+of Her miracles.
+Thank you, Goddess.
 
 142_2: 
 アリーナ外回りダミー131
@@ -12736,12 +12771,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 マリベル外回りダミー131
 
 142_8: 
-<哀>二度と　会えないと
-思っていたわ……。
-でも兄さんが　この時
-会いにきてくれたから
-きっと　わたしは
-前へ　進めたの。 
+<哀>I didn't think I
+would meet him again.
+But he came to meet
+me then so that I
+would surely be as
+right as I was before.
 
 142_9: 
 ククール外回りダミー131
@@ -12789,12 +12824,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 バルフレア外回りダミー131
 
 142_24: 
-<考>ずっと　兄さんの
-そばに　いたかったの
-かもしれないが……。
-やるべきことを
-やりとげるために
-前へ進まなければな。
+<考>She probably longed
+to have her brother by
+her side...
+It was something she
+had to do in order
+to move passed it all.
 
 142_25: 
 ミンフィリア外回りダミー131
@@ -12806,12 +12841,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 142_28: 
-ホミロン：
-びじゅつひん１６
+Healix:
+Exhibit 16
 
 142_29: 
-モーグリ：
-びじゅつひん１６
+Moogle:
+Exhibit 16
 
 143_1: 
 クリフト外回りダミー132
@@ -12826,12 +12861,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 ビアンカ外回りダミー132
 
 143_5: 
-<考>過去を振り返っても
-意味なんかない……。
-だが　ククールには
-少し　同情するぜ。
-オレも　いろいろ
-あったからな……。
+<考>The past is the
+past...
+But I sympathy a
+bit for Angelo.
+Because I too been
+through a lot...
 
 143_6: 
 ハッサン外回りダミー132
@@ -12843,12 +12878,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 ゼシカ外回りダミー132
 
 143_9: 
-<考>そんな顔するなよ。
-オレの家の事情が
-フクザツだっただけの
-話だ。オレがアイツの
-立場だったら……
-いや　なんでもない。
+<考>Don't look at me
+like that. What happened
+with my family is just
+a long story. If I were
+in their shoes...
+No, it's nothing.
 
 143_10: 
 リッカ外回りダミー132
@@ -12899,23 +12934,23 @@ if you want to exit the Prize Exchang Shop, kupo.
 ミンフィリア外回りダミー132
 
 143_26: 
-<考>どこの家でも
-いろいろあるんだな。
-まあ　過去がどうでも
-今が良きゃ
-いーんじゃねーの？
-そう　思うけどな。
+<考>All families have
+their problems.
+Well, there's no time
+like the present?
+That's just what I
+think though.
 
 143_27: 
 
 
 143_28: 
-ホミロン：
-びじゅつひん１７
+Healix:
+Exhibit 17
 
 143_29: 
-モーグリ：
-びじゅつひん１７
+Moogle:
+Exhibit 17
 
 144_1: 
 クリフト外回りダミー133
@@ -12939,20 +12974,22 @@ if you want to exit the Prize Exchang Shop, kupo.
 マリベル外回りダミー133
 
 144_8: 
-<怒>ふん！　第一印象は
-サイアクだったわ！
-どうして　あんな風に
-くどけるのかしら？
-思い出しただけで
-ハラが立ってきたわ！
+<怒>Hmph! My first thought
+was that it was the worst!
+Why'd he have to come on
+to me like THAT?
+I feel like throwing up
+just remembering that!
 
 144_9: 
-<喜>オレとゼシカの
-運命的な出会いだぜ。
-あの時　たがいの愛を
-確かめあったのさ……
-うそじゃないかって？
-さあて　どうだかね。
+<喜>That was the fateful
+encounter between Jessica
+and I.
+It was when we first
+realized our love for
+each other.
+What, think I'm lying?
+Well, maybe, maybe not.
 
 144_10: 
 リッカ外回りダミー133
@@ -12985,12 +13022,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 スコール外回りダミー133
 
 144_20: 
-<考>同じ　においがする。
-いや　オレは　こんな
-ダサい　誘い方は
-絶対しないけど。
-なんだか　同じ
-においがする……。
+<考>That feels familiar.
+No, uh, I would never
+stoop to such shameful
+ways.
+It's just it feels
+kind of familiar is
+all...
 
 144_21: 
 ユウナ外回りダミー133
@@ -13014,12 +13052,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 144_28: 
-ホミロン：
-びじゅつひん１８
+Healix:
+Exhibit 18
 
 144_29: 
-モーグリ：
-びじゅつひん１８
+Moogle:
+Exhibit 18
 
 145_1: 
 クリフト外回りダミー134
@@ -13031,12 +13069,14 @@ if you want to exit the Prize Exchang Shop, kupo.
 フローラ外回りダミー134
 
 145_4: 
-<喜>リッカさんって
-宿王の娘なの？
-ビックリしたわ！
-リッカさんの宿屋って
-どんなところかしら。
-一度行ってみたいわ！
+<喜>Wait, Erinn is the
+daughter of the King
+of Innkeepers?
+That's a shocker!
+I wonder what kind of
+inn she keeps?
+I'd like to stay
+there once!
 
 145_5: 
 テリー外回りダミー134
@@ -13054,12 +13094,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 ククール外回りダミー134
 
 145_10: 
-<喜>お父さんが　のこした
-トロフィーが　私を
-セントシュタインに
-導いてくれた……。
-そのおかげで　私も
-宿王になれたんです！
+<喜>That's the trophy
+that dad left me that
+I brought to Stornway.
+Thanks to him, I
+could become the 
+Quee-inn!
 
 145_11: 
 アンルシア外回りダミー134
@@ -13107,23 +13147,23 @@ if you want to exit the Prize Exchang Shop, kupo.
 ミンフィリア外回りダミー134
 
 145_26: 
-<喜>いつもは野宿だけど
-リッカの宿屋だったら
-泊まってみてーわ。
-今度　泊まった時に
-あのトロフィー
-見せてくれよ。
+<喜>I was camp outside,
+but I'd like to stay at
+her inn at least once.
+I'd hope she'd show
+me her trophy when
+I do.
 
 145_27: 
 
 
 145_28: 
-ホミロン：
-びじゅつひん１９
+Healix:
+Exhibit 19
 
 145_29: 
-モーグリ：
-びじゅつひん１９
+Moogle:
+Exhibit 19
 
 146_1: 
 クリフト外回りダミー135
@@ -13141,12 +13181,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 テリー外回りダミー135
 
 146_6: 
-<喜>仲間ってのは
-ほんとうにいいよな！
-バーバラ　ミレーユ
-チャモロ　テリー。
-また　みんなと
-冒険したいぜ！
+<喜>Party's are like
+great, y'know!
+Ashlynn, Milly,
+Nevan and Terry.
+I want to go on
+another adventure
+with them!
 
 146_7: 
 マリベル外回りダミー135
@@ -13158,12 +13199,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 ククール外回りダミー135
 
 146_10: 
-<喜>ルイーダさんが
-宿屋に　来なかったら
-私は　どんな生活を
-していたんだろう？
-ふふっ　出会いって
-不思議ですね♪
+<喜>I wonder what sort
+of lifestyle I'd have
+led if Patty didn't
+come to the inn?
+Hee-hee, encounters
+are such a mystery〜♪
 
 146_11: 
 アンルシア外回りダミー135
@@ -13199,12 +13240,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ユウナ外回りダミー135
 
 146_22: 
-<喜>立派な親を尊敬して
-同じ道を進むってのは
-ユウナに似てるよな。
-オレ？　オヤジなんか
-尊敬してないって。
-だいっきらいだ！
+<喜>Showin' respect to
+a good parent by followin'
+in their footsteps reminds
+me of Yuna, y'know?
+Me? I didn't take after
+my old man at all.
+He pisses me off!
 
 146_23: 
 バルフレア外回りダミー135
@@ -13222,12 +13264,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 146_28: 
-ホミロン：
-びじゅつひん２０
+Healix:
+Exhibit 20
 
 146_29: 
-モーグリ：
-びじゅつひん２０
+Moogle:
+Exhibit 20
 
 147_1: 
 クリフト外回りダミー136
@@ -13260,12 +13302,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 リッカ外回りダミー136
 
 147_11: 
-<喜>大魔王マデサゴーラの
-宮殿にたどり着くまで
-苦難の連続だったけど
-ファルシオンさまと
-盟友がいてくれたから
-戦いに勝てたの！
+<喜>It was quite a trifle
+to get to the palace of
+Madesagora, but thanks
+to Peggy Sue's being a
+true freindship we won
+the battle!
 
 147_12: 
 ネルゲル外回りダミー136
@@ -13301,12 +13343,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 ティーダ外回りダミー136
 
 147_23: 
-<考>天馬ねえ……。
-勇者のお嬢ちゃんには
-お似合いだが　オレが
-こいつにまたがったら
-フランに
-笑われそうだな。
+<考>A pegasus..?
+I'd be just like that
+heroine cutey, but Fran
+would probably laugh her
+ass off if I tried to
+mount that beast.
 
 147_24: 
 ライトニング外回りダミー136
@@ -13321,12 +13363,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 147_28: 
-ホミロン：
-びじゅつひん２１
+Healix:
+Exhibit 21
 
 147_29: 
-モーグリ：
-びじゅつひん２１
+Moogle:
+Exhibit 21
 
 148_1: 
 クリフト外回りダミー137
@@ -13347,12 +13389,14 @@ if you want to exit the Prize Exchang Shop, kupo.
 ハッサン外回りダミー137
 
 148_7: 
-<通常>確かに似てるけど
-なんか　お姫様の方は
-邪悪な気配するわね。
-あ　わかった！
-きっとマネマネが
-化けてるんだわ！
+<通常>There's definitely
+a resemblance, but like
+something evil's gotta
+be controlling the
+princess.
+Oh, I know!
+It MUST be the work
+of a Float-o-copier!
 
 148_8: 
 ゼシカ外回りダミー137
@@ -13364,12 +13408,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 リッカ外回りダミー137
 
 148_11: 
-<通常>……思えば彼女も
-かわいそうな
-人だったわよね。
-こんな悲劇を　二度と
-くり返さないように
-私は戦い続けるわ！
+<通常>...When I think
+of her, I feel she had
+it rough, y'know?
+I will continue
+fighting so that such
+a tragedy will never
+happen again!
 
 148_12: 
 ネルゲル外回りダミー137
@@ -13390,12 +13435,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 クラウド外回りダミー137
 
 148_18: 
-<通常>ほう　アンルシアも
-私と同じくコピーを
-生み出せるのか？
-クックック……
-目ざわりならば
-消してしまえばいい。
+<通常>Oh-ho, so Anlucia
+had a copy of her just
+like I did?
+K'hee-hee-hee...
+It would be best to
+rid us of that eyesore.
 
 148_19: 
 スコール外回りダミー137
@@ -13425,12 +13470,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 148_28: 
-ホミロン：
-びじゅつひん２２
+Healix:
+Exhibit 22
 
 148_29: 
-モーグリ：
-びじゅつひん２２
+Moogle:
+Exhibit 22
 
 149_1: 
 クリフト外回りダミー138
@@ -13457,11 +13502,11 @@ if you want to exit the Prize Exchang Shop, kupo.
 ゼシカ外回りダミー138
 
 149_9: 
-<怒>……魔族ってやつは
-どいつもこいつも
-ロクなことを
-やらねぇな……。
-ちっ　ヘドが出るぜ。
+<怒>Demons, no matter
+who or what they are
+they're always up to
+no good...
+Ugh, I feel sick.
 
 149_10: 
 リッカ外回りダミー138
@@ -13470,12 +13515,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 アンルシア外回りダミー138
 
 149_12: 
-<喜>何人たりとも
-我からは逃れられぬ！
-勇者と　その盟友も
-いずれかならず
-絶望の鎌の　サビに
-してくれようぞ！
+<喜>None shall escape
+from us!
+The hero and their
+allies will provide
+the key of our
+salvation!
 
 149_13: 
 ダミー
@@ -13487,12 +13532,13 @@ if you want to exit the Prize Exchang Shop, kupo.
 ギルガメッシュ外回りダミー138
 
 149_16: 
-<喜>ヒーヒッヒッヒ！
-いい！　いいぞぉ～！
-ハカイ　ハカイだ～！
-キモチイイぃぃ～！
-ぼくちんなら　もっと
-うまくやるじょ～。
+<喜>Ee-hee-hee-hee!
+Nice! Brilliant!
+Destroy, destroy!
+It fills me with joy!
+But if I were in
+charge, I would make
+it much better.
 
 149_17: 
 クラウド外回りダミー138
@@ -13528,20 +13574,20 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 149_28: 
-ホミロン：
-びじゅつひん２３
+Healix:
+Exhibit 23
 
 149_29: 
-モーグリ：
-びじゅつひん２３
+Moogle:
+Exhibit 23
 
 150_1: 
-<考>最後の戦いにおもむく
-戦士たちにとって
-すばらしい船ですね。
-神のチカラが
-ひしひしと
-感じられます。
+<考>To knights who
+face final battle,
+it wonderful boat.
+I feel the warmth
+of the Goddess'
+power from it.
 
 150_2: 
 アリーナ外回りダミー139
@@ -13574,23 +13620,26 @@ if you want to exit the Prize Exchang Shop, kupo.
 アンルシア外回りダミー139
 
 150_12: 
-<通常>めざわりな破邪舟め。
-やはりエテーネの民は
-滅ぼしておくべき
-だったな……。
-この借りは　いずれ
-返させてもらうぞ。
+<通常>What a disgusting
+vessel.
+I knew I should have
+destroyed the
+Ethene people afterall.
+I will pay them back
+dearly.
 
 150_13: 
 ダミー
 
 150_14: 
-<通常>油断と　慢心が
-敗北を生む。最後の
-戦いに敗れる者が
-陥る　心の闇。
-その闇に打ち勝つ者が
-真の冥王となるのだ。
+<通常>Defeat is born from
+neglect and pride.
+Darkness in one's heart
+is what limits those
+who lose in battle.
+The one who hones this
+darkness is the true
+god of hell.
 
 150_15: 
 ギルガメッシュ外回りダミー139
@@ -13632,12 +13681,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 150_28: 
-ホミロン：
-びじゅつひん２４
+Healix:
+Exhibit 24
 
 150_29: 
-モーグリ：
-びじゅつひん２４
+Moogle:
+Exhibit 24
 
 151_1: 
 クリフト外回りダミー140
@@ -13721,12 +13770,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 151_28: 
-ホミロン：
-びじゅつひん２５
+Healix:
+Exhibit 25
 
 151_29: 
-モーグリ：
-びじゅつひん２５
+Moogle:
+Exhibit 25
 
 152_1: 
 クリフト外回りダミー141
@@ -13744,11 +13793,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 テリー外回りダミー141
 
 152_6: 
-<怒>悪いヤツは　たいてい
-ムドーみてえな
-ひきょうな手を使うが
-最後に　勝つのは
-いつだって正義だぜ！
+<怒>This evil guy
+reminds me of Murdaw.
+Those who play dirty
+just to win will
+get what's coming
+to them!
 
 152_7: 
 マリベル外回りダミー141
@@ -13772,12 +13822,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 ダミー
 
 152_14: 
-<通常>弱き者は
-持たざる者。だが
-強き者は　いつか
-敗れ　すべてを失う。
-そう　この
-ゴルベーザもな……。
+<通常>The weak are
+without power. But the
+strong will some day
+lose all.
+Yes, it happened
+to me...
 
 152_15: 
 ギルガメッシュ外回りダミー141
@@ -13792,12 +13842,14 @@ if you want to exit the Prize Exchang Shop, kupo.
 セフィロス外回りダミー141
 
 152_19: 
-<通常>飛空艇での強襲……。
-この男　かなりの
-戦闘スキルだな。
-だが　SeeDなら
-チームの全滅は
-ふせげただろう。
+<通常>An assault by
+airship.
+He must've been quite
+the tactician.
+But if it were SeeD,
+they would have
+avoided total
+annihilation.
 
 152_20: 
 ジタン外回りダミー141
@@ -13824,12 +13876,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 
 
 152_28: 
-ホミロン：
-びじゅつひん２６
+Healix:
+Exhibit 26
 
 152_29: 
-モーグリ：
-びじゅつひん２６
+Moogle:
+Exhibit 26
 
 153_1: 
 クリフト外回りダミー142
@@ -13853,11 +13905,12 @@ if you want to exit the Prize Exchang Shop, kupo.
 マリベル外回りダミー142
 
 153_8: 
-<喜>共闘して　大きな敵に
-立ち向かうなんて
-熱い展開ね！
-Wメテオなんて
-すごくかっこいい！！
+<喜>Coming together to
+stand against a larger
+threat is a damn good
+plot twist!
+Twincast Meteo is like
+so totally cool!!
 
 153_9: 
 ククール外回りダミー142
@@ -13875,20 +13928,23 @@ Wメテオなんて
 ダミー
 
 153_14: 
-<通常>憎しみから　解放され
-償いをする……。
-このようなことで
-許されはしないが
-私にできることは共に
-戦うことだけだった。
+<通常>Freed from hate,
+I atone.
+There is no
+forgiveness for my
+sins, but all I did
+was fight however
+I could.
 
 153_15: 
-<喜>敵だった相手と組んで
-真の敵を討つなんて
-熱すぎるぜ！
-ようし　オレも
-「いいですとも！」の
-練習だ！
+<喜>Joining up with
+one's previous foe,
+to face a true enemy,
+is such drama!
+It's settled, I too
+will practice my
+line, “For the
+greater good!”
 
 153_16: 
 ケフカ外回りダミー142
@@ -13927,23 +13983,24 @@ Wメテオなんて
 
 
 153_28: 
-ホミロン：
-びじゅつひん２７
+Healix:
+Exhibit 27
 
 153_29: 
-モーグリ：
-びじゅつひん２７
+Moogle:
+Exhibit 27
 
 154_1: 
 クリフト外回りダミー143
 
 154_2: 
-<考>すっごい敵ね。
-いったい　どれだけ
-技を使えるのかしら。
-……それにしても
-分身の術も使うなんて
-ベロリンマンと親戚？
+<考>What incredible foe.
+Just what skill can 
+use, I wonder?
+That remind me, maybe
+with such ego he
+related to
+Abominable Showman?
 
 154_3: 
 フローラ外回りダミー143
@@ -13955,12 +14012,14 @@ Wメテオなんて
 テリー外回りダミー143
 
 154_6: 
-<喜>ギルガメッシュって
-どっか　にくめない
-ヤツだよな！
-元は敵だったようだが
-こいつとなら
-仲間になれそうだぜ！
+<喜>Gilgamesh's like
+the kind a guy you
+can't really hate!
+He might've been an
+enemy before, but
+he seems like the
+kind of guy to join
+your party later!
 
 154_7: 
 マリベル外回りダミー143
@@ -13987,12 +14046,13 @@ Wメテオなんて
 ゴルベーザ外回りダミー143
 
 154_15: 
-<喜>ビッグブリッジで
-待ちぼうけ……。
-あいつらが来たときは
-涙が出そうだったぜ。
-へへん　燃え上がった
-死闘はいい思い出だ！
+<喜>I awaited upon
+Big Bridge.
+When they came,
+I could shed a tear.
+He-he, a duel to the
+death is a good
+memory!
 
 154_16: 
 ケフカ外回りダミー143
@@ -14031,12 +14091,12 @@ Wメテオなんて
 
 
 154_28: 
-ホミロン：
-びじゅつひん２８
+Healix:
+Exhibit 28
 
 154_29: 
-モーグリ：
-びじゅつひん２８
+Moogle:
+Exhibit 28
 
 155_1: 
 クリフト外回りダミー144
@@ -14051,12 +14111,14 @@ Wメテオなんて
 ビアンカ外回りダミー144
 
 155_5: 
-<考>命を賭して
-守りたい仲間か。
-もし　ハッサンが
-ピンチになったら……
-いや　あいつなら
-自力で突破するな。
+<考>An ally who wants
+to protect you at risk
+of their own life?
+Maybe if Carver were
+ever in a bind...
+Nah, he'd be find
+on his own in the
+end.
 
 155_6: 
 ハッサン外回りダミー144
@@ -14086,23 +14148,27 @@ Wメテオなんて
 ゴルベーザ外回りダミー144
 
 155_15: 
-<特>友のため命を捨てる
-それが漢の生き様よ！
-……ん？　この場合は
-死に様か？　でも今
-オレ様は生きてるから
-生き様で　よし！
+<特>Shedding your life
+for a friend, that is
+the drama of life!
+Hmm? Or is it the
+drama of death? But
+since I'm alive now,
+it's the drama of
+life after all. Yep!
 
 155_16: 
 ケフカ外回りダミー144
 
 155_17: 
-<通常>ギルガメッシュ……。
-ライバルのために
-自爆して道を開くか。
-大したヤツだ。
-まあ　俺の生き方とは
-まったく違うけどな。
+<通常>Gilgamesh...
+So for his rival he
+opened the path of
+his own demise?
+How noble of him.
+Well, it's not at
+all how I live my
+life though.
 
 155_18: 
 セフィロス外回りダミー144
@@ -14135,20 +14201,20 @@ Wメテオなんて
 
 
 155_28: 
-ホミロン：
-びじゅつひん２９
+Healix:
+Exhibit 29
 
 155_29: 
-モーグリ：
-びじゅつひん２９
+Moogle:
+Exhibit 29
 
 156_1: 
-<怒>神のチカラを
-己の欲望のために
-解放するなど
-絶対に許せません！！
-私がその場にいれば
-止めたものを……。
+<怒>I never forgive
+the lunatic who lust
+after unleashing
+Goddess' power!!
+If I there, I put
+stop to nonsense.
 
 156_2: 
 アリーナ外回りダミー145
@@ -14193,12 +14259,13 @@ Wメテオなんて
 ギルガメッシュ外回りダミー145
 
 156_16: 
-<喜>ひょっひょっひょっ。
-あの時の皇帝の顔！
-ざまぁみろ～！！
-世界を壊せて
-楽しかったじょ～！
-ヒーヒッヒッヒ！
+<喜>Ha-ha-ha-ha.
+The look on HIS FACE!
+Got what was comin' to
+him!
+It was so FUN
+destroying the world!
+Ee-hee-hee-hee!
 
 156_17: 
 クラウド外回りダミー145
@@ -14225,12 +14292,14 @@ Wメテオなんて
 ライトニング外回りダミー145
 
 156_25: 
-<哀>神の力の解放……。
-蛮神と似た存在を
-制御しようだなんて。
-人を超えた力を
-そう簡単に扱えるわけ
-ないわ……。
+<哀>Unlocking the Goddess'
+power. How could someone
+aim to control the very
+existence of such a
+thing? There is no way
+that one could so
+easily handle such power
+greater than humans.
 
 156_26: 
 ノクティス外回りダミー145
@@ -14239,12 +14308,12 @@ Wメテオなんて
 
 
 156_28: 
-ホミロン：
-びじゅつひん３０
+Healix:
+Exhibit 30
 
 156_29: 
-モーグリ：
-びじゅつひん３０
+Moogle:
+Exhibit 30
 
 157_1: 
 クリフト外回りダミー146
@@ -14280,12 +14349,13 @@ Wメテオなんて
 アンルシア外回りダミー146
 
 157_12: 
-<特>心ない天使と
-裁きの光か……。
-魔導のチカラは
-世界を　死と絶望で
-ぬりつぶす　その時に
-多少は使えそうだな。
+<特>The Light of Judgment
+from a heartless angel..?
+I think I might do the
+same so that I could
+fill the world with
+death and despair
+using sorcery.
 
 157_13: 
 ダミー
@@ -14297,23 +14367,25 @@ Wメテオなんて
 ギルガメッシュ外回りダミー146
 
 157_16: 
-<喜>見よ！
-私の勇姿を！
-これがケフカ様の
-真の姿！　すべてを
-破壊する　神の名に
-ふさわしいだろー！
+<喜>Behold!
+My brave figure!
+This is the true form
+of the great Kefka!
+A name suitable for
+the god of destruction
+of existence itself!
 
 157_17: 
 クラウド外回りダミー146
 
 157_18: 
-<通常>欲におぼれた人間の
-行きついた姿か。
-力へのあくなき欲求と
-神にならんと
-あがく執念……。
-見苦しいものだ。
+<通常>The form of human
+achievement of greed?
+It is the obsessiveness
+over an insatiable
+lust for power to
+become a god.
+A pitiful sight.
 
 157_19: 
 スコール外回りダミー146
@@ -14343,12 +14415,12 @@ Wメテオなんて
 
 
 157_28: 
-ホミロン：
-びじゅつひん３１
+Healix:
+Exhibit 31
 
 157_29: 
-モーグリ：
-びじゅつひん３１
+Moogle:
+Exhibit 32
 
 158_1: 
 クリフト外回りダミー147
@@ -14375,12 +14447,13 @@ Wメテオなんて
 ゼシカ外回りダミー147
 
 158_9: 
-<哀>クラウド……おまえ
-女の子とのデートを
-何だと思っている？
-はぁ……オレだったら
-彼女を　最高の笑顔に
-してやるのに……。
+<哀>Cloud... What the
+hell did you think a
+date with a girl was?
+Sigh. If it were me
+I would have left
+her with the best
+smile of her life.
 
 158_10: 
 リッカ外回りダミー147
@@ -14404,12 +14477,12 @@ Wメテオなんて
 ケフカ外回りダミー147
 
 158_17: 
-<通常>観覧車に乗っている時
-きっと　エアリスは　
-気づいていたんだな。
-……俺が　目を
-背けていた　本当の
-俺自身に。
+<通常>When we got in the
+gondola, I'm sure
+Aeris noticed...
+I knew my true self
+when I glanced away
+then.
 
 158_18: 
 セフィロス外回りダミー147
@@ -14418,12 +14491,13 @@ Wメテオなんて
 スコール外回りダミー147
 
 158_20: 
-<喜>おっ　いい雰囲気♪
-こういう場所での
-デートって最高だな。
-よし！　ダガーとの
-次のデートは
-ここで決まりっ！
+<喜>Oh, what a nice
+setting ♪
+Places like these
+make the BEST dates.
+Okay! I'm going to
+take Dagger here
+on our next date!
 
 158_21: 
 ユウナ外回りダミー147
@@ -14447,12 +14521,12 @@ Wメテオなんて
 
 
 158_28: 
-ホミロン：
-びじゅつひん３２
+Healix:
+Exhibit 32
 
 158_29: 
-モーグリ：
-びじゅつひん３２
+Moogle:
+Exhibit 32
 
 159_1: 
 クリフト外回りダミー148
@@ -14485,12 +14559,12 @@ Wメテオなんて
 リッカ外回りダミー148
 
 159_11: 
-<喜>あの乗り物　バイクと
-言うのね。
-ドルボードみたいな
-ものかしら？
-でも　すごく速くて
-目が回っちゃいそう。
+<喜>Oh, so that's what
+they call a “bike”.
+I guess it's like a
+Dolboard?
+But this go so fast
+it makes me dizzy.
 
 159_12: 
 ネルゲル外回りダミー148
@@ -14508,12 +14582,13 @@ Wメテオなんて
 ケフカ外回りダミー148
 
 159_17: 
-<通常>神羅ビルにあった
-バイクか……。
-あの時は　ヤツらを
-まくのに使ったが
-久々に　乗ってみたく
-なったな。
+<通常>The bike in the
+Shinra building?
+I used it to get away
+from them, but I
+really haven't felt
+riding in a long
+time.
 
 159_18: 
 セフィロス外回りダミー148
@@ -14534,12 +14609,14 @@ Wメテオなんて
 バルフレア外回りダミー148
 
 159_24: 
-<通常>召喚獣のシヴァが　
-どうかしたのか？
-何？　違う？
-鋼鉄製のバイクか。
-スノウが　喜んで
-乗りそうだな。
+<通常>I think that
+might be Shiva?
+What? It's not?
+So just a steel
+bike?
+I bet Snow would
+be happy to ride
+it.
 
 159_25: 
 ミンフィリア外回りダミー148
@@ -14551,12 +14628,12 @@ Wメテオなんて
 
 
 159_28: 
-ホミロン：
-びじゅつひん３３
+Healix:
+Exhibit 33
 
 159_29: 
-モーグリ：
-びじゅつひん３３
+Moogle:
+Exhibit 33
 
 160_1: 
 クリフト外回りダミー149
@@ -14580,11 +14657,11 @@ Wメテオなんて
 マリベル外回りダミー149
 
 160_8: 
-<哀>どうして……
-こんなの許せないわ。
-どんな理由が
-あったとしても　村を
-焼き払うなんて……。
+<哀>Why..?
+I can't forgive him.
+I don't care what
+reason, how could you
+burn down a village?
 
 160_9: 
 ククール外回りダミー149
@@ -14614,12 +14691,14 @@ Wメテオなんて
 クラウド外回りダミー149
 
 160_18: 
-<通常>ああ　忘れるものか。
-私が真実を
-知った時だ。
-言わば　この炎は
-祝福のともしび。
-母も　喜んでいた。
+<通常>Oh, something I
+forgot?
+That was when I realized
+the truth.
+To tell the truth, that
+fire was a light of
+fortune.
+Mother was also pleased.
 
 160_19: 
 スコール外回りダミー149
@@ -14631,11 +14710,13 @@ Wメテオなんて
 ユウナ外回りダミー149
 
 160_22: 
-<怒>星を壊そうとした
-英雄？
-どうかなあ。
-プレッシャーに負けた
-弱いやつだと思うな。
+<怒>A hero that wants
+to destroy the planet?
+I'm not so sure.
+I think he's a sore
+loser who couldn't
+handle the pressure
+of losing.
 
 160_23: 
 バルフレア外回りダミー149
@@ -14653,12 +14734,12 @@ Wメテオなんて
 
 
 160_28: 
-ホミロン：
-びじゅつひん３４
+Healix:
+Exhibit 34
 
 160_29: 
-モーグリ：
-びじゅつひん３４
+Moogle:
+Exhibit 34
 
 161_1: 
 クリフト外回りダミー150
@@ -14694,12 +14775,13 @@ Wメテオなんて
 アンルシア外回りダミー150
 
 161_12: 
-<特>人間ごときが
-図にのるでない。
-死の世界　生者の世界
-つまりは　星を
-支配するのは
-この冥王ネルゲルよ！
+<特>Humans always
+overcomplicate matters.
+The world, the
+underworld, this
+entire planet is under
+the control of ME,
+Hades Nelgel!
 
 161_13: 
 ダミー
@@ -14711,23 +14793,25 @@ Wメテオなんて
 ギルガメッシュ外回りダミー150
 
 161_16: 
-<喜>ヒーヒッヒッヒ！
-星に選ばれし者か。
-ふーん。
-ぼくちんは
-神に選ばれし者だぞ！
-まいったか！！
+<喜>Ee-hee-hee-hee!
+Chosen to be the planet?
+Hmph!
+I was chosen to BE
+A GOD!
+What a loser!!
 
 161_17: 
 クラウド外回りダミー150
 
 161_18: 
-<通常>星に選ばれし者。
-古代種の唯一の
-生き残りであるオレを
-適切に表現したもの。
-オレ以外のものは
-消滅あるのみ……。
+<通常>One chosen by
+the planet.
+It was quite fitting
+that I was the last
+and successor of an
+ancient being.
+All but I will be
+destroyed.
 
 161_19: 
 スコール外回りダミー150
@@ -14757,12 +14841,12 @@ Wメテオなんて
 
 
 161_28: 
-ホミロン：
-びじゅつひん３５
+Healix:
+Exhibit 35
 
 161_29: 
-モーグリ：
-びじゅつひん３５
+Moogle:
+Exhibit 35
 
 162_1: 
 クリフト外回りダミー151
@@ -14795,12 +14879,13 @@ Wメテオなんて
 リッカ外回りダミー151
 
 162_11: 
-<通常>いつか　私も
-世界が平和になったら
-恋したりするのかな？
-……って　なんだか
-言ってて　恥ずかしく
-なってきちゃった。
+<通常>Will I too find
+love once the world
+is at peace?
+Oh, my god, I'm so
+embarrassed just
+saying such a
+cheesy line.
 
 162_12: 
 ネルゲル外回りダミー151
@@ -14824,23 +14909,24 @@ Wメテオなんて
 セフィロス外回りダミー151
 
 162_19: 
-<怒>くっ……。
-今すぐ　この展示物を
-撤去するんだ。
-拒むなら　戦闘行動に
-移らせてもらう。
-さあ　いそげ！
+<怒>Nnngh... I want
+to get rid of that
+damn thing right away.
+If you refuse, I'll
+take it all out on
+YOU.
+Okay, outta the way!
 
 162_20: 
 ジタン外回りダミー151
 
 162_21: 
-<喜>うわあ……こんなこと
-できないよ。でも
-きっかけがあれば
-わたし　だって……
-想いを　まっすぐ
-もちろんキミに……。
+<喜>Wow, I can't even
+do that. But if I had
+the chance, I'd, umm,
+I mean, OF COURSE
+I only have feelings
+for you...
 
 162_22: 
 ティーダ外回りダミー151
@@ -14861,12 +14947,12 @@ Wメテオなんて
 
 
 162_28: 
-ホミロン：
-びじゅつひん３６
+Healix:
+Exhibit 36
 
 162_29: 
-モーグリ：
-びじゅつひん３６
+Moogle:
+Exhibit 36
 
 163_1: 
 クリフト外回りダミー152
@@ -14875,12 +14961,13 @@ Wメテオなんて
 アリーナ外回りダミー152
 
 163_3: 
-<喜>はああ　なんて
-ステキなんでしょう！
-想い人にどんな
-事情があるにしろ
-気持ちをつらぬく。
-これこそ愛ですわ！
+<喜>Ohhh, it's like
+so charming!
+Our feelings for those
+we care about will
+overcome any situation.
+This. This is true
+love!
 
 163_4: 
 ビアンカ外回りダミー152
@@ -14928,23 +15015,23 @@ Wメテオなんて
 セフィロス外回りダミー152
 
 163_19: 
-<通常>後悔したくない……。
-この時は　そんな
-想いしかなかったが
-自分の　とった行動が
-正しかったと
-俺は　信じてる。
+<通常>I don't want to
+regret it...
+I didn't think it at
+the time, but I
+believed my actions
+were just at the time.
 
 163_20: 
 ジタン外回りダミー152
 
 163_21: 
-<喜>めでたし　めでたし
-かな？　これから
-何があっても
-ふたりで手を取りあい
-生きていけたら
-本当に　素敵だね。
+<喜>I guess it's a
+something to celebrate?
+It's really romantic
+if they lived together,
+never apart, no matter
+what from then on.
 
 163_22: 
 ティーダ外回りダミー152
@@ -14965,12 +15052,12 @@ Wメテオなんて
 
 
 163_28: 
-ホミロン：
-びじゅつひん３７
+Healix:
+Exhibit 37
 
 163_29: 
-モーグリ：
-びじゅつひん３７
+Moogle:
+Exhibit 37
 
 164_1: 
 クリフト外回りダミー153
@@ -15021,12 +15108,13 @@ Wメテオなんて
 ケフカ外回りダミー153
 
 164_17: 
-<通常>俺にはわからない。
-敵は　敵でしかない。
-だが　戦いを通じて
-時に　友情めいた絆が
-生まれる……
-それは知っている。
+<通常>I don't get it.
+An enemy is nothing but
+an enemy.
+But the bonds of
+friendship are forged
+in the heat of battle.
+That's all I know.
 
 164_18: 
 セフィロス外回りダミー153
@@ -15035,12 +15123,12 @@ Wメテオなんて
 スコール外回りダミー153
 
 164_20: 
-<通常>今でも覚えてるよ。
-このとき　初めて
-ちゃんと兄弟として
-話せた気がするんだ。
-オレの　思いは
-伝わったみたいだ。
+<通常>I still remember it.
+It was the first time I
+could really talk as a
+brother.
+I think my feelings
+got through.
 
 164_21: 
 ユウナ外回りダミー153
@@ -15064,23 +15152,23 @@ Wメテオなんて
 
 
 164_28: 
-ホミロン：
-びじゅつひん３８
+Healix:
+Exhibit 38
 
 164_29: 
-モーグリ：
-びじゅつひん３８
+Moogle:
+Exhibit 38
 
 165_1: 
 クリフト外回りダミー154
 
 165_2: 
-<喜>うふふ。大変な
-ときなのに　とっても
-すてきな笑顔ね。
-わたしもお城から
-出たとき すっごく
-うれしかったわ！
+<喜>Tee-hee-hee. What
+smile even for bad
+time, no?
+I really happy
+when I escape from
+castle!
 
 165_3: 
 フローラ外回りダミー154
@@ -15095,12 +15183,13 @@ Wメテオなんて
 ハッサン外回りダミー154
 
 165_7: 
-<通常>うわー
-ぶっつけ本番で
-よく飛ぶわね。
-あたしはごめんよ。
-逃げるならルーラで
-とっとと退散するわ！
+<通常>Woooow, it
+really moves when
+it needed to.
+I wouldn't have
+made it dramatic.
+I'd have just Zoom'd
+outta there!
 
 165_8: 
 ゼシカ外回りダミー154
@@ -15139,12 +15228,13 @@ Wメテオなんて
 スコール外回りダミー154
 
 165_20: 
-<通常>この時が　新しい旅の
-始まりだったなぁ。
-あなた様を誘拐させて
-いただきます！　って
-思いっ切り気持ち良く
-言っちまったぜ。
+<通常>That was the start
+of a new journey.
+It was quite a pleasure
+to kidnap you, m'lady!
+Well that's what I'd
+blurt out if I had
+the guts.
 
 165_21: 
 ユウナ外回りダミー154
@@ -15168,12 +15258,12 @@ Wメテオなんて
 
 
 165_28: 
-ホミロン：
-びじゅつひん３９
+Healix:
+Exhibit 39
 
 165_29: 
-モーグリ：
-びじゅつひん３９
+Moogle:
+Exhibit 39
 
 166_1: 
 クリフト外回りダミー155
@@ -15206,12 +15296,13 @@ Wメテオなんて
 リッカ外回りダミー155
 
 166_11: 
-<哀>異界送り……。
-ユウナさんがいれば
-トーマ兄さまを
-もっと早く　大魔王の
-呪縛から　解放
-できたのかしら……。
+<哀>Seeing off to the
+Farplane... If I had
+Lady Yuna, maybe I could
+have lifted the dread
+fiend's curse sooner
+from my dear brother,
+Toma.
 
 166_12: 
 ネルゲル外回りダミー155
@@ -15241,12 +15332,13 @@ Wメテオなんて
 ジタン外回りダミー155
 
 166_21: 
-<哀>島が『シン』に襲われ
-亡くなった人たち。
-もっと　召喚士として
-わたしが　強かったら
-守れたかもしれない。
-それが悔しかった。
+<哀>The people who died
+after Sin attacked the
+island.
+If could have saved
+them were I stronger
+summoner.
+I'll always regret that.
 
 166_22: 
 ティーダ外回りダミー155
@@ -15255,12 +15347,13 @@ Wメテオなんて
 バルフレア外回りダミー155
 
 166_24: 
-<哀>亡くなった人の魂を
-とむらう儀式か……。
-異界に眠る人々の魂は
-いつの日か　めざめて
-希望を胸に　生まれ
-変われるだろうか。
+<哀>A ceremony to grieve
+for the souls of the
+dead..?
+Perhaps the souls resting
+in Farplane would some
+day wake, and be reborn
+as hope in their hearts?
 
 166_25: 
 ミンフィリア外回りダミー155
@@ -15272,12 +15365,12 @@ Wメテオなんて
 
 
 166_28: 
-ホミロン：
-びじゅつひん４０
+Healix:
+Exhibit 40
 
 166_29: 
-モーグリ：
-びじゅつひん４０
+Moogle:
+Exhibit 40
 
 167_1: 
 クリフト外回りダミー156
@@ -15286,12 +15379,12 @@ Wメテオなんて
 アリーナ外回りダミー156
 
 167_3: 
-<通常>つらい　できごとも
-好きな方がいれば
-乗りこえられる……。
-わたくしも　あの方が
-いてくれたから
-……ぽっ。
+<通常>You can withstand
+any hardship if you have
+your love by your side.
+I know because I too
+have him with me...
+*blush*
 
 167_4: 
 ビアンカ外回りダミー156
@@ -15333,11 +15426,11 @@ Wメテオなんて
 ケフカ外回りダミー156
 
 167_17: 
-<通常>一体……何を
-見せられているんだ？
-感想？
-よそでやってくれ……
-だな。
+<通常>What the heck am
+I being shown?
+Feelings?
+Spare me please...
+Just kidding.
 
 167_18: 
 セフィロス外回りダミー156
@@ -15352,12 +15445,13 @@ Wメテオなんて
 ユウナ外回りダミー156
 
 167_22: 
-<通常>ユウナが　目の前で
-泣き出した時　オレ
-頭が真っ白になって。
-どうしていいか全然
-……って　な～に
-言わせるッスか！？
+<通常>When she cried
+in front of me, I was
+in a state of shock.
+I didn't know what
+I could say to comfort
+her or really anything
+at all!
 
 167_23: 
 バルフレア外回りダミー156
@@ -15375,12 +15469,12 @@ Wメテオなんて
 
 
 167_28: 
-ホミロン：
-びじゅつひん４１
+Healix:
+Exhibit 41
 
 167_29: 
-モーグリ：
-びじゅつひん４１
+Moogle:
+Exhibit 41
 
 168_1: 
 クリフト外回りダミー157
@@ -15398,12 +15492,13 @@ Wメテオなんて
 テリー外回りダミー157
 
 168_6: 
-<通常>たき火を　かこんで
-仲間と語りあう……。
-オレも　同じことを
-したが　あれが
-最後にならなくて
-ほんと　よかったぜ。
+<通常>Chattin' with
+friends around the
+campfire...
+I've done the same
+thing, but I'm glad
+it wasn't the last
+time.
 
 168_7: 
 マリベル外回りダミー157
@@ -15436,11 +15531,13 @@ Wメテオなんて
 ケフカ外回りダミー157
 
 168_17: 
-<通常>これが最後か……。
-戦い続ける日々の
-中で　何度
-そう思ったか
-わからないな……。
+<通常>So this is the
+end..?
+I dunno how many
+times I thought
+that during the
+days I continued
+to fight.
 
 168_18: 
 セフィロス外回りダミー157
@@ -15455,12 +15552,14 @@ Wメテオなんて
 ユウナ外回りダミー157
 
 168_22: 
-<考>旅の終わりにユウナは
-いなくなる……助ける
-方法がわからないまま
-夕日を眺めていた。
-これが最後だなんて
-思いたくなかった。
+<考>I lost Yuna at
+the end of my journey.
+I stared at the sunset
+not knowing how I
+could save her.
+I didn't want to
+think of it as the
+end.
 
 168_23: 
 バルフレア外回りダミー157
@@ -15478,12 +15577,12 @@ Wメテオなんて
 
 
 168_28: 
-ホミロン：
-びじゅつひん４２
+Healix:
+Exhibit 42
 
 168_29: 
-モーグリ：
-びじゅつひん４２
+Moogle:
+Exhibit 42
 
 169_1: 
 クリフト外回りダミー158
@@ -15504,12 +15603,12 @@ Wメテオなんて
 ハッサン外回りダミー158
 
 169_7: 
-<哀>……なんで男って
-いっつも　勝手に
-いなくなるのかしら！
-残される方の身にも
-なってみなさいよ。
-……バカ！
+<哀>Why the hell do
+men always just
+leave you in the end!?
+You should have
+stayed put.
+YOU DUM-DUM!
 
 169_8: 
 ゼシカ外回りダミー158
@@ -15551,19 +15650,23 @@ Wメテオなんて
 ジタン外回りダミー158
 
 169_21: 
-<哀>キミに伝えたいことが
-たくさんあったんだ。
-でも胸がいっぱいで
-言えたのは
-たった一言だけ……。
+<哀>I had so much I
+watned to tell you.
+But there was only
+one thing I wanted
+to say from all of
+my heart.
 
 169_22: 
-<通常>別れは覚悟してた。
-でも暗いのは苦手。
-笑って消えたかった。
-けど……駄目だった。
-笑顔の練習　もっと
-やっとけばよかった。
+<通常>I was ready to go.
+But I'm afraid of the
+dark.
+I wanted to laugh as
+I faded away.
+But... I couldn't.
+I should have
+practiced smiling
+more.
 
 169_23: 
 バルフレア外回りダミー158
@@ -15581,12 +15684,12 @@ Wメテオなんて
 
 
 169_28: 
-ホミロン：
-びじゅつひん４３
+Healix:
+Exhibit 43
 
 169_29: 
-モーグリ：
-びじゅつひん４３
+Moogle:
+Exhibit 43
 
 170_1: 
 クリフト外回りダミー159
@@ -15601,12 +15704,13 @@ Wメテオなんて
 ビアンカ外回りダミー159
 
 170_5: 
-<通常>誰が　主人公かなんて
-どうだっていい。
-それより　重要なのは
-盗んだ宝の中に
-最強の剣が
-あるかどうかだ……。
+<通常>It doesn't really
+matter who the
+protagonist is.
+What's more important
+is who gets the best
+sword from all that
+treasure you looted.
 
 170_6: 
 ハッサン外回りダミー159
@@ -15651,12 +15755,12 @@ Wメテオなんて
 スコール外回りダミー159
 
 170_20: 
-<喜>へへ　残念でした♪
-エモノは早い者勝ち
-ってのは
-盗賊の鉄則だろ？
-あんたにしては詰めが
-甘かったじゃん。
+<喜>He-he, too bad. ♪
+As they say, the early
+bird catches the
+worm.
+You just missed
+your chance.
 
 170_21: 
 ユウナ外回りダミー159
@@ -15665,12 +15769,13 @@ Wメテオなんて
 ティーダ外回りダミー159
 
 170_23: 
-<通常>誰もが　それぞれ
-物語の主人公だが……
-信念をつらぬかないと
-わき役で終わるのさ。
-どうだ　あんたは
-主人公になれてるか？
+<通常>Anybody could be
+the protagonist of the
+story.
+But if you don't believe
+it, you'll end up as
+an extra.
+So, are you up for it?
 
 170_24: 
 ライトニング外回りダミー159
@@ -15685,12 +15790,12 @@ Wメテオなんて
 
 
 170_28: 
-ホミロン：
-びじゅつひん４４
+Healix:
+Exhibit 44
 
 170_29: 
-モーグリ：
-びじゅつひん４４
+Moogle:
+Exhibit 44
 
 171_1: 
 クリフト外回りダミー160
@@ -15726,12 +15831,13 @@ Wメテオなんて
 アンルシア外回りダミー160
 
 171_12: 
-<通常>仲間など　しょせんは
-弱者の馴れ合い。だが
-盟友が勇者にチカラを
-与えるのも事実。
-絆のチカラというのは
-じつに目障りよな。
+<通常>Friendship is just
+a bond between the weak.
+But the truth is, a
+real friend will lend
+their power to the hero.
+This bond of strength
+I do find repulsive.
 
 171_13: 
 ダミー
@@ -15764,20 +15870,21 @@ Wメテオなんて
 ティーダ外回りダミー160
 
 171_23: 
-<通常>フランと
-シュトラールは　俺の
-翼みたいなもんだ。
-あいつらがいれば
-どんな空だって
-自由に飛べるのさ。
+<通常>Fran and the
+Strahl are like my
+wings.
+With them, I can
+soar any sky as
+free as a bird.
 
 171_24: 
-<通常>相棒か……。
-信頼できる仲間は
-いいものだな。
-ときには　お互い
-ぶつかりあうことで
-絆を深めたんだろう。
+<通常>A protege, huh?
+It's nice to have friends
+you can rely on.
+Fighting together
+deepens the
+friendship as time
+passes.
 
 171_25: 
 ミンフィリア外回りダミー160
@@ -15789,23 +15896,24 @@ Wメテオなんて
 
 
 171_28: 
-ホミロン：
-びじゅつひん４５
+Healix:
+Exhibit 45
 
 171_29: 
-モーグリ：
-びじゅつひん４５
+Moogle:
+Exhibit 45
 
 172_1: 
 クリフト外回りダミー161
 
 172_2: 
-<喜>いい言葉ね！
-わたしも　いつも前を
-見るようにしてるわ。
-でも　それって仲間が
-いるからできるのよ。
-この２人みたいにね。
+<喜>What true words!
+I also always look
+forward.
+But I can only do
+because I have friend.
+Just like two of
+them.
 
 172_3: 
 フローラ外回りダミー161
@@ -15844,12 +15952,14 @@ Wメテオなんて
 ゴルベーザ外回りダミー161
 
 172_15: 
-<通常>うむ　いい言葉だな！
-ようし　オレはもう
-まよわねえ！
-次元の狭間で　迷子に
-なっても　前だけ見て
-突っ走るぜ～！
+<通常>Indeed, what fine
+words!
+Okay, I will be lost
+no more!
+Even if I am lost in
+the Interdimensional
+Rift I will plunge
+only forward!
 
 172_16: 
 ケフカ外回りダミー161
@@ -15876,12 +15986,13 @@ Wメテオなんて
 バルフレア外回りダミー161
 
 172_24: 
-<考>私がスノウを認めた？
-……そうだな　何度
-倒れても　立ち上がる
-あきらめの悪い性格は
-時々うっとうしいが
-そう嫌いでもない。
+<考>I accepted Snow?
+I wonder about that.
+I guess sometimes I
+didn't hate that
+wicked, never-give-up
+even though they were
+beaten attitude.
 
 172_25: 
 ミンフィリア外回りダミー161
@@ -15893,12 +16004,12 @@ Wメテオなんて
 
 
 172_28: 
-ホミロン：
-びじゅつひん４６
+Healix:
+Exhibit 46
 
 172_29: 
-モーグリ：
-びじゅつひん４６
+Moogle:
+Exhibit 46
 
 173_1: 
 クリフト外回りダミー162
@@ -15910,12 +16021,13 @@ Wメテオなんて
 フローラ外回りダミー162
 
 173_4: 
-<哀>仲間のみんなを
-たよらないって
-つらい戦いよね……。
-ライトニングさんは
-本当は　やさしいから
-そんな選択したのね。
+<哀>It must've been
+quite a hard fight to
+say ya can't rely on
+the party at all.
+I'm sure Lightning
+made that choice
+out o’ kindness.
 
 173_5: 
 テリー外回りダミー162
@@ -15951,12 +16063,12 @@ Wメテオなんて
 ギルガメッシュ外回りダミー162
 
 173_16: 
-<喜>ヒーヒッヒッヒ！
-己の力だけ　信じて
-暴走しつづければ
-ぼくちんみたいに
-神にもなれたのに。
-ツマーンナイ！
+<喜>Ee-hee-hee-hee!
+She should've just
+believed in her own
+power and become a
+god like me.
+BORING!
 
 173_17: 
 クラウド外回りダミー162
@@ -15980,12 +16092,13 @@ Wメテオなんて
 バルフレア外回りダミー162
 
 173_24: 
-<考>あの時の私は　誰も
-信じていなかった。
-他人に頼るのは弱さで
-弱いと妹を救えない。
-一人で戦うしかないと
-思い込んでいた……。 
+<考>I didn't believe in
+anyone but myself then.
+Depending on others
+was weak, and I couldn't
+be weak to save my
+sister. I thought I had
+to fight alone.
 
 173_25: 
 ミンフィリア外回りダミー162
@@ -15997,12 +16110,12 @@ Wメテオなんて
 
 
 173_28: 
-ホミロン：
-びじゅつひん４７
+Healix:
+Exhibit 47
 
 173_29: 
-モーグリ：
-びじゅつひん４７
+Moogle:
+Exhibit 47
 
 174_1: 
 クリフト外回りダミー163
@@ -16032,12 +16145,13 @@ Wメテオなんて
 ククール外回りダミー163
 
 174_10: 
-<喜>長く　きびしい戦いが
-終わったんですね。
-それなら　私の宿屋で
-祝勝会はどうですか？
-みなさんの　ご利用
-お待ちしております！
+<喜>The end of a long
+and tough fight, no?
+So how about throwing
+a party at MY inn?
+I will be waiting
+at your service,
+everyone!
 
 174_11: 
 アンルシア外回りダミー163
@@ -16058,12 +16172,13 @@ Wメテオなんて
 ケフカ外回りダミー163
 
 174_17: 
-<通常>なんだ　この騒ぎは？
-祭りでも
-はじまったのか？
-帝国の暴挙を止めた？
-……そうか。
-それは　よかった。
+<通常>What the hell's
+with all this noise?
+Has some parade
+started or something?
+They stopped the empire?
+Oh, I see.
+Well, that's good.
 
 174_18: 
 セフィロス外回りダミー163
@@ -16087,12 +16202,15 @@ Wメテオなんて
 ライトニング外回りダミー163
 
 174_25: 
-<通常>フフフ　思い出すわ。
-帝国軍との戦いのあと
-各国の盟主によって
-第七霊災は終焉……。
-新生エオルゼアが
-誕生した瞬間ね！
+<通常>Hee-hee-hee, I
+remember that.
+After battle with the
+Imperial army, as the
+Eorzean Alliance,
+ended the Seventh
+Umbral era...
+The moment that a
+new Eorzea was reborn!
 
 174_26: 
 ノクティス外回りダミー163
@@ -16101,12 +16219,12 @@ Wメテオなんて
 
 
 174_28: 
-ホミロン：
-びじゅつひん４８
+Healix:
+Exhibit 48
 
 174_29: 
-モーグリ：
-びじゅつひん４８
+Moogle:
+Exhibit 48
 
 175_1: 
 クリフト外回りダミー164
@@ -16136,12 +16254,13 @@ Wメテオなんて
 ククール外回りダミー164
 
 175_10: 
-<特>これで　遠くの人と
-話せるんですか？
-……あ　あの！
-ぜひ　リッカの宿屋に
-置かせてください！
-おいくらですか！？
+<特>So you can talk to
+people far away with
+this?
+A-A-Ahem!
+Please make your next
+stay at Erinn's Inn!
+How much you ask!?
 
 175_11: 
 アンルシア外回りダミー164
@@ -16162,12 +16281,12 @@ Wメテオなんて
 ケフカ外回りダミー164
 
 175_17: 
-<通常>ああ　ＰＨＳか？
-俺もよく使う。
-遠くのヤツを呼んだり
-報告したり……。
-何でも屋も　これが
-ないと　むずかしい。
+<通常>Ohh, like PHS?
+I use it all the time.
+I report in to my
+far away buds.
+It was quite hard
+to do without it.
 
 175_18: 
 セフィロス外回りダミー164
@@ -16191,12 +16310,11 @@ Wメテオなんて
 ライトニング外回りダミー164
 
 175_25: 
-<通常>リンクパールは
-遠距離の人への
-連絡手段として
-一番適しているの。
-わたしも　よくこれで
-連絡をとってるわ。
+<通常>The Linkpearl is
+the best way to deliver
+messages long-distance.
+I also used it to
+send quests and such.
 
 175_26: 
 ノクティス外回りダミー164
@@ -16205,12 +16323,12 @@ Wメテオなんて
 
 
 175_28: 
-ホミロン：
-びじゅつひん４９
+Healix:
+Exhibit 49
 
 175_29: 
-モーグリ：
-びじゅつひん４９
+Moogle:
+Exhibit 49
 
 176_1: 
 クリフト外回りダミー165
@@ -16294,12 +16412,12 @@ Wメテオなんて
 
 
 176_28: 
-ホミロン：
-びじゅつひん５０
+Healix:
+Exhibit 50
 
 176_29: 
-モーグリ：
-びじゅつひん５０
+Moogle:
+Exhibit 50
 
 177_1: 
 
@@ -16383,10 +16501,10 @@ Wメテオなんて
 
 
 177_28: 
-<通常>コンピュータの　スピードは　普通で　いいんだね？
+<通常>You want AI to goo normal speed?
 
 177_29: 
-<通常>コンピュータの　スピードは　普通で　いいクポ？
+<通常>AI speed will be normal, okay, kupo?
 
 178_1: 
 
@@ -16470,10 +16588,10 @@ Wメテオなんて
 
 
 178_28: 
-<通常>コンピュータの　スピードは　速めで　いいんだね？
+<通常>You want AI to goo fast?
 
 178_29: 
-<通常>コンピュータの　スピードは　速めで　いいクポ？
+<通常>AI speed will be fast, okay, kupo?
 
 179_1: 
 
@@ -16557,10 +16675,10 @@ Wメテオなんて
 
 
 179_28: 
-<通常>コンピュータの　スピードは　かなり速めで　いいんだね？
+<通常>You want AI to goo super fast?
 
 179_29: 
-<通常>コンピュータの　スピードは　かなり速めで　いいクポ？
+<通常>AI speed will be super fast, okay, kupo?
 
 180_1: 
 
@@ -16644,10 +16762,10 @@ Wメテオなんて
 
 
 180_28: 
-<通常>コンピュータの　スピードは　最速で　いいんだね？
+<通常>You want AI to goo ludicrously fast?
 
 180_29: 
-<通常>コンピュータの　スピードは　最速で　いいクポ？
+<通常>AI speed will be ludicrous, okay, kupo?
 
 181_1: 
 
@@ -16731,10 +16849,11 @@ Wメテオなんて
 
 
 181_28: 
-<通常>ボイスありだな？　よし！　我輩の声を　聞くがいい！
+<通常>You want voice? Roger that! You SHOULD
+be listening to MY voice!
 
 181_29: 
-<通常>ボイスは　ありでいいクポ？　わかったクポ～！
+<通常>You want voice, kupo? Got it, kupo!
 
 182_1: 
 
@@ -16818,10 +16937,11 @@ Wメテオなんて
 
 
 182_28: 
-<通常>ボイスは　なし？　そんなぁ～　ぼくの声　聞いてくれないの？
+<通常>No voice? Are you jelly of my beautiful
+voice? Do you not want to hear me?
 
 182_29: 
-<通常>ボイスは　なしでいいクポ？　ざんねんクポ……。
+<通常>So no voice, kupo? Too bad, kupo...
 
 183_1: 
 
@@ -16905,10 +17025,12 @@ Wメテオなんて
 
 
 183_28: 
-<通常>セリフ設定あり　だな！　よし　ビシビシ　きたえてやる！
+<通常>You want chat! Roger! Sticks and stones
+are good for training!
 
 183_29: 
-<通常>セリフ設定は　ありクポ？　クポポ～。了解クポ！
+<通常>You want chat, kupo? Kupo-po!
+As you wish, kupo!
 
 184_1: 
 
@@ -16992,10 +17114,12 @@ Wメテオなんて
 
 
 184_28: 
-<通常>えっ　セリフ設定なし　なの？　さみしいこと言わないでよ～。
+<通常>What, no chat? Don't tell me you're
+lonely later.
 
 184_29: 
-<通常>セリフ設定は　なしクポ？　ひどいクポ～。
+<通常>You don't want chat, kupo? How cruel,
+kupo.
 
 185_1: 
 
@@ -17079,10 +17203,12 @@ Wメテオなんて
 
 
 185_28: 
-<通常>コンピュータ操作時の　報告や演出を　カットしないんだね。
+<通常>Scenes and reporting won't be cut when the
+AI is in control.
 
 185_29: 
-<通常>コンピュータ操作時の　報告や演出を　カットしないクポ！
+<通常>We won't cut scenes and reporting when
+the AI is in cotnrol, kupo!
 
 186_1: 
 
@@ -17166,10 +17292,12 @@ Wメテオなんて
 
 
 186_28: 
-<通常>コンピュータ操作時の　報告や演出を　一部カットできるよ。
+<通常>Scenes and reporting will be cut when
+the AI is in control.
 
 186_29: 
-<通常>コンピュータ操作時の　報告や演出を　一部カットできるクポ。
+<通常>Scenes and reporting will be cut when
+the AI is in control, kupo.
 
 187_1: 
 
@@ -17253,12 +17381,12 @@ Wメテオなんて
 
 
 187_28: 
-<通常>ＢＧＭのボリュームは　大丈夫？
-気になったら　調整できるよ。
+<通常>How's the BGM volume?
+If it smothers you, you can adjust it.
 
 187_29: 
-<通常>ＢＧＭの音量を　変えるクポ？
-ここで　調整できるクポ！
+<通常>Want to change BGM volume, kupo?
+Here's where you can adjust it, kupo!
 
 188_1: 
 
@@ -17342,12 +17470,12 @@ Wメテオなんて
 
 
 188_28: 
-<通常>ＳＥのボリュームは　大丈夫？
-気になったら　調整できるよ。
+<通常>How's the SE volume?
+If it smothers you, you can adjust it.
 
 188_29: 
-<通常>ＳＥの音量を　変えるクポ？
-ここで　調整できるクポ！
+<通常>Want to change the SE volume, kupo?
+Here's the place to do it, kupo!
 
 189_1: 
 
@@ -17431,12 +17559,13 @@ Wメテオなんて
 
 
 189_28: 
-<通常>ボイスのボリュームは　大丈夫？
-気になったら　調整できるよ。
+<通常>How's the voice volume?
+If it smothers you, you can adjust it.
 
 189_29: 
-<通常>ボイスの音量を　変えるクポ？
-ここで　調整できるクポ！
+<通常>You want to change the voice volume,
+kupo?
+Here's the place you can do it, kupo!
 
 190_1: 
 
@@ -17520,10 +17649,10 @@ Wメテオなんて
 
 
 190_28: 
-<通常>そのキャラクターがお気に入り？
+<通常>Interested in a character?
 
 190_29: 
-<通常>お気に入りキャラクターを　選べるクポ。
+<通常>Choose the character you want kupo.
 
 191_1: 
 
@@ -17607,12 +17736,14 @@ Wメテオなんて
 
 
 191_28: 
-<通常>セーブするね。
-（<アイコン:サンカク>ボタンで　ゲームデータを　アップロード／ダウンロード）
+<通常>Record the adventure log.
+(Press the <アイコン:サンカク> button to upload/
+ download game data.)
 
 191_29: 
-<通常>セーブするクポ。
-（<アイコン:サンカク>ボタンで　ゲームデータを　アップロード／ダウンロード）
+<通常>Save, kupo.
+(Press the <アイコン:サンカク> button to upload/
+ download game data.)
 
 192_1: 
 
@@ -17696,12 +17827,14 @@ Wメテオなんて
 
 
 192_28: 
-<通常>ロードするよ。
-（<アイコン:サンカク>ボタンで　ゲームデータを　アップロード／ダウンロード）
+<通常>Continue from adventure log.
+(Press the <アイコン:サンカク> button to upload/
+ download game data.)
 
 192_29: 
-<通常>ロードするクポ。
-（<アイコン:サンカク>ボタンで　ゲームデータを　アップロード／ダウンロード）
+<通常>Load, kupo.
+(Press the <アイコン:サンカク> button to upload/
+ download game data.)
 
 193_1: 
 
@@ -17785,10 +17918,10 @@ Wメテオなんて
 
 
 193_28: 
-<通常>名前の変更をするの？
+<通常>Want to change your name?
 
 193_29: 
-<通常>名前の変更を　するクポ？
+<通常>Want to change your name, kupo?
 
 194_1: 
 
@@ -17872,12 +18005,12 @@ Wメテオなんて
 
 
 194_28: 
-<通常>設定を変更しないで　タイトルメニューに　
-戻ることになるけど　いいの？
+<通常>Cancel changes and return to the
+title screen. Are you sure?
 
 194_29: 
-<通常>設定を変更しないで　タイトルメニューに
-戻ることになるけど　いいクポ？
+<通常>Cancel changes and return to the
+title screen. Okay, kupo?
 
 195_1: 
 
@@ -17961,10 +18094,10 @@ Wメテオなんて
 
 
 195_28: 
-<通常>わかった。タイトルメニューに　戻るね。
+<通常>Roger that. Returning to title screen.
 
 195_29: 
-<通常>タイトルメニューに　戻るクポ～。
+<通常>Returning to title screen, kupo.
 
 196_1: 
 
@@ -18048,12 +18181,12 @@ Wメテオなんて
 
 
 196_28: 
-<通常>設定を　初期化するぞ？　本当にいいのか？
-（前に保存した設定に戻します）
+<通常>Reset settings? Are you really sure?
+(Restores settings to previous stored changes.)
 
 196_29: 
-<通常>設定を　初期化するクポ。本当にいいクポ？
-（前に保存した設定に戻します）
+<通常>Reset settings, kupo. Are you sure, kupo?
+(Restores settings to previous stored changes.)
 
 197_1: 
 
@@ -18137,10 +18270,10 @@ Wメテオなんて
 
 
 197_28: 
-<通常>今の設定で　いいなら　<アイコン:マル>ボタンを押してね。
+<通常>Press the <アイコン:マル> button to confirm settings.
 
 197_29: 
-<通常>今の設定で　いいなら　<アイコン:マル>ボタンを押すクポ～。
+<通常>Press the <アイコン:マル> button to confirm, kupo.
 
 198_1: 
 
@@ -18224,10 +18357,10 @@ Wメテオなんて
 
 
 198_28: 
-<通常>この項目は　変更できないよ～。
+<通常>You cannot change that.
 
 198_29: 
-<通常>この項目は　変更できないクポ～。
+<通常>You can't change that, kupo.
 
 199_1: 
 
@@ -18311,10 +18444,10 @@ Wメテオなんて
 
 
 199_28: 
-<通常>……ごめんね～。これはまだ　解放されていないよ～。
+<通常>Sorry, cadet. You haven't unlocked that yet.
 
 199_29: 
-<通常>そこは　まだ解放されていないクポ～……。
+<通常>You haven't unlocked that yet, kupo.
 
 200_1: 
 
@@ -18398,12 +18531,12 @@ Wメテオなんて
 
 
 200_28: 
-<通常>今日は　どのマップで遊ぶのだ？
-（遊べるモードはスタンダードのみですが　ＢＧＭが選べます）
+<通常>Which map you goo-nna play on today?
+(Playable maps are Standard-only.)
 
 200_29: 
-<通常>どこで　遊ぶクポ？
-（遊べるモードはスタンダードのみですが　ＢＧＭが選べます）
+<通常>Where you going to play, kupo?
+(Playable maps are Standard-only.)
 
 201_1: 
 
@@ -22750,12 +22883,14 @@ Wメテオなんて
 
 
 250_28: 
-<通常>これは　スクエニからの挑戦状だ！
-挑む覚悟ができているなら　このモードを選ぶのだ！ 
+<通常>This is a challenge from Square Enix!
+Choose this mode if you think you're up
+for it, recruit!
 
 250_29: 
-<通常>これは　スクエニからの挑戦状クポ～。
-ど～しても　自分を試してみたいなら　選ぶクポ。
+<通常>This is a challenge from Square Enix, kupo.
+Choose this if you reaaaaaally want to test
+yourself, kupo.
 
 251_1: 
 
