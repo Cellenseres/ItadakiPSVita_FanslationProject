@@ -128,12 +128,12 @@ Noct's fine. It's a pleasure.
 いくらでも　戦えるわよ！
 
 2_3: 
-<通常>お金を　集めるゲームなんですか？
-わたくしに　できるかしら……。
+<通常>Is this a game about making money?
+I wonder if I can even do it..?
 
 2_4: 
-<喜>アルカパ出身の　ビアンカです！
-宿屋の　娘だったのよ！
+<喜>I'm the star of Roundbeck, Bianca!
+Daughter of the innkeeper!
 
 2_5: 
 <通常>最強の剣以外に　興味はない。
@@ -234,13 +234,13 @@ Noct's fine. It's a pleasure.
 おみまいしちゃうわよ！
 
 3_3: 
-<喜>ダイスさん　わたくしのために
-いい目を出して　くださいな。
+<喜>Mister Dice, please give me a good
+roll.
 
 3_4: 
-<喜>ふつつか者ですが
-よろしく　お願いいたします。
-なーんて　私らしくないわね。
+<喜>I am a complete novice at this so
+please give me a break.
+Hah, that's not like me at all.
 
 3_5: 
 <通常>強くなれるなら
@@ -344,13 +344,12 @@ Noct's fine. It's a pleasure.
 羽根　のばしちゃおうかしら！
 
 4_3: 
-<考>ダイスって　どうして
-１の目が　赤いんでしょう？
+<考>Why is the 1 red on the dice?
 
 4_4: 
-<喜>え？　私？
-私は　ビアンカ。
-よろしくね！
+<喜>Huh? Me?
+I'm Bianca.
+Nice ta meet ya.
 
 4_5: 
 <通常>一流の剣士に　油断はない。
@@ -457,14 +456,14 @@ Noct's fine. It's a pleasure.
 思いだしちゃうな。
 
 5_3: 
-<喜>こんな立派な　お城で
-あの方と　暮らせたなら……
-どんなに　ステキなことでしょう。
+<喜>If I could live with him
+in such a fine castle.
+It would be so much more charming.
 
 5_4: 
-<哀>リッパな　お城すぎて
-私　場ちがいみたい……。
-なんとなく　いごこち悪いな。
+<哀>It's way too fine a castle
+for me, I'd just get lost.
+It ain't very cozy.
 
 5_5: 
 <通常>……ほう。
@@ -578,14 +577,14 @@ Noct's fine. It's a pleasure.
 身体をうごかさなきゃ！
 
 6_3: 
-<考>なんて　寒い場所でしょう。
-風邪など召されぬよう
-みなさん　気をつけてくださいね。
+<考>Oh, what a cold place.
+Make sure you bundle up so you
+don't catch cold, everyone, 'kay?
 
 6_4: 
-<考>うす着　しすぎたかなあ……。
-ぶるぶるっ。寒気がしてきたわ。
-とりはだ　立ってきちゃった。
+<考>Guess I'm a bit bare.
+Brrrrr. Wind's bitin' here.
+It's givin' me goose bumps. 
 
 6_5: 
 <通常>こういう場所には
@@ -699,14 +698,14 @@ Noct's fine. It's a pleasure.
 武闘家　ひと筋よ！
 
 7_3: 
-<通常>転職も就職も　必要ありません。
-わたくしのつとめは　あの方のそばに
-寄りそうことですもの。
+<通常>I don't need to get or
+change myjob. My duty is to be
+by his side.
 
 7_4: 
-<喜>ここで　転職が　できるのね！
-いつか　お姫様に　なれるかな？
-なーんて　じょうだんよ　うふふ。
+<喜>Ya can change jobs here!
+Maybe I'll be a princess?
+Hah, just kiddin'. Tee-hee-hee.
 
 7_5: 
 <考>転職ってのは　ひとつの道を
@@ -817,14 +816,14 @@ Noct's fine. It's a pleasure.
 汗まみれに　なっちゃうかも。
 
 8_3: 
-<通常>炎のリングが眠るという
-死の火山とは　ここのこと
-なのでしょうか？
+<通常>Wasn't the fire ring
+supposed to be buried deep
+inside the Magmageddon?
 
 8_4: 
-<特>あつい　あついって言うから
-よけい　あつくなるのよ。
-ほらほら　ガマンしなさい。
+<特>Complain' 'bout the heat's
+just gonna make it hotter.
+Come on, just deal with it.
 
 8_5: 
 <考>こんな場所で　ゲームをするのか？
@@ -934,13 +933,14 @@ Noct's fine. It's a pleasure.
 平気なの？
 
 9_3: 
-<通常>すずしげで　夏を過ごす別荘に
-ちょうど　よさそうですわね。
+<通常>It's almost as refreshing
+the pool at my villa in the
+summer.
 
 9_4: 
-<考>……今　息を止めてるの！
-しゃべると　おぼれちゃうから
-話しかけないで！
+<考>I'm gonna hold my breath!
+If I talk, I'll drown, so don't
+talk to me!
 
 9_5: 
 <通常>……海の底か。
@@ -1051,13 +1051,14 @@ Noct's fine. It's a pleasure.
 かかってらっしゃ～い！
 
 10_3: 
-<考>…………。
-いいこと　思いつきましたわ！
-この船　直してしまいましょう。
+<考>…………
+I came up with a good idea!
+We should repair this ship.
 
 10_4: 
-<通常>……本当に　ここでなきゃダメ？
-私　暗いのも　オバケも苦手なの！
+<通常>Are you SURE we have ta
+be here? I'm not good 'round shadows
+an' ghosts!
 
 10_5: 
 <通常>くだらないな。
@@ -1171,14 +1172,14 @@ Noct's fine. It's a pleasure.
 すっごく　キレイよ！
 
 11_3: 
-<喜>なんて　ステキな桜なんでしょう。
-この花びらの　カーテンにつつまれて
-あの方と……ぽっ！
+<喜>Oh my, what a pretty cherry.
+I can just see him surrounded by
+petals... *blush*
 
 11_4: 
-<通常>こんな　きれいな桜……。
-好きな人と　いっしょに見られたら
-すっごく　幸せね……。
+<通常>With such a pretty cherry...
+It'd be amazin' to check it out
+with the one you love.
 
 11_5: 
 <通常>ほう　キレイな桜だな。
@@ -1294,14 +1295,14 @@ Noct's fine. It's a pleasure.
 冒険するのも　楽しそうね！
 
 12_3: 
-<喜>時をさかのぼる　祭壇ですって？
-うーん　過去も気になりますが
-あの方との未来を　見たいですわね。
+<喜>An altar to go back in time?
+Hmmm, it's quite the concept, but I'd
+rather see the future. With him.
 
 12_4: 
-<喜>この祭壇を使えば　過去に戻れるの？
-じゃあ……小さいころの　あの人に
-こっそり会いに　いこうかな♪
+<喜>So usin' this altar turns back time?
+Okay, then guess I'll go back to when
+I was a girl an' I met him. ♪
 
 12_5: 
 <考>時をさかのぼる祭壇？　過去に
@@ -1421,14 +1422,13 @@ Noct's fine. It's a pleasure.
 船が　空を飛んでるわ！
 
 13_3: 
-<喜>飛空艇は　いいですわね。
-我が家にも　専用の飛空艇が
-ほしいですわ。
+<喜>This is a nice airship.
+I wish we had an airship back home.
 
 13_4: 
-<考>何が　どうなってるの？
-私　空の上にいるの？
-えっ？　ええ～っ！？
+<考>Wait, what happens where?
+I'm goin' up in the sky?
+What? WHAAAAAAAT!?
 
 13_5: 
 <考>じゅうたんや　ベッドだけじゃなく
@@ -1541,14 +1541,14 @@ Noct's fine. It's a pleasure.
 すごーく　怒られそうね。
 
 14_3: 
-<考>まあ　キレイなクリスタル。
-サラボナの塔も　こんな風に
-建て替えられないかしら？
+<考>Wow, what a pretty crystal.
+I wonder if we can build the tower
+at Mostroferrato out of crystal?
 
 14_4: 
-<考>ふしぎな場所……。
-でも　クリスタルの指輪なんて
-プレゼントされたら　ステキよね。
+<考>What a mysterious place.
+But it sure would be nice to get
+a crystal ring on this finger!
 
 14_5: 
 <通常>光のチカラを　集めて
@@ -1662,13 +1662,13 @@ Noct's fine. It's a pleasure.
 味わえないわよ！
 
 15_3: 
-<考>司書の方は　どちらかしら？
-あら　いらっしゃらないの？
+<考>Where is the librarian?
+Huh, wait, there isn't one?
 
 15_4: 
-<喜>ここって　図書館だったのね。
-ねえ　小さなころに　読んだ本
-おぼえてる？
+<喜>This, uh, was a library, no?
+Hey, do you remember that book
+I read when I was a girl?
 
 15_5: 
 <考>これだけ　本があれば
@@ -1783,14 +1783,14 @@ Noct's fine. It's a pleasure.
 ぶっ飛ばして　やるんだけど。
 
 16_3: 
-<通常>この列車が　寝台列車なら
-あの方と　夢のような旅行が
-できたのですが……。
+<通常>If this were a sleeping
+compartment would they be on the
+vacation they'd always dreamed of?
 
 16_4: 
-<哀>オバケ退治を　思いだしちゃった。
-本当は　こわくて泣きそうだったの。
-……暗いのも　オバケも　苦手。
+<哀>Reminds me o' my ghost bustin' days.
+I was REALLY scared an' wanted to cry.
+I'm scared o' shadows an' ghosts.
 
 16_5: 
 <通常>一流の剣士は　戦いの場を選ばない。
@@ -1903,13 +1903,13 @@ Noct's fine. It's a pleasure.
 みたいかも……。
 
 17_3: 
-<喜>この遊園地を　借りきって
-いとしの　あの方とデートできたら
-どんなに　いいでしょう……ぽっ！
+<喜>Oh, how wonderful would it be
+if I could reserve this amusement
+park for a date with him. *blush*
 
 17_4: 
-<激><喜>大きな　遊園地ね！
-よーし　今日は　あそぶぞ～っ！
+<激><喜>Wow, whatta amusement park!
+Okay! Today I'm gonna have fun!
 
 17_5: 
 <考>オレは　苦手だが
@@ -2022,14 +2022,14 @@ Noct's fine. It's a pleasure.
 どっちが　すごいかな？
 
 18_3: 
-<通常>フクザツな町ですわね。
-え？　お城なのですか？
-世界には　色んな国があるのですね。
+<通常>It's a confusing town.
+What? It's a castle? The world sure
+does have some diverse countries.
 
 18_4: 
-<考>こんな　広い町　はじめて！
-うっかり　迷わないように
-気をつけなくちゃ。
+<考>I've never been to a city this
+big!
+I gotta be careful not to get lost.
 
 18_5: 
 <通常>ふうん……。
@@ -2144,14 +2144,14 @@ Noct's fine. It's a pleasure.
 さけびたくなるわね。
 
 19_3: 
-<喜>こんな　ステキな場所で
-あの方と　ひと晩中
-星をながめていたい……。
+<喜>I want to gaze at the stars
+in such a romantic place for
+one night with him...
 
 19_4: 
-<喜>わあ　ステキ！
-ここは　自然の芸術で　あふれてて
-とっても　落ち着くわね。
+<喜>Wow, it's pretty!
+It's just overflowin' with culture
+an' it's really relaxin'.
 
 19_5: 
 <通常>何もない　場所だが……。
@@ -2266,14 +2266,14 @@ Noct's fine. It's a pleasure.
 ねえ　ちょっと　走ってきてもいい？
 
 20_3: 
-<喜>今日はあの　乗り物を使って
-ゲームをするのかしら？　ウフフ！
-ステキな冒険に　なりそうですわね。
+<喜>Shall I ride that and play a game
+today, perhaps? Tee-hee-hee! It looks
+like quite the charming adventure.
 
 20_4: 
-<喜>あの乗り物　馬がいなくても動くの？
-世の中には　ふしぎなものが
-いっぱいあるのね！
+<喜>Wait that moves without a horse?
+There sure are a lot o' mysterious
+things in the world!
 
 20_5: 
 <通常>あの棺桶みたいなのは　なんだ？
@@ -2391,14 +2391,14 @@ Noct's fine. It's a pleasure.
 冒険って　すっごく　ステキよね！
 
 21_3: 
-<喜>伝説の勇者コース　ですか？
-ふふっ　あの方と　勇者を探して
-旅した日々が　なつかしいですわ。
+<喜>The legendary hero course?
+Hee-hee, it reminds me of the days when
+he traveled and searched for the hero.
 
 21_4: 
-<喜>へえ　基本を学ぶのに
-すごく　よさそうな場所ね！
-よーし　まずはここから始めましょ！
+<喜>Wow, despite havin' to learn the
+ropes, it sure is an amazin' place!
+Okay, first step, startin' from here!
 
 21_5: 
 <通常>くだらない挨拶や　自己紹介なんて
@@ -2515,14 +2515,14 @@ Noct's fine. It's a pleasure.
 かかってくるなら　覚悟してね♪
 
 22_3: 
-<喜>わたくしが　あの方と運命の出会いを
-果たしたように　このゲームにも
-意味があるのかも　しれませんわね。
+<喜>This game might have meaning if
+I will see the fated encounter with
+him to the end.
 
 22_4: 
-<喜>みんな　そろそろ　この冒険に
-慣れてきたころよね？　じゃあ
-私も　本気を出しちゃおうかな？
+<喜>Everyone's all got their own
+reasons for bein' here, yeah? So
+I guess I gotta go all out too!
 
 22_5: 
 <喜>この時を　楽しみにしてたぞ。
@@ -2629,14 +2629,14 @@ Noct's fine. It's a pleasure.
 たっくさん　戦えそうね！
 
 23_3: 
-<考>さすが　最難関コースですわね……。
-みなさんから　必ず勝つぞっていう
-意気込みが　伝わってくるようです。
+<考>This sure is the most difficult
+course. It looks like everyone else
+is deadset on winning.
 
 23_4: 
-<考>これまでとは　ちがう
-不穏な　雰囲気……。
-ここが　最難関コースなのね。
+<考>The competitive atmosphere's all
+different from what it was before.
+Guess 'cause this is the most difficult.
 
 23_5: 
 <通常>空き地で勝負か……ちょうど
@@ -2743,14 +2743,14 @@ Noct's fine. It's a pleasure.
 ねえ　みんなで楽しみましょうよ！
 
 24_3: 
-<考>ふと　思ったのですが……
-こんな巨大な　人間すごろくを
-考えた人は　いったい誰でしょうね？
+<考>A thought came to mind. Just
+who the heck came up with the idea
+for that giant Sugoroku statue?
 
 24_4: 
-<考>目標金額の半分を　持った状態で
-ゲームが始まるなら　これまで以上に
-お金の　使いかたが重要になるわね！
+<考>Startin' with half the goal
+just means it's that much more
+important how ya spend it!
 
 24_5: 
 
@@ -2852,9 +2852,9 @@ Noct's fine. It's a pleasure.
 いるんでしょうね。うっとり……。
 
 25_3: 
-<喜>修道院にいた頃は　このような町を
-訪れることは　なかったから……
-とっても　しんせんな気分ですわ。
+<喜>I never visited this sort of
+town when I was at the abbey.
+So it's a really new experience.
 
 25_4: 
 
@@ -2940,14 +2940,14 @@ Noct's fine. It's a pleasure.
 かかってらっしゃい！！
 
 26_3: 
-<通常>ダイスを　振るのって
-けっこう　大変ですのね。
-でも　がんばりますわ！
+<通常>It is pretty difficult to
+roll the dice.
+But I'm going to do my best!
 
 26_4: 
-<通常>お金を稼いで
-ダンカンお父さんの　宿屋を
-再建させるんだから！
+<通常>'Cause I'm gonna rebuild
+my papa Duncan's inn with all
+the money I rake in!
 
 26_5: 
 <通常>……悪いな。
@@ -3045,14 +3045,13 @@ Noct's fine. It's a pleasure.
 うー　ゾクゾクしちゃう！　
 
 27_3: 
-<通常>ゲームが　終わるころには
-ちょっぴり　たくましく
-なってしまいそうですわね。
+<通常>In the end game, I feel
+a little bit bullish.
 
 27_4: 
-<喜>お金を　貯めるだけなら
-レヌール城の　オバケ退治より
-ずっと　カンタンよね。
+<喜>Just savin' cash is a whole
+lot easier than bustin' the
+ghosts at Uptaten Towers, y'know?
 
 27_5: 
 <通常>この勝負　さっさと
@@ -3160,13 +3159,13 @@ Noct's fine. It's a pleasure.
 宝の持ちぐされよ！
 
 28_3: 
-<通常>このゲームは　世間知らずの
-わたくしにとって　いい経験に
-なると思いますの。
+<通常>I think this game was a good
+experience for someone like me that
+doesn't know much about the world.
 
 28_4: 
-<喜>私だって　負けないわよ♪
-ルン　ルルン♪
+<喜>I mean, like, I'm not gonna lose ♪
+La-la la-la-laaaa ♪
 
 28_5: 
 <通常>何も　考えずに
@@ -3265,13 +3264,13 @@ Noct's fine. It's a pleasure.
 冒険みたいで　ワクワクするわね！
 
 29_3: 
-<喜>次は　きっと　あの目が
-出ますわ！！
+<喜>I KNOW I'm going to get what
+I need next time!!
 
 29_4: 
-<喜>ふふふっ！
-こうして　冒険していると
-誰かさんのこと　思いだしちゃうな♪
+<喜>Tee-hee-hee-hee!
+Adventurin' like this re-minds me
+of a certain some-one ♪
 
 29_5: 
 <通常>あんたの実力は　どうなんだ？
@@ -3372,12 +3371,13 @@ Noct's fine. It's a pleasure.
 けっこう　大変ね。
 
 30_3: 
-<喜>世間の事にうとい　わたくしですが
-せいいっぱい　やってみますわね。
+<喜>I'm going to take in as much
+as I can for someone as ignorant
+of the world as I am.
 
 30_4: 
-<通常>ねえ……
-ううん　なんでもないわっ。
+<通常>Umm...
+No, it's nothing.
 
 30_5: 
 <通常>じゃ　行くか。
@@ -3476,14 +3476,14 @@ Noct's fine. It's a pleasure.
 ガツーンと　いくべきよ！
 
 31_3: 
-<考>優勝して　これ以上
-お金がふえたら　どうしましょう？
-そうだ　ぎんこう城を作りましょう！
+<考>What should I do to make even
+more money after I win?
+Oh, I know! I'll start a bank!
 
 31_4: 
-<喜>レヌール城のときの　暗くて
-カビくさい場所の　冒険とは
-大ちがいよね。うふふ！
+<喜>This was SOOOO different an
+adventure than that creep, dark,
+smelly Uptaten Towers. Tee-hee-hee!
 
 31_5: 
 <通常>オレは　ひまじゃないんだ。
@@ -3587,14 +3587,14 @@ Noct's fine. It's a pleasure.
 ウデが　きたえられていいのに。
 
 32_3: 
-<通常>あれこれ　考えてもムダですわ。
-出たとこまかせ　運まかせ
-ですわね！
+<通常>It's too tough thinking about
+this or that.
+It's all just a matter of luck!
 
 32_4: 
-<通常>こんなふうに　ゲームするなんて
-何年ぶりかしら……。
-そんな余裕　なかったものね。
+<通常>I wonder how many years it's
+been that I played a game like this?
+Well it hasn't been THAT long.
 
 32_5: 
 <通常>一流の剣士の　剣さばき……。
@@ -3691,12 +3691,12 @@ Noct's fine. It's a pleasure.
 期待できそうな相手　ばかりね。
 
 33_3: 
-<考>あらまあ！　もう　わたくし？
-今　リリアンちゃんの　晩ごはんを
-何にするか　考えてましたのに。
+<考>Oh, my! Is it me already?
+I was just thinking about what
+I was going to feed my Wi'w Wiwian.
 
 33_4: 
-<喜>ねえ　そっちに　いっても　いい？
+<喜>Umm, is it okay if I go here?
 
 33_5: 
 <通常>オレは　そうとう強いぜ。
@@ -3798,13 +3798,14 @@ Noct's fine. It's a pleasure.
 ドンドンいきましょ！
 
 34_3: 
-<通常>順番を　待っている間
-１人で　しりとりしてましたの。
+<通常>I was playing Telephone
+by myself while I  waited for
+my turn.
 
 34_4: 
-<喜>あなたは　そっちにいくのね。
-じゃあ　私は……
-……ん？　……ヒミツ！
+<喜>Ya goin' over there, no?
+Okay, then I will...
+Oh? It's a SECRET!
 
 34_5: 
 <通常>やるからには　勝たせてもらう。
@@ -3909,12 +3910,14 @@ Noct's fine. It's a pleasure.
 ねえ　そう思わない？
 
 35_3: 
-<喜>わったくしは　フロ～ラ♪
-サラボナに咲く～　白バラ～♪
+<喜>My name is Nera ♪
+The pure, white rose ♪
+of Mostroferrato ♪
 
 35_4: 
-<考>あっ　あれ？
-……次　私の番で　いいのよね？
+<考>Oh, huh?
+It's okay if I take my turn
+next, no?
 
 35_5: 
 <通常>こんな　ヘナチョコの相手しか
@@ -4020,14 +4023,14 @@ Noct's fine. It's a pleasure.
 ふふっ　ウデが　なるわ！
 
 36_3: 
-<哀>まあ　なんてこと！？
-ほとんどのお店が　人手に
-わたってしまいましたわ。
+<哀>Oh, my, what happened!?
+I've let all the shops
+be owned by everyone else.
 
 36_4: 
-<考>あらっ？　まだ　お店があったのね。
-……知らなかったの　私だけ？
-わ……　恥ずかしい！
+<考>Huh? I've yet to have a shop.
+Was I the last to know?
+Ahh, it's so embarrassing!
 
 36_5: 
 <怒>残る店は　あそこだな。
@@ -4136,14 +4139,14 @@ Noct's fine. It's a pleasure.
 ぜーんぶ　売り切れ！？
 
 37_3: 
-<特>キャアッ！
-わたくしには　お店のあるマスが
-ダメージゾーンに見えますわ。
+<特>Aieeee!
+I can see the damage zone in
+the spaces with shops.
 
 37_4: 
-<考>えっ　お店　売り切れちゃったの？
-……どこかに　お店を売ってくれる
-お店なんて　ないかしら？
+<考>What? They're all out of shops?
+Is there like, umm, no shop
+left anywhere I can buy?
 
 37_5: 
 <考>店が　もうない以上
@@ -4249,10 +4252,10 @@ Noct's fine. It's a pleasure.
 <通常>はあっ！
 
 38_3: 
-<通常>それっ！
+<通常>Voila!
 
 38_4: 
-<通常>やあっ！
+<通常>Whee!
 
 38_5: 
 <通常>はっ！
@@ -4408,12 +4411,12 @@ Noct's fine. It's a pleasure.
 えーーーーーい！！！
 
 40_3: 
-<喜>どんなダイスの目が　出ても
-それは　神様の思し召しですわ。
+<喜>Only the Goddess knows
+what dice will come up.
 
 40_4: 
-<喜>ダイスを　振るのって
-なんだか　どきどきしちゃうわ！
+<喜>I always get kinda nervous
+when I'm rollin' the dice!
 
 40_5: 
 <通常>さて　やるか。
@@ -4504,12 +4507,12 @@ Noct's fine. It's a pleasure.
 えいっ！！
 
 41_3: 
-<喜>ダイス　大好き♪
-ころりんこ～♪
+<喜>I love the dice ♪
+Plinky-plink-plop ♪
 
 41_4: 
-<喜>そ～れっ！
-ダイスさん　がんばって！
+<喜>Aaaand go!
+Coooooome on, dicey-dice!
 
 41_5: 
 <通常>すぐに　カタをつけてやる。
@@ -4607,13 +4610,13 @@ Noct's fine. It's a pleasure.
 <通常>そーーーれっ！！
 
 42_3: 
-<通常>ダイスさん　わたくしを
-運命の場所へ　導いてくださいな。
+<通常>Please take me to a lucky
+place, mister dice.
 
 42_4: 
-<怒>ダイスさんっ！
-いい目　出なかったら
-私　怒っちゃうわよっ。
+<怒>DICE!!
+If you DON'T give me a good roll,
+I'm going to be very, very angry.
 
 42_5: 
 <考>そう　せかすな。
@@ -4714,11 +4717,11 @@ Noct's fine. It's a pleasure.
 向いてないのよ。
 
 43_3: 
-<特>あっ　めまいが……。
-毒でも　うけたのかしら？
+<特>Ohh, I'm dizzy...
+Did I get poisoned or something?
 
 43_4: 
-<考>う～～～～ん……。
+<考>Urrrrrrrgghhffff...
 
 43_5: 
 <通常>これぐらい　なんてことない……。
@@ -4816,14 +4819,14 @@ Noct's fine. It's a pleasure.
 早く　なんとか　しなくちゃ……。
 
 44_3: 
-<哀>運に　見放されてる気が……。
-いいえ　そんなことないはず。
-神様　わたくしに　ご加護を！
+<哀>I feel like all hope...
+No, there's no way.
+Goddess, bless me!
 
 44_4: 
-<怒>……メラっ！
-……な　何も　起こらないわ！
-私　病気なのかも……。
+<怒>FRIZZ!
+N-N-N-Nothing happened!?
+Maybe I'm sick.
 
 44_5: 
 <通常>フッ……。
@@ -4929,13 +4932,13 @@ Noct's fine. It's a pleasure.
 <怒>このまま負けるなんて　イヤ！！　
 
 45_3: 
-<怒>わたくしが　ビリ！？
-これは　悪い夢なのかしら……。
+<怒>I'm in LAST!?
+Am I having a nightmare?
 
 45_4: 
-<哀>昔は私　母さんみたいな　リッパな
-宿屋の　おかみさんに　なるのが
-夢だったな……。
+<哀>Back then, I used to dream of
+becoming a good innkeeper's wife
+just like mama.
 
 45_5: 
 <哀>チカラ押しで　勝てるほど
@@ -5038,14 +5041,14 @@ Noct's fine. It's a pleasure.
 おみまい　するわよ！
 
 46_3: 
-<哀>心から　おこづかいがほしい……。
-こんな気持ちに　なったのは
-はじめてですわ……。
+<哀>I want my allowance more than
+anything. This is the first time I've
+felt this way.
 
 46_4: 
-<哀>さ　最下位……？
-そうね　いっぱん庶民の　私には
-お似合いなのかも　しれないわ……。
+<哀>D-D-Dead last?
+Well, I guess so, I am from the
+commonest of common folk.
 
 46_5: 
 <通常>これぐらいの逆境は
@@ -5153,13 +5156,13 @@ Noct's fine. It's a pleasure.
 そんなの　みとめないわ！
 
 47_3: 
-<哀>最下位になる　むなしさを
-味わうくらいなら　いっそ
-リタイアしてしまいたい……。
+<哀>If this is how empty dead
+last feels I want to just
+give up.
 
 47_4: 
-<哀>もう……神様に
-見放されちゃったのかしら……。
+<哀>The Goddess... Has
+she given up all hope for me?
 
 47_5: 
 <哀>けっこう　キツイが
@@ -5267,14 +5270,14 @@ Noct's fine. It's a pleasure.
 わたしを　ドキドキさせてよ！
 
 48_3: 
-<喜>やりましたわっ！
-どうやら　わたくしが　１着で
-ゴールできそうですわね。
+<喜>I did it!
+Somehow it looks like I'll be
+the first to reach the goal.
 
 48_4: 
-<考>なんだか　視線を感じるわ……。
-もしかして
-みんな　私を　おそれてるの？
+<考>I can feel it.
+Don't tell me that everyone else
+is staring daggers at my back?
 
 48_5: 
 <喜>言っただろ？
@@ -5383,14 +5386,14 @@ Noct's fine. It's a pleasure.
 手加減　しないで！！
 
 49_3: 
-<喜>うふふ　優勝できそうですわ。
-ダイスの神様　これからも
-わたくしを　お導きくださいな。
+<喜>Tee-hee-hee, I'm going to win.
+Oh, Goddess of Dice, please continue
+to grant me your blessing.
 
 49_4: 
-<喜>うふふ　強い？
-だって　私……
-いたずらっ子　だったんだもの！
+<喜>Tee-hee-hee, am I strong?
+I mean, like, I was always
+the prankster as a girl!
 
 49_5: 
 <喜>フッ……。
@@ -5496,14 +5499,14 @@ Noct's fine. It's a pleasure.
 パパパッと　追い抜くわよ！
 
 50_3: 
-<怒>逃がしませんわよ！
-トップに立つのは
-この　わたくしです！
+<怒>I won't give up!
+It's going to be me that
+comes out on top!
 
 50_4: 
-<喜>ふふふっ。
-トップの人　すぐに追いつくから
-待ってて♪
+<喜>Hee-hee-hee.
+I'll just bide my time until
+I catch up to the top ♪
 
 50_5: 
 <怒>そこで待ってろ。
@@ -5608,14 +5611,14 @@ Noct's fine. It's a pleasure.
 うーんっ　ワクワクしちゃう！！
 
 51_3: 
-<通常>あと　ちょっとで　トップの方に
-追いつけそうなのに……。
-ああ　もどかしいですわ。
+<通常>I just have a little bit to
+go to catch up to them.
+Ohh, it's frustrating.
 
 51_4: 
-<喜>「うわさのノート」には
-私が　トップになるって
-書いてあったわ！！
+<喜>I've got a secret note here
+and it says that I'm gonna be
+the one to come out on top!!
 
 51_5: 
 <通常>逃げ切れると　思ったのか？
@@ -5722,14 +5725,13 @@ Noct's fine. It's a pleasure.
 ああ　いっそ　走りだしたい！
 
 52_3: 
-<喜>ららんら　ら～ん♪　はっ！
-……いやですわ。わたくし
-ついつい　うかれてしまって。
+<喜>Hmm, hum, hmm, hmmmm ♪　Ahh!
+How rude of me. I got carried away.
 
 52_4: 
-<喜>キャッ！
-もしかして　このターンで
-レベルアップ　できるかも……♪
+<喜>Ahh!
+Don't tell me I'm gonna level
+up on my turn ♪
 
 52_5: 
 <通常>やれやれ……
@@ -5834,14 +5836,14 @@ Noct's fine. It's a pleasure.
 レベルアップが　待ち遠しいわ！
 
 53_3: 
-<喜>マークをそろえて　賞金を
-もらいにいくって　こんなにも
-心躍るものなのですね。
+<喜>I didn't realize I was going
+to be this pleased to go get my
+income after I got all the suits.
 
 53_4: 
-<喜>うん　もうすぐレベルアップよ。
-自分が　だんだん
-成長していくのって　うれしいよね。
+<喜>Yep, gonna level up soon.
+It's like a great feelin' when
+you get better an' better, y'know?
 
 53_5: 
 <通常>とりあえず　これで
@@ -5951,14 +5953,13 @@ Noct's fine. It's a pleasure.
 サクッと　いくわよ！
 
 54_3: 
-<考>ああ……どなたか
-わたくしのマークを　お城まで
-届けてくださらないかしら。
+<考>Ahh... Won't someone deliver
+my suits to the bank for me?
 
 54_4: 
-<考>マークは　そろったけど……。
-どうやって行くのが　近道かな？
-あなただったら　どうする？
+<考>I've gotten all my suits.
+But what's the shortest path to
+the bank? Whaddya think?
 
 54_5: 
 <通常>よし　マーク集め　完了だ。
@@ -6070,13 +6071,13 @@ Noct's fine. It's a pleasure.
 ……ならないわよね。
 
 55_3: 
-<通常>まだ　１つ目のマークですもの。
-よろこぶのは　はやいですわ。
+<通常>I still only have one.
+I want to hurry up and be happy.
 
 55_4: 
-<考>マークは　まだ１つね。
-ようやく　はじめの一歩って
-ところかしら？
+<考>I still only have one suit.
+I wonder when I can finally take
+that first step forward?
 
 55_5: 
 <通常>マークは……
@@ -6180,13 +6181,13 @@ Noct's fine. It's a pleasure.
 サッと集めて　レベルアップよ！
 
 56_3: 
-<通常>２つ目のマーク……。
-先はまだ　遠いですわね。
+<通常>My second suit.
+Still a long way to go.
 
 56_4: 
-<考>まだ　マークは２つ……。
-マークを　集めた方が
-本当に　いいのかしら？
+<考>Still only have 2 of 'em.
+Am I really goin' 'bout this
+the right way?
 
 56_5: 
 <通常>用事は
@@ -6287,13 +6288,14 @@ Noct's fine. It's a pleasure.
 なんだか　ドキドキしてきちゃった！
 
 57_3: 
-<喜>３つ目のマークですわ♪
-さーて　残りはどこかしら？
+<喜>I've got three of them ♪
+Okay, now where's the last one
+hiding?
 
 57_4: 
-<喜>マークは　あと１つ！
-また　一歩　レベルアップに
-近づくわね！
+<喜>Only one left!
+I'm one step closer to another
+level up!
 
 57_5: 
 <通常>さて……と
@@ -6395,14 +6397,14 @@ Noct's fine. It's a pleasure.
 ふんでもいいかしら？
 
 58_3: 
-<通常>あのスイッチは　天井から
-たらいが落ちてくるトラップです！
-ぜったい　そうに決まってますわ。
+<通常>That switch triggers a something
+to fall from the ceiling!
+I just know it.
 
 58_4: 
-<喜>あのスイッチ　ふむなと言われると
-ふみたくなっちゃうのよね♪
-……コッソリ　コッソリ♪
+<喜>Tellin' me not to flick it is
+just gonna want me to do it more ♪
+Sneaky-sneak-sneak ♪
 
 58_5: 
 <通常>何か　におうな……。
@@ -6514,13 +6516,13 @@ Noct's fine. It's a pleasure.
 早く　買わなくっちゃ！！
 
 59_3: 
-<通常>たとえ　残りのお店をとられても
-エレガントに　５倍買いで　
-リベンジしてみせますわ。
+<通常>Even if you take that shop
+away from me, I'll get my revenge
+with an elegant 5x buy.
 
 59_4: 
-<喜>お店さん　お店さん
-私が　行くまで　かくれててねっ！
+<喜>Oh, broker, oh, broker.
+Hide that one until I get there!
 
 59_5: 
 <通常>ふん……どうやら
@@ -6629,14 +6631,14 @@ Noct's fine. It's a pleasure.
 なんとか　なるわよ。
 
 60_3: 
-<特>もう　お店がないのですか！？
-いいえ。この程度のことで
-うろたえたりは　いたしませんわ。
+<特>Are there no shops already!?
+No. I mustn't let this bother
+me.
 
 60_4: 
-<哀>お店さん　お願い！
-かくれてないで　出てきてっ！
-もっと　買いたかったのに……っ。
+<哀>I beg ya, broker!
+Don't hide from me, show yourself!
+I wanted to buy mooooore.
 
 60_5: 
 <通常>これで　勝負が
@@ -6747,13 +6749,13 @@ Noct's fine. It's a pleasure.
 はやく　はやくっ！！
 
 61_3: 
-<考>レベルが上がると　ＨＰが
-増えたりするんですのよね？
-え！？　ゲームがちがう？
+<考>You get more HP when you
+increase your level, y'know?
+WHAT!? Not in this game?
 
 61_4: 
-<喜>レベルアップまで
-あと　ひと息ね！
+<喜>I'm a breath away from
+leveling up!
 
 61_5: 
 <喜>オレの　レベルアップが
@@ -6859,14 +6861,14 @@ Noct's fine. It's a pleasure.
 ライバル店の気配……。
 
 62_3: 
-<通常>お父様さえ　いてくれたなら
-どんなに高いお店だろうと
-こわくなんかないのに……。
+<通常>If only my dear papa were
+here I wouldn't be afraid of any
+of these high shop prices.
 
 62_4: 
-<哀>あの　高そうなお店……こわいわね。
-……トラマナッ！！
-これで　ダメージへらないかしら？
+<哀>Umm, I'm afraid of that expensive
+shop. SAFE PASSAGE!!
+Maybe it won't damage me now?
 
 62_5: 
 <考>なんだ　あれは……。
@@ -6976,13 +6978,13 @@ Noct's fine. It's a pleasure.
 そんなの　イヤよ……！！
 
 63_3: 
-<特>わたくしが　もうじき破産！?
-何かの　まちがいですわ！
+<特>I'm already bankrupt!?
+There must be some mistake!
 
 63_4: 
-<怒>いつ　破産するか　わからないけど
-なげやりな　やり方は
-したくないわ。
+<怒>I dunno when I'll bankrupt,
+but I don't want to play so
+recklessly.
 
 63_5: 
 <哀>火が　消えたみたい……か。
@@ -7089,14 +7091,14 @@ Noct's fine. It's a pleasure.
 みんなと　戦ってたいのに……。
 
 64_3: 
-<哀>もうじき　目がさめるのよ。
-だって　これは夢ですもの。
-わたくしが　破産間近だなんて……。
+<哀>I'm going to wake up soon.
+I mean, like, this must be a dream.
+How could I be so close to bankruptcy?
 
 64_4: 
-<哀>私　もう少しで　破産なんだもの。
-イヤなマスに　止まったら
-もう１回　ダイス　振りたいわ。
+<哀>I'm almost bankrupt.
+I wanna roll at least one more time
+before I land on a bad space.
 
 64_5: 
 <怒>しょせん　見かけ倒し？
@@ -7202,14 +7204,14 @@ Noct's fine. It's a pleasure.
 ……どうしたら　いいのかしら。
 
 65_3: 
-<哀>破産したら　借金取りが来て
-毎日のように　いやがらせを……。
-って　借金はありませんわね。
+<哀>If I get a loan when I'm
+bankrupt, they'll harass me every
+day so I won't get a loan.
 
 65_4: 
-<哀>大金持ちなんて　ならなくていい。
-せめて……人並みの
-小さな幸せを　つかみたいわ！
+<哀>I'd rather not be filthy rich.
+I wanna find a bit of happiness like
+average folk... At the very least!
 
 65_5: 
 <哀>その時が　くれば
@@ -7317,14 +7319,14 @@ Noct's fine. It's a pleasure.
 ねらってくるだなんて！！
 
 66_3: 
-<哀>せっかく　お買い物を
-していただける　チャンスですのに
-お休みだなんて……。
+<哀>How could I pull holiday when
+I was lucky enough to get Chance
+on my shopping spree?
 
 66_4: 
-<哀>えっ　お客さんが　来たの？
-来てくれるって　わかってたら
-絶対　むかえに　行ったのにな……。
+<哀>What, didn't I get a visitor?
+I know I asked them to come, but
+why'd they all leave..?
 
 66_5: 
 <通常>わざわざ
@@ -7436,14 +7438,14 @@ Noct's fine. It's a pleasure.
 みんな　気が　ゆるんでるわよ。
 
 67_3: 
-<怒>年中無休でしたら
-こんな思い　しなかったのに。
-休日なんて　キライですわ！
+<怒>And here I thought was going
+to be open year-round.
+I like so hate holidays!
 
 67_4: 
-<喜>んっ　う～～んっ♪
-ああ！　よく寝たわ！
-目ざめも　スッキリよっ。
+<喜>Mmmm. Ahhhhhh ♪
+Ohh! I slept well!
+I'm all refreshed now.
 
 67_5: 
 <怒>今度は　こちらの番だ……。
@@ -7548,14 +7550,14 @@ Noct's fine. It's a pleasure.
 知ってる？
 
 68_3: 
-<哀>お父様は　株の売買に
-なれておりますが　わたくしは
-まだ若葉マーク……困りました。
+<哀>My dear papa is well-versed
+in stock trading, but I'm worried
+I'm still an easy mark.
 
 68_4: 
-<考>ぎんこう城も
-動いてくれれば　いつでも
-株が　買えるのにな。
+<考>Ya'd be able to buy shares
+whenever ya want if ya could
+just move the bank.
 
 68_5: 
 <考>フン……。
@@ -7664,14 +7666,14 @@ Noct's fine. It's a pleasure.
 買ってみたいわ！
 
 69_3: 
-<通常>どうせ　初心者なのだし
-運を天にまかせて
-カンで　株を買ってみようかしら？
+<通常>I'm still a newbie and all
+so maybe I should just leave buying
+shares up to chance?
 
 69_4: 
-<怒>カブが　ほしいな……。
-……失礼ねっ！　八百屋さんじゃ
-買えないってくらい　知ってるわ！
+<怒>Gah, I want some shares.
+Oops, excuse me! I knew ya can't
+buy 'em like ya do groceries!
 
 69_5: 
 <通常>やれやれ。
@@ -7782,13 +7784,13 @@ Noct's fine. It's a pleasure.
 むずかしいわね……。
 
 70_3: 
-<通常>お店を大きくしたいですわ。
-だって　今のままじゃ　
-せっかくの株が　泣いてますもの。
+<通常>I want to grow my shops.
+I mean, as they are now, I'm
+crying over my my shares.
 
 70_4: 
-<考>増資っていうのを　して
-お店を　大きくしてあげたいな……。
+<考>I wanna grow my shops with
+this so-called Remodel thing.
 
 70_5: 
 <考>フン……。
@@ -7901,14 +7903,14 @@ Noct's fine. It's a pleasure.
 ドッカーンと　増資したいわ！
 
 71_3: 
-<特>ぷちピンチですわ！
-増資をしたいのに　自分のお店に
-入れないなんて……。
+<特>I'm in a small bind!
+I can't even get to my own shops
+despite wanting to invest in them.
 
 71_4: 
-<考>私のお店に　止まりたいわ……。
-今のままじゃ　かんたんに
-うばわれて　しまいそうだもの。
+<考>I wanna stop at my own shop.
+As they are now, they're just
+too ripe for the taking.
 
 71_5: 
 <考>運も　実力のうちだが
@@ -8018,13 +8020,13 @@ Noct's fine. It's a pleasure.
 増資　できないじゃない！
 
 72_3: 
-<考>どうやったら　自分のお店に
-止まれるのかしら　う～ん。
-こればっかりは　運？
+<考>How can I stop at my
+own shops? Hmmm...
+Is it all up to luck?
 
 72_4: 
-<哀>お願いします……っ！
-お店を　大きく　させてくださいっ！
+<哀>Oh, come on, please!
+Please let me grow my shops!
 
 72_5: 
 <通常>じたばたしても　無意味だ。
@@ -8132,14 +8134,14 @@ Noct's fine. It's a pleasure.
 たくさん　ドキドキできそうだし！
 
 73_3: 
-<喜>そうですわ　５倍買い！
-これこそ　わたくしに
-ふさわしい戦術ですわ！
+<喜>I know! I'll 5x buy!
+That'll be the strategy
+for me!
 
 73_4: 
-<哀>ほ　本当に
-あそこを　手に入れるには
-５倍買いしか……ないの？
+<哀>I-I-Is there really no
+other way to get it but to use
+a 5x buy?
 
 73_5: 
 <通常>かくごしろ！
@@ -8247,13 +8249,14 @@ Noct's fine. It's a pleasure.
 イヤよ！　負けたくないっ！！
 
 74_3: 
-<怒>このわたくしが　最下位……
-いいえ　すぐに逆転してみせますわ！
+<怒>How could I be in last?
+No, I'll show you that I can
+turn the tables right away!
 
 74_4: 
-<通常>ううん　最下位だからって
-悲しいわけじゃないわ。
-昔は昔　今は今だもの。
+<通常>No, it ain't the time to
+mope about bein' in last. The past
+is past, the present is now.
 
 74_5: 
 <怒>悪いが　だまってやられるほど
@@ -8360,14 +8363,14 @@ Noct's fine. It's a pleasure.
 ぜーったい　イヤっ！！
 
 75_3: 
-<通常>まだ　逆転の機会はあります。
-わたくし　これでも　忍耐力には
-自信が　ありますのよ。
+<通常>I still have time to turn
+things around. I'm confident that
+I can hold out even now.
 
 75_4: 
-<通常>だいじょうぶよ。
-私　まだまだ　がんばれるわ。
-……心配してくれて　ありがとう。
+<通常>I'll be fine.
+I can keep on goin'.
+Thanks for your concern.
 
 75_5: 
 <怒>反撃開始だ……。
@@ -8471,13 +8474,14 @@ Noct's fine. It's a pleasure.
 気持ちいーい！
 
 76_3: 
-<喜>うふふ。まだまだ　全力は
-出しておりませんのに
-トップに　なってしまいましたわ。
+<喜>Tee-hee-hee, I'm at the top
+though I still have a lot more
+where that came frome.
 
 76_4: 
-<喜>トップ　すごいね　ですって？
-ふふふ　なんだか　テレちゃうね。
+<喜>As they say, it's good to be
+the queen?
+Hee-hee, I'm a bit embarrassed.
 
 76_5: 
 <特>フッ……。
@@ -8592,14 +8596,13 @@ Noct's fine. It's a pleasure.
 うふふっ　たのしーーい！！！
 
 77_3: 
-<通常>わたくしの　うしろに続く
-方々を　今から一気に
-ひきはなしに　かかりますわよ。
+<通常>I need to put some room
+between you all at my heels.
 
 77_4: 
-<喜>うふふ！　私が　優勝しちゃうわよ！
-バツゲーム……
-何に　しようかなあ……？
+<喜>Tee-hee-hee! I'm gonna win!
+Do I get to invoke a 
+“Penalty Game” on the losers?
 
 77_5: 
 <通常>弱いヤツには　興味ない。
@@ -8709,14 +8712,14 @@ Noct's fine. It's a pleasure.
 ラストスパートよ！！
 
 78_3: 
-<激><喜>うふふふふ！
-わたくしが　ゴールする姿を
-その目に　焼きつけてくださいな。
+<激><喜>Eee-hee-hee-hee-hee!
+Let the image of my crossing the
+finish line burn into your eyes.
 
 78_4: 
-<喜>さあてと！　目標金額を
-達成したし　私は　この辺で……
-ゴール♪　かしら！
+<喜>And here we go! I've got
+the cash an' I'm near the...
+Goal ♪ Probably!
 
 78_5: 
 <特>やれやれ　他愛ないな。
@@ -8990,8 +8993,8 @@ Noct's fine. It's a pleasure.
 
 
 81_4: 
-<哀>やっぱり　私なんかじゃ
-あなたには　勝てないのね。
+<哀>I knew I could never win
+against ya.
 
 81_5: 
 
@@ -9077,9 +9080,9 @@ Noct's fine. It's a pleasure.
 ちゃっかり　かせいでたの！？
 
 82_3: 
-<哀>このわたくしが　負けるなんて
-あまりのショックで
-めまいが　してきましたわ……。
+<哀>It wasn't really a shock
+that I ended up losing, but
+it did.
 
 82_4: 
 
@@ -9247,8 +9250,8 @@ Noct's fine. It's a pleasure.
 
 
 84_4: 
-<哀>はぁ……。
-ダメね　私って……。
+<哀>Sigh...
+It's no use for me.
 
 84_5: 
 
@@ -9501,9 +9504,9 @@ Noct's fine. It's a pleasure.
 
 
 87_4: 
-<通常>がんばってるわね。
-でも　強いだけが
-男の価値じゃないのよね。
+<通常>I tried my best.
+But just bein' strong isn't
+all men want, y'know?
 
 87_5: 
 
@@ -10164,9 +10167,9 @@ Noct's fine. It's a pleasure.
 
 
 95_3: 
-<喜>あら　もうゴールですの？
-もし　あなたが優勝したら
-おいわいして　さしあげますわね♪
+<喜>Huh, passed the goal already?
+If you win I'm goin to throw
+you a party, 'kay? ♪
 
 95_4: 
 
@@ -10992,12 +10995,12 @@ Noct's fine. It's a pleasure.
 下げといて　あげるわね。
 
 105_3: 
-<通常>これを手放すなら　今ですわね。
+<通常>Now is the time to make my move.
 
 105_4: 
-<喜>……見つかっちゃった？
-株を売るときは……
-コッソリやらなきゃ　ダメだね！
+<喜>Found me out?
+When ya sellin' shares...
+Ya can't sell 'em all!
 
 105_5: 
 <通常>これも　戦略だ。
@@ -11102,14 +11105,13 @@ Noct's fine. It's a pleasure.
 なかなか　ステキじゃない？
 
 106_3: 
-<通常>お店を交換したいのです。
-このステキな　申し出を
-あなたは　受けてくださるかしら？
+<通常>I want to trade shops.
+Would you take this lovely
+place off of my hands?
 
 106_4: 
-<喜>ねえ。
-気分転換に　お店
-交換してみない？
+<喜>Umm.
+You up for a trade?
 
 106_5: 
 <通常>どうだ　交換してみないか？
@@ -11384,8 +11386,8 @@ Noct's fine. It's a pleasure.
 
 
 109_4: 
-<考>友情のしるしに
-私と　お店を交換してみない？
+<考>How 'bout we seal our
+friendship with a trade?
 
 109_5: 
 
@@ -11470,9 +11472,9 @@ Noct's fine. It's a pleasure.
 ねえ　交換しましょうよ！
 
 110_3: 
-<喜>同じ殿方に　恋をした者どうし
-友情のあかしとして　お店を
-交換しましょう？
+<喜>As a woman in love with the
+same man as I, how about we trade
+to cement our friendship?
 
 110_4: 
 
@@ -11641,9 +11643,9 @@ Noct's fine. It's a pleasure.
 
 
 112_4: 
-<通常>せっかく　交換ってルールが
-あるんだもの　私たちで
-やってみましょうよ。
+<通常>We might as well give trade
+a shot since we've got these
+fancy tradin' rule.
 
 112_5: 
 
@@ -12550,8 +12552,8 @@ Noct's fine. It's a pleasure.
 
 
 123_3: 
-<喜>お店を交換すれば　お互い
-明るい未来が　待っていますわよ。
+<喜>A bright future awaits us
+if you trade with me.
 
 123_4: 
 
@@ -13368,14 +13370,14 @@ Noct's fine. It's a pleasure.
 気に入らないのよね。
 
 133_3: 
-<通常>みなさん　お聞きになって！
-今から　わたくしのお店を
-競売にかけますわよ。
+<通常>Listen up, everyone!
+I'm putting up my shops for
+auction now.
 
 133_4: 
-<喜>いろいろ　お金が　入用な
-時期だものね。
-いらないものは　整理しなくっちゃ。
+<喜>I'm in need o' some cash
+now. So I gotta liquidate
+some stuff I don't need.
 
 133_5: 
 <考>この店は　もういらないな。
@@ -13481,14 +13483,14 @@ Noct's fine. It's a pleasure.
 手放さなきゃ　ダメ？
 
 134_3: 
-<哀>お金に　こまって　自分のお店を
-手放すなんて
-とても　悲しいことですわ……。
+<哀>It is quite the tragedy to
+have to sell your own shops
+in order to get money.
 
 134_4: 
-<哀>……なんでも　ないの。
-目に　ゴミが　入っただけよ。
-そのお店　大切にしてね……。
+<哀>It's not worthless.
+Ya gotta lift your head up.
+An' take care o' that shop.
 
 134_5: 
 <考>手持ちの金が　さびしいな。
@@ -13599,14 +13601,14 @@ Noct's fine. It's a pleasure.
 いい気も　するわよね。
 
 135_3: 
-<喜>関所って　ステキですわ。
-みんなが　ここを通るたびに
-わたくしに　お金が……ぽっ！
+<喜>This checkpoint's pretty.
+And when you pass on by,
+you'll owe me... *blush*
 
 135_4: 
-<喜>普通のお店だけじゃ　なくて
-関所とか　いろ～んな　お店があって
-おもしろいわね♪　うふふ！
+<喜>It ain't just a normal shop,
+it's a check point or somethin'.
+These shops're funny ♪ Tee-hee-hee!
 
 135_5: 
 <通常>関所にして　通行料を
@@ -13717,14 +13719,14 @@ Noct's fine. It's a pleasure.
 ぜーったい　たのしいわよ！
 
 136_3: 
-<喜>サーカス小屋にしましょう。
-いとしの　あの方も　きっときっと
-見にきてくれますわね。
+<喜>I'm opening up a small circus.
+All of you better come and visit,
+'kay?
 
 136_4: 
-<喜>よしよし！
-オリの向こうの　猛獣さんたち
-みんな　いい子に　してるみたいね。
+<喜>Okay, okay!
+All y'all big kitties better be
+good boys and girls now, 'kay?
 
 136_5: 
 <通常>何を　笑ってる？
@@ -13835,18 +13837,18 @@ Noct's fine. It's a pleasure.
 船が　空を飛べるのかしら？
 
 137_3: 
-<喜>ここを　飛空艇乗り場にします。
-だって　わたくし　一度
-乗ってみたかったんですもの。
+<喜>There's an airship station here.
+I mean, I really wanted to be the
+first to ride it.
 
 137_4: 
-<喜>飛空艇乗り場だもの！
-私だけじゃなくて　きっと
-お客さんも　楽しみに　してるわ。
+<喜>An airship station!
+It ain't just for me, so y'all
+can come and enjoy it too.
 
 137_5: 
-<通常>ここに　空とぶベッドも
-置いたら……変か？
+<通常>Would it be too weird
+if I put a flyin' bed here too?
 
 137_6: 
 <通常>どうも　高いところは　苦手だが
@@ -13949,13 +13951,14 @@ Noct's fine. It's a pleasure.
 頭のカタイ人　ばっかりかしら？
 
 138_3: 
-<通常>神殿を　建ててみたけれど
-修道院のほうが　よかったかしら？
+<通常>I built a shrine, but maybe
+it would've been better if I
+built an abbey?
 
 138_4: 
-<喜>この神殿で　何ができるかしら？
-……結婚式とか？
-な～んてね！　うふふ♪
+<喜>What can I do with this shrine?
+Get married or somethin'? Hah!
+Just kiddin'! Tee-hee ♪ Hee-hee ♪
 
 138_5: 
 <通常>神殿だろうと　店だろうと
@@ -14068,14 +14071,14 @@ Noct's fine. It's a pleasure.
 格闘酒場よ！
 
 139_3: 
-<喜>ここを酒場にしたのは
-いつか　あの方と　２人きりで
-デートしたいからですわ。ぽっ。
+<喜>I want to take him out
+on a date, just the two of us,
+to this bar some time. *blush*
 
 139_4: 
-<喜>うふふ！　みんなが心安らぐ
-酒場に　するわね。
-あ！　子供は　お酒はダメ　よ？
+<喜>Tee-hee-hee! Everyone be merry,
+an' come to the bar.
+Oh! I guess no kids?
 
 139_5: 
 <通常>にぎやかな場所は　苦手だが
@@ -14190,13 +14193,14 @@ Noct's fine. It's a pleasure.
 ぜーーんぶ　わたしのものね！
 
 140_3: 
-<通常>土地屋さんにしておけば
-よいことが　ありそうですわね。
+<通常>I feel like something good
+vill happen if I place a real
+estate office.
 
 140_4: 
-<喜>うふふ　コワ～イ　地上げ屋さんに
-なってあげるから
-覚悟しててねっ？
+<喜>Tee-hee-hee, are you ready
+for it? I'm gonna turn into a
+scaaaaary real estate investor.
 
 140_5: 
 <通常>ゆっくりしている　つもりはない。
@@ -14305,14 +14309,14 @@ Noct's fine. It's a pleasure.
 大丈夫かしら？　吹き飛ばない？
 
 141_3: 
-<通常>紙の店　ですか。
-風が吹いたら　飛んでいって
-しまいそうですわね。
+<通常>A paper shop?
+It looks like it'll blow away
+in the wind.
 
 141_4: 
-<喜>今は　まだ　小さいお店でも
-少しずつ　成長していくわ。
-子供のころの　私みたいに……ね。
+<喜>Even if it's a small shop
+still, it'll grow little-by-little.
+Just like me growing up.
 
 141_5: 
 <考>この店　ドランゴに
@@ -14414,14 +14418,14 @@ Noct's fine. It's a pleasure.
 おもしろーい！！
 
 142_3: 
-<喜>あら　ワラでお店が
-作れるのですか？
-なんだか　かわいらしいですわね。
+<喜>Oh, my, they make shops out
+of straw?
+How awful.
 
 142_4: 
-<喜>わらしべ長者って　知ってる？
-小さい頃に　本で読んだの。
-私も　わらで　お金持ちになるわね！
+<喜>Ya ever hear 'bout the Straw
+Millionaire? I read when I was a kid.
+I'm gonna turn straw into gold!
 
 142_5: 
 <通常>店も　魔物も
@@ -14526,13 +14530,14 @@ Noct's fine. It's a pleasure.
 ちょっと　つまらなかったかしら？
 
 143_3: 
-<通常>どれを建てても　今ひとつ。
-それなら　ふつうのお店にして
-おきましょう。
+<通常>No matter what's built, I have
+this now. And so I'm fine with
+a normal shop.
 
 143_4: 
-<喜>おフロには　たきぎも必要でしょ？
-みんな　買っていってね！
+<喜>Ya need firewood to heat the
+bath. So everyone's gonna come
+an' shop here!
 
 143_5: 
 <通常>あえて　木の店に
@@ -14637,13 +14642,13 @@ Noct's fine. It's a pleasure.
 修行が…たりない……？
 
 144_3: 
-<哀>うう……。
-気分が　悪いですわ……。
+<哀>*sniffle*
+I feel terrible.
 
 144_4: 
-<哀>……メ　メダパニ？
-か……身体が　動かないわ。
-う　ううん　だいじょうぶよ……。
+<哀>F-F-FUDDLE?
+I-I-I can't even move.
+U-Un-Unngh, I'm fine...
 
 144_5: 
 <哀>……くっ。
@@ -15002,9 +15007,9 @@ Noct's fine. It's a pleasure.
 みんなも　気をつけて！！
 
 148_3: 
-<考>見た目は　変わりませんが
-あなたの熱気が　わたくしにも
-伝わってきますわ……。
+<考>You may not look any different
+than normal, but I can tell the
+passion you have.
 
 148_4: 
 
@@ -16080,9 +16085,9 @@ Noct's fine. It's a pleasure.
 
 
 161_3: 
-<考>せっかくの機会ですから　少し
-はしゃいでみては　いかがかしら？
-あら　興味ない……ですか。
+<考>How about enjoying life a little
+since you've got the chance?
+Oh? You don't have any hobbies?
 
 161_4: 
 
@@ -16905,14 +16910,14 @@ Noct's fine. It's a pleasure.
 安くって　いいのかしら？
 
 171_3: 
-<通常>こんなに安い　お店なら
-いつか　５倍買いするのも
-悪くありませんわね。
+<通常>It wouldn't be bad if
+you can get a 5x buy with
+such a cheap shop.
 
 171_4: 
-<喜>まあ　こんな値段で　いいの？
-もしかして　サービスして
-もらったのかしら……。
+<喜>Well, you fine with this
+price? Don't tell me ya want
+for free or anythin'?
 
 171_5: 
 <通常>なさけない　店だぜ。
@@ -17011,11 +17016,12 @@ Noct's fine. It's a pleasure.
 なんだか　ひょうし抜けだわ。
 
 172_3: 
-<喜>これくらいの　お店なら
-安心して　通えますわね。
+<喜>I'll be able to make it
+at this sort of shop.
 
 172_4: 
-<喜>あら？　お買い得な　お店みたい。
+<喜>Huh? Seems like a bargain
+store.
 
 172_5: 
 <喜>フン……。
@@ -17119,8 +17125,8 @@ Noct's fine. It's a pleasure.
 
 
 173_4: 
-<通常>安いって　ほんと　たすかるわ。
-毎日のお買い物に　ぴったりね。
+<通常>Cheap's really a life saver.
+Perfect for ya everyday shoppin'.
 
 173_5: 
 
@@ -17287,9 +17293,9 @@ Noct's fine. It's a pleasure.
 
 
 175_4: 
-<喜>あなたって
-物の価値が　わかってないわね。
-たすかっちゃったけど♪
+<喜>Ya dun have any sense o'
+the value o' things.
+But it sure saved my bacon ♪
 
 175_5: 
 
@@ -17375,8 +17381,8 @@ Noct's fine. It's a pleasure.
 これくらいなら　またこようかな？
 
 176_3: 
-<喜>あなたのお店って
-とっても　リーズナブルですのね。
+<喜>Your shop's like totally
+reasonably priced.
 
 176_4: 
 
@@ -17795,9 +17801,9 @@ Noct's fine. It's a pleasure.
 
 
 181_4: 
-<喜>あら　安いお店ね。
-カッコだけじゃ　女の子は
-振り向かないわよ。
+<喜>Huh? What a cheap shop.
+Just bein' cool ain't gonna
+get a girl's attention.
 
 181_5: 
 
@@ -18447,9 +18453,9 @@ Noct's fine. It's a pleasure.
 
 
 189_3: 
-<喜>うふふっ！
-このお店からは　持ち主の
-思いやりが　感じられますわ。
+<喜>Tee-hee-hee!
+I can really feel the thought
+that was put into this shop.
 
 189_4: 
 
@@ -19270,14 +19276,13 @@ Noct's fine. It's a pleasure.
 払ってあげるわよ。
 
 199_3: 
-<哀>これまで　わたくしは
-お父様の　おチカラに
-守られていたのですね……。
+<哀>I was always under my dear
+papa's protection until now.
 
 199_4: 
-<哀>ああ……ムネが
-しめつけられるような感じ……
-切なくなるわ。
+<哀>Ahh, I'm feelin' really
+burdened bah that price...
+NOT.
 
 199_5: 
 <通常>……ほう。
@@ -19385,14 +19390,14 @@ Noct's fine. It's a pleasure.
 いい　お店じゃない。
 
 200_3: 
-<通常>金は天下のまわりもの。
-お父様が　よく言ってましたわ。
-……クヨクヨしては　ダメですわね。
+<通常>Money makes the world go round.
+That's what my dear papa always said.
+But there's no sense in worrying about it.
 
 200_4: 
-<哀>うっ……この先　これ以上高い値段で
-泣く泣く　買い物させられることに
-なりませんように……っ。
+<哀>Aww. I don't wanna have to pay
+an' pay an' pay anymore high
+shop fees.
 
 200_5: 
 <怒>ふうん……。
@@ -19664,9 +19669,9 @@ Noct's fine. It's a pleasure.
 
 
 203_4: 
-<通常>さすが　あなたのお店ね。
-なかなか　お高くて
-めまいが　してきたわ……。
+<通常>That's just like your shops.
+It's so freakin' expensive
+I feel like I'm gonna faint.
 
 203_5: 
 
@@ -19751,9 +19756,9 @@ Noct's fine. It's a pleasure.
 
 
 204_3: 
-<通常>けっこうな　出費でしたわ。
-今度は　あなたも　
-ぜひ　わたくしのお店にいらして。
+<通常>That was fairly expensive.
+So you MUST stop by my shop
+next time.
 
 204_4: 
 
@@ -19923,8 +19928,9 @@ Noct's fine. It's a pleasure.
 
 
 206_4: 
-<哀>ここは　私みたいな　庶民の来る
-お店じゃ　ないっていうこと？
+<哀>So what'cha sayin' is that
+this ain't the place for a
+low-class girl like me?
 
 206_5: 
 
@@ -20006,7 +20012,7 @@ Noct's fine. It's a pleasure.
 
 
 207_4: 
-<哀>えーっ！　こんなに　とるの！？
+<哀>WHAT!? I can just take it!?
 
 207_5: 
 
@@ -20178,8 +20184,8 @@ Noct's fine. It's a pleasure.
 
 
 209_4: 
-<通常>あら。
-なかなか　がんばってるじゃない。
+<通常>Huh?
+Well aren't ya doin' swell.
 
 209_5: 
 
@@ -20831,9 +20837,9 @@ Noct's fine. It's a pleasure.
 
 
 217_3: 
-<喜>なんて　ステキなお店なんでしょう！
-このまま　わたくしが
-もらって　しまいたいぐらいですわ。
+<喜>Wow, what a charmin' shop!
+So much so that I'm gonna
+get it soon.
 
 217_4: 
 
@@ -21653,14 +21659,14 @@ Noct's fine. It's a pleasure.
 高すぎだわ！
 
 227_3: 
-<哀>ああっ　お金が……。
-お父様が　いっしょでないときは
-立ち寄りたくない　お店ですわ。
+<哀>Aww, my money.
+This shop's one I wouldn't visit
+unless I didn't have my dear papa.
 
 227_4: 
-<激><怒>ちょっと　ちょっと！
-なによ　このお店！？
-じょうだんじゃないわよっ！
+<激><怒>Hey, just a moment!
+What the heck's with this shop!?
+Are you jokin'!
 
 227_5: 
 <怒>覚悟しておけ……。必ず
@@ -21760,13 +21766,14 @@ Noct's fine. It's a pleasure.
 おみまいしちゃうわよ？
 
 228_3: 
-<通常>こ　高級なお店でしたわね。
-痛い出費でしたが　そのぶん
-もうければ　いいんですわ。
+<通常>W-What a high-class shop.
+It hurts to pay, but it'll be
+fine if I get rich in the end.
 
 228_4: 
-<哀>明日から　しばらく
-パンの耳と　水だけね……。
+<哀>Okay, from tomorrow, I'm
+back to just bread crusts an'
+water.
 
 228_5: 
 <怒>一流の剣士である　オレに
@@ -22038,9 +22045,9 @@ Noct's fine. It's a pleasure.
 
 
 231_4: 
-<哀>お金持ちだから　このお店に
-止まる人の気持ちなんて
-きっと　わからないのね……。
+<哀>As a rich girl, I don't
+understand those who would
+stop at a shop like this.
 
 231_5: 
 
@@ -22124,9 +22131,9 @@ Noct's fine. It's a pleasure.
 覚えてなさいー！！　もう！
 
 232_3: 
-<考>うれしそう。
-ああ　きっと　これまで
-苦労されていたのね。
+<考>You look pleased.
+Yes, that's surely because you've
+worked so hard up until now.
 
 232_4: 
 
@@ -22292,9 +22299,9 @@ Noct's fine. It's a pleasure.
 
 
 234_4: 
-<哀>…………。
-ご　ごめんね　いっしゅん
-頭が　まっしろになっちゃって……。
+<哀>…………
+I-I'm sorry. I almost had a
+heart attack just now.
 
 234_5: 
 
@@ -22376,9 +22383,9 @@ Noct's fine. It's a pleasure.
 
 
 235_4: 
-<考>あっ　あの
-怒ってるわけじゃ　ないの
-ただ　ふと　気が遠くなって……。
+<考>Uh, umm...
+It's not like I'm mad or anythin'
+just a little overwhelmed.
 
 235_5: 
 
@@ -22548,9 +22555,9 @@ Noct's fine. It's a pleasure.
 
 
 237_4: 
-<怒>女の子はね……。
-出費には　けっこうキビしいのよ。
-よく　おぼえておきなさい！
+<怒>Us girls?
+We don't like bein' stiffed.
+YOU better remember that!
 
 237_5: 
 
@@ -23202,9 +23209,9 @@ Noct's fine. It's a pleasure.
 
 
 245_3: 
-<特>やられましたわっ！！
-あなたってば　はじめっから
-これを　ねらっていらしたのね！
+<特>You were able to do it!
+This was what you had your eye
+on since the beginning!
 
 245_4: 
 
@@ -24022,12 +24029,12 @@ Noct's fine. It's a pleasure.
 ひょうし抜け　しちゃったわ。
 
 255_3: 
-<通常>あらまあ　お休みでしたの。
+<通常>Oh my, you're on holiday.
 
 255_4: 
-<喜>お休みですって？
-顔……　見たかったけど
-また　出直すわね。
+<喜>Takin' a break?
+I, uh, wanted to see ya, but
+guess I'll stop by another time.
 
 255_5: 
 <喜>たまには　気晴らしも
@@ -24132,13 +24139,13 @@ Noct's fine. It's a pleasure.
 なーんか　スッキリしないわ。
 
 256_3: 
-<喜>半額で　はしゃぐなんて
-少し　はしたないですけど
-やっぱり　うれしいものですわ。
+<喜>I feel a bit guilty about
+taking advantage of it being half
+off, but it really is quite nice.
 
 256_4: 
-<考>半額……半額って
-おトク……なのかしら？？
+<考>Half-off? Is it half-off
+because I'm a regular??
 
 256_5: 
 <通常>……半額か。
@@ -24243,13 +24250,13 @@ Noct's fine. It's a pleasure.
 みとめられたみたいで　てれるわね。
 
 257_3: 
-<喜>このわたくしを　
-無料で招待してくださるなんて
-フローラ　かんげきですわ！
+<喜>It's a party for me being
+able to stay here for free!
 
 257_4: 
-<喜>あら？　このお店は　顔パスね！
-私も　えらくなったものだわ！
+<喜>Huh? Is it free day here?
+Or maybe I'm just the guest
+of honor!
 
 257_5: 
 <喜>ふうん。
@@ -24360,14 +24367,14 @@ Noct's fine. It's a pleasure.
 修行が　たりないわね。
 
 258_3: 
-<哀>いつもより　高いなんて　
-ひどいですわ。こういうのを
-ボッタクリと　いいますの？
+<哀>It's awful that it's more
+expensive than usual. Is this
+what you'd call a rip-off?
 
 258_4: 
-<哀>なによ！　人の足元見て
-いつもより　多く　取ろうってこと？
-ひどいわ……！
+<哀>What the heck! So ya figured
+ya'd take advantage and take in a
+lot more? How cruel!
 
 258_5: 
 <怒>値上げするとは
@@ -24474,14 +24481,14 @@ Noct's fine. It's a pleasure.
 これくらいなら　いいわ。
 
 259_3: 
-<哀>１００Ｇなんて　安いと思いきや
-いつもは　１００Ｇ以下とは……。
-これも社会勉強ですわね。
+<哀>While I thought 100G should
+be nice, it's usually less! I guess
+there's a lesson to be learned here.
 
 259_4: 
-<哀>１００Gなのに　いつもより高いの？
-……私　なんだか
-悲しくなってきちゃったわ……。
+<哀>It's higher than normal at
+100G?
+That's got me all sad now.
 
 259_5: 
 <通常>バカバカしい。
@@ -24593,14 +24600,14 @@ Noct's fine. It's a pleasure.
 してくるわね。
 
 260_3: 
-<喜>そういえば　ビアンカさんは
-よく１００Ｇショップを利用すると
-おっしゃってましたわね。
+<喜>That reminds me, Bianca
+mentioned she likes to shop
+at the dollar store often.
 
 260_4: 
-<喜>１００Ｇにしてくれて　ありがとう！
-ずうっと　ずうっと
-仲良く　やっていこうね！
+<喜>Thanks for the 100G!
+I'm gonna be ya friend
+forever an' ever!
 
 260_5: 
 <通常>……フン。
@@ -24707,14 +24714,14 @@ Noct's fine. It's a pleasure.
 わたしのお金　なくなっちゃった！
 
 261_3: 
-<怒>な　何が起こったんですの！？
-さっきまで　ゴールできるだけの
-お金を持ってましたのに！
+<怒>W-What just happened!?
+And I had made enough to reach
+the goal just a bit ago!
 
 261_4: 
-<哀>ひっ……ひどいわ……。
-せっかく　目標金額を貯めたのに
-私に　ゴールさせない　つもりね！？
+<哀>H-H-How cruel.
+Are ya sayin' ya tryin' to 
+stop me since I reached the goal!?
 
 261_5: 
 <哀>こいつは
@@ -24830,14 +24837,14 @@ Noct's fine. It's a pleasure.
 増資できたのに……。
 
 262_3: 
-<通常>持ち株がないときは　増資するな。
-お父様がくださった　アドバイスは
-本当に　役に立ちますわ。
+<通常>Don't invest if you haven't
+any shares. The advice my dear
+papa gave me is really useful.
 
 262_4: 
-<喜>増資？　やっぱり　株とか
-ムードってものが　必要でしょ？
-また今度……ね？
+<喜>Invest? I guess ya either
+gotta have shares or be in the
+mood. Maybe next time?
 
 262_5: 
 <通常>やれやれ。
@@ -24943,14 +24950,14 @@ Noct's fine. It's a pleasure.
 ぜーーったい　させないわよ！！
 
 263_3: 
-<喜>増資　どっか～んですわ！
-これで　お店を買いとろうったって
-そうは　いきませんことよ。
+<喜>Investment BOOM!
+Now, if you're thinking about
+buying it, I won't abide by that.
 
 263_4: 
-<通常>やっと　大きくできたわ。
-お店さん　今まで　ほうっておいて
-本当に　ごめんね。
+<通常>It's finally grown.
+All my visitors who're in
+dismay'll really be sorry now.
 
 263_5: 
 <通常>オレが　一流の剣士の
@@ -25060,12 +25067,11 @@ Noct's fine. It's a pleasure.
 増資したいって気分じゃ　ないし。
 
 264_3: 
-<通常>わたくしだって　いつもいつも
-増資ばかり　しているわけじゃ
-ありませんわよ。
+<通常>It's not like I should
+only be investing.
 
 264_4: 
-<考>う～～～～ん……。
+<考>Awwwwww.
 
 264_5: 
 <考>今はまだ　増資の時機じゃないな。
@@ -25163,13 +25169,13 @@ Noct's fine. It's a pleasure.
 ランクアップしちゃった！！
 
 265_3: 
-<通常>なんだか　お店が自分の
-子供のように　思えてきましたわ。
+<通常>I've come to think of
+my shops as my children.
 
 265_4: 
-<考>どんな　お店も
-下積みが　大事だって
-母さんが　よく　言ってたっけ……。
+<考>My mom told me often that
+no matter the size of your shop,
+ya still gotta treasure it.
 
 265_5: 
 <通常>この程度の　チカラじゃ
@@ -25276,14 +25282,14 @@ Noct's fine. It's a pleasure.
 案外　おもしろいわね。
 
 266_3: 
-<喜>株で　もうかりましたわ！
-お父様に　教えていただいた
-知識が　役に立ちましたの。
+<喜>I earned money from stocks!
+My dear papa's wisdom that he
+taught me came in use.
 
 266_4: 
-<喜>キャッ！　ステキ！
-私　お金もうけの　才能が
-あるのかも　しれないわ！
+<喜>Eeee! Brilliant!
+I might be a genius when
+it comes to makin' money!
 
 266_5: 
 <喜>どうやら　株が勝敗のカギを
@@ -25389,14 +25395,14 @@ Noct's fine. It's a pleasure.
 わたしの株が　高くなっちゃった！
 
 267_3: 
-<通常>お金をかせぐ　よろこび……。
-今まで知らなかった　感覚が
-フローラに　芽生えつつありますの。
+<通常>I'm happy to earn money.
+I learned something new about
+myself that I wasn't aware of.
 
 267_4: 
-<考>えっ？　私　株で　もうけたの？
-う～ん……　私には　よくわからない
-むずかしい仕組みだわ。
+<考>What? I got money from shares?
+Hmm... I dunno really understand
+all this complex math stuff.
 
 267_5: 
 <考>こんな　かせぎじゃ
@@ -25504,14 +25510,14 @@ Noct's fine. It's a pleasure.
 あと　ちょっとね！
 
 268_3: 
-<通常>わたくしの目指す
-最高の　お店になるまで
-あと一歩ですわ。
+<通常>I'm just one step away
+from my dream of building the
+most valuable shop.
 
 268_4: 
-<喜>ねえ　すごいでしょ！？
-こんなに　リッパな　お店を
-あっという間に　建てたのよ！
+<喜>Hey, ain't this great!?
+I built this fine shop
+lickety-split!
 
 268_5: 
 <喜>フッ……。
@@ -25621,14 +25627,14 @@ Noct's fine. It's a pleasure.
 大きく　なったのよ！！
 
 269_3: 
-<喜>これで　値段も建物も
-わたくしの目指す
-最高級のお店に　なりましたわ。
+<喜>And now I've built what
+I worked towards, the finest
+shop of them all on the board.
 
 269_4: 
-<喜>うふふ！　グランドクロスよ！
-これで　お客さんも
-満足してくれるかな？
+<喜>Tee-hee-hee! PEARLY GATES!
+And now won't y'all come an'
+give me all ya money?
 
 269_5: 
 <特>最強の武器　最強の店。
@@ -25743,12 +25749,13 @@ Noct's fine. It's a pleasure.
 ゆずれないわ！！
 
 270_3: 
-<通常>優勝が見えてきましたわ。
-問題は　いかに　今の金額を
-へらさずに　いくかですわね。
+<通常>I can see my victory.
+The problem is now how do I
+stop from losing money?
 
 270_4: 
-<喜>キャッ　ばれちゃったわね？
+<喜>
+キャッ　ばれちゃったわね？
 そうなの！　私　もう
 ゴール　できるみたい！
 
@@ -25857,14 +25864,14 @@ Noct's fine. It's a pleasure.
 アリーナ店　オープンよ！
 
 271_3: 
-<通常>まずは　１軒目。
-ここを足がかりにして
-お金を　かせいでいきますわ。
+<通常>First, a single shop.
+That's the foundation for
+making money.
 
 271_4: 
-<喜>うふふ！
-やっぱり　お店には　お花とかを　
-かざった方が　いいかしら？
+<喜>Tee-hee-hee!
+Maybe I should decorate the
+shop with flo'ers or somethin'?
 
 271_5: 
 <通常>オレのやり方を　よく見ておけ。
@@ -25964,14 +25971,14 @@ Noct's fine. It's a pleasure.
 武器屋に　しようっと。
 
 272_3: 
-<喜>わたくしの　初お店。
-いとしい　あの方に来てもらえる
-ステキなお店にいたしますわ。
+<喜>My first shop.
+I must make it beautiful if
+he were to pay a visit.
 
 272_4: 
-<喜>待ってて！
-すぐに　準備中の　ふだを
-はずすから！
+<喜>WAIT!
+I've gotta take the grand
+openin' sign off!
 
 272_5: 
 <通常>さてと　次は
@@ -26078,14 +26085,14 @@ Noct's fine. It's a pleasure.
 たのしみだわ！！
 
 273_3: 
-<通常>１つきりでは　ダメですわ。
-このエリアのお店を　ぜーんぶ
-手に入れませんと！
+<通常>It's no good only having
+one. I've got to get ALL
+the shops in this area!
 
 273_4: 
-<喜>うふふ　私のお店だわ！
-がんばって　いいお店に
-してあげるからね！
+<喜>Tee-hee-hee, it's MY shop!
+An' I'll work hard an' show ya
+what a nice shop it'll be!
 
 273_5: 
 <喜>フッ……。
@@ -26193,13 +26200,14 @@ Noct's fine. It's a pleasure.
 お店を手に入れて　いきたいわね。
 
 274_3: 
-<考>最初の１軒が本店とすると
-この２軒目は　支店かしら？
+<考>If the first one is the main
+store, then is the second one
+a franchise?
 
 274_4: 
-<喜>ここのエリアで　２つめね！
-私も　独占　ねらっちゃおうかな？
-うふふ　どう思う？
+<喜>The second in this area!
+Maybe I can get that monopoly?
+Tee-hee-he, whaddya think?
 
 274_5: 
 <通常>さすがに　かなり
@@ -26305,12 +26313,13 @@ Noct's fine. It's a pleasure.
 わたし　魔法使えないし。
 
 275_3: 
-<通常>どうせなら　このエリアのお店は
-ぜんぶ手に入れたいですわ。
+<通常>I want to get all the shops
+in this area somehow.
 
 275_4: 
-<喜>名産品でも　売っちゃおうかしら？
-……もったいない？　そ　そうよね。
+<喜>Maybe I should sell 
+knick-knacks?
+Wait, wrong game? I-I guess so.
 
 275_5: 
 <通常>わかってないようだから
@@ -26417,14 +26426,14 @@ Noct's fine. It's a pleasure.
 いきおいに　ノってきたわね！
 
 276_3: 
-<通常>お店が手に入るか　どうかは
-ダイスにかかってますわ。
-いい目が出るのを　祈りましょう。
+<通常>It's just the roll of the
+dice whether I get the shop or
+not. I pray for a good roll.
 
 276_4: 
-<喜>独占？　ううん　まだ　全然
-そんなことは　考えてないわ。
-……ホントよ！
+<喜>Monopoly? Nah, I'm not
+thinkin' about that just yet.
+REALLY I'M NOT!
 
 276_5: 
 <通常>ここからが　本番だ。
@@ -26534,13 +26543,13 @@ Noct's fine. It's a pleasure.
 ガンガンいくわよ！
 
 277_3: 
-<喜>エリアを独占できたら
-すべてのお店を　青一色に
-ぬりかえてみたいですわ。
+<喜>It seems like once you
+have a monopoly the entire
+block gets re-painted.
 
 277_4: 
-<喜>そろそろ　はくぶつ館でも
-作りましょうか？
+<喜>Maybe I should start
+that Knick-knackatory now?
 
 277_5: 
 <通常>やれやれ。
@@ -26646,14 +26655,14 @@ Noct's fine. It's a pleasure.
 うふふっ　気合いじゅうぶんよ！
 
 278_3: 
-<通常>独占まで　あと一歩ですわ。
-残ったお店が　他の方の手に
-わたりませんように。
+<通常>Just one step away from
+a monopoly. I will NOT let
+anyone get a hand on that shop.
 
 278_4: 
-<喜>そうね　もうすぐ　独占だわ。
-でもね　私　このままでも
-じゅうぶん　幸せよ。
+<喜>It's true, I've almost got
+a monopoly. But, yeah, I'm
+pretty happy as I am now.
 
 278_5: 
 <通常>よし　３軒目だ。
@@ -26761,14 +26770,14 @@ Noct's fine. It's a pleasure.
 わたしが独占　しちゃうわよ？
 
 279_3: 
-<喜>３軒目ですわ！
-きっと　商売の神様が　わたくしに
-味方してくれているんですわ。
+<喜>It's my third shop!
+Surely the Goddess of Wealth
+is on my side.
 
 279_4: 
-<喜>わあ　そろそろ　独占かな？
-もし　独占しちゃったら
-どうしようかしら！
+<喜>Woah, so I guess I almost
+have it? What am I gonna do
+if I do get it!?
 
 279_5: 
 <通常>今さら　あわててもムダだ。
@@ -26875,13 +26884,14 @@ Noct's fine. It's a pleasure.
 うふふっ　うれしーーい！！
 
 280_3: 
-<考>独占したエリアの名前
-なんにしましょうかしら？
-う～ん　フローラ横丁？
+<考>What should I name MY
+area?
+Hmm, what about NERApolis?
 
 280_4: 
-<喜>うふふふ！　独占だわ！
-やっぱり　無欲の勝利かしら？
+<喜>Tee-hee-hee-hee! I got it!
+Guess it really is a sort of
+an empty victory?
 
 280_5: 
 <喜>フッ！　独占成功だな。
@@ -26986,14 +26996,14 @@ Noct's fine. It's a pleasure.
 そうは　させないわ！
 
 281_3: 
-<怒>ひとりじめは　いけません！
-わたくしも　このエリアのお店を
-買わせていただきますわ。
+<怒>I will NOT let you have it
+all to yourself! I'm going to
+help myself to a shop here.
 
 281_4: 
-<哀>ごっ　ごめんなさい……！
-あなたの　独占を　ジャマするつもり
-なかったんだけど……ねっ？
+<哀>I-I-I'm so sorry!
+I don't  mean to break up
+ya monopoly, but umm, yeah.
 
 281_5: 
 <通常>いけると　思ったのか？
@@ -27101,14 +27111,14 @@ Noct's fine. It's a pleasure.
 馬１０頭だって　買えないわよ。
 
 282_3: 
-<哀>このお店　ほしかったのに
-お金が足りなくて　買えないなんて
-悲しい現実ですわ……。
+<哀>Not having enough money to
+buy the shop I want is the
+sad reality.
 
 282_4: 
-<哀>きゃっ　お金が　足りないわ！
-たしかに　いろいろ
-出費が　かさむものね……。
+<哀>Ahh! I don't have enough!
+I must've spent too
+much elsewhere.
 
 282_5: 
 <哀>……しかたない。
@@ -27213,14 +27223,14 @@ Noct's fine. It's a pleasure.
 「ガンガンいこうぜ」で　決まりよ！
 
 283_3: 
-<通常>あなたは　このお店を
-生かしきれていませんわ。
-ですから　買い取ってさしあげます。
+<通常>You will not get to use
+this shop. Because I'm going
+to buy it from you.
 
 283_4: 
-<喜>うふふふ♪　これで独占が……
-あっ　ごめんなさい。
-今の　聞かなかったことに　してね！
+<喜>Tee-hee ♪ Hee-hee ♪ And now
+your monopoly- Oh, I'm sorry.
+I wasn't listening just now!
 
 283_5: 
 <通常>いい勉強に　なっただろ？
@@ -27323,13 +27333,13 @@ Noct's fine. It's a pleasure.
 <喜>えーい！　会心の一撃！
 
 284_3: 
-<通常>ちょうど　ここにお店を
-ほしいと思っていましたの。
+<通常>And I had wanted the
+shop that was here.
 
 284_4: 
-<哀>ご　ごめんなさいね。
-でも　このまま　ほうっておいたら
-大変なことに　なっちゃうから……。
+<哀>I-I'm so sorry. But if ya
+leave it like it is something
+terrible might happen to it.
 
 284_5: 
 <通常>攻撃は　最大の防御だ。
@@ -27439,13 +27449,13 @@ Noct's fine. It's a pleasure.
 ここのお店　いただくわね！
 
 285_3: 
-<喜>この　お店……
-なんとなく　気に入ったので
-思わず　買っちゃいましたわ。
+<喜>This shop.
+I bought it without a thought
+because it piqued my interest.
 
 285_4: 
-<哀>だって……このお店
-怖かったんだもの……。
+<哀>I mean, this shop was
+like scary.
 
 285_5: 
 <通常>なぜ　買ったかだと？
@@ -27549,14 +27559,14 @@ Noct's fine. It's a pleasure.
 いい気も　するわよね。
 
 286_3: 
-<喜>関所って　ステキですわ。
-みんなが　ここを通るたびに
-わたくしに　お金が……ぽっ！
+<喜>This checkpoint's pretty.
+And when you pass on by,
+you'll owe me... *blush*
 
 286_4: 
-<喜>普通のお店だけじゃ　なくて
-関所とか　いろ～んな　お店があって
-おもしろいわね♪　うふふ！
+<喜>It ain't just a normal shop,
+it's a check point or somethin'.
+These shops're funny ♪ Tee-hee-hee!
 
 286_5: 
 <通常>関所にして　通行料を
@@ -27667,14 +27677,14 @@ Noct's fine. It's a pleasure.
 ぜーったい　たのしいわよ！
 
 287_3: 
-<喜>サーカス小屋にしましょう。
-いとしの　あの方も　きっときっと
-見にきてくれますわね。
+<喜>I'm opening up a small circus.
+All of you better come and visit,
+'kay?
 
 287_4: 
-<喜>よしよし！
-オリの向こうの　猛獣さんたち
-みんな　いい子に　してるみたいね。
+<喜>Okay, okay!
+All y'all big kitties better be
+good boys and girls now, 'kay?
 
 287_5: 
 <通常>何を　笑ってる？
@@ -27785,14 +27795,14 @@ Noct's fine. It's a pleasure.
 船が　空を飛べるのかしら？
 
 288_3: 
-<喜>ここを　飛空艇乗り場にします。
-だって　わたくし　一度
-乗ってみたかったんですもの。
+<喜>I'm putting an airship stop
+here. Well, I mean, I've always
+wanted to ride on one.
 
 288_4: 
-<喜>飛空艇乗り場だもの！
-私だけじゃなくて　きっと
-お客さんも　楽しみに　してるわ。
+<喜>It's an airship stop!
+I hope all y'all stop on by
+to enjoy it too.
 
 288_5: 
 <通常>ここに　空とぶベッドも
@@ -27899,13 +27909,14 @@ Noct's fine. It's a pleasure.
 頭のカタイ人　ばっかりかしら？
 
 289_3: 
-<通常>神殿を　建ててみたけれど
-修道院のほうが　よかったかしら？
+<通常>I built a shrine, but maybe
+it would've been better if I
+built an abbey?
 
 289_4: 
-<喜>この神殿で　何ができるかしら？
-……結婚式とか？
-な～んてね！　うふふ♪
+<喜>What can I do with this shrine?
+Get married or somethin'? Hah!
+Just kiddin'! Tee-hee ♪ Hee-hee ♪
 
 289_5: 
 <通常>神殿だろうと　店だろうと
@@ -28018,14 +28029,14 @@ Noct's fine. It's a pleasure.
 格闘酒場よ！
 
 290_3: 
-<喜>ここを酒場にしたのは
-いつか　あの方と　２人きりで
-デートしたいからですわ。ぽっ。
+<喜>I want to take him out
+on a date, just the two of us,
+to this bar some time. *blush*
 
 290_4: 
-<喜>うふふ！　みんなが心安らぐ
-酒場に　するわね。
-あ！　子供は　お酒はダメ　よ？
+<喜>Tee-hee-hee! Everyone be merry,
+an' come to the bar.
+Oh! I guess no kids?
 
 290_5: 
 <通常>にぎやかな場所は　苦手だが
@@ -28140,13 +28151,14 @@ Noct's fine. It's a pleasure.
 ぜーーんぶ　わたしのものね！
 
 291_3: 
-<通常>土地屋さんにしておけば
-よいことが　ありそうですわね。
+<通常>I feel like something good
+vill happen if I place a real
+estate office.
 
 291_4: 
-<喜>うふふ　コワ～イ　地上げ屋さんに
-なってあげるから
-覚悟しててねっ？
+<喜>Tee-hee-hee, are you ready
+for it? I'm gonna turn into a
+scaaaaary real estate investor.
 
 291_5: 
 <通常>ゆっくり　している　つもりはない。
@@ -28255,14 +28267,14 @@ Noct's fine. It's a pleasure.
 大丈夫かしら？　吹き飛ばない？
 
 292_3: 
-<通常>紙の店　ですか。
-風が吹いたら　飛んでいって
-しまいそうですわね。
+<通常>A paper shop?
+It looks like it'll blow away
+in the wind.
 
 292_4: 
-<喜>今は　まだ　小さいお店でも
-少しずつ　成長していくわ。
-子供のころの　私みたいに……ね。
+<喜>Even if it's a small shop
+still, it'll grow little-by-little.
+Just like me growing up.
 
 292_5: 
 <考>この店　ドランゴに
@@ -28364,14 +28376,14 @@ Noct's fine. It's a pleasure.
 おもしろーい！！
 
 293_3: 
-<喜>あら　ワラでお店が
-作れるのですか？
-なんだか　かわいらしいですわね。
+<喜>Oh, my, they make shops out
+of straw?
+How awful.
 
 293_4: 
-<喜>わらしべ長者って　知ってる？
-小さい頃に　本で読んだの。
-私も　わらで　お金持ちになるわね！
+<喜>Ya ever hear 'bout the Straw
+Millionaire? I read when I was a kid.
+I'm gonna turn straw into gold!
 
 293_5: 
 <通常>店も　魔物も
@@ -28476,13 +28488,14 @@ Noct's fine. It's a pleasure.
 ちょっと　つまらなかったかしら？
 
 294_3: 
-<通常>どれを建てても　今ひとつ。
-それなら　ふつうのお店にして
-おきましょう。
+<通常>No matter what's built, I have
+this now. And so I'm fine with
+a normal shop.
 
 294_4: 
-<喜>おフロには　たきぎも必要でしょ？
-みんな　買っていってね！
+<喜>Ya need firewood to heat the
+bath. So everyone's gonna come
+an' shop here!
 
 294_5: 
 <通常>あえて　木の店に
@@ -28588,12 +28601,12 @@ Noct's fine. It's a pleasure.
 手に入るチャンスだったのに！
 
 295_3: 
-<哀>空き地すら　買えないなんて
-とっても　悲しいことですわね。
+<哀>It's really sad that you
+can't buy a vacant lot.
 
 295_4: 
-<哀>あ……空き地
-買いたかったのに……残念……。
+<哀>Oh, and I wanted to buy
+the vacant lot. Too bad.
 
 295_5: 
 <哀>みすみす　空き地を
@@ -28697,14 +28710,14 @@ Noct's fine. It's a pleasure.
 またわたし　強くなれたのかしら？
 
 296_3: 
-<喜>お父様がくださる　おこづかいより
-ずっと　うれしいのは
-どうしてなのでしょうね？
+<喜>Why does this make me
+happier than when my dear
+papa gives me my allowance?
 
 296_4: 
-<喜>一生懸命　がんばれば
-ちゃんと　レベルアップできるのね。
-なんだか　うれしいな。
+<喜>Ya only properly level up
+when ya work ya hardest.
+But it kinda makes me happy.
 
 296_5: 
 <特>これでまた
@@ -28812,14 +28825,14 @@ Noct's fine. It's a pleasure.
 のびのびできるなんて　久々ね。
 
 297_3: 
-<怒>あんまりですわ！
-わたくしのお店の　定休日を
-かってに　お決めにならないで。
+<怒>How could you!
+Don't just decide to close
+all my shops on holiday!
 
 297_4: 
-<喜>少し　休んでくるわね。
-あなたも　休むなら
-部屋は　べつべつでね？　うふふ！
+<喜>I guess we'll take a break.
+But we're not stayin' in the
+same bed, 'kay? Tee-hee-hee!
 
 297_5: 
 <考>しかたない……。
@@ -28922,13 +28935,13 @@ Noct's fine. It's a pleasure.
 じっとしてる場合じゃ　ないのに！！
 
 298_3: 
-<哀>ああん。はやくお店を
-開けさせてくださいまし！
+<哀>Aww. I want to hurry up
+and open my shops!
 
 298_4: 
-<哀>えっ……休日なの？
-もしかして　誰かが　ダイスを
-あやつってたんじゃ　ないかしら？
+<哀>What? On break?
+Don't tell me someone tried
+to cheat the dice?
 
 298_5: 
 <通常>これは　ハンデだ。
@@ -29035,14 +29048,14 @@ Noct's fine. It's a pleasure.
 ……えっ！？　何も　もらえないの？
 
 299_3: 
-<通常>どちらの道へ　進もうかしら？
-自由気ままな　旅路というのも
-悩ましいものですわね。
+<通常>Which path do I take?
+Giving you a choice is just
+as frustrating, isn't it?
 
 299_4: 
-<考>このお城にも　すごい人が
-いるんだろうな。
-私には……縁の無い話だよね。
+<考>I bet some amazin' person
+lives in this castle.
+Well that's unrelated.
 
 299_5: 
 <通常>戦いを　有利に進めるなら
@@ -29144,13 +29157,13 @@ Noct's fine. It's a pleasure.
 なんだか　落ち着かないわね。
 
 300_3: 
-<喜>みなさんから　いただく　お金は
-わたくしが　優勝するために
-有効活用させてもらいますわ。
+<喜>I will put all the money
+that everyone gives me to good
+use in ensuring my victory.
 
 300_4: 
-<喜>ラッキー　ラッキー♪
-ルン　ルルン♪
+<喜>Lu-cky ♪ Lu-cky ♪
+La-la-loo ♪
 
 300_5: 
 <怒>ずっと　１人で　旅してきたんだ。
@@ -29256,13 +29269,13 @@ Noct's fine. It's a pleasure.
 よろこべないものが　あるわよね。
 
 301_3: 
-<喜>みなさんが　買い物すれば
-するほど　わたくしの　ふところが
-あったまりますのね。
+<喜>Everyone can spend as much
+as they want.
+Right into my purse.
 
 301_4: 
-<喜>私が　分け前を　もらったら
-あなたも　分けてほしい？
+<喜>I'm game to get ya
+money if ya game to give it?
 
 301_5: 
 <喜>運も　実力のうち
@@ -29362,13 +29375,14 @@ Noct's fine. It's a pleasure.
 もらっちゃって　いいのかしら？
 
 302_3: 
-<喜>みなさんが　お買い物する
-姿を　拝見しながら
-ティータイムに　しようかしら。
+<喜>Maybe I should make myself
+some tea while I watch you all
+shop?
 
 302_4: 
-<喜>まあっ　超ラッキーですって？
-神様は　私の味方なのね♪
+<喜>Oh, my, is that what's ya
+call SUPER Lucky? Guess the
+Goddess is on my side ♪
 
 302_5: 
 <喜>ズルい？
@@ -29474,14 +29488,14 @@ Noct's fine. It's a pleasure.
 そう考えると　悪い気はしないわね。
 
 303_3: 
-<喜>この場にいる　みなさんが
-わたくしのために　走りまわるなんて
-フローラ　かんげきですわ。
+<喜>I'm going to throw a ball
+as you all run around making me
+money.
 
 303_4: 
-<喜>あら　超ラッキーですって？
-思わず　鼻歌を
-歌いそうに　なっちゃうわ……！
+<喜>Huh? SUPER lucky?
+I dunno why but I feel like
+hummin' all o' the sudden!
 
 303_5: 
 <喜>幸運に　頼る気はないさ。
@@ -29586,14 +29600,14 @@ Noct's fine. It's a pleasure.
 すごーい戦いに　なるわよ！
 
 304_3: 
-<喜>みなさん　酒場へようこそ！
-今日は　貸し切りにして　
-おおいに　盛り上がりましょう！
+<喜>Welcome to my bar, everyone!
+So get excited because I've
+reserved it for you today!
 
 304_4: 
-<喜>私が　ウデに　よりをかけて
-ごちそうを　作ってみたの！
-みんなで　食べてね！
+<喜>I tried mah hand at
+cookin' up sometihn' tasty!
+Eat up, y'all!
 
 304_5: 
 <通常>まわりに　人がいるのが
@@ -29697,12 +29711,13 @@ Noct's fine. It's a pleasure.
 うっとうしいわね！
 
 305_3: 
-<喜>あら　ふんでしまいましたわ。
-ごめんあそばせ。
+<喜>Huh, I stepped on it.
+Sorry, continue playing.
 
 305_4: 
-<喜>……どうかしら？
-みんな　やりやすくなった？
+<喜>How was that?
+Did it make things easier
+for y'all?
 
 305_5: 
 <通常>フン……。
@@ -29807,12 +29822,12 @@ Noct's fine. It's a pleasure.
 <喜>あったり～！
 
 306_3: 
-<激><喜>ずどーん！
-ガレキの山とおなりなさい！
+<激><喜>Womp!
+Now you turn into dust!
 
 306_4: 
-<喜>うふふ。強引に
-追いかけてきちゃって　ごめんね。
+<喜>Tee-hee-hee. Sorry for
+bein' a bit bossy, 'kay?
 
 306_5: 
 <通常>……悪いな。
@@ -29913,12 +29928,13 @@ Noct's fine. It's a pleasure.
 凍っててね！
 
 307_3: 
-<通常>凍って　ガチガチですわね。
-お店の中の人が　心配ですわ。
+<通常>It's shivering cold.
+I'm worried about all of the
+people inside the shop.
 
 307_4: 
-<喜>しばらく　アタマを
-冷やしなさーい！
+<喜>Go and cool your
+head NOW!
 
 307_5: 
 <通常>お前は　目立ちすぎた。
@@ -30015,12 +30031,13 @@ Noct's fine. It's a pleasure.
 わあ　火山が噴火したわよ！！
 
 308_3: 
-<喜>たーまやー！
-あら　花火では　ありませんの？
+<喜>Ooh! Ahh!
+Huh, those aren't fireworks?
 
 308_4: 
-<通常>神の怒り　うけてみよ！
-なーんてねっ。
+<通常>May the Goddess damn
+you!
+Heh, just kiddin'.
 
 308_5: 
 <通常>どうした？
@@ -30129,13 +30146,13 @@ Noct's fine. It's a pleasure.
 ありがとう！
 
 309_3: 
-<通常>無事で　ほっとしました。
-いつ　落とされるんじゃないかと
-気が気では　ありませんでしたし。
+<通常>It looks like I'm alright.
+I was quite worried about when
+I would get hit.
 
 309_4: 
-<喜>見た目は　こわいけど
-ようがんまじんって　やさしいのね。
+<喜>The Magmalice looks scary,
+but really they're a softy.
 
 309_5: 
 <考>こいつ……。
@@ -30239,13 +30256,13 @@ Noct's fine. It's a pleasure.
 何かヘンなこと　したかしら？
 
 310_3: 
-<考>あら　お城が　動きましたわよ。
-まだまだ　わたくしの知らないことが
-世界には　たくさん　あるのですね。
+<考>Oh, the castle moved.
+There sure is so much in the
+world that I know nothing about.
 
 310_4: 
-<哀>きゃあっ！　たいへんっ！！
-ぎんこう城が　うごいちゃった……。
+<哀>Ahhhh! Disaster!!
+The bank has moved.
 
 310_5: 
 <通常>使えるものは　なんでも使う。
@@ -30353,13 +30370,14 @@ Noct's fine. It's a pleasure.
 わたし　だ～い好き！
 
 311_3: 
-<喜>あの方と　いっしょに乗りたい。
-そしたら　こわがってるふりして
-いっぱい　抱きつけるのに……。
+<喜>I want to ride with him.
+And then we'd be so scared
+that he would hold me and...
 
 311_4: 
-<哀>ふ　振り落とされないように
-しっかり　つかまってなきゃ！
+<哀>I-I-I've gotta get a grip
+so I don't like totally lose
+it!
 
 311_5: 
 <考>く…くだらん　乗り物だ。
@@ -30460,13 +30478,13 @@ Noct's fine. It's a pleasure.
 しかけね！
 
 312_3: 
-<考>たいへん！　お店が　あんな場所に！
-はあ……ずいぶん　落ち着きのない
-マップさんですのね。
+<考>Oh, no! The shop went over
+there! Sigh. You make me worry so
+much, map.
 
 312_4: 
-<考>ううっ　め……目が
-まわっちゃいそうだわ……。
+<考>Unnnh, Th-th-this is makin'
+me dizzy.
 
 312_5: 
 <通常>……だから　どうしたと言うんだ？
@@ -30584,14 +30602,13 @@ Noct's fine. It's a pleasure.
 わたしは　好きかな……。　
 
 313_3: 
-<喜>……なんて　ステキな
-乗り物なんでしょう。わたくしに
-ぴったりですわ♪
+<喜>What a charming ride.
+It's just perfect for me ♪
 
 313_4: 
-<喜>ふふっ！　この乗り物に
-好きな人と　ふたりきりで乗れたら
-とっても　ロマンチックよね♪
+<喜>Hee-hee! It'd be like
+so romantic ridin' together
+with ya beau, yeah? ♪
 
 313_5: 
 <喜>この乗り物……
@@ -30704,14 +30721,14 @@ Noct's fine. It's a pleasure.
 信じてるわよ！
 
 314_3: 
-<考>お　お父様！？
-……あら　よく見ると
-ちがいますわね。
+<考>F-F-Father!?
+Oh, on closer look, he really
+doesn't look like him at all.
 
 314_4: 
-<喜>はじめまして　トルネコさん。
-お買い物を　するなら
-私のお店が　オススメよ♪
+<喜>Nice to meet you, Mister
+Taloon. Spend all the time you
+want at MY shops ♪
 
 314_5: 
 <考>なんだ　人間か……。
@@ -30822,13 +30839,14 @@ Noct's fine. It's a pleasure.
 鉄のツメで　つっつくわよ！
 
 315_3: 
-<怒>柵を　お店のまわりに柵を！
-いいえ　城壁を建てるのです！
+<怒>Quick, fences, put up
+fences!
+No, I need a castle WALL!
 
 315_4: 
-<特>まあ　こんなところにも
-悪い魔物が　いるのね。
-早く　おうちに　帰りなさいっ！
+<特>Wow, this place's even
+got evil monsters.
+Go on back home! Shoo! Shoo!
 
 315_5: 
 <通常>こいつ……
@@ -30935,13 +30953,12 @@ Noct's fine. It's a pleasure.
 くれるわよね？
 
 316_3: 
-<通常>さあ　いらっしゃいな。
-いい子には　甘いお菓子を
-さしあげますわよ。
+<通常>Hey, there, come on in.
+Good boys get treats.
 
 316_4: 
-<喜>わーっ　かわいい！！
-ほら　こっちに　いらっしゃい♪
+<喜>Ohhh, how CUTE!!
+Hey, come on in here ♪
 
 316_5: 
 <考>珍しい　モンスターを見ると
@@ -31050,13 +31067,12 @@ Noct's fine. It's a pleasure.
 振ってから　考えよっと。
 
 317_3: 
-<喜>どーこーに　行こうかしら♪
-神様の　おっしゃるとーおーり♪
+<喜>Where ♪ Shall ♪ I ♪ Go ♪
+Goddess ♪ please ♪ tell ♪ me ♪
 
 317_4: 
-<考>どどど　どうしようっ！
-次は　どっちに　行った方が
-いいかしら……？
+<考>W-W-What should I do!?
+Where should I go next?
 
 317_5: 
 <通常>剣士にとって　大切なのは
@@ -31162,13 +31178,13 @@ Noct's fine. It's a pleasure.
 進もうかしら？
 
 318_3: 
-<通常>まるで　ルーラを
-使ったみたいですわ！
+<通常>It's just as if I
+used ZOOM!
 
 318_4: 
-<喜>ルーラって　便利ね。
-いろんなところへ　行けて。
-……えっ？　ルーラじゃないの？？
+<喜>ZOOM's really useful.
+Ya can get 'round.
+What? This ain't ZOOM?
 
 318_5: 
 <通常>戦いは　まず　位置取りから。
@@ -31272,14 +31288,14 @@ Noct's fine. It's a pleasure.
 足腰　なまっちゃうわね。
 
 319_3: 
-<通常>経験を　積んでいないのに
-いきなり　レベルアップですって？
-そんなの　ありなんですの？
+<通常>Wait, you can level up
+without gaining EXP?
+That's possible?
 
 319_4: 
-<喜>うふふ！
-ツキが　こっちに　あるときは
-ガンガン　行くわよ！
+<喜>Tee-hee-hee!
+When the moon draws near,
+I'll SHOW NO MERCY!
 
 319_5: 
 <通常>フン！
@@ -31386,14 +31402,14 @@ Noct's fine. It's a pleasure.
 たんれん　たんれんよ！
 
 320_3: 
-<通常>あくせくしないで
-たまには　ゆっくり休むのも
-いいものですわね。
+<通常>Don't fret so much.
+Sometimes it's good to take
+a break.
 
 320_4: 
-<哀>ええっ　休まなきゃ　いけないの！？
-こう見えて　体力には
-自信が　あるんだけどな……。
+<哀>WHAT, I've gotta rest!?
+I'm pretty confident lookin'
+at my HP though.
 
 320_5: 
 <考>……まあいい。
@@ -31495,13 +31511,12 @@ Noct's fine. It's a pleasure.
 このお金　何に使おうかしら？
 
 321_3: 
-<通常>ボーナスをもらうために
-世の殿方は　日々
-がんばっておられるのね。
+<通常>Gentleman of the world
+work hard to receive a bonus.
 
 321_4: 
-<喜>これはきっと　神様が
-私に　くれた　ごほうびね♪
+<喜>Surely this has gotta
+be a reward from the Goddess ♪
 
 321_5: 
 <喜>いいぞ。これで
@@ -31609,14 +31624,13 @@ Noct's fine. It's a pleasure.
 レベルアップに　近づいたわね。
 
 322_3: 
-<通常>どこでもカードというのは
-トランプでいう　ジョーカー
-みたいなものでしょうか。
+<通常>So an Anywhere Card is
+like a Joker card?
 
 322_4: 
-<喜>どこでもカードだわ……！
-あんまり　いいカードだと
-使うのが　もったいないわよね！
+<喜>An Anywhere Card!
+I won't know whether it's good
+or not until I use it!
 
 322_5: 
 <通常>このカードと　チャンスを
@@ -31723,14 +31737,14 @@ Noct's fine. It's a pleasure.
 <通常>だいじに　使うわね。
 
 323_3: 
-<通常>わたくしのいた修道院も
-みなさんからの　ご厚意で
-成り立っていたものですわ。
+<通常>The abbey I stayed at
+also only worked with help
+and kindness from everyone.
 
 323_4: 
-<喜>わあ　みなさん　ありがとう！
-お礼に　安眠まくらを　あげるわ。
-よ～～～～っく　休んでね！
+<喜>Wow, thanks, y'all! As thanks,
+I'll give ya a Goodnight Pillow.
+Sleeeeep tight!
 
 323_5: 
 <通常>オレは　じっと　金が入るのを
@@ -31840,14 +31854,14 @@ Noct's fine. It's a pleasure.
 ここの株　買ってもいいでしょ？
 
 324_3: 
-<喜>まあ　みりょく的な株。
-わたくしも　ご相伴に
-あずからせてもらいますわ。
+<喜>What charming stock.
+I think I too will have
+my share of it.
 
 324_4: 
-<喜>この株は　私に幸せをくれる
-四つ葉のクローバー
-みたいなものね♪
+<喜>These shares're like a
+four-leaf clover that'll
+bring me bliss ♪
 
 324_5: 
 <通常>勝つためには
@@ -31956,14 +31970,14 @@ Noct's fine. It's a pleasure.
 いけないってルール　どう？
 
 325_3: 
-<喜>独占　買い占め……。
-わたくしにも　お父様と
-おなじことが　できましたの。
+<喜>I cornered the market.
+That means I was able to do
+what my dear papa has done too.
 
 325_4: 
-<喜>わあっ……！　島を　独占よ！
-もしかして　私……ルドマンさんより
-お金持ちかも　しれないわ！
+<喜>Woah! An island monopoly!
+Maybe I'm more rich than the
+Briscoletti's now!
 
 325_5: 
 <特>忠告しておくぞ。
@@ -32079,14 +32093,14 @@ Noct's fine. It's a pleasure.
 わかった！　これも修行ってわけね？
 
 326_3: 
-<喜>ららんら　ら～ん♪
-みなさんも　ごいっしょに
-おさんぽ　しませんこと？
+<喜>La-la, la laaaa ♪
+Does anyone else feel like
+taking a walk with me?
 
 326_4: 
-<考>あれっ……？
-ひょっとして　私
-……迷っちゃったのかな？
+<考>Huh?
+I feel like I took a
+wrong turn there?
 
 326_5: 
 <哀>くっ……。こんな時
@@ -32194,13 +32208,13 @@ Noct's fine. It's a pleasure.
 ドーンと　いきましょ！
 
 327_3: 
-<喜>株さんが　おっしゃったの。
-そろそろ　わたしを　売りなさいと。
+<喜>My shares told me.
+Told me to sell.
 
 327_4: 
-<喜>株より　お金で持ってたほうが
-な～んか　得な気がするのは
-なぜかしら？
+<喜>Why is it better to have
+cash in-hand rather than
+shares agaaaain?
 
 327_5: 
 <通常>戦いの嗅覚が
@@ -32306,13 +32320,13 @@ Noct's fine. It's a pleasure.
 参加したいわ。
 
 328_3: 
-<喜>この勝利を　まずは　あの方に
-お伝えしに　ゆきたいと思います。
+<喜>I want to go inform him
+about my victory first.
 
 328_4: 
-<喜>ふふふ　私が　一番お金持ちよ！
-宿屋の　おかみさんも　いいけど
-億万長者も　悪くないわね♪
+<喜>Tee-hee-hee, I'm the richest!
+Bein' a millionaire ain't bad at
+all for an innkeeper's daughter ♪
 
 328_5: 
 <考>くだらない　ゲームが　終わって
@@ -32419,14 +32433,14 @@ Noct's fine. It's a pleasure.
 わたしが　イチバン！！
 
 329_3: 
-<喜>今宵は　優勝記念の
-ダンスパーティーですわ！
-負けた方も　ぜひ　いらっしゃって！
+<喜>This evening I'm holding a
+championship ball!
+All of you losers must attend!
 
 329_4: 
-<喜>優勝だわ！
-私　がんばったのよ。
-よくやったって　ほめてくれる？
+<喜>Victory!
+I tried my best. So will ya
+tell me I did great already?
 
 329_5: 
 <通常>フン……。
@@ -32536,14 +32550,14 @@ Noct's fine. It's a pleasure.
 ね　ねっ　また勝負しましょっ！
 
 330_3: 
-<喜>お父様の教育で　わたくしにも
-いつの間にか　お金もうけの才能が
-そなわっていたのかしら？
+<喜>I wonder if somehow even I
+was able to become a market
+genius from my papa's teaching?
 
 330_4: 
-<喜>私が　優勝だからって
-場ちがいだなんて　言わないでね？
-がんばったのよ　うふふ！
+<喜>No take-backsies on my
+win, 'kay? I won fair and
+square, Tee-hee-hee!
 
 330_5: 
 <通常>こういう場所は　苦手でね。
@@ -32656,14 +32670,14 @@ Noct's fine. It's a pleasure.
 見せられるのかしら？
 
 331_3: 
-<喜>優勝して　しまいましたわ！
-今夜は　あの方を招いて
-舞踏会と　まいりましょう。
+<喜>Victory is mine!
+I shall invite him with
+me to the ball tonight.
 
 331_4: 
-<喜>エヘヘ……なんだか
-テレくさいよね。
-……エヘヘ！
+<喜>E-he-he. I'm a tad
+embarrassed, y'know?
+E-he-he!
 
 331_5: 
 <特>フッ……。
@@ -32777,14 +32791,14 @@ Noct's fine. It's a pleasure.
 あー　たのしかった！　
 
 332_3: 
-<喜>うふふっ！
-汗を流して　お金をかせぐのは
-とっても　気持ちがいいですわね！
+<喜>Tee-hee-hee!
+Working hard to earn all this
+money is really refreshing!
 
 332_4: 
-<喜>最後まで　いい勝負　だったわね！
-みんなのこと　ライバルって
-思っても　いいかしら？
+<喜>It was a good match all the
+way! Would y'all mind if I
+considered ya rivals?
 
 332_5: 
 <特>ギリギリの　勝利？
@@ -32896,13 +32910,14 @@ Noct's fine. It's a pleasure.
 ぜひまた　手合わせしたいわね！
 
 333_3: 
-<喜>わたくしに　優勝を
-ゆずって　くださったんでしょう？
-言わなくても　わかってますのよ。
+<喜>So I'm the winner by
+default?
+I know, you don't have to say it.
 
 333_4: 
-<考>お金が　少ないけど
-……私が　優勝で　だいじょうぶ？
+<考>Is it okay that I won
+even though I don't have all
+the money?
 
 333_5: 
 <特>戦いは　スピードだ。
@@ -33013,14 +33028,14 @@ Noct's fine. It's a pleasure.
 次こそは　絶対に　優勝よ！！！
 
 334_3: 
-<喜>２位でも　満足ですわ。
-だって　みなさんと　たのしい時間を
-すごせましたもの。
+<喜>I'm okay with 2nd place.
+I mean I got to spend such a
+great time with you all.
 
 334_4: 
-<喜>みんな　今回で　成長したみたいだし
-次は　どんな　勝負になるか
-楽しみねっ！
+<喜>We all grew a lot this time,
+so I'm lookin' forward to our
+next match!
 
 334_5: 
 <考>あの　すばやさ……。
@@ -33131,14 +33146,14 @@ Noct's fine. It's a pleasure.
 わたしが　２位だなんて！！
 
 335_3: 
-<通常>とっても　いい勝負でしたわね。
-次こそは　ぜったいに
-１位に　なってみせますわ！
+<通常>It was a very good match.
+I'll show you that I'll get
+first NEXT TIME!
 
 335_4: 
-<通常>終わってみれば　あっという間ね。
-楽しいことって　どうして　すぐに
-終わっちゃうのかな……。
+<通常>It was over before I knew
+it. Why does time fly when ya
+havin' fun?
 
 335_5: 
 <喜>優勝は　逃したが
@@ -33250,13 +33265,13 @@ Noct's fine. It's a pleasure.
 次こそは　優勝するわ！！
 
 336_3: 
-<通常>こんなに　ドキドキしたのは
-あの方と　出会った時以来ですわ。
+<通常>I haven't been this nervous
+since the time I first met him.
 
 336_4: 
-<喜>いろんな人に　会って
-いろんなことを　教えてもらったわ。
-ありがとう。
+<喜>I met all you lot, an'
+learned a whole bunch o' stuff.
+Thanks.
 
 336_5: 
 <考>すぐに　次の戦いが　はじまる。
@@ -33363,14 +33378,14 @@ Noct's fine. It's a pleasure.
 うーん　くやしいっ！！
 
 337_3: 
-<喜>つかず　はなれず　マップを
-駆け抜けて……まるで　波打ちぎわの
-追いかけっこの　ようでしたわね。
+<喜>Never able to pull ahead on
+this map. Like we were continuous
+waves crashing again and again.
 
 337_4: 
-<通常>優勝おめでとう。
-……強引についていって　ごめんね。
-いっしょに　旅を　したかったの。
+<通常>Congrats on the win.
+Sorry for bein' so competitive.
+I just wanted to quest together.
 
 337_5: 
 <考>この　程度の　チカラじゃ
@@ -33480,14 +33495,13 @@ Noct's fine. It's a pleasure.
 なんで！　どうしてよ！？
 
 338_3: 
-<哀>ひどいですわっ！
-あと少しで　わたくしの
-優勝が　決まっておりましたのに！！
+<哀>How cruel!
+I was just a little bit away
+from winning myself!!
 
 338_4: 
-<哀>くっ　くやしい～！
-私が　イッチバン
-お金持ちなのに～っ！！
+<哀>H-How frustrating!
+And I was the richest too!!
 
 338_5: 
 <考>重要なのは　結果より
@@ -33595,13 +33609,13 @@ Noct's fine. It's a pleasure.
 明日から…ううん　今から猛特訓よ！
 
 339_3: 
-<喜>みなさんと　出会えたこと
-それが　わたくしにとって
-本当の資産ですわ。
+<喜>The real prize to me at
+least is that I had the
+opportunity to meet you all.
 
 339_4: 
-<考>３位？　私には
-ちょうど　いいような　気がするわ。
+<考>Third? I guess I feel
+pretty good 'bout that.
 
 339_5: 
 <哀>くっ……。
@@ -33712,14 +33726,14 @@ Noct's fine. It's a pleasure.
 優勝だけよっ。
 
 340_3: 
-<哀>しくしく……。
-お金のある生活は
-あたり前では　なかったのですね。
+<哀>*sobs*
+The wealthy lifestyle doesn't
+translate to winning apparently.
 
 340_4: 
-<哀>けっこう　つらい旅だったけど
-終わってみたら　すべて
-神のお導きと　思えるのよね。
+<哀>It was a tough journey, but
+when I look back on it, all was
+how the Goddess wanted it to be.
 
 340_5: 
 <考>やれやれ。
@@ -33829,13 +33843,14 @@ Noct's fine. It's a pleasure.
 わたし　もっと　きたえなくっちゃ。
 
 341_3: 
-<喜>３位に　なれたんですもの。
-次はきっと　２位になれますわ！
+<喜>I came in third.
+Next time I'll definitely be
+come in second!
 
 341_4: 
-<通常>負けちゃったけど　楽しかったわ。
-また　いっしょに
-冒険しましょうねっ！
+<通常>I lost, but it was fun.
+Let's go on another adventure
+together some time!
 
 341_5: 
 <哀>なさけない　結果だぜ……。
@@ -33943,14 +33958,14 @@ Noct's fine. It's a pleasure.
 負けちゃうなんて……。
 
 342_3: 
-<考>優勝した方　輝いてますわね……。
-わたくしも　あそこに
-立ってみたいですわ。
+<考>The winner has this sort
+of glow.
+I want that too.
 
 342_4: 
-<哀>えっ……私　最下位……？
-なんだか　後味の悪い
-冒険に　なっちゃったわ……。
+<哀>What? I'm last?
+This adventured turned into
+something awful.
 
 342_5: 
 <怒>フン。……くだらん。
@@ -34059,13 +34074,14 @@ Noct's fine. It's a pleasure.
 勝負する　資格もないわね。
 
 343_3: 
-<喜>このわたくしが　４位になれるなんて
-夢のようですわ！
-あら　最下位ですの……？
+<喜>It's such a dream to be
+able to come in fourth!
+Wait, what, that's dead last?
 
 343_4: 
-<哀>ど　どうすればいいの……
-最下位なんて　恥ずかしい……。
+<哀>W-W-What am I gonna do?
+Comin' in last is like
+so embarrassin'.
 
 343_5: 
 <哀>……情けない。
@@ -34171,14 +34187,14 @@ Noct's fine. It's a pleasure.
 負けたくないのに……。
 
 344_3: 
-<哀>わたくしは　今日
-負けるくやしさを　知りましたの。
-とてもいい　勉強になりましたわ。
+<哀>I knew that there was a
+strong chance I'd lose today.
+It was a good learning experience.
 
 344_4: 
-<哀>……やっぱり　私は　お姫様には
-なれそうも　ないわね。
-それに　似合わないし……ね！
+<哀>I'm really not princess
+material. An' we don't look
+alike either, riiight?
 
 344_5: 
 <哀>オレの　戦いは
@@ -34284,14 +34300,14 @@ Noct's fine. It's a pleasure.
 なんだか　情けないな……。
 
 345_3: 
-<喜>あら　お金がない？
-それなら　新しく作ればいいのです。
-ダメ　ですの……？
+<喜>Huh, I have no money?
+Then I should mint some more.
+That's not allowed?
 
 345_4: 
-<哀>うう……人並に……
-ステキな　お店が作れれば……
-幸せ　なのに……ぐすっ。
+<哀>*sobs* I just... Wanted to
+have a normal shop... An' to live
+happily ever after. *sniffle*
 
 345_5: 
 <考>オレは　まだ　闇に
@@ -34392,11 +34408,11 @@ Noct's fine. It's a pleasure.
 悲しくなってきちゃった……。
 
 346_3: 
-<哀>修道院に　もどりますわ……。
+<哀>I will return to the abbey.
 
 346_4: 
-<哀>やっぱり　私なんかじゃ
-フローラさんに　勝てないよね……。
+<哀>I knew I really can't
+win against Nera, y'know?
 
 346_5: 
 <哀>ねえさん……。
@@ -34502,14 +34518,14 @@ Noct's fine. It's a pleasure.
 は……　破産！？
 
 347_3: 
-<哀>大富豪の娘ともあろう者が
-は　破産など……ああっ
-もう生きていけませんわ。
+<哀>The daughter of a wealthy
+family going bankrupt? Ohh,
+how will I ever go on?
 
 347_4: 
-<哀>……パパス……さん？
-ひと目だけでも
-最後に　会えて　よかった……。
+<哀>Pan- Pankraz?
+I'm glad that I got to
+meet you that one time...
 
 347_5: 
 <怒>さあ　とどめを　させ！
@@ -34613,14 +34629,14 @@ Noct's fine. It's a pleasure.
 おねがい　まだ戦わせて！！
 
 348_3: 
-<哀>わたくし　わかりましたの……。
-お金なんて　不幸のモトです！！
-うううっ……。
+<哀>I understand.
+Money is the root of all evil!!
+*sobs*
 
 348_4: 
-<哀>ううん　なんでもないわ。
-ちょっと　気分が。……心配しないで
-だいじょうぶ……。
+<哀>No, it's nothing.
+I just feel a bit down. Don't
+worry 'bout it. I'm fine...
 
 348_5: 
 <怒>今のうちに　息の根を
@@ -34728,14 +34744,14 @@ Noct's fine. It's a pleasure.
 お店　買おうと思ったのに！！
 
 349_3: 
-<怒>どうしてでしょう？
-そのお店さんと　なかよく
-なれない気が　しましたの。
+<怒>Why is it so?
+I feel like I'll never be
+able to make friends with them.
 
 349_4: 
-<哀>そのお店　ほしかったけど……
-ケイヤクショに　むずかしい字が
-多すぎるんですもの！
+<哀>I wanted that shop.
+But the contract had too many
+terms to agree to!
 
 349_5: 
 <考>悪くない店だ。
@@ -34842,13 +34858,14 @@ Noct's fine. It's a pleasure.
 お店よね。
 
 350_3: 
-<怒>そんな　品のないお店など
-いりませんわ　ぷんぷん！
+<怒>I don't have any need
+for such a useless shop.
+Hmph!
 
 350_4: 
-<哀>ごめんなさい！
-だって　そこ
-なくても　だいじょうぶだし……。
+<哀>I'm so sorry!
+I mean, I think I'll be
+fine without that there.
 
 350_5: 
 <怒>人間　たいていは
@@ -34950,12 +34967,12 @@ Noct's fine. It's a pleasure.
 手加減　しないで！
 
 351_3: 
-<怒>そんなお店で　わたくしの
-気を引こうだなんて　不愉快ですわ！
+<怒>I'll be upset if you try
+to pull a fast one on me!
 
 351_4: 
-<哀>……そんなに　安いお店を
-買うほど　こまってないわよ？
+<哀>Won't you be at a loss
+sellin' such a cheap shop?
 
 351_5: 
 <怒>一匹狼の　オレが
@@ -35064,14 +35081,14 @@ Noct's fine. It's a pleasure.
 考えなくもないけど。
 
 352_3: 
-<喜>わたくしの　お店が
-それだけの価値……？
-うふふっ　おもしろい方ですわね。
+<喜>Only that price for one of
+MY shops?
+Tee-hee-hee, you're pretty funny.
 
 352_4: 
-<哀>私が　だいじに　だいじに
-してきたお店なんだからっ！
-バカに　しないで……っ！
+<哀>That's the shop I took
+such, such, such good care of!
+Don't be an idiot!
 
 352_5: 
 <怒>そんな金額で　オレの店を
@@ -35178,14 +35195,14 @@ Noct's fine. It's a pleasure.
 なぐりがいがあるし！
 
 353_3: 
-<喜>ごめんなさいね。
-そのお店　わたくしの
-趣味じゃありませんの。
+<喜>I am so sorry.
+I'm not interested in that
+shop.
 
 353_4: 
-<考>う～～ん……。
-これからのことを　考えると
-手ばなしたくない気が　するの。
+<考>Hmmmmmmmmmmm.
+After givin' it some thouht,
+I'm not really interested.
 
 353_5: 
 <通常>あんたに　売る気はない。
@@ -35292,13 +35309,13 @@ Noct's fine. It's a pleasure.
 対等って感じで　気持ちがいいわ。
 
 354_3: 
-<通常>このお店を　わたくしの色に
-そめ上げてみせますわ！
+<通常>I will show you what
+this shop can do in my color!
 
 354_4: 
-<喜>さあ　約束よ！
-これからは　そのお店が
-私の　お店ね！
+<喜>'Kay, it's a deal!
+From now on, this is my
+shop, 'kay!
 
 354_5: 
 <通常>どうやら　交渉成立だな。
@@ -35398,14 +35415,14 @@ Noct's fine. It's a pleasure.
 悪いわ。
 
 355_3: 
-<喜>あら　ごめんなさい。
-今回の商談は　
-ご縁がなかったということで。
+<喜>Oh, I am so sorry.
+How do you put it? This deal
+is not benificial to me.
 
 355_4: 
-<怒>自分だけ　得しようって
-考えてることくらい
-私には　わかっちゃうんだから！
+<怒>Oh, I am WELL aware that
+you're only thinkin' 'bout
+ya own skin here!
 
 355_5: 
 <怒>正気か？
@@ -35508,14 +35525,14 @@ Noct's fine. It's a pleasure.
 このアリーナが　退治してあげるわ！
 
 356_3: 
-<通常>まぁ！　竜王さんって
-大きなお体を　されてるのですね。
-見上げるのが　大変ですわ……。
+<通常>Wow! Mister Dragonlord
+has quite a large body. It's
+hard to look so high up.
 
 356_4: 
-<考>すっごく大きくて　怖そうな竜だけど
-まもののえさを　あげれば　仲良く
-……なれそうに　ないわね。
+<考>What an amazin, large, scary
+dragon, but if I give it some feed
+it'll be friendly, right? NOT.
 
 356_5: 
 <通常>ほう　竜王か。
@@ -35714,14 +35731,14 @@ Noct's fine. It's a pleasure.
 竜王と　直接戦いたいわ！
 
 358_3: 
-<喜>我が家にも　大砲がほしいと
-思っていましたの。
-帰りに　買っていきましょう。
+<喜>I always wanted to have
+a cannon in my house. Maybe
+I'll buy one on the way back.
 
 358_4: 
-<通常>巨大な　まものが　攻めてきて
-お城の上で　戦うなんて……まるで
-あの人から聞いてたブオーンみたい。
+<通常>Fightin' some giant monster
+from atop the castle..? Kinda
+reminds me o' Bjørn again.
 
 358_5: 
 <考>ちっ　こんな大砲で
