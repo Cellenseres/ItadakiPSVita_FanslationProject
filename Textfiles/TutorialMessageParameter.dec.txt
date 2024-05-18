@@ -33,17 +33,17 @@ a chance card even when you get a
 suit!
 
 9_1: 
-<通常>A suit is a
+<通常>A suit is one of a
 Spade　　　　　　　　　　
 
 
 10_1: 
-A suit is a
+A suit is one of a
 Spade, Heart　　　　　　
 
 
 11_1: 
-A suit is a
+A suit is one of a
 Spade, Heart, Clover
 
 
@@ -377,10 +377,10 @@ but it's all up to you really.
 
 87_1: 
 <通常>Okay!
-Now I'll explain EZ mode!
+Now I'll explain EZ Mode!
 
 88_1: 
-<通常>EZ mode is quick way to
+<通常>EZ Mode is a quick way to
 play with rules aimed at
 newcomers.
 
@@ -389,9 +389,9 @@ newcomers.
 understand than Standard mode.
 
 90_1: 
-<通常>And so if you feel like
+<通常>So, if you feel like
 things are too hard, try playing
-on EZ mode!
+on EZ Mode!
 
 91_1: 
 <通常>That said, there are 3
@@ -422,7 +422,7 @@ three things?
 about one last thing.
 
 97_1: 
-<通常>In EZ mode,
+<通常>In EZ Mode,
 
 98_1: 
 <通常>Your shops will get bigger
@@ -439,12 +439,12 @@ only demo contents will follow.
 
 101_1: 
 <通常>To sum it up, the are no
-shares so it's easy to get the
+shares, so it's easy to get the
 hang of buying and selling shops!
 
 102_1: 
-<通常>In any case, in EZ mode,
-there is less info. for a player
+<通常>In any case, in EZ Mode,
+there is less info for a player
 to understand.
 
 103_1: 
@@ -462,7 +462,7 @@ so why don't you give it a try.
 
 106_1: 
 <通常>Once you've goo-t the hang
-of EZ mode, you should play
+of EZ Mode, you should play
 Solo Play.
 
 107_1: 
